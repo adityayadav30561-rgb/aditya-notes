@@ -901,3 +901,52 @@
 - Tell me about your family.
 - Why is education important in your family?
 - Does your family discuss education often?
+
+## Farming: Land Units & Conversions
+- How many square metres are in one hectare?
+- How many acres are in one hectare?
+- How many square feet are in one acre?
+- How many square yards are in one acre?
+- How many hectares are in one acre?
+- How many hectares are in one square kilometre?
+- How many acres are in one square kilometre?
+- What are bigha, biswa and biswansi?
+- Is a bigha the same size everywhere in India?
+- How much is one bigha in your locality in Azamgarh?
+- How many biswa make one bigha in your area?
+- How does your family measure its land?
+
+## Farming: Weight, Water & Weather Conversions
+- How many kilograms are in one quintal?
+- How many kilograms are in one tonne?
+- How many quintals are in one tonne?
+- Convert 5 quintals into kilograms.
+- Convert 20 quintals into tonnes.
+- Convert 1.5 tonnes into quintals.
+- How many litres are in one cubic metre?
+- What is a hectare-metre, and how many litres does it hold?
+- How much water does 1 mm of rainfall put on one hectare?
+- How do you convert °C to °F? What is 25°C in °F?
+
+## Farming: Calculations
+- Your father produces 20 quintals of wheat per acre. How much will 5 acres produce?
+- One hectare produces 40 quintals. How much will 2.5 hectares produce?
+- The fertiliser requirement is 50 kg per acre. How much is needed for 10 acres?
+- How much fertiliser is needed for 5 hectares at 100 kg per hectare?
+- What does a yield of 3 tonnes per hectare mean in kilograms?
+- At a seed rate of 100 kg per hectare, how much seed is needed for 2.5 hectares?
+- If your father's average monthly income is ₹20,000, what is his annual income?
+- If he earns ₹2.4 lakh a year, what is his average daily income?
+
+## Farming: Your Father's Exact Figures
+- How much of your land is cultivated?
+- What is your family's land in acres and hectares?
+- How much land is under each crop?
+- What is the average yield per acre?
+- What is the cost of cultivation per acre?
+- What is the selling price per quintal?
+- What is the total revenue from the farm?
+- What is the approximate profit?
+- What percentage of the cost goes on inputs?
+- How much water do your crops need?
+- How much electricity or diesel does irrigation use?

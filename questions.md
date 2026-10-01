@@ -115,3 +115,65 @@
 - Have you ever taken an important decision for your family?
 - Tell me about a time your father depended on you.
 - If your father needs help while you are posted away, what will you do?
+
+## PIQ 3 – Mother
+- What is your mother's name?
+- How old is your mother?
+- What is her educational qualification?
+- What is her designation?
+- In which school does she work?
+- How long has she been working?
+- What are her main responsibilities?
+- What is her daily routine?
+- What are her interests and hobbies?
+
+## PIQ 3 – Mother: Teaching
+- Which subject does your mother teach?
+- Which classes does she teach?
+- Is it a government school?
+- What are the major responsibilities of a teacher?
+- What challenges do government school teachers face?
+- What makes a good teacher?
+- How is teaching different from just delivering information?
+- What changes would improve government schools?
+- What is the role of education in national development?
+
+## PIQ 3 – Mother: Education & Current Affairs
+- What is NEP 2020?
+- What are its major features?
+- What is the difference between foundational and higher education?
+- What is vocational education?
+- Why is skill development important?
+- What is the role of technology in education?
+- What are the advantages and disadvantages of online education?
+- What is the digital divide?
+- How can rural education be improved?
+
+## PIQ 3 – Mother: Personal
+- How would you describe your mother?
+- What is your relationship with your mother like?
+- What quality of your mother do you admire most?
+- What have you learned from her?
+- What responsibilities does she handle at home?
+- How has she influenced your education?
+- Do you discuss your career decisions with her?
+- What does she think about you joining the Armed Forces?
+- What is one thing you disagree with her about?
+- How do you help your mother?
+- How will what you learned from your mother help you as an officer?
+
+## PIQ 3 – Mother vs Father
+- Who are you closer to, your mother or your father?
+- Whom do you approach when you have a problem?
+- What have you learned from your father that you didn't learn from your mother?
+- What have you learned from your mother that you didn't learn from your father?
+- Who is stricter?
+- Who understands you better?
+- Who influences your major decisions more?
+
+## PIQ 3 – Mother: Teaching and You
+- Your mother is a teacher. Why didn't you become a teacher?
+- Did your mother's profession shape your interest in education?
+- Have you ever taught someone or helped a junior with studies?
+- Do you enjoy explaining things to others?
+- What has your mother's profession taught you about leadership?

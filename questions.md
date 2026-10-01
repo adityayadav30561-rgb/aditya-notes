@@ -950,3 +950,113 @@
 - What percentage of the cost goes on inputs?
 - How much water do your crops need?
 - How much electricity or diesel does irrigation use?
+
+## PIQ 13 – Class 10
+- Which school did you attend?
+- Where is Children College located?
+- Which board did you study under?
+- Why did you choose ICSE?
+- When did you pass Class 10?
+- What percentage did you score?
+- What does 84.83% say about your performance?
+- Were you satisfied with your result?
+- Which subjects did you study?
+- Why did you choose Science with Computer?
+- Which was your favourite subject?
+- Which subject did you find difficult, and why?
+
+## PIQ 13 – Class 10: ICSE
+- What does ICSE stand for?
+- Which body conducts ICSE? What is CISCE?
+- What is the difference between ICSE and CBSE?
+- What is the difference between a board and a school?
+- What are the main features of ICSE?
+- How was your experience with the ICSE curriculum?
+
+## PIQ 13 – Class 10: Science & Computer
+- Which science subject was your strongest, and why?
+- Which science subject was your weakest, and why?
+- Tell me one concept you remember from Class 10 Physics.
+- Tell me one concept from Class 10 Chemistry.
+- What is the difference between physics and chemistry?
+- What did you learn in Computer?
+- Which programming language did you study?
+- What is a flowchart?
+- What is a variable?
+- What is a loop?
+- What is a compiler?
+
+## PIQ 13 – Class 10: Academic Performance
+- What were your subject-wise marks?
+- What was your highest-scoring subject?
+- What was your lowest-scoring subject, and why did you score lower in it?
+- If you were in the top 10, why didn't you score above 90%?
+- How did you prepare for the board exams?
+- How many hours did you study?
+- Did you attend coaching?
+- How did you balance academics and extracurricular activities?
+- What changed after Class 10?
+
+## PIQ 13 – Class 10: Top 10 Achievement
+- What does "Top 10 in school" mean exactly?
+- What was your exact rank?
+- Top 10 among how many students?
+- Was it based on aggregate percentage?
+- Was the ranking for your batch or the whole school?
+- Was it officially announced?
+- Did you receive any certificate or recognition?
+- How do you know you were in the top 10?
+
+## PIQ 13 – Class 10: School
+- How far was your school from home?
+- How did you commute, and how long did it take?
+- What were your school timings?
+- How many students were in your class?
+- How many sections were there?
+- Who was your principal?
+- What was the teacher-student relationship like?
+- What activities did your school conduct?
+- Which school activities did you take part in?
+- What facilities were available?
+- What did you like about your school?
+- What didn't you like?
+- Who was your favourite teacher, and which subject did they teach?
+- Why were they your favourite?
+- What did you learn from that teacher?
+- If you became principal of your school, what one thing would you change?
+
+## PIQ 13 – Class 10: Day Scholar Routine
+- What time did you leave home, and when did you return?
+- What did you do after school?
+- How did you manage studies at home?
+- Did you ever stay late at school for work?
+- What was your typical weekday routine in Class 10?
+
+## PIQ 13 – Class 10: English Medium
+- Why did you study in English medium?
+- Do you speak English at home? What language do you speak with your family?
+- Which language are you most comfortable speaking?
+- Is English important in India?
+- What are the advantages and disadvantages of English-medium education?
+
+## PIQ 13 – Class 10: Study Habits
+- Are you naturally good at academics?
+- How do you handle difficult subjects?
+- What do you do when you don't understand something? Do you ask for help?
+- Do you procrastinate?
+- How do you handle academic pressure?
+- Have you ever failed an exam? What did you learn from it?
+- Do you prefer studying alone or in a group?
+- What was your biggest academic achievement?
+- What was one academic setback?
+- What did you learn from Class 10?
+
+## PIQ 13 – Class 10 to Class 12
+- Take me through your education from Class 10 onwards.
+- What did you choose after Class 10, and why?
+- Why didn't you continue with ICSE for Class 12?
+- Why did you move to another school?
+- What subjects did you choose, and why?
+- Did your Class 10 result influence your choice?
+- What career were you considering at that time?
+- How did that eventually lead you to Computer Science?

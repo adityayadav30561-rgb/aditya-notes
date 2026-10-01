@@ -616,3 +616,63 @@
 - Suppose your father has a poor harvest this year. What would you do?
 - Farmers in your village are getting poor prices for their produce. What practical steps would you suggest?
 - If you were responsible for agricultural development in your district, what would you prioritise?
+
+## PIQ 9 – Mother: Education & Salary
+- What does B.A. stand for?
+- What subjects did your mother study in B.A.?
+- What is B.Ed?
+- Why did she do B.Ed after B.A.?
+- What is your mother's monthly salary?
+- Is ₹1,05,000 her gross salary or take-home salary?
+
+## PIQ 9 – Mother: B.A. & Humanities
+- What is the difference between humanities and social sciences?
+- Why is humanities education important for the nation?
+
+## PIQ 9 – Mother: B.Ed, Teaching & Education
+- Why is B.Ed required for teaching?
+- What does a teacher learn during B.Ed?
+- What is pedagogy?
+- What is the difference between teaching and learning?
+- What is child-centred education?
+- What is experiential learning?
+- A student keeps performing poorly despite repeated teaching. What should the teacher do?
+- How should a teacher handle a disruptive student?
+- Should all students be taught the same way?
+- What are the major problems in Indian education?
+- What is foundational literacy and numeracy?
+
+## PIQ 9 – Mother: Salary Concepts
+- What is the difference between gross and take-home salary?
+- What deductions are made from a salary?
+- What allowances does a government employee get?
+- What is a pension?
+- What is NPS?
+- What is the difference between salary and income?
+
+## PIQ 9 – Mother vs Father: Income & Roles
+- Who earns more, your father or your mother?
+- Why is there such a difference?
+- Who contributes more to household finances?
+- Does income decide a person's importance in a family?
+- Who has more responsibilities?
+
+## PIQ 9 – Mother's Career vs Yours
+- What did your mother think about you choosing engineering?
+- What did your parents expect you to become?
+- Why did you choose Computer Science?
+- Why software development?
+- How is your profession different from your mother's?
+- What skills are common to teaching and software development?
+
+## PIQ 9 – Teaching and Leadership
+- What is the difference between a teacher and a leader?
+- Can a teacher be a leader?
+- What makes people follow someone?
+- How would you motivate a team member who is underperforming?
+- How would you deal with someone who refuses to follow instructions?
+
+## PIQ 9 – Mother: Personal
+- What does your mother do on weekends?
+- Tell me about a difficult situation she handled.
+- Give an example of your mother's hard work.

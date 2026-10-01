@@ -549,3 +549,70 @@
 - What is the role of religion in modern society?
 - Should religion influence public policy?
 - What is the difference between faith and superstition?
+
+## PIQ 8 – Father: Education & Occupation
+- What did your father study in 10+2?
+- Why did he not pursue higher education?
+- Is farming his main occupation?
+- Is farming your family's traditional occupation?
+- How does your father earn from farming?
+
+## PIQ 8 – Father: Farm Details
+- What are the major expenses in farming?
+- What machinery does he use? Does he use a tractor?
+- Does he use chemical fertilisers or organic manure?
+- How are seeds selected?
+- Where does he sell his produce?
+- How does he decide the selling price?
+
+## PIQ 8 – Father: Agricultural Economics & Issues
+- Is MSP available for every crop?
+- What is contract farming?
+- How do price fluctuations affect farmers?
+- Why are storage and transport a problem for farmers?
+- What are post-harvest losses, and how can they be reduced?
+- Why is soil health important?
+- What is farm diversification?
+- If you were given ₹10 lakh to improve farming in your village, where would you spend it?
+
+## PIQ 8 – Father: Income & Family Finances
+- What is your father's monthly income?
+- You have written ₹20,000. Is that a salary or income?
+- Is it a fixed amount or a monthly average?
+- How much does he earn during harvest season?
+- Does his income fluctuate?
+- How does he manage during a poor harvest?
+- Does your family have any other source of income?
+- Does your mother contribute to the household income?
+- What is your family's approximate monthly expenditure?
+
+## PIQ 8 – Father's Education vs Yours
+- Your father studied up to 10+2 and you completed B.Tech. Why the difference?
+- Did your father want you to pursue higher education?
+- Who supported your education?
+- Did your parents influence your career choice?
+- What opportunities did you have that your father didn't?
+- Is formal education necessary for success?
+- What have you learned from your father despite his limited formal education?
+
+## PIQ 8 – Father & Your Armed Forces Choice
+- Why do you want to join the Armed Forces?
+- Why do you want to leave your IT career?
+- Why not continue earning in the private sector?
+- Would your family be financially comfortable if you join the Armed Forces?
+- Are you joining for the salary?
+- Are you joining for the uniform or status?
+- What attracts you to military life?
+
+## PIQ 8 – Father: Relationship
+- How often do you talk to your father?
+- What do you usually discuss?
+- What is one weakness you have seen in him?
+- What responsibilities do you share with him?
+- Tell me about a difficult situation your father handled.
+- Give an example of your father's hard work or discipline.
+
+## PIQ 8 – Father: Practical Situations
+- Suppose your father has a poor harvest this year. What would you do?
+- Farmers in your village are getting poor prices for their produce. What practical steps would you suggest?
+- If you were responsible for agricultural development in your district, what would you prioritise?

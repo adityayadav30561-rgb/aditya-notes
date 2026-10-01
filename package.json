@@ -1,0 +1,6 @@
+{
+  "name": "ssb-notes",
+  "private": true,
+  "scripts": { "build": "node build/build.js" },
+  "dependencies": { "docx": "^9.7.1" }
+}

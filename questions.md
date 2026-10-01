@@ -1326,3 +1326,82 @@
 - What if you get a better-paying IT offer?
 - Do you consider your IT career a backup?
 - Which skills from IT will help you as an officer?
+
+## PIQ 16 – Height, Age & Weight
+- What is your height?
+- What is your height in centimetres?
+- What is your height in feet and inches?
+- What is your weight?
+- What is your weight in pounds?
+- What is your age?
+- What is your age in months?
+- What is your date of birth?
+- When will you turn 24?
+- How old will you be when you join the Armed Forces?
+
+## PIQ 16 – BMI
+- What is BMI?
+- What is your BMI? Calculate it.
+- What is the normal BMI range?
+- What does BMI indicate?
+- Is BMI a perfect measure of fitness? Why not?
+
+## PIQ 16 – Fitness
+- Do you exercise? What do you do, and how often?
+- Do you run? How far?
+- What is your running pace?
+- How long does your longest run take, and when did you last do it?
+- How many push-ups can you do?
+- How many sit-ups can you do?
+- How many pull-ups can you do?
+- How long can you hold a plank?
+- Do you play any sport?
+- What is your fitness goal?
+- How do you maintain your fitness?
+- If you run 5 km in 30 minutes, what is your pace and speed?
+- How are distance, time, pace and speed related?
+
+## PIQ 16 – Age & Career Timing
+- How long have you been working, and how much experience do you have?
+- What have you achieved since graduation?
+- Where do you see yourself in five years?
+- You are almost 24. Why have you decided to join the Armed Forces now?
+- Why didn't you try to join earlier?
+
+## PIQ 16 – Physical Standards
+- What is the minimum height requirement for your entry?
+- Do height standards differ by service and entry?
+- Why are physical standards necessary?
+- What other physical standards are checked?
+- Why is physical fitness important for an officer?
+- What are the physical demands of military service?
+- Why do you want to join despite those demands?
+
+## PIQ 16 – Weight & Diet
+- Has your weight changed recently?
+- What was your weight a year ago, and why did it change?
+- How do you maintain your weight?
+- What is your diet?
+- How much protein do you eat?
+- How many calories do you eat?
+- Do you take supplements?
+- How do you balance strength and endurance training?
+
+## PIQ 16 – Lifestyle
+- What time do you wake up?
+- How much do you sleep?
+- When do you exercise, study and work?
+- How do you manage SSB preparation with your job?
+- How do you spend your weekends?
+- How much time do you spend on your phone?
+- What do you do for recreation?
+
+## PIQ 16 – Fitness: Personal
+- Are you satisfied with your physical fitness?
+- What is your biggest fitness weakness, and what are you doing about it?
+- Have you ever missed your training routine?
+- How do you stay disciplined when you don't feel motivated?
+- Which fitness activity do you enjoy most?
+- Do you prefer strength training or endurance training?
+- Which sport do you follow?
+- Have you represented your school or college in sports?

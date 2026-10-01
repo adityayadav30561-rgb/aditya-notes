@@ -1150,3 +1150,179 @@
 - When did you become serious about your career?
 - What did you do in your free time?
 - Tell me one thing you were better at in Class 12 than in Class 10.
+
+## PIQ 15 – B.Tech CSE
+- Which subjects did you study in B.Tech?
+- When did you graduate?
+- What percentage did you get?
+- Which subjects did you enjoy most?
+- Which subject was difficult?
+- What was your final-year project?
+
+## PIQ 15 – B.Tech: Academic Progression
+- You improved from 68.8% in Class 12 to 73.3% in B.Tech. What changed?
+- Did you become more disciplined?
+- Did you become more interested in your subjects?
+- Which subjects helped you improve?
+- How would you describe yourself as a student?
+
+## PIQ 15 – B.Tech: Programming & OOP
+- What programming languages do you know?
+- Which language are you strongest in?
+- What are the four pillars of OOP?
+- What is inheritance?
+- What is polymorphism?
+- What is encapsulation?
+- What is abstraction?
+
+## PIQ 15 – B.Tech: Data Structures & Algorithms
+- What is the difference between an array and a linked list?
+- What is the difference between a stack and a queue?
+- What is a tree?
+- What is a graph?
+- What is sorting?
+- What is searching?
+- What is time complexity?
+- What is Big-O notation?
+
+## PIQ 15 – B.Tech: Databases
+- What is the difference between SQL and NoSQL?
+- What is normalisation?
+- What is a primary key?
+- What is a foreign key?
+- What is a JOIN?
+- What is MongoDB?
+
+## PIQ 15 – B.Tech: Web Development
+- What is frontend development?
+- What is backend development?
+- What is an API?
+- What is REST?
+- What is HTTP?
+- What is JavaScript?
+- What is React?
+- Why React?
+- What is Node.js?
+- What is Express?
+- What is MERN?
+- What do you enjoy about software development?
+
+## PIQ 15 – B.Tech: NLP
+- What is NLP, and what does it stand for?
+- Why is NLP important?
+- What problems does NLP solve?
+- What is the difference between AI, ML and NLP?
+- How does NLP use Machine Learning?
+- What is tokenisation?
+- What is stemming?
+- What is lemmatisation?
+- What are stop words?
+- What is POS tagging?
+- What is Named Entity Recognition?
+- What is sentiment analysis?
+- What is text classification?
+- What is speech recognition?
+- What is text generation?
+- What is an NLP pipeline?
+- Give a real-world application of NLP.
+- Explain how one NLP application works, from input to output.
+
+## PIQ 15 – B.Tech: Your Book Chapter
+- Tell me about your book chapter.
+- What is the exact title of the chapter?
+- What is the title of the book?
+- Who is the publisher?
+- When was it published?
+- Who are the authors?
+- What exactly did you contribute?
+- Why was the chapter written, and who proposed the topic?
+- What problem does it address, and why does it matter?
+- What was the existing approach?
+- How did you research it, and what sources did you use?
+- What methodology did you discuss?
+- What were the main findings?
+- What are its practical applications?
+- What are its limitations?
+- What did you learn from writing it?
+- Was it peer-reviewed?
+- Why should I consider your book chapter an achievement?
+
+## PIQ 15 – B.Tech: Audio-to-Sign-Language Project
+- What was your Audio-to-Sign-Language Translator project?
+- Why did you build it?
+- How did speech recognition work in it?
+- What role did NLP play?
+- What is the Web Speech API?
+- What is speech-to-text?
+- How was text converted into sign language?
+- What limitations did your system have?
+- What would you improve?
+- Was it a prototype or a production-ready system?
+- What was your individual contribution?
+
+## PIQ 15 – B.Tech: Research & Publishing
+- What is a book chapter, and how is it different from a research paper?
+- What is research methodology?
+- What is an academic publisher?
+- How do you know research is reliable?
+- What makes research useful?
+- What is academic integrity?
+
+## PIQ 15 – B.Tech: AKTU
+- What does AKTU stand for?
+- Where is AKTU headquartered?
+- What is the role of a state technical university?
+- Which colleges are affiliated with AKTU?
+- How are AKTU exams conducted?
+- What is the difference between an autonomous college and an affiliated college?
+- Why is the university named after Dr. A.P.J. Abdul Kalam?
+
+## PIQ 15 – B.Tech: Dr. A.P.J. Abdul Kalam
+- Who was Dr. A.P.J. Abdul Kalam?
+- What was his contribution to India's missile programme?
+- What was his role in India's space and defence programmes?
+- Why is he called the "Missile Man of India"?
+- What was his educational background?
+- What did he contribute as President?
+- Which of his qualities do you admire?
+
+## PIQ 15 – B.Tech: College
+- Where is IMSEC located?
+- When was it established?
+- What courses does it offer?
+- How many students were in your batch?
+- What clubs and activities were there?
+- Did you take part in any?
+- Who was your favourite professor, and why?
+- What was your biggest achievement in college?
+- What was your biggest failure in college?
+- What would you change about your college?
+- How did college change you?
+
+## PIQ 15 – B.Tech: Day Scholar
+- Where did you live during B.Tech?
+- How far was college from home?
+- How did you commute, and how long did it take?
+- What did a typical college day look like?
+- What did you do after college hours?
+
+## PIQ 15 – B.Tech: 73.3% Result
+- Were you satisfied with 73.3%?
+- Why didn't you score higher?
+- Which semester was your best?
+- Do your marks reflect your technical ability?
+- How did you balance academics and projects?
+- What did you learn outside the curriculum?
+
+## PIQ 15 – B.Tech: CSE and the Armed Forces
+- Give me one concrete example of Computer Science solving a military problem.
+- How can Computer Science help secure military communications?
+- How can data analysis help the Armed Forces?
+- How can simulation help military training?
+- What is geospatial technology, and how is it used in defence?
+
+## PIQ 15 – B.Tech: Leaving IT
+- Why the Navy specifically?
+- What if you get a better-paying IT offer?
+- Do you consider your IT career a backup?
+- Which skills from IT will help you as an officer?

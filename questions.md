@@ -1060,3 +1060,93 @@
 - Did your Class 10 result influence your choice?
 - What career were you considering at that time?
 - How did that eventually lead you to Computer Science?
+
+## PIQ 14 – Class 12
+- Where did you complete Class 12?
+- Which board was it?
+- When did you pass?
+- What percentage did you score?
+- What does first division mean?
+- What were your subject-wise marks?
+- Which subject did you do best in, and why?
+- Which subject brought your percentage down?
+- Why did you move from Azamgarh to Lucknow?
+- Who decided that you should move?
+- Why did you choose Rani Laxmi Bai Memorial School?
+- Did you receive any academic recognition?
+
+## PIQ 14 – Class 12: The Drop from 84.83% to 68.8%
+- You scored 84.83% in Class 10. Why did it fall to 68.8% in Class 12?
+- Did you find the syllabus difficult?
+- Did your study habits change?
+- Did you become less disciplined?
+- Were you busy with other activities?
+- Did moving to Lucknow affect your studies?
+- Did you find it difficult to adjust to the new school?
+- Were you satisfied with your Class 12 result?
+- What would you do differently if you could go back?
+- How did your parents react to your result?
+- Did your Class 12 marks affect your college options?
+
+## PIQ 14 – Class 12: Life in Lucknow
+- Where did you live in Lucknow?
+- Who lived with you?
+- How far was your school from where you lived?
+- How did you travel to school, and how long did it take?
+- What was your daily routine in Class 12?
+- What time did you wake up, and when did you get home?
+- What did you do after school?
+- How much time did you spend studying?
+
+## PIQ 14 – Class 12: CBSE
+- What does CBSE stand for?
+- Who conducts the CBSE exams?
+- What differences did you personally notice between ICSE and CBSE?
+- Which board did you prefer, and why?
+
+## PIQ 14 – Class 12: School
+- Where is Rani Laxmi Bai Memorial School located?
+- What were your school timings?
+- How many students were in your class?
+- What is your school known for?
+- Who was your principal?
+- Who was your favourite teacher, and which subject did they teach?
+- What activities did you take part in?
+- What was your role in school?
+- What facilities did your school have?
+- What would you improve about your school?
+
+## PIQ 14 – Class 12: Rani Lakshmibai & 1857
+- Why is your school named after Rani Lakshmibai?
+- Who was Rani Lakshmibai?
+- What was her role in 1857?
+- What happened at Jhansi?
+- Who were the major leaders of the Revolt of 1857?
+- Why is she remembered?
+
+## PIQ 14 – Class 12: 2020 & COVID-19
+- What happened in 2020?
+- When did COVID-19 hit India?
+- How did COVID affect your Class 12 education?
+- Were your exams affected?
+- How did you continue studying?
+- What did you do during the lockdown?
+- How did the pandemic affect your career plans?
+
+## PIQ 14 – Class 12 to B.Tech
+- What did you do after Class 12?
+- Why did you choose B.Tech?
+- Why did you choose IMS Engineering College (IMSEC)?
+- Which other colleges did you consider?
+- How did you get admission?
+- What did you expect from engineering?
+- How did you improve academically after Class 12?
+- What did you learn during B.Tech?
+
+## PIQ 14 – Class 12: Personal Development
+- What did Class 12 teach you?
+- What mistake did you make in Class 11–12?
+- What would you change about your school life?
+- When did you become serious about your career?
+- What did you do in your free time?
+- Tell me one thing you were better at in Class 12 than in Class 10.

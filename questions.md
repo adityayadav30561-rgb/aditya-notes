@@ -450,3 +450,102 @@
 - What is one thing you dislike about your state?
 - What change have you personally seen in UP?
 - Would you return to UP after your career?
+
+## PIQ 7 – Religion
+- What is your religion?
+- What does Hinduism mean to you?
+- What do you understand by Hinduism?
+- What are the basic principles of Hinduism?
+- Is Hinduism a religion, a philosophy, a way of life, or all of these?
+- What religious practices do you actually follow?
+
+## PIQ 7 – Religion: Key Concepts
+- What is dharma?
+- Does dharma simply mean religion?
+- What is karma?
+- How is karma different from fate?
+- If you believe in karma, does that mean you don't need to worry about results?
+- What is moksha?
+- What is atman?
+- What is Brahman?
+- What is samsara?
+- What is ahimsa?
+- What is yoga in its philosophical sense?
+- What is seva?
+
+## PIQ 7 – Religion: Scriptures
+- What are the major texts of Hinduism?
+- What are the Vedas?
+- Name the four Vedas.
+- What are the Upanishads?
+- What is the Ramayana?
+- Who wrote the Ramayana?
+- What is the Mahabharata?
+- Who is traditionally regarded as its author?
+- What is the Bhagavad Gita?
+- Who delivered the Bhagavad Gita, and to whom?
+- How many chapters does it have?
+- What is the context of the Gita?
+- What is the central message of the Bhagavad Gita?
+- What is the significance of Kurukshetra?
+- Which Hindu text have you read, and what did you learn from it?
+
+## PIQ 7 – Religion: Deities & Traditions
+- Who are the major deities in Hindu traditions?
+- Who are the Trimurti, and what is the role of each?
+- What are the Dashavatara? Name the ten avatars of Vishnu.
+- Who was Rama?
+- What is the significance of Shiva?
+- What is Shakti?
+- What are the major Hindu philosophical traditions?
+
+## PIQ 7 – Religion: Festivals
+- Which Hindu festivals do you celebrate?
+- Which is your favourite, and why?
+- What is the significance of Diwali?
+- Why is Holi celebrated?
+- What is the significance of Navratri?
+- What is Dussehra?
+- What is Janmashtami?
+- What is Ram Navami?
+- What is Maha Shivratri?
+- Why are festivals important socially?
+
+## PIQ 7 – Religion: Values in Personal Life
+- What values have you learned from Hindu philosophy?
+- How do you apply those values in daily life?
+- Has religion influenced your decisions?
+- Does your religion influence your work ethic?
+- What does discipline mean to you?
+- What does self-control mean to you?
+- How do you deal with failure according to your beliefs?
+
+## PIQ 7 – Religion and the Armed Forces
+- What role does religion play in the Armed Forces?
+- How would you lead soldiers from different religions?
+- How would you ensure fairness while commanding people from different backgrounds?
+- Should an officer treat personnel differently because of their religion?
+- How would you handle a religious disagreement in your unit?
+- What does secularism mean to you?
+- What is the difference between secularism and irreligion?
+- What does freedom of religion under the Constitution mean?
+- What does unity in diversity mean to you?
+
+## PIQ 7 – Religion: Other Religions & Diversity
+- What do you know about other major religions?
+- What similarities do you see between Hinduism and other religions?
+- What is the difference between religion and spirituality?
+- Can a person be spiritual without being religious?
+- What does religious tolerance mean?
+- Why is India known for religious diversity?
+- How can interfaith harmony be promoted?
+
+## PIQ 7 – Religion: Challenging Questions
+- Do you blindly follow religious practices?
+- Do you question traditions?
+- Are all traditions equally relevant today?
+- What if you disagree with a religious practice?
+- Can religion and science coexist?
+- What is the role of religion in modern society?
+- Should religion influence public policy?
+- What is the difference between faith and superstition?

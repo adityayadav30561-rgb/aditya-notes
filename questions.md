@@ -1405,3 +1405,108 @@
 - Do you prefer strength training or endurance training?
 - Which sport do you follow?
 - Have you represented your school or college in sports?
+
+## PIQ 17 – Present Occupation
+- Where do you work?
+- What is your designation?
+- What are your main responsibilities?
+- What does your typical working day look like?
+- How many hours do you work?
+- What do you like about your job?
+- What don't you like about your job?
+- What have you learned from working professionally?
+- What has been your biggest achievement at work?
+- What has been your biggest professional setback?
+
+## PIQ 17 – Occupation: Current High-Pressure Project
+- What project are you currently working on, and what is it about?
+- Why is the project important?
+- What is your exact responsibility and role in the team?
+- How large is your team?
+- What is the deadline, and why is it so strict?
+- How much work remains?
+- What happens if the deadline is missed?
+- What is the biggest challenge you've faced in it so far?
+- How are you managing the pressure?
+- Have you ever felt overwhelmed by the workload?
+- How do you communicate when something may not be finished on time?
+- Have you ever disagreed with a deadline given by your manager?
+- What would you do if your manager asks for something unrealistic within the deadline?
+- What if your manager gives you more work when you're already overloaded?
+- What if a teammate isn't finishing their part and your work depends on it?
+- What if a critical issue appears one day before delivery?
+- Have you ever worked beyond your normal hours to meet a deadline?
+- Have you ever had to compromise on something to meet a deadline?
+- Tell me about a time you worked under extreme pressure.
+- What have you learned from working under a strict deadline?
+- Your project has a strict deadline. As an officer you'll face far greater responsibility and uncertainty. What makes you believe you can handle it?
+
+## PIQ 17 – Occupation: Pressure & Responsibility
+- How do you behave when you're under pressure?
+- Do you become irritable under pressure?
+- How do you maintain concentration?
+- How do you react when someone criticises your work?
+- How do you handle conflicting instructions, such as two seniors giving different priorities?
+- What if your mistake delays the entire team?
+- Have you ever accepted responsibility for someone else's mistake?
+- Have you ever made a mistake under pressure? What did you do afterwards?
+- What is more important: meeting the deadline or delivering perfect work?
+- How do you balance speed and quality?
+- How do you decide when a task is good enough to deliver?
+
+## PIQ 17 – Occupation: Teamwork
+- Who assigns you work?
+- How do you coordinate with your team?
+- Do you prefer working alone or in a team?
+- What if a teammate disagrees with your approach?
+- Have you ever helped a struggling teammate?
+- Have you ever asked someone for help?
+- Have you ever taken on responsibility beyond your assigned work?
+- Have you ever had a conflict with a colleague? How did you resolve it?
+
+## PIQ 17 – Occupation: Time Management
+- How do you manage your time?
+- How do you prioritise multiple deadlines and decide what to do first?
+- How do you balance your job and freelancing?
+- How much time do you spend freelancing?
+- What do you sacrifice when your workload increases?
+- Do you keep a daily schedule?
+- How do you avoid missing deadlines?
+
+## PIQ 17 – Occupation: Freelancing
+- Why did you start freelancing?
+- What type of work do you take?
+- How do you find clients?
+- How do you communicate with clients?
+- How do you decide your charges?
+- How do you manage client expectations?
+- What if a client keeps changing requirements?
+- What if a client doesn't pay?
+- What if two clients give you urgent work at the same time?
+- What is the biggest freelance project you've handled?
+- What have you learned from dealing with clients?
+- What is harder: dealing with a client or working with a manager?
+
+## PIQ 17 – Occupation: Income
+- What is your salary?
+- How much do you earn from freelancing?
+- Is ₹50,000 your fixed monthly income, or does it vary?
+- What do you do with your income?
+- Do you save?
+- What are your financial goals?
+
+## PIQ 17 – Occupation: Career Choice
+- Do you enjoy your current profession?
+- If you enjoy it, why do you want to join the Armed Forces?
+- What does your current job give you that military service doesn't?
+- Why do you want to be an officer?
+- What would you miss about your current career if you joined the Navy?
+
+## PIQ 17 – Occupation: Self-Awareness
+- What is your biggest strength as an employee?
+- What is your biggest weakness?
+- What criticism have you received from your manager?
+- What criticism have you received from a client?
+- Which professional habit are you trying to improve?
+- What did you struggle with at first but later improve?
+- What mistake taught you an important lesson?

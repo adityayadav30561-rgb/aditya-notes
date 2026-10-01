@@ -337,3 +337,116 @@
 - How is transport different?
 - Which environment do you find more comfortable?
 - What did moving from your hometown to Greater Noida teach you?
+
+## PIQ 6 – Uttar Pradesh: Basics
+- What is the capital of Uttar Pradesh?
+- What is the largest city in UP?
+- How many districts are there?
+- What is the population of UP?
+- Which states share a border with UP?
+- Which country shares an international border with UP?
+- What is the official language?
+- What is the geographical location of UP?
+
+## PIQ 6 – UP: Geography
+- Name the major rivers of UP.
+- Where does the Ganga enter UP, and what route does it take?
+- What is the importance of the Yamuna?
+- Which rivers are tributaries of the Ganga?
+- What are the major geographical regions of UP?
+- What type of soil is common?
+- What is the climate like?
+- Which crops are mainly grown in UP?
+- Which areas are more industrialised?
+- Which areas are less developed?
+- What are the major sources of irrigation?
+
+## PIQ 6 – UP: History
+- Why is Uttar Pradesh historically important?
+- Which important kingdoms and empires were based in present-day UP?
+- What was UP's role in the freedom struggle?
+- What happened in UP during the Revolt of 1857?
+- Why is Meerut associated with 1857?
+- What was Lucknow's significance in the freedom struggle?
+- What is the significance of Ayodhya?
+- What is the significance of Varanasi?
+- What is the significance of Prayagraj?
+- Which important Buddhist sites are in UP?
+
+## PIQ 6 – UP: Economy
+- What are the major industries of UP?
+- Which industries are important in different regions of UP?
+- Why is agriculture important to UP?
+- What is the importance of the MSME sector?
+- What is ODOP, and what are its objectives?
+- What are UP's major export products?
+- What are the major economic challenges?
+- How can UP create more jobs?
+- What infrastructure is helping UP's economic growth?
+- What major projects and government initiatives are under way in UP?
+
+## PIQ 6 – UP: Administration
+- Who is the constitutional head of the state?
+- Who heads the state government?
+- What is the role of the Chief Secretary?
+- What is the role of the District Magistrate?
+- What is the role of the Superintendent of Police?
+- What is the difference between a district and a division?
+- What is the role of the UP Legislative Assembly?
+- How many Lok Sabha seats does UP have?
+- How many Rajya Sabha seats does UP have?
+
+## PIQ 6 – UP: Defence
+- What is UP's contribution to the Indian Armed Forces?
+- Which major defence establishments are in UP?
+- What is the importance of Lucknow's defence institutions?
+- Which defence-industrial projects are in UP?
+- What is the UP Defence Industrial Corridor?
+- Name its nodes.
+- Why is a defence industrial corridor important?
+- What kind of defence equipment can be made there?
+
+## PIQ 6 – UP: Famous Personalities
+- Name some freedom fighters from UP and their contributions.
+- Name some important political leaders from UP.
+- Name some famous writers and poets from UP.
+- Name some scientists from UP.
+- Name some sportspersons from UP.
+- Name some artists and cultural figures from UP.
+- Name some military personalities from UP.
+
+## PIQ 6 – UP: Culture
+- What are the major festivals of UP?
+- What are the major classical and folk art forms?
+- What is Kathak?
+- Which traditional handicrafts are associated with UP?
+- What are the major cuisines of UP?
+- What is the significance of the Kumbh Mela?
+- What are the major religious and tourist places?
+
+## PIQ 6 – UP: Problems
+- What are the three biggest problems of Uttar Pradesh?
+- Why do you consider them problems?
+- Which one should be addressed first?
+- Which one concerns you personally?
+- What is the root cause?
+- What has the government done about it?
+- What more can be done?
+- What can citizens do themselves?
+- How would you tackle it as a district administrator?
+
+## PIQ 6 – UP vs Other States
+- What does UP do better than other states?
+- What does UP need to improve?
+- Why do people migrate from UP to cities like Noida, Lucknow and Delhi?
+- How can UP retain skilled people?
+- Why is development uneven within UP?
+- How do eastern and western UP differ economically?
+- How is the rest of UP different from NCR, where you live now?
+
+## PIQ 6 – UP: Personal
+- What has Uttar Pradesh given you?
+- What do you like about being from UP?
+- What is one thing you dislike about your state?
+- What change have you personally seen in UP?
+- Would you return to UP after your career?

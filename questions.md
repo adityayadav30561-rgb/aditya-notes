@@ -257,3 +257,83 @@
 - How did moving between places affect you?
 - Which place was better for your education?
 - What differences did you see in people's lifestyles?
+
+## PIQ 5 – Current Residence
+- Where are you currently living?
+- Why are you living in Greater Noida?
+- Since when have you been living there?
+- Who do you live with?
+- Is it your own house, a rented place or a hostel?
+- What is your daily routine there?
+- What do you like about living in Greater Noida?
+- What don't you like about it?
+- Would you like to settle there permanently?
+- What have you learned from living independently?
+
+## PIQ 5 – Current Residence: Eco Village 2
+- Where exactly is Eco Village 2?
+- Which sector is it in?
+- What are the major landmarks nearby?
+- What is the nearest metro station?
+- What are the major roads near your locality?
+- What schools, hospitals and markets are nearby?
+- What public transport do you use?
+- How is your society managed?
+- What facilities are available in your society?
+- Tell me three problems you have personally seen in your locality.
+- If you were responsible for solving one of them, what would you do?
+
+## PIQ 5 – Current Residence: Greater Noida
+- What is Greater Noida?
+- What is Greater Noida known for?
+- Why was Greater Noida developed?
+- How is Greater Noida different from Noida?
+- Which authority manages Greater Noida?
+- What is the role of the Greater Noida Industrial Development Authority?
+- What are its major sectors?
+- What major infrastructure projects are located there?
+- What is the relationship between Greater Noida, Noida and Delhi?
+- What are the major problems and development challenges in Greater Noida?
+
+## PIQ 5 – Current Residence: Geography & Connectivity
+- Which districts surround Gautam Buddha Nagar?
+- Where is Greater Noida located relative to Delhi?
+- What major highways connect Greater Noida?
+- How is Greater Noida connected to Delhi?
+- What is the Yamuna Expressway and why is it important?
+- Where does the Yamuna Expressway start and end?
+- What is the Eastern Peripheral Expressway?
+- How is the Delhi–Mumbai Expressway relevant to the region?
+
+## PIQ 5 – Current Residence: Economy & Industry
+- What industries are present in Greater Noida?
+- Why is Greater Noida an important industrial region?
+- What are the advantages and disadvantages of its location?
+- What jobs has the region created?
+- What infrastructure is needed for further industrial growth?
+
+## PIQ 5 – Current Residence: Current Affairs
+- What is the significance of Noida International Airport at Jewar?
+- What is the current status of Noida International Airport?
+- What is the status of metro expansion in the region?
+- What new expressways are coming up in the region?
+- What is happening in data centres and the technology sector in the region?
+- What electronics manufacturing is taking place in the region?
+- What is the role of logistics in the region's economy?
+- How is urbanisation affecting Greater Noida?
+- What causes air pollution in NCR, and how can it be reduced?
+- What are the traffic problems in the region?
+- How is water managed in the region?
+
+## PIQ 5 – Azamgarh vs Greater Noida
+- What is the biggest difference between Azamgarh and Greater Noida?
+- Which place do you prefer?
+- Which has better infrastructure?
+- Which has a better quality of life?
+- What is better in Azamgarh?
+- What is better in Greater Noida?
+- What differences have you seen in people's lifestyles between the two?
+- How are job opportunities different?
+- How is transport different?
+- Which environment do you find more comfortable?
+- What did moving from your hometown to Greater Noida teach you?

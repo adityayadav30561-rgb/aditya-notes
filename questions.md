@@ -783,3 +783,121 @@
 - Who is the most educated person in your family?
 - Who earns the most in your family?
 - Which family member has influenced you most?
+
+## PIQ 11 – Elder Sister
+- What is your sister's name?
+- How old is she?
+- What did she study?
+- Why did she choose Computer Science?
+- Where did she complete her PhD?
+- What was her PhD topic?
+- What problem did her research address, and why did it matter?
+- What methodology did she use?
+- What was the main outcome or application of her research?
+- Where does she work?
+- What does an Assistant Professor do?
+- What subjects does she teach?
+- How long has she been teaching?
+- What is her salary?
+- What are her career goals?
+
+## PIQ 11 – Sister: Computer Science Basics
+- What is Computer Science?
+- What is the difference between hardware and software?
+- What is an operating system?
+- What is a database?
+- What is SQL?
+- What is a programming language?
+- What is an algorithm?
+- What is a data structure?
+- What is OOP?
+- What is AI?
+- What is Machine Learning?
+- What is Generative AI?
+- What is cybersecurity?
+- What is cloud computing?
+- What is a computer network?
+- What is the Internet?
+
+## PIQ 11 – Sister: PhD & Research
+- What is a PhD?
+- How is a PhD different from a master's degree?
+- What is research?
+- What is a research problem?
+- What is a hypothesis?
+- What is a literature review?
+- What is a research paper?
+- What is peer review?
+- What is plagiarism?
+- What is a citation?
+- What is the difference between applied and fundamental research?
+- Why is research important for a country?
+- Why is research important in Computer Science?
+- Why did your sister choose research?
+
+## PIQ 11 – Sister: Assistant Professor
+- Is teaching an Assistant Professor's only responsibility?
+- What is the role of research in a professor's job?
+- What is academic administration?
+- How are students evaluated?
+- What is curriculum design?
+- What is mentoring?
+- What is the difference between a professor and a teacher?
+- What challenges do college teachers face?
+- How can higher education be improved in India?
+
+## PIQ 11 – Sister and You: Technical
+- Your sister has a PhD in Computer Science. Why didn't you pursue higher studies or research?
+- Do you want to do an M.Tech, MS or PhD in the future?
+- Your sister has a PhD. Why should I consider you technically capable without higher education?
+- Have you discussed Computer Science with her?
+- Does she help you technically?
+- Do you help her with technology?
+- Have you ever worked on a project together?
+- What area of Computer Science interests you?
+- What do you currently do?
+- Why did you choose frontend development?
+- What technologies do you use?
+- What projects have you worked on?
+- What is your strongest technical area?
+- What are the recent developments in AI and cybersecurity?
+
+## PIQ 11 – Computer Science in Defence
+- How can your technical knowledge be useful to the Armed Forces?
+- How is AI used in defence?
+- Why is cybersecurity important for the military?
+- What is cyber warfare?
+- How can cyber attacks affect military operations?
+- How can drones use AI?
+- How can AI help intelligence analysis?
+- What is the role of satellite technology in defence?
+- How can autonomous systems be used?
+- What are the risks of AI in warfare?
+- What is quantum computing?
+- Why could quantum computing matter for cybersecurity?
+
+## PIQ 11 – Sister: Salary & Academic Career
+- Is ₹90,000 her gross or take-home salary?
+- Is she at a government or private institution?
+- How is an Assistant Professor's salary decided?
+- What are the career stages in academia, and what comes after Assistant Professor?
+- How does someone become a professor?
+- Does research experience affect academic promotion?
+
+## PIQ 11 – Sister: Relationship
+- How close are you to your sister?
+- How often do you talk?
+- What do you discuss?
+- Does she advise you about your career?
+- What do you advise her about?
+- What quality do you admire in her?
+- What is one weakness you have seen in her?
+- Have you ever had a disagreement with her? How did you resolve it?
+- What have you learned from her?
+- What is one thing your sister is better at than you?
+- What are you better at than her?
+
+## PIQ 11 – Family & Education
+- Tell me about your family.
+- Why is education important in your family?
+- Does your family discuss education often?

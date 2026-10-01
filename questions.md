@@ -676,3 +676,110 @@
 - What does your mother do on weekends?
 - Tell me about a difficult situation she handled.
 - Give an example of your mother's hard work.
+
+## PIQ 10 – Elder Brother
+- What is your elder brother's name?
+- How old is he?
+- What is his educational qualification?
+- Why did he choose Geography?
+- Why did he study Geography but move into automobile sales?
+- What is his designation?
+- Where does he work?
+- How long has he been working there?
+- What are his responsibilities as a Sales Manager?
+- What is his salary?
+- What are his career aspirations?
+
+## PIQ 10 – Brother: Geography
+- What is Geography?
+- What are the major branches of Geography?
+- What is the difference between physical and human geography?
+- What is economic geography?
+- What is population geography?
+- What is urban geography?
+- What is a watershed?
+- What is a river basin?
+- What causes the monsoon?
+- Why is India dependent on the monsoon?
+- What factors influence climate?
+- What is the difference between weather and climate?
+- What is urbanisation?
+- What causes migration?
+
+## PIQ 10 – Brother: NEXA
+- What is NEXA?
+- Which company runs NEXA, and how is it related to Maruti Suzuki?
+- Why was NEXA created?
+- What is the difference between NEXA and Arena?
+- What type of customers does NEXA target?
+- Name some cars sold through NEXA.
+- What is the role of a dealership?
+- What is the difference between a manufacturer and a dealer?
+
+## PIQ 10 – Brother: Automobiles
+- Which car brands compete with Maruti Suzuki?
+- What factors influence a customer's decision to buy a car?
+- EV, petrol or hybrid: which is better and why?
+- What are the advantages and limitations of electric vehicles?
+- What is an SUV?
+- What is an MPV?
+- What is an automatic transmission?
+- What is ADAS?
+- What factors affect car prices?
+
+## PIQ 10 – Brother: Sales
+- How does your brother generate sales?
+- How does he manage his sales executives?
+- What is a sales target, and how are targets assigned?
+- What is a lead?
+- What is conversion?
+- What is a sales funnel?
+- How does he handle a customer who refuses to buy?
+- How does he handle an angry customer?
+- How does he motivate his sales team?
+- What is customer relationship management?
+- What is the difference between sales and marketing?
+- How is sales performance measured?
+- Your brother's team has achieved only 60% of its monthly target. What should he do?
+
+## PIQ 10 – Brother: Management & Leadership
+- What makes a good manager?
+- What makes a good leader?
+- Is every manager a good leader?
+- What if an employee repeatedly misses targets?
+- What if two team members have a conflict?
+- Should a manager focus only on results?
+- How do you balance employee welfare and organisational targets?
+- What leadership qualities have you learned from your brother?
+
+## PIQ 10 – Brother: Relationship
+- How close are you to your brother?
+- What do you usually discuss?
+- How often do you meet?
+- What do you do together?
+- What qualities do you admire in him?
+- What is one weakness of your brother?
+- What do you disagree about?
+- Does he advise you about your career?
+- Do you advise him about anything?
+- Have you ever helped him solve a problem?
+- Has he ever helped you?
+
+## PIQ 10 – Brother's Career vs Yours
+- Why didn't you join your brother's field?
+- Do you have any interest in automobile sales?
+- What have you learned from your brother's career?
+- Which career do you prefer, his or yours, and why?
+- What is similar between your job and his?
+- Which skills carry over between software development and sales?
+
+## PIQ 10 – Brother: Salary
+- Is ₹40,000 his gross or take-home salary?
+- Is his salary fixed, or does it include incentives?
+- How do sales incentives work, and what decides them?
+- What is the difference between salary and incentive?
+
+## PIQ 10 – Family Comparison
+- Who is the most educated person in your family?
+- Who earns the most in your family?
+- Which family member has influenced you most?

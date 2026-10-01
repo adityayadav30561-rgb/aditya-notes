@@ -177,3 +177,83 @@
 - Have you ever taught someone or helped a junior with studies?
 - Do you enjoy explaining things to others?
 - What has your mother's profession taught you about leadership?
+
+## PIQ 4 – Residence
+- Where have you spent most of your life?
+- Where exactly is Palhani?
+- Which district is it in?
+- Which state is Azamgarh in?
+- How long have you lived there?
+- Why have you lived there for most of your life?
+- What do you like about your hometown?
+- What don't you like about it?
+- Would you like to settle there in the future?
+- What changes have you seen in the area in recent years?
+
+## PIQ 4 – Residence: Palhani
+- What is Palhani known for?
+- What important places are nearby?
+- What are the major road and railway connections?
+- What schools and colleges are nearby?
+- What are the major occupations of people there?
+- What facilities are available there?
+- What are the main problems in your locality?
+- Tell me five things about your locality that an outsider wouldn't know.
+
+## PIQ 4 – Residence: Azamgarh Geography & Administration
+- What is Azamgarh famous for?
+- Where is Azamgarh located in Uttar Pradesh?
+- Which districts surround it?
+- Which geographical region does it belong to?
+- What are its major rivers?
+- What is its climate like?
+- What are the major crops?
+- What is the district headquarters?
+- How many tehsils are there?
+- Who is the District Magistrate?
+- Who is the Superintendent of Police?
+- What are the major administrative challenges?
+- What are the important institutions in Azamgarh?
+- What is the state of education in Azamgarh?
+- What are the current issues in Azamgarh?
+
+## PIQ 4 – Residence: Azamgarh History
+- What is Azamgarh known for historically?
+- When was Azamgarh district established?
+- What was the region's role in the Revolt of 1857?
+- Which historical personalities are associated with Azamgarh?
+- What is Azamgarh's significance in India's freedom movement?
+- Which historical sites are in or around the district?
+
+## PIQ 4 – Residence: Azamgarh Culture & Personalities
+- Which famous personalities belong to Azamgarh?
+- What is Azamgarh's contribution to literature?
+- Which languages and dialects are commonly spoken?
+- Which festivals are commonly celebrated?
+- What traditional food is popular?
+- What makes the region's culture distinct?
+
+## PIQ 4 – Residence: Azamgarh Economy & Development
+- What are the major sources of livelihood?
+- What are the major industries?
+- Which agricultural products are important?
+- What are the major development challenges?
+- Why do people from your area migrate to bigger cities?
+- What could create more jobs locally?
+- How can agriculture in the region be modernised?
+- What infrastructure improvements are needed?
+
+## PIQ 4 – Residence: Personal
+- If you became DM of Azamgarh for one year, what would you change?
+- What have you personally done to solve a local problem?
+- Would you prefer living in Azamgarh or a big city?
+- How has growing up there shaped you?
+
+## PIQ 4 – Residence: Azamgarh vs Lucknow
+- How is Azamgarh different from Lucknow?
+- Which do you prefer, Azamgarh or Lucknow, and why?
+- What does Lucknow offer that Azamgarh doesn't?
+- What does Azamgarh offer that Lucknow doesn't?
+- How did moving between places affect you?
+- Which place was better for your education?
+- What differences did you see in people's lifestyles?

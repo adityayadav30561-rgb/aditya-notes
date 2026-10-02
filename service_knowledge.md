@@ -1005,3 +1005,116 @@
 - What will you do if one Section consistently performs below standard?
 - What will you do if one Section performs much better than the others?
 - What will you do if your platoon is ordered to do a task it has not trained for?
+
+## Phase 6 – Rank Structure Basics
+- What are the three broad categories of personnel in the Indian Army?
+- What is an Other Rank, and who are classified as Other Ranks?
+- What is the difference between rank and designation?
+- Why are rank and appointment each important in the Army?
+- What is an appointment, and who is an appointment holder?
+- Can two officers of the same rank have different appointments?
+- Can an officer's appointment change without a change in rank?
+- Can an officer command someone of the same rank?
+- What decides an officer's authority?
+- What is the highest active-service rank in the Indian Army?
+
+## Phase 6 – Officer Ranks: Roles
+- What is the difference between a Lieutenant and a Captain?
+- Can a Lieutenant command a Company?
+- What is the role of a Captain, and which appointments can he hold?
+- Can a Captain command a Company?
+- What does a Captain do in training, administration and operations?
+- What is the difference between a Captain and a Major?
+- What is the role of a Major, and which appointments can he hold?
+- What is a Major's role in a Battalion, especially as a Company Commander?
+- What does a Major do in planning, administration and operations?
+- What is the difference between a Major and a Lieutenant Colonel?
+- What does a Lieutenant Colonel do in a staff appointment, and how is it different from command?
+- What is the role of a Colonel, and which appointments can he hold, including at higher headquarters?
+- Can a Colonel command a Battalion?
+- What is a Colonel's role in a Brigade Headquarters?
+- What is a Colonel's role in regimental administration?
+- What is the role of a Brigadier in command and staff appointments?
+- What is the difference between a Brigade Commander and a Battalion Commander?
+- What is the role of a Major General and of a Divisional Commander?
+- What is the difference between a Division and a Brigade, and between their commanders?
+- What is the role of a Lieutenant General and of a Corps Commander?
+- Which other appointments can a Lieutenant General hold, including at Army Headquarters?
+
+## Phase 6 – General & COAS
+- What is the role of a General and of the Chief of the Army Staff?
+- What is the relationship between the COAS and the Army Commands?
+- What is the role of the COAS in peacetime and in war?
+- What is the difference between the COAS and the CDS?
+- What is the difference between the COAS and the Defence Secretary?
+
+## Phase 6 – JCO Ranks
+- What are Naib Subedar and Subedar, and what are their roles?
+- What is the relationship between JCOs and NCOs?
+- What is a JCO's role in discipline, training and welfare?
+
+## Phase 6 – NCO Ranks
+- What are Lance Naik, Naik and Havildar, and what are their roles?
+- Why are NCOs important at Section level?
+- What is the difference between a Havildar and a Naib Subedar?
+- How does an NCO contribute to discipline, training and leadership?
+
+## Phase 6 – Soldiers / Other Ranks
+- What is a Sepoy, and what is his role?
+- What is the difference between a Sepoy and an NCO?
+- How does a soldier progress to NCO?
+- What responsibilities increase with promotion?
+- Why is experience important at soldier level?
+- Why is technical and tactical competence important for a soldier?
+
+## Phase 6 – Chain of Command
+- Who commands a fire team?
+- Why is a clear chain of command important?
+- What happens if the chain of command is bypassed, and when can it be bypassed?
+- What is unity of command, and why is it important?
+
+## Phase 6 – Rank vs Appointment: IO Traps
+- Is every Colonel a Battalion Commanding Officer?
+- Is every Lieutenant Colonel a Battalion Commanding Officer?
+- Is every Major a Company Commander?
+- Is every Captain a Company Commander?
+- Is every Lieutenant a Platoon Commander?
+- Can an officer hold an appointment normally associated with another rank?
+- Can a junior-ranking officer command a senior-ranking officer?
+- Can two officers of the same rank have different levels of authority?
+- When two officers have the same rank, what decides who has command authority?
+- Why is rank alone not enough to understand the chain of command?
+
+## Phase 6 – Rank Insignia
+- How are officer, JCO and NCO ranks identified?
+- What is a Lieutenant's rank insignia?
+- What is a Captain's rank insignia?
+- What is a Major's rank insignia?
+- What is a Lieutenant Colonel's rank insignia?
+- What is a Colonel's rank insignia?
+- What is a Brigadier's rank insignia?
+- What is a Major General's rank insignia?
+- What is a Lieutenant General's rank insignia?
+- What is a General's rank insignia?
+- How can you tell officer insignia from JCO insignia?
+- What is the significance of stars in Army rank insignia?
+- What is the significance of the national emblem in Army insignia?
+
+## Phase 6 – Rank Equivalence
+- What are the equivalent officer ranks in the Indian Navy?
+- What are the equivalent officer ranks in the Indian Air Force?
+- What is the Army equivalent of a Navy Sub Lieutenant?
+- What is the Army equivalent of a Navy Lieutenant?
+- What is the Army equivalent of a Navy Lieutenant Commander?
+- What is the Army equivalent of a Navy Commander?
+- What is the Army equivalent of an Air Force Flying Officer?
+- What is the Army equivalent of an Air Force Flight Lieutenant?
+- What is the Army equivalent of an Air Force Squadron Leader?
+- Why is rank equivalence important in joint operations?
+
+## Phase 6 – Lieutenant: Chain-of-Command Cross-Questions
+- What happens if your Company Commander is unavailable?
+- What happens if your Platoon Havildar is unavailable?
+- Can you issue orders to a soldier directly?
+- Can a soldier approach you directly with a problem?
+- What is the difference between command authority and personal influence?

@@ -189,3 +189,260 @@
 - Why do you want to be an Army officer rather than just join the Armed Forces?
 - Why SSC through OTA?
 - Why the Indian Army?
+
+## Phase 2 – Arms & Services: Basics
+- What is an Arm in the Indian Army?
+- What is a Service in the Indian Army?
+- What are the combat arms of the Indian Army?
+- What are the supporting arms?
+- What are the Services of the Indian Army?
+- Which arm is the primary arm for holding ground?
+- Why does the Army need multiple Arms and Services?
+- How do different Arms and Services work together during an operation?
+- Can an officer be commissioned into any Arm or Service?
+- What decides the Arm or Service allotted to an officer?
+
+## Phase 2 – Infantry
+- What is the role of Infantry?
+- Why is Infantry called the basic arm of the Army?
+- What are the primary tasks of Infantry?
+- What is the difference between Infantry's offensive and defensive tasks?
+- Which types of terrain is Infantry particularly suited for?
+- What are the major Infantry regiments of the Indian Army?
+- What is a Regimental Centre?
+- What is the role of an Infantry Battalion in a Brigade?
+- Which weapons are commonly used by Infantry?
+- Why is Infantry still important despite advances in technology?
+- What is the role of Infantry in urban warfare?
+- What is the role of Infantry in mountain warfare?
+- What is the role of Infantry in counter-insurgency operations?
+
+## Phase 2 – Armoured Corps
+- What is the role of the Armoured Corps?
+- What is the basic fighting platform of the Armoured Corps?
+- What is an Armoured Regiment?
+- How is an Armoured Regiment organised?
+- Who commands an Armoured Regiment?
+- What is the role of tanks in warfare?
+- What is the difference between a tank and an Infantry Combat Vehicle?
+- What is a Main Battle Tank?
+- What are the major tanks operated by the Indian Army?
+- What is the role of armour in offensive operations?
+- What is the role of armour in defensive operations?
+- What are the limitations of tanks?
+- Why are tanks vulnerable in certain terrains?
+- What is an Armoured Brigade?
+- How does the Armoured Corps work with Infantry?
+- What is a combined-arms operation?
+- Why is mobility important for armoured forces?
+
+## Phase 2 – Mechanised Infantry
+- What is Mechanised Infantry?
+- Why was Mechanised Infantry developed?
+- What is the difference between Mechanised Infantry and conventional Infantry?
+- Which vehicles does Mechanised Infantry use?
+- What is an Infantry Combat Vehicle?
+- What is the role of Mechanised Infantry in a combined-arms operation?
+- How does Mechanised Infantry support tanks?
+- What are the advantages of Mechanised Infantry?
+- What are the limitations of Mechanised Infantry?
+- What is the difference between an APC and an IFV?
+- What is the role of Mechanised Infantry in offensive operations?
+
+## Phase 2 – Regiment of Artillery
+- What is the role of the Regiment of Artillery?
+- Why is Artillery called the firepower arm?
+- What are the main tasks of Artillery?
+- What is field artillery?
+- What is a gun?
+- What is a howitzer?
+- What is a rocket artillery system?
+- What is the difference between a gun, a howitzer and a rocket system?
+- What is an artillery regiment?
+- How does Artillery support Infantry?
+- How does Artillery support armoured forces?
+- What is indirect fire?
+- What is direct fire?
+- What is counter-bombardment?
+- What is fire support?
+- What is a fire plan?
+- What is an artillery observation post?
+- What is the role of a Forward Observation Officer?
+- What is the role of Artillery during an offensive?
+- What is the role of Artillery during a defensive operation?
+- What are the major artillery systems used by the Indian Army?
+- What is the difference between artillery and mortars?
+- At what level are mortars generally used?
+- Why is accurate target acquisition important for Artillery?
+
+## Phase 2 – Corps of Engineers
+- What is the role of the Corps of Engineers?
+- What are the major functions of Army Engineers?
+- What is combat engineering?
+- What is the role of Engineers during an offensive operation?
+- What is the role of Engineers during defensive operations?
+- What is a minefield?
+- Why are minefields used?
+- What is mine clearance?
+- What is the role of Engineers in river-crossing operations?
+- What is a bridge-laying operation?
+- What is the role of Engineers in building obstacles?
+- What is the role of Engineers in disaster relief?
+- What is the difference between combat engineering and civil engineering?
+- What is an Engineer Regiment?
+- How do Engineers support Infantry and armoured forces?
+- What is the role of the Corps of Engineers in peacetime?
+
+## Phase 2 – Corps of Signals
+- What is the role of the Corps of Signals?
+- Why are communications important in military operations?
+- What are the major responsibilities of the Corps of Signals?
+- What is military communication?
+- What is tactical communication?
+- What is a signal unit?
+- How does Signals support a Brigade?
+- How does Signals support a Battalion?
+- What happens if communication fails during an operation?
+- What is secure communication?
+- What is the difference between communication and information systems?
+- What is the role of Signals in network-centric warfare?
+- How is modern technology changing military communications?
+- What is the relationship between Signals and cyber warfare?
+
+## Phase 2 – Army Air Defence
+- What is the role of Army Air Defence?
+- Why does the Army need its own air defence?
+- What is air defence?
+- What threats does Army Air Defence counter?
+- What is the difference between Air Force air defence and Army Air Defence?
+- What types of weapons are used for air defence?
+- What is a surface-to-air missile?
+- What is a Very Short Range Air Defence system?
+- What is the role of radars in air defence?
+- What is the difference between an aircraft and a missile as an air threat?
+- What is the role of Army Air Defence in protecting troops and formations?
+- How does Army Air Defence coordinate with the Indian Air Force?
+- What is the role of air defence against drones?
+
+## Phase 2 – Army Aviation Corps
+- What is the role of the Army Aviation Corps?
+- How is Army Aviation different from the Indian Air Force?
+- Which helicopters does Army Aviation operate?
+- What is the role of helicopters in land warfare?
+- What is battlefield reconnaissance?
+- How can helicopters support Infantry and ground forces?
+- How can helicopters support Special Forces?
+- What is casualty evacuation?
+- What is tactical air mobility?
+- What is the role of Army Aviation in high-altitude areas?
+- What is the role of unmanned aerial systems in Army operations?
+
+## Phase 2 – Army Service Corps
+- What is the role of the Army Service Corps?
+- Why is logistics important to an Army?
+- What does the Army Service Corps provide?
+- What is military transportation?
+- What is the role of ASC during an operation?
+- How does ASC support troops in remote areas?
+- Why is fuel supply important?
+- Why is food supply important?
+- How does logistics affect combat operations?
+- What happens if an Army's logistics chain is disrupted?
+
+## Phase 2 – Army Ordnance Corps
+- What is the role of the Army Ordnance Corps?
+- What does Army Ordnance manage?
+- What is military inventory management?
+- What is the difference between Ordnance and ASC?
+- How does AOC support an Infantry Battalion?
+- Why is ammunition management important?
+- What is the role of AOC during mobilisation?
+- Why is inventory management critical during war?
+
+## Phase 2 – Corps of EME
+- What is the role of the Corps of EME?
+- What types of equipment does EME maintain?
+- What is equipment recovery?
+- What is the difference between maintenance and repair?
+- Why is equipment serviceability important during operations?
+- How does EME support tanks?
+- How does EME support Infantry units?
+- What happens when a critical weapon system becomes unserviceable?
+- What is the role of EME in modern military technology?
+
+## Phase 2 – Intelligence Corps
+- What is the role of the Intelligence Corps?
+- What is military intelligence?
+- Why is intelligence important before an operation?
+- What are the broad sources of military intelligence?
+- What is battlefield intelligence?
+- What is reconnaissance?
+- What is surveillance?
+- What is the difference between reconnaissance and surveillance?
+- How does intelligence support a commander's planning?
+- What is the role of technology in modern military intelligence?
+- What is the difference between military intelligence and civilian intelligence agencies?
+
+## Phase 2 – Army Medical Corps
+- What is the role of the Army Medical Corps?
+- How does medical support work during military operations?
+- What is battlefield medical support?
+- What is the role of medical officers in a unit?
+- What is the difference between first aid and advanced medical care?
+- Why is medical preparedness important for soldiers?
+- What is the role of military hospitals?
+- How does the medical chain support a wounded soldier?
+
+## Phase 2 – Army Dental Corps
+- What is the role of the Army Dental Corps?
+- Why is dental health important for soldiers?
+- What services does the Army Dental Corps provide?
+- How does dental fitness affect military readiness?
+
+## Phase 2 – Remount Veterinary Corps
+- What is the role of the Remount Veterinary Corps?
+- Why does the Army need veterinary support?
+- Which animals does the Indian Army use?
+- What is the role of animals in high-altitude areas?
+- How does RVC contribute to operational readiness?
+
+## Phase 2 – Corps of Military Police
+- What is the role of the Corps of Military Police?
+- What are the responsibilities of military police?
+- What is the difference between Military Police and civilian police?
+- What is traffic control in a military area?
+- What role does Military Police play during mobilisation?
+- What is the role of Military Police in maintaining discipline and security?
+
+## Phase 2 – Other Services & Support
+- What is the role of the Army Education Corps?
+- What is the role of the Army Physical Training Corps?
+- What is the role of the Judge Advocate General's Department?
+- What is the role of the Military Nursing Service?
+- What is the role of the Defence Security Corps?
+- What is the role of the Army Postal Service?
+- How do administrative services support combat units?
+
+## Phase 2 – Combined Arms
+- Why can't Infantry operate effectively without supporting Arms?
+- If an Infantry Battalion is deployed in a sector, which Arms and Services would support it?
+- What would happen if one of these supporting elements was unavailable?
+- Why is modern warfare increasingly dependent on joint and combined operations?
+- What is the difference between combined-arms and joint operations?
+
+## Phase 2 – Arms & Services: IO Cross-Questions
+- Which Arm would you like to join, and why?
+- What is the difference between Infantry and the Armoured Corps?
+- What is the difference between Artillery and Army Air Defence?
+- What is the difference between Engineers and EME?
+- What is the difference between Signals and Intelligence?
+- Which Arm works most closely with Infantry?
+- Which Services directly sustain a unit in the field?
+- If you become an Infantry officer, which Arms and Services will you work with most?
+- As a young Lieutenant, how much should you know about Arms other than your own?
+- Why should an Infantry officer understand logistics?
+- Why is interoperability between Arms important?
+- How important is technology across the Army's Arms and Services?
+- How have drones, satellites, AI and precision weapons changed the role of traditional Arms?
+- What does "combat effectiveness" mean to you?
+- If you had two minutes to explain the Indian Army's Arms and Services, how would you structure your answer?

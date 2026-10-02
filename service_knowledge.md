@@ -1118,3 +1118,221 @@
 - Can you issue orders to a soldier directly?
 - Can a soldier approach you directly with a problem?
 - What is the difference between command authority and personal influence?
+
+## Phase 7 – Weapon Basics
+- What is a military weapon?
+- What are the broad categories of weapons used by the Indian Army?
+- What are small arms and firearms?
+- What is a battle rifle?
+- What is a submachine gun?
+- What is a shotgun?
+- What is a missile?
+- What is the difference between guided and unguided weapons?
+- What is a precision-guided munition?
+
+## Phase 7 – Small Arms: Concepts
+- What is the difference between an assault rifle and a battle rifle?
+- What is the difference between an LMG and an assault rifle?
+- What is the difference between a sniper rifle and an assault rifle?
+- What is the difference between a bullpup and a conventional rifle layout?
+- What is a barrel?
+- What is a muzzle?
+- What is a receiver?
+- What is a bolt?
+- What is a sight, and what is an optical sight?
+- What are red-dot and holographic sights?
+- What is a thermal sight?
+- What is the difference between night vision and thermal imaging?
+- What is ammunition calibre?
+- What do 5.56 mm and 7.62 mm mean?
+- What is the difference between calibre and cartridge?
+- What is muzzle velocity?
+- What is recoil?
+- What factors affect weapon accuracy?
+
+## Phase 7 – Indian Army Rifles & Carbines
+- Which assault rifles does the Indian Army currently use?
+- What is the INSAS rifle, and why was it developed?
+- What is the history of INSAS in the Indian Army?
+- What is the AK-203, and why is it significant for India?
+- What is the SIG Sauer SIG716, and why does the Indian Army use it?
+- What is the difference between the AK-203 and the SIG716?
+- What is the Excalibur rifle, and what is its status?
+- What is the M4 carbine?
+- What is the role of a carbine in military operations?
+- How do the weapons of conventional Infantry and Special Forces differ?
+- Why can different units use different small arms?
+- What factors decide the choice of an assault rifle?
+
+## Phase 7 – Machine Guns
+- What is a Heavy Machine Gun?
+- What is the role of an HMG?
+- What is the role of a machine-gun team?
+- What are a bipod and a tripod?
+- Why are machine guns often crew-served?
+- What is sustained fire?
+- What is grazing fire?
+- What is plunging fire?
+- What is enfilade fire?
+- What is the role of machine guns in defence and in attack?
+
+## Phase 7 – Sniper & Marksman Systems
+- What is a designated marksman, and how is he different from a sniper?
+- What qualities does a military sniper need, and why is patience important?
+- Why is concealment important for a sniper?
+- What is a telescopic sight?
+- What is ballistic calculation?
+- What factors affect a bullet's trajectory?
+- What is wind correction?
+- What is counter-sniper capability?
+
+## Phase 7 – Grenades, Explosives & Mines
+- What are the broad categories of grenades?
+- What are fragmentation, smoke and stun grenades used for?
+- What is a grenade launcher?
+- What is an under-barrel grenade launcher?
+- What are the basic safety rules for grenades?
+- What is an explosive?
+- What is an improvised explosive device?
+- What are anti-personnel and anti-tank mines?
+
+## Phase 7 – Anti-Tank Weapons
+- Why are anti-tank weapons important for Infantry?
+- What is the difference between a rocket launcher and an ATGM?
+- What is a recoilless rifle?
+- What is the NAG missile?
+- What is HELINA?
+- What is MPATGM?
+- What is the role of the Carl-Gustaf?
+- What is a tandem warhead?
+- What is explosive reactive armour?
+- How do modern anti-tank weapons defeat reactive armour?
+- What is a top-attack missile, and what is its advantage?
+- What is the difference between man-portable and vehicle-mounted anti-tank systems?
+- What is the role of anti-tank weapons in defence and in attack?
+
+## Phase 7 – Mortars
+- Why are mortars useful to Infantry, and how do they support it?
+- What are the common mortar calibres?
+- What are the roles of the 51 mm, 81 mm and 120 mm mortars?
+- What are a mortar platoon and a mortar detachment?
+- What is high-angle fire, and why are mortars effective against targets behind cover?
+
+## Phase 7 – Artillery Systems
+- What is a self-propelled gun?
+- What is a fire mission?
+- What is precision artillery?
+- What is the Dhanush artillery system?
+- What is the Sharang artillery system?
+- What is ATAGS?
+- What is the M777, and why is it important for mountain warfare?
+- What is the K9 Vajra?
+- What is Pinaka?
+- How is Pinaka different from conventional artillery guns?
+
+## Phase 7 – Tanks & Armoured Systems
+- What are the main components of a modern tank?
+- What is armour protection?
+- What is composite armour?
+- What are a tank's main and secondary armament?
+- What is a tank's fire-control system?
+- What is hunter-killer capability?
+- What is a stabilised gun?
+- What is the T-90 Bhishma?
+- What is the T-72?
+- What is the Arjun Main Battle Tank, and what is the Arjun Mk 1A?
+- What are the major differences between the T-90 and the Arjun?
+
+## Phase 7 – Mechanised Infantry Vehicles
+- What is the BMP-2, and what is its role in the Indian Army?
+- What is the FICV concept?
+- Why does Mechanised Infantry need protected mobility?
+- What is amphibious capability?
+
+## Phase 7 – Air Defence Systems
+- What are short-range and medium-range surface-to-air missiles?
+- What are target detection, tracking and engagement?
+- What are Akash and Akash-NG?
+- What is QRSAM?
+- What is MANPADS?
+- What is the role of air defence against helicopters, aircraft and cruise missiles?
+- What is layered air defence?
+
+## Phase 7 – Radar & Surveillance
+- What is radar, and how does it broadly work?
+- What is the difference between active radar and passive detection?
+- What is radar range?
+- What is radar cross-section?
+- What is ground surveillance radar?
+- What is electro-optical surveillance?
+- Why is surveillance important in modern warfare?
+- How can sensors support an Infantry Battalion?
+
+## Phase 7 – Drones & Counter-Drone Systems
+- What is the difference between a drone, a UAV and a UAS?
+- What are the military applications of drones?
+- What is ISR?
+- How can drones support Infantry, Artillery and ISR, and supplement ground surveillance?
+- What is a loitering munition, and how is it different from a conventional drone?
+- What is a counter-UAS system, and why is it important?
+- What are the broad methods of countering drones?
+- What roles do electronic warfare, radar and electro-optical sensors play against drones?
+
+## Phase 7 – Communication Equipment
+- What is a military radio, and how do manpack and vehicle-mounted radios differ?
+- What is encryption, and why is it important for military communications?
+- What happens if military communications are intercepted?
+- What is a software-defined radio?
+
+## Phase 7 – Soldier Protection & Equipment
+- What is body armour, and what types of ballistic protection exist?
+- What is a ballistic helmet?
+- What is the difference between a bulletproof jacket and a ballistic plate?
+- What is ceramic armour?
+- Why are weight and ergonomics important in soldier equipment?
+- What is the difference between a load-bearing vest and a tactical vest?
+- What is an individual first-aid kit?
+- What does an Infantry soldier normally carry, and what decides his combat load?
+
+## Phase 7 – Military Vehicles & Mobility
+- What are the major categories of military vehicles (logistics, recovery, troop carrier, engineering, all-terrain)?
+- What is a mine-protected vehicle?
+- Why is mobility important to the Army?
+- What are tactical, operational and strategic mobility?
+
+## Phase 7 – Maintenance & Logistics
+- What is the difference between preventive and corrective maintenance?
+- What is the difference between first-line and field maintenance?
+- Why is maintenance especially important for mechanised units?
+- What is battle damage repair?
+- What is ammunition resupply?
+- What is forward logistics?
+- Why are reserve stocks important?
+
+## Phase 7 – Indigenous Defence Production
+- Why is indigenous defence production important for India, and what does Atmanirbhar Bharat mean in defence?
+- What is DRDO's role in developing Army equipment?
+- What is the role of private defence companies?
+- What is the role of Defence Public Sector Undertakings?
+- Why is indigenous production of small arms, ammunition, artillery, missiles, drones and communication systems important?
+- What challenges does India face in indigenous defence production?
+- Why is technology absorption important even when equipment is imported?
+
+## Phase 7 – Weapons Across the Arms
+- Which weapons are mainly used by Infantry, the Armoured Corps, Artillery and Air Defence?
+- How does Signals support weapon systems?
+- What is the difference between a weapon system and a platform?
+- What is network-enabled warfare?
+- How does real-time information improve weapon employment?
+
+## Phase 7 – Lieutenant: Weapons & Equipment
+- As a Lieutenant, which weapons should you know thoroughly?
+- How would you ensure ammunition is properly accounted for?
+- How would you train soldiers in weapon handling?
+- How would you conduct a weapon inspection?
+- What would you do if a soldier mishandled a weapon?
+- What would you do if a weapon malfunctioned during training?
+- What would you do if your platoon lacked essential equipment before an exercise?
+- How would you coordinate with EME and Signals for equipment and communication problems?
+- How would you coordinate with medical staff after a casualty, and with supporting Arms during an operation?
+- Why must an Infantry Lieutenant understand artillery, anti-tank weapons, drones, communications and surveillance?

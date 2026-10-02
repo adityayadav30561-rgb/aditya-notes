@@ -446,3 +446,218 @@
 - How have drones, satellites, AI and precision weapons changed the role of traditional Arms?
 - What does "combat effectiveness" mean to you?
 - If you had two minutes to explain the Indian Army's Arms and Services, how would you structure your answer?
+
+## Phase 3 – Infantry Battalion: Organisation
+- What types of companies are in an Infantry Battalion?
+- What are the major components of Battalion Headquarters?
+- What is the role of the Regimental Medical Officer?
+- What is the role of the Subedar Major?
+- What is the relationship between the CO and the Subedar Major?
+- What is the role of the Battalion Havildar Major?
+- What is the difference between an officer, a JCO and an NCO?
+- What is the approximate strength of an Infantry Battalion?
+- Is every battalion the same strength? What affects it?
+- What is the difference between the CO and the 2IC?
+- What is the difference between the Adjutant and the Quartermaster?
+
+## Phase 3 – Battalion Command & Administration
+- What is command responsibility?
+- What is administrative responsibility?
+- What is operational responsibility?
+- What is the role of Battalion Headquarters during operations?
+- How does the CO receive information from the companies?
+- How does the CO issue orders to the companies?
+- What is a battalion order?
+- What is a briefing?
+- What is a debriefing?
+- What is a situation report?
+- What is a unit routine?
+- Why is training important in a battalion?
+- Why is discipline important in a battalion?
+- Why is morale important in a battalion?
+- What is unit cohesion, and why is it important in combat?
+- What is regimental spirit?
+- How does regimental tradition influence a soldier?
+
+## Phase 3 – Infantry Company
+- What is the role of the Company Havildar Major?
+- What is the approximate strength of a Rifle Company, and what affects it?
+- What is the relationship between a Company Commander and his Platoon Commanders?
+- What is a company-level task?
+- What is a company reserve?
+- What is the difference between a Rifle Company and a Support Company?
+
+## Phase 3 – Platoon in Detail
+- Who assists the Platoon Commander?
+- What is the relationship between the Platoon Commander and the Platoon Havildar?
+- What is the Platoon Commander's role in administration?
+- What must a Platoon Commander know about his men, weapons, terrain and mission?
+- Why are communication and leadership important at platoon level?
+- Why are decision-making and initiative important at platoon level?
+- What is the difference between commanding a platoon in peace and in operations?
+- What is a Platoon Commander expected to do in an emergency?
+- Why is it important to know the strengths and weaknesses of your men?
+- How would a Platoon Commander build trust with his soldiers?
+- How does a Lieutenant earn the respect of experienced soldiers?
+- What mistakes should a young Platoon Commander avoid?
+
+## Phase 3 – Section in Detail
+- What is the role of the Section second-in-command?
+- How many fire teams are in a Section, and why is it divided into them?
+- What is the role of the assistant LMG operator?
+- What is the role of the Section Commander during training?
+- How does a Section receive orders?
+- How does a Section report information?
+- What makes a Section effective?
+
+## Phase 3 – Soldier-Level Knowledge
+- What are the basic responsibilities of an Infantry soldier?
+- What qualities are expected from a soldier?
+- What is fire discipline?
+- What is weapon discipline?
+- What is field discipline?
+- What is the buddy system?
+- Why is teamwork important at soldier level?
+- Why is physical fitness important for Infantry?
+- Why is mental resilience important for Infantry?
+- Why is weapon and equipment maintenance important?
+- Why is map reading important for an Infantry soldier?
+
+## Phase 3 – Infantry Weapons
+- What are the basic categories of Infantry weapons?
+- What is an assault rifle?
+- What is a carbine?
+- What is a Light Machine Gun?
+- What is a Medium Machine Gun?
+- What is a sniper rifle?
+- What is a grenade?
+- What is a rocket launcher?
+- What is an anti-tank guided missile?
+- What is a mortar?
+- What is the difference between a rifle and a machine gun?
+- What is the difference between an LMG and an MMG?
+- What is the difference between a carbine and an assault rifle?
+- Which weapons are normally used at Platoon level?
+- What decides which weapon is issued to a soldier?
+- Why does an Infantry unit need different categories of weapons?
+- What is the purpose of a support weapon?
+- What is the difference between personal and crew-served weapons?
+
+## Phase 3 – Training of an Infantry Unit
+- What is the difference between individual and collective training?
+- What is battle inoculation?
+- What is a battle drill, and why is it important?
+- What is a field exercise?
+- What is a tactical exercise?
+- What is a range or firing practice?
+- What is physical training?
+- What is endurance training?
+- What is weapon training?
+- What is map-reading training?
+- What is field-craft training?
+- What is navigation training?
+- What is communication training?
+- What is night training?
+- How would you assess your platoon's performance?
+
+## Phase 3 – Field Craft & Tactical Basics
+- What is field craft, and what are its major components?
+- What is camouflage?
+- What is concealment?
+- What is the difference between camouflage and concealment?
+- What is observation, and why is it important for an Infantry soldier?
+- What is stalking?
+- What is judging distance?
+- What is target indication?
+- What is fire control?
+- What is movement by bounds?
+- What is a fire position?
+- What is a covered approach?
+- What is dead ground?
+- What is a likely enemy approach?
+- What is a tactical position?
+- What is a listening post?
+- What is an observation post?
+- What is the difference between an OP and an LP?
+
+## Phase 3 – Infantry in Defence
+- What is a defensive operation?
+- What are the basic principles of defence?
+- What is a defensive position?
+- What is a defensive layout?
+- What is an obstacle?
+- What is an anti-tank obstacle?
+- What is a reserve?
+- What is a counter-attack?
+- What is the role of Infantry in defence?
+- What is the role of Signals in defence?
+- Why is depth important in defence?
+- What is all-round defence?
+- What is the difference between a defended locality and a defensive position?
+
+## Phase 3 – Infantry in Offence
+- What is an offensive operation?
+- What are the basic objectives of an offensive?
+- What is an assault?
+- What is an objective?
+- What is a forming-up place?
+- What is an assault group?
+- What is the role of Infantry during an assault?
+- What is consolidation, and why is it important?
+- What is reorganisation after an objective is captured?
+- What is the difference between an assault and an attack?
+- What is the role of reserves during an offensive?
+
+## Phase 3 – Patrolling
+- What is a patrol?
+- Why are patrols conducted?
+- What is a reconnaissance patrol?
+- What is a combat patrol?
+- What is the difference between reconnaissance and combat patrols?
+- What is a standing patrol?
+- What is a fighting patrol?
+- What is the difference between a day patrol and a night patrol?
+- What is a patrol commander?
+- What is a patrol report, and what should it contain?
+- Why are stealth, navigation and communication important on a patrol?
+- What should a patrol do if it meets the enemy?
+- What factors are considered before planning a patrol?
+- What is the difference between a patrol and a reconnaissance party?
+
+## Phase 3 – You as a Platoon Commander
+- What will be your first priority after joining your unit?
+- How will you learn about your platoon?
+- How will you learn from your JCOs and NCOs?
+- How will you establish your authority without misusing your rank?
+- How will you handle an experienced Havildar who knows more practical field craft than you?
+- How will you deal with a soldier who does not respect your authority?
+- How will you correct a soldier's mistake?
+- How will you motivate your platoon?
+- How will you maintain discipline without damaging morale?
+- How will you handle a conflict between two soldiers?
+- What will you do if a soldier repeatedly breaks discipline?
+- What will you do if one of your soldiers performs exceptionally well?
+- How will you prepare your platoon for an exercise?
+- How will you conduct a briefing and a debriefing?
+- How will you report a serious incident to your Company Commander?
+- What would you do if communications failed during an exercise?
+- What would you do if you lost contact with one of your sections?
+- What would you do if your senior gave you an order you did not fully understand?
+- What would you do if you made a mistake as a Platoon Commander?
+
+## Phase 3 – Infantry: IO Cross-Questions
+- What makes an Infantry Battalion combat effective?
+- What makes a good Infantry officer?
+- What is more important for an Infantry officer: physical fitness or mental ability?
+- Why should a Lieutenant know the personal details of his soldiers?
+- What is the difference between leadership and command?
+- What is the difference between discipline and punishment?
+- How would you balance completing the mission with the welfare of your men?
+- What would you do if the mission demanded something very difficult from your platoon?
+- What would you do if your men were physically exhausted?
+- What would you do if one of your soldiers was injured during training?
+- What would you do if your platoon lost a soldier during an operation?
+- What does "men first, mission always" mean?
+- What does "officer leads, JCO guides, NCO executes" mean?
+- What is the relationship between courage and leadership?
+- If you were commissioned as a Lieutenant tomorrow, would you be ready to command soldiers? Why?

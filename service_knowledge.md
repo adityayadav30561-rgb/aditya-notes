@@ -661,3 +661,192 @@
 - What does "officer leads, JCO guides, NCO executes" mean?
 - What is the relationship between courage and leadership?
 - If you were commissioned as a Lieutenant tomorrow, would you be ready to command soldiers? Why?
+
+## Phase 4 – Commission & Joining the Unit
+- What is a commissioned officer, and what does being commissioned mean?
+- What happens after you pass out from OTA and are commissioned?
+- What happens when a newly commissioned officer joins his unit?
+- What is a first appointment?
+- What is the role of a young officer in a unit?
+- What is unit orientation?
+- What should a newly joined officer learn about his unit, battalion and company?
+- What should he learn about the area where his unit is deployed?
+- Why is learning the unit's history important for a young officer?
+- What is esprit de corps?
+- What is the difference between morale and esprit de corps?
+
+## Phase 4 – Role & Authority of a Lieutenant
+- Can a Lieutenant hold an appointment other than Platoon Commander?
+- What are command and staff appointments, and how do they differ?
+- Why are staff appointments important?
+- What authority does a Lieutenant have, and what responsibilities come with it?
+- What is accountability?
+- Can responsibility be delegated? Can accountability?
+
+## Phase 4 – Daily Life of an Officer
+- What does a typical day of a Lieutenant look like?
+- What is morning physical training?
+- What is morning parade?
+- What is an office period?
+- What is an evening roll call?
+- What happens after normal working hours, and which responsibilities continue then?
+- How does an officer's routine change during an exercise, field deployment and operations?
+- How does an officer stay physically fit in unit life?
+- How does an officer keep his professional knowledge up to date?
+- How does an officer balance personal and professional responsibilities?
+- What is the difference between peace-station life and field life?
+- What is the difference between field life and operational deployment?
+- What are the major challenges of an Army officer's lifestyle?
+
+## Phase 4 – Platoon Commander's Work
+- How does a Platoon Commander receive and issue orders?
+- How does a Platoon Commander report to his Company Commander?
+- How does a Platoon Commander assess individual soldiers?
+- How does a Platoon Commander ensure his equipment is ready?
+
+## Phase 4 – Leadership
+- What is leadership, and what is military leadership?
+- What is command?
+- What is influence?
+- What does "lead by example" mean, and why is it important in the Army?
+- Should an officer expect obedience because of his rank?
+- What is the difference between obedience and commitment?
+- How should an officer handle disagreement from his subordinates?
+- How should an officer handle criticism?
+- What is decisiveness, and why is it important in military leadership?
+- What is the difference between moral courage and physical courage?
+- What is professional integrity, and why is it important for an officer?
+- What is humility in military leadership?
+- How does an officer lose the trust of his men, and how can he rebuild it?
+
+## Phase 4 – Men Management
+- What is men management, and why is it important for an officer?
+- How can an officer understand the problems of his men?
+- How should an officer deal with a soldier facing financial difficulties?
+- How should an officer deal with a soldier with low morale?
+- How should an officer avoid favouritism and ensure fairness?
+- How should an officer balance empathy and discipline?
+- What is soldier welfare, and how does it affect operational effectiveness?
+- Why is listening to soldiers important?
+- How does an officer maintain the dignity of his men?
+- How does an officer build cohesion within his platoon?
+
+## Phase 4 – JCOs & NCOs
+- What is a JCO?
+- What are the JCO ranks?
+- What is an NCO?
+- What are the NCO ranks?
+- What is the role of a JCO?
+- What is the role of an NCO?
+- What should the relationship between an officer and his JCOs and NCOs be, and why is it important?
+- What should an officer do if he disagrees with a JCO?
+
+## Phase 4 – Training Soldiers
+- What is a training programme?
+- How would you identify and correct a training deficiency?
+- What is an after-action review?
+- Why is feedback important after training?
+- Why is safety important during training?
+- What would you do if you saw an unsafe training practice?
+
+## Phase 4 – Administration
+- What is military administration, and why is it important?
+- What is personnel administration?
+- What is leave management?
+- What is documentation, and why are accurate records important?
+- What is stores management?
+- What is equipment accounting?
+- What is ammunition accounting?
+- What is vehicle management?
+- What is accommodation management?
+- What is resource management?
+- Why is accountability for government property important?
+- What happens when military equipment is lost or damaged?
+- What are inspections and audits, and why are they important?
+
+## Phase 4 – Discipline & Military Law
+- What is military discipline?
+- What is an act of indiscipline?
+- How should an officer handle minor and serious indiscipline?
+- What is the difference between a lawful and an unlawful order?
+- What should an officer do if given an unlawful order?
+- Why must soldiers obey lawful orders?
+- What is military law?
+- What is the Army Act?
+- What is a Court Martial?
+- What is the difference between administrative and disciplinary action?
+- Can an officer punish a soldier?
+- What is procedural fairness?
+- Why should discipline be applied consistently?
+- Why does discipline matter in peace, and why does it matter even more in operations?
+
+## Phase 4 – Officer–Soldier Relationship
+- What should the relationship between an officer and his soldiers be?
+- Should an officer be friendly with his soldiers?
+- What is the difference between being approachable and being over-familiar, and why keep professional boundaries?
+- How can an officer stay approachable while maintaining authority?
+- Why is mutual respect important?
+
+## Phase 4 – Operational Responsibilities
+- What is mission analysis?
+- What is an appreciation of the situation?
+- What is an operational order?
+- What is a tactical plan?
+- What is a contingency plan, and why is contingency planning important?
+- What information does an officer need before carrying out a task?
+- What is situational awareness, and why is it important?
+- Why is reporting important?
+- What is the difference between information and intelligence?
+- What should an officer do when the situation changes unexpectedly?
+- Why is it important to know where all your men are?
+- Why is casualty management important?
+- What should an officer do after completing an operation? What is an operational debrief?
+- Why is learning from previous operations important?
+
+## Phase 4 – Career & Professional Development
+- What are the commissioned officer ranks in the Indian Army?
+- What is the normal progression from Lieutenant onwards?
+- How does an officer's responsibility increase with rank?
+- What are professional military courses, and why are they important for an officer's career?
+- Why is continuous professional development important?
+- What is the role of experience in becoming a better commander?
+- How does an officer prepare for higher command?
+
+## Phase 4 – Situational IO Questions
+- Your best soldier repeatedly breaks discipline. What will you do?
+- An experienced JCO tells you your plan is impractical. How will you respond?
+- Your subordinate makes a mistake and tries to hide it. What will you do?
+- Before an exercise, you find your platoon's equipment has not been properly maintained. What will you do?
+- A soldier refuses to follow a lawful order. What will you do?
+- You see another officer treating soldiers unfairly. What will you do?
+- Your senior takes credit for work done by your platoon. How will you respond?
+- One of your soldiers performs exceptionally well but gets no recognition. What will you do?
+- Your soldiers like you personally, but discipline is slipping. What does this indicate?
+- You are given incomplete information before an important task. What will you do?
+- You realise your decision was wrong after issuing an order. What will you do?
+- You are asked to take responsibility for something you did not do. How will you respond?
+- Your subordinate has a better solution than yours. What will you do?
+- Your platoon succeeds because of an idea from one of your soldiers. How will you handle the credit?
+- What would you do if you realised you were not performing well as an officer?
+
+## Phase 4 – SSB Personal Cross-Questions
+- Why not join through another entry?
+- Why do you want to be an officer rather than a soldier?
+- What attracts you to the life of an Army officer?
+- What do you understand about an Army officer's responsibilities?
+- What do you think will be the hardest part of Army life?
+- Are you prepared for difficult terrain and field postings?
+- Are you prepared for long separation from your family?
+- What qualities must an Army officer have?
+- Which of these qualities do you already have?
+- Which qualities do you need to develop?
+- What would your Company Commander expect from you?
+- What would your JCO expect from you?
+- What would you expect from your soldiers?
+- What does leadership mean to you?
+- What does responsibility mean to you?
+- What does discipline mean to you?
+- What does integrity mean to you?
+- What does courage mean to you?
+- What does "Service Before Self" mean to you?
+- What would make you a dependable Army officer?

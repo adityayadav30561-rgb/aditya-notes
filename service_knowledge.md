@@ -850,3 +850,158 @@
 - What does courage mean to you?
 - What does "Service Before Self" mean to you?
 - What would make you a dependable Army officer?
+
+## Phase 5 – Soldier Basics
+- What is battle craft?
+- What is equipment discipline?
+- What are battle readiness and operational readiness?
+
+## Phase 5 – Fieldcraft
+- What is recognition and identification?
+- How is movement by day different from movement by night, and what are the challenges of night movement?
+- What is noise discipline?
+- What is light discipline?
+- What is track discipline?
+- What is ground appreciation?
+- What are high ground and low ground?
+- What is an exposed approach?
+- What makes a good tactical position?
+
+## Phase 5 – Camouflage & Concealment
+- What are the basic principles of camouflage and concealment?
+- How can a soldier avoid being detected while moving?
+- Why should natural surroundings be used for concealment?
+- Why are unnecessary movement, silhouette, shine, unnatural colour and noise dangerous?
+- What is camouflage discipline, and why must it be kept up during an operation?
+
+## Phase 5 – Observation & Sentry Duties
+- What should a soldier observe in unfamiliar terrain?
+- What is a reference point?
+- What is a reference line?
+- What information should be passed when reporting an observation?
+- What is a sentry, and what are a sentry's responsibilities?
+- What is a sentry post?
+- What is a challenge?
+- What is an alert state?
+- Why is sentry duty important, and why must a sentry stay vigilant?
+- What should a sentry observe and report?
+- Why is night observation important?
+- What is a perimeter, and what is perimeter security?
+- How can a platoon maintain all-round observation?
+
+## Phase 5 – Weapon Knowledge
+- What is a pistol?
+- What is an anti-tank weapon?
+- What is the role of the assault rifle, LMG and MMG?
+- What is the role of a sniper?
+- What is the role of grenades and anti-tank weapons?
+- What factors decide how a weapon is employed?
+- What is the difference between effective range and maximum range?
+- What is rate of fire?
+- What is the difference between accuracy and precision?
+- What is stopping power?
+- What is ammunition, and what are the basic types used by Infantry weapons?
+
+## Phase 5 – Weapon Handling & Safety
+- What are the basic principles of weapon safety?
+- Why must every weapon be treated as loaded?
+- What is muzzle discipline?
+- What is trigger discipline?
+- Why must a soldier know his target and what lies beyond it?
+- Why should a soldier never point a weapon at anything he does not intend to engage?
+- What is a safety catch?
+- What is a magazine?
+- What is a chamber?
+- What is a firing mechanism?
+- What is the difference between a stoppage and a malfunction?
+- What is immediate action?
+- Why are weapon cleaning and lubrication important?
+- What is a weapon inspection, and why is it done regularly?
+
+## Phase 5 – Section & Platoon Control
+- How does a Section Commander control his Section?
+- How does a Platoon Commander control his Sections?
+- Why is coordination between Sections important?
+- What is the role of a reserve at Platoon level?
+- How does a Section contribute to the Platoon's task, and a Platoon to the Company's?
+- What happens if one Section fails to perform its task?
+- Why must a Platoon Commander understand Section-level functioning and each soldier's role?
+
+## Phase 5 – Movement
+- What are the basic principles of movement in the field?
+- What is a movement formation, and why are formations used?
+- What decides which formation is adopted?
+- What is the difference between movement and manoeuvre?
+- What is the difference between tactical and administrative movement?
+- What are interval and distance, and why are they important during movement?
+- How do terrain and enemy threat affect movement?
+
+## Phase 5 – Fire & Movement
+- What is fire and movement, and why is it important?
+- How do fire and movement complement each other?
+- What are the manoeuvre element and the support element?
+- How does a Section conduct fire and movement?
+- How does a Platoon coordinate fire and movement?
+- What is the difference between covering fire and suppressive fire?
+- What happens if fire and movement are poorly coordinated?
+
+## Phase 5 – Communication
+- What are the basic means of military communication?
+- What is radio procedure?
+- What is a call sign?
+- What is a communication net?
+- What is radio discipline?
+- Why is brevity important in military communication?
+- What is authentication?
+- What is a communication plan?
+- What alternative communication methods can be used, and why should a Platoon Commander have a backup?
+- Why are clear orders important, and what makes a military order effective?
+
+## Phase 5 – Map Reading & Navigation
+- What is a military map?
+- What is a grid reference?
+- What are four-figure and six-figure grid references?
+- What is a contour line, and what is a contour interval?
+- What is a bearing?
+- What is the difference between a bearing and an azimuth?
+- What is the difference between a magnetic bearing and a grid bearing?
+- What is magnetic variation?
+- What is a prismatic compass used for?
+- What is dead reckoning?
+- What is navigation by terrain association?
+- What is an aiming-off point?
+- What is a route card?
+- Why is navigation especially important at night?
+- What happens if a patrol loses its way?
+
+## Phase 5 – Patrolling (Additional)
+- What equipment does a patrol need?
+- What should a patrol do if communication fails?
+- What should a patrol do after completing its task? What is a patrol debrief?
+
+## Phase 5 – Defence & Offence (Additional)
+- What is mutual support, and why is it important?
+- What is a defensive fire plan?
+- What is a start line?
+- What factors must a commander consider before an attack?
+
+## Phase 5 – Platoon-Level Decision Making
+- What should a Platoon Commander consider before accepting a task?
+- What is the commander's intent, and why is it important to understand it?
+- What should a Platoon Commander do if his original plan becomes impossible?
+- What should a Platoon Commander do if communication with Company is lost?
+- What should a Platoon Commander do if a soldier becomes a casualty during an operation?
+- What should a Platoon Commander do if ammunition runs low?
+- What should a Platoon Commander do if equipment fails?
+
+## Phase 5 – Lieutenant: Practical Questions
+- How will you ensure your soldiers maintain their weapons?
+- How will you keep your platoon physically fit?
+- How will you prepare your platoon for a night exercise?
+- How will you train and assess your soldiers in fieldcraft?
+- How will you ensure communication within your platoon?
+- How will you maintain navigation skills within your platoon?
+- What will you do if a soldier repeatedly breaks safety procedures?
+- What will you do if one Section consistently performs below standard?
+- What will you do if one Section performs much better than the others?
+- What will you do if your platoon is ordered to do a task it has not trained for?

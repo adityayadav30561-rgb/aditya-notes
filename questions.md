@@ -1322,7 +1322,7 @@
 - What is geospatial technology, and how is it used in defence?
 
 ## PIQ 15 – B.Tech: Leaving IT
-- Why the Navy specifically?
+- Why the Army specifically?
 - What if you get a better-paying IT offer?
 - Do you consider your IT career a backup?
 - Which skills from IT will help you as an officer?
@@ -1500,7 +1500,7 @@
 - If you enjoy it, why do you want to join the Armed Forces?
 - What does your current job give you that military service doesn't?
 - Why do you want to be an officer?
-- What would you miss about your current career if you joined the Navy?
+- What would you miss about your current career if you joined the Army?
 
 ## PIQ 17 – Occupation: Self-Awareness
 - What is your biggest strength as an employee?

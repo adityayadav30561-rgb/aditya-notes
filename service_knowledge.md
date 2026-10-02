@@ -1455,3 +1455,249 @@
 - You get the chance to attend an advanced course. How will you prepare?
 - You are posted to a new role outside your comfort zone. How will you approach it?
 - You are asked to train personnel from another Arm. What will you need to understand first?
+
+## Phase 9 – Warfare Concepts
+- What is a military operation, and what are its broad types?
+- What is unconventional warfare?
+- What is the difference between limited war and total war?
+- What is hybrid warfare?
+- What is asymmetric warfare?
+- What is the difference between manoeuvre warfare and attrition warfare?
+- What is deterrence?
+- What is the difference between strategic deterrence and conventional deterrence?
+- What is escalation, and what is escalation control?
+- What is military preparedness?
+- What are mobilisation and demobilisation?
+- What is operational art?
+- What is military doctrine?
+- What is the difference between strategy, operations and tactics?
+- What are a theatre of operations and an area of operations?
+- What is a line of communication?
+- What is the difference between a ceasefire and an armistice?
+- What is a military standoff?
+- What is a military crisis, and what is crisis management?
+- What factors influence the outcome of a military operation?
+
+## Phase 9 – Offensive & Defensive Concepts
+- What is an advance?
+- What is a withdrawal?
+- What is the difference between a counter-attack and a counteroffensive?
+- What is an operational reserve, and why are reserves maintained?
+- What are firepower and protection?
+- What are concentration of force and economy of force?
+- What is surprise, and why is it important?
+- What is deception?
+- What is battlefield transparency?
+- What is battlefield management?
+- Why are terrain and weather important in military planning?
+- What is the role of leadership in combat?
+
+## Phase 9 – Conventional Warfare
+- What is conventional warfare, and which forces take part in it?
+- How does air power influence land operations?
+
+## Phase 9 – Counter-Insurgency
+- What are insurgency and counter-insurgency?
+- How is insurgency different from conventional warfare?
+- What are the broad causes of insurgency?
+- Why is intelligence especially important in counter-insurgency and counter-terrorism?
+- Why is local population support important, and what is population-centric counter-insurgency?
+- What are the roles of the civil administration and intelligence agencies in counter-insurgency?
+- What is the Army's role in counter-insurgency?
+- How does the Army coordinate with the police in counter-insurgency?
+- Why is information management important in CI operations?
+- Why is restraint important in counter-insurgency?
+- What is the difference between counter-insurgency and counter-terrorism?
+- What is civic action, and how does it support security operations?
+- What challenges does a soldier face in CI operations?
+- Which leadership qualities matter most for an officer in CI operations?
+
+## Phase 9 – Counter-Terrorism
+- What are terrorism and counter-terrorism?
+- What is the Army's role in counter-terrorism?
+- What is the role of the police and specialised forces in counter-terrorism?
+- Why is inter-agency coordination important?
+- Why are public safety, precision and restraint important in CT operations?
+- What is the role of technology in counter-terrorism?
+- Why is border security important in preventing terrorism?
+- What is counter-radicalisation?
+- What is terrorist financing?
+- Why is international cooperation important in counter-terrorism?
+- How should an officer balance mission requirements with protecting civilians?
+- Why is verifying information important in CT operations?
+- What lessons can be learned from India's counter-terrorism experience?
+
+## Phase 9 – Border Security & Counter-Infiltration
+- What are infiltration and counter-infiltration?
+- Why is border surveillance important, and how does technology help?
+- What is the difference between border management and border security?
+- Which agencies contribute to India's border management?
+- What is the Army's role along India's sensitive borders?
+- What is the role of the Border Security Force?
+- How does the Army coordinate with other border forces?
+- What challenges does difficult terrain create for border security?
+- Why is infrastructure along India's borders important?
+- What is a ceasefire violation?
+- What is the Line of Control, and why is it significant?
+- How is the Line of Control different from an international border?
+- What is the Line of Actual Control, and how is it different from the LoC?
+
+## Phase 9 – Mountain & High-Altitude Warfare
+- What is mountain warfare, and why is it difficult?
+- What is high-altitude warfare?
+- What challenges does altitude create for soldiers?
+- How does acclimatisation affect soldiers?
+- Why is logistics difficult in high-altitude areas?
+- Why are weather and terrain knowledge important in mountain operations?
+- What is the strategic importance of high-altitude areas?
+- What is the Siachen Glacier, and why is it strategically important?
+- What is Operation Meghdoot, when was it launched, and why was it significant?
+- What challenges do soldiers deployed in Siachen face?
+- Why are specialised clothing, equipment and medical support important at high altitude?
+- What leadership challenges does a Lieutenant face commanding troops in difficult terrain?
+
+## Phase 9 – Desert Warfare
+- What is desert warfare, and what are the main features of desert terrain?
+- What challenges does desert terrain create for soldiers?
+- Why are mobility and armoured forces important in desert warfare?
+- What roles do infantry and artillery play in desert operations?
+- Why are logistics and water management critical in desert operations?
+- How does extreme temperature affect soldiers and equipment?
+- Why is vehicle maintenance important in desert conditions?
+- What role does the Army's training in Rajasthan play?
+- How does desert warfare differ from mountain warfare?
+
+## Phase 9 – Jungle Warfare
+- What is jungle warfare, and what challenges does dense jungle create?
+- Why are visibility and navigation difficult in jungle terrain?
+- Why is jungle warfare training important, and which Army institutions specialise in it?
+- What is CIJWS, where is it located, and what is its purpose?
+- Why is small-unit leadership important in jungle operations?
+- What role does local knowledge play in jungle operations?
+- How does jungle warfare differ from high-altitude warfare?
+
+## Phase 9 – Urban Warfare
+- What is urban warfare, and why is it so complex?
+- What challenges do dense civilian populations create?
+- Why are civilian protection and collateral damage major concerns in urban operations?
+- What is the role of specialised forces in urban counter-terrorism?
+- What challenges does an officer face in a built-up area?
+- What is the difference between urban warfare and open-terrain warfare?
+- Why are rules of engagement important in urban operations?
+- What lessons can be learned from major urban security operations?
+
+## Phase 9 – Information, Cyber, Electronic & Space Warfare
+- What are information warfare and psychological warfare?
+- What are information operations?
+- What is the difference between misinformation and disinformation?
+- What is propaganda?
+- How can information influence military operations?
+- Why is media management important during military operations?
+- What is cyber warfare, and how is it different from conventional warfare?
+- Why is cyber security important for the Armed Forces?
+- What is electronic warfare?
+- What are electronic surveillance, electronic support and electronic attack?
+- What is space warfare, and why is space becoming important for national security?
+- Why are satellites important, and how do they support communications, navigation and surveillance?
+- What is multi-domain warfare?
+- How can an Army officer contribute to information security at unit level?
+
+## Phase 9 – HADR & Aid to Civil Authorities
+- What is Humanitarian Assistance and Disaster Relief?
+- What is the Army's role in natural disasters, and why is it often called in?
+- What types of disasters may need Army assistance?
+- What is the Army's role during floods, earthquakes and landslides?
+- What are the roles of medical units and Army Aviation in disaster relief?
+- How does the Army coordinate with the civil administration during disasters?
+- What is the National Disaster Management Authority?
+- What is the role of the NDRF, and how does the Army coordinate with it?
+- What is Military Assistance to Civil Authorities, and when can civil authorities request it?
+- Why are speed and discipline important in disaster relief?
+- Which leadership qualities does an officer need during HADR?
+
+## Phase 9 – UN Peacekeeping
+- What is UN peacekeeping, and what is a peacekeeping mission?
+- What is the difference between peacekeeping and peace enforcement?
+- Who authorises UN peacekeeping missions?
+- What are the basic principles of UN peacekeeping?
+- What do impartiality, consent of the parties and minimum use of force mean?
+- Why has India contributed to UN peacekeeping, and what has its contribution been?
+- Which types of Indian personnel serve in UN missions?
+- What challenges can Indian soldiers face on UN peacekeeping?
+- How is a UN deployment different from a normal Army deployment?
+- What is an officer's role in a UN mission?
+- Why is cultural awareness important in peacekeeping and among civilian populations?
+- Why is communication important in multinational forces?
+- What is the role of women personnel in UN peacekeeping?
+- Which major UN missions have Indian personnel served in?
+- What qualities does an Indian Army officer need for multinational peacekeeping?
+
+## Phase 9 – Important Indian Military Operations
+- What was the purpose of Operation Polo?
+- What was Operation Vijay of 1961?
+- What was Operation Cactus?
+- What was Operation Pawan, and why was the IPKF deployed in Sri Lanka?
+- What was Operation Rajiv?
+- What was Operation Vijay of 1999 (the Kargil conflict)?
+- Why is the Kargil conflict important in Indian military history?
+- What was Operation Safed Sagar?
+- What was Operation Parakram, and what led to it?
+- What role did the Indian Army play in Kargil?
+- What role did artillery play in Kargil?
+- Why was logistics important in Kargil?
+- What leadership lessons can be drawn from Kargil?
+- What lessons did India learn from Kargil, and how have they shaped its preparedness?
+
+## Phase 9 – Law of Armed Conflict & Rules of Engagement
+- What are International Humanitarian Law and the Law of Armed Conflict?
+- Why does the military operate under legal restrictions in war?
+- What are the Geneva Conventions, and what is their purpose?
+- Who is a combatant and who is a non-combatant?
+- What is a prisoner of war, and how should POWs be treated?
+- What is distinction in armed conflict?
+- What is proportionality?
+- What is military necessity?
+- What is unnecessary suffering?
+- What are Rules of Engagement, and why are they important?
+- Who sets Rules of Engagement, and can they vary between missions?
+- What are the consequences of violating military law during operations?
+- How should an officer balance mission requirements with legal and ethical obligations?
+
+## Phase 9 – Civil-Military Cooperation
+- What is civil-military cooperation?
+- What is the role of the district administration in a security crisis?
+- How does the Army coordinate with the CAPFs?
+- What is the Army's role in internal security assistance?
+- What is the difference between military operations and assistance to civil authorities?
+- Why must the Army respect civil authority during assistance operations?
+- What challenges can arise between military and civil agencies?
+- How can an officer maintain effective coordination with civil officials?
+
+## Phase 9 – Joint & Inter-Service Operations
+- What is a joint operation?
+- What is the difference between jointness and integration?
+- What roles do the Army, Navy and Air Force play in joint operations?
+- What is the role of the Indian Coast Guard in national security?
+- What are the advantages and challenges of joint operations?
+- Why is interoperability between the three Services important?
+- What is the role of the Chief of Defence Staff?
+- What is the Department of Military Affairs?
+- Why is theatre-level integration being discussed in India?
+- How can an Army Lieutenant contribute to jointness at his level?
+
+## Phase 9 – Lieutenant: Operational Leadership
+- How would you prepare your platoon for a difficult operational deployment, and what would you prioritise?
+- How does a Lieutenant keep communication with his Company Commander, JCOs and NCOs?
+- Your platoon has been deployed for months and morale is falling. What would you do?
+- How should a Lieutenant deal with conflicting information?
+- What should a Lieutenant do when his men are uncertain about a situation?
+- What is the difference between leading from the front and exposing yourself unnecessarily?
+- What would you do if one of your soldiers loses confidence during an operation?
+- A senior NCO disagrees with your decision in front of the men. What would you do?
+- Your platoon has men from different regions and languages. How would you maintain cohesion?
+- You are posted in a high-altitude area. What additional responsibilities would you consider?
+- You are posted in a counter-insurgency area. What would you consider especially important?
+- You are asked to help civil authorities during a major disaster. How would you organise your platoon?
+- Your unit is in a joint exercise with another Service. What would you focus on?
+- You are sent on a UN peacekeeping mission. What would you need to understand before deploying?
+- As a Lieutenant, what kind of leader would you want your soldiers to remember you as?

@@ -1849,3 +1849,182 @@
 - How would you build rapport with local people while staying professional?
 - Why should a Lieutenant understand India's geography, and how would it help him as a Platoon Commander?
 - How does geography influence military doctrine?
+
+## Phase 11 – Jointness & Higher Defence Organisation
+- What are the three Services of the Indian Armed Forces, and what are their primary roles?
+- Why is information sharing between the Services important?
+- Why was the CDS post created, and what are its broad responsibilities?
+- Who heads the Department of Military Affairs, and what is its role?
+- How is the CDS different from the three Service Chiefs? Does the CDS replace them, and how do they work together?
+- What are the roles of the Chief of Naval Staff and the Chief of Air Staff?
+- What is the role of the Defence Minister?
+- What is the National Security Council?
+- What is the role of the National Security Adviser?
+
+## Phase 11 – Theatre Commands
+- What is a theatre command, and what is the basic idea behind theatreisation?
+- What are the potential advantages and challenges of theatre commands?
+- How could theatre commands improve joint planning, logistics and resource use?
+- What is a theatre commander?
+- What is the difference between a service command and a theatre command?
+- What challenges could arise from integrating personnel from different Services?
+- Why is organisational reform difficult in large militaries?
+- What should be considered before restructuring military commands?
+- How can joint training and technology support theatreisation?
+- What should a young officer understand about theatreisation?
+
+## Phase 11 – Modernisation
+- What does Army modernisation mean, and why does it need to be continuous?
+- What factors drive military modernisation?
+- What are capability development and military transformation?
+- Why is acquiring more weapons not the same as modernisation?
+- Why are training and doctrine important in modernisation?
+- Why is research and development important for defence?
+
+## Phase 11 – Make in India & Defence Procurement
+- What is the objective of Make in India in defence?
+- What is the difference between indigenous production and indigenous design, and why does design capability matter?
+- What is technology transfer, and why is it important in defence?
+- What are defence offsets, and why are they used?
+- What is the Defence Acquisition Procedure?
+- Why is defence procurement different from normal procurement, and why does it take so long?
+- What factors must be considered when acquiring military equipment?
+- What are lifecycle cost and maintainability?
+- Why is standardisation important?
+- What is obsolescence, and why must the Army replace obsolete equipment?
+- Why is domestic maintenance capability important?
+- Why is supply-chain security important, and how can dependence on foreign suppliers create strategic problems?
+
+## Phase 11 – Drones & Unmanned Systems
+- How can drones support logistics?
+- What is drone warfare, and why have drones become so important?
+- What are the advantages of small drones, and what are the limitations of drones?
+- What challenges do drone swarms create?
+
+## Phase 11 – Artificial Intelligence in Defence
+- What is Artificial Intelligence?
+- How can AI support intelligence, surveillance and decision-making?
+- How can AI help logistics and predictive maintenance?
+- What are autonomous warfare and autonomous weapons?
+- What ethical concerns do autonomous weapons raise?
+- What are the limits of AI in military decision-making, and why is human oversight important?
+- What is machine learning?
+- What is computer vision, and how could it help battlefield surveillance?
+- What is predictive analytics, and how could it support logistics?
+- What risks arise from inaccurate AI systems?
+- Why is cybersecurity important for military AI and robots?
+- Should a military officer understand basic AI concepts? Why?
+
+## Phase 11 – Cyber Security
+- What is cyberspace?
+- What is cyber security?
+- Which military systems depend on digital networks, and why must they be protected?
+- What is a cyberattack?
+- What are malware, phishing and ransomware?
+- What are data theft and cyber espionage?
+- What is critical information infrastructure, and why is it vulnerable to cyber threats?
+- Why is cyber resilience important?
+- What is cyber hygiene, and why should an Army officer understand it?
+- How can human error create cybersecurity risks?
+- Why is cybersecurity a leadership responsibility as well as a technical one?
+
+## Phase 11 – Electronic Warfare
+- What is electronic protection, and why is it important?
+- Why is the electromagnetic spectrum important in warfare and for military communications?
+- What is spectrum management?
+- What are jamming and spoofing, and how do they differ?
+- Why is electronic warfare becoming more important?
+- How does electronic warfare interact with cyber warfare?
+- What challenges does electronic warfare create for command and control?
+- Why are redundancy, resilience and backup systems important in military communication?
+
+## Phase 11 – Space
+- What is anti-satellite capability?
+- Why are satellites vulnerable during conflict?
+- What is space situational awareness, and why is it important?
+- What is India's role in military space capabilities?
+- What is the Defence Space Agency?
+- What is ISRO's role in India's strategic capabilities?
+- How can civilian space technology support defence?
+- Why is space becoming a contested domain?
+- How does space support land, maritime and air operations?
+
+## Phase 11 – Network-Centric Warfare & Digitisation
+- Why is information superiority important?
+- What is a common operating picture?
+- What is battlefield digitisation?
+- What are the risks of depending too much on digital systems and technology?
+- What is data fusion, and why is it important?
+- What is sensor-to-shooter connectivity?
+- What is command-and-control architecture?
+- Why is speed of decision-making important, and how could technology affect it?
+- What is the OODA loop, and why is it relevant to military leadership?
+
+## Phase 11 – Robotics & Autonomous Systems
+- What are military robots and unmanned ground vehicles, and where are they useful?
+- How can robots reduce risk to soldiers?
+- What are the limitations of military robots, and why can they not fully replace soldiers?
+- How can robotics support logistics, surveillance and explosive ordnance disposal?
+- What is human-machine teaming, and what are its advantages?
+- Why is reliability important in autonomous systems?
+- What happens if an autonomous system loses communication?
+- How might robotics change the role of soldiers, logistics and reconnaissance?
+
+## Phase 11 – Precision Weapons & Modern Fires
+- How is precision warfare different from area-effect warfare, and why has precision become important?
+- How is artillery being modernised?
+- Why are long-range fires important?
+- What are guided rockets?
+- What is the difference between ballistic missiles and cruise missiles?
+- What is a surface-to-surface missile?
+- What is a missile defence system?
+- Why is precision targeting technologically demanding, and why does it need intelligence and surveillance?
+- Why is target identification important?
+- Why must modern fires be integrated with other military capabilities?
+
+## Phase 11 – Future Battlefield
+- What will define the battlefield of the future?
+- What are the major domains of modern warfare?
+- How will drones, AI, cyber and space shape future warfare?
+- Why will information become a strategic resource?
+- Why will human leadership remain important despite technology?
+- What qualities will future officers need to stay relevant?
+- Why will adaptability become increasingly important?
+- What is the human element in warfare?
+- How could technology affect the traditional chain of command?
+
+## Phase 11 – Military Ethics & Technology
+- What is military ethics, and why is it important in modern warfare?
+- Who is responsible for decisions made with AI assistance? Can technology remove moral responsibility?
+- Why is accountability important in military technology?
+- What ethical challenges arise from surveillance technology and cyber warfare?
+- What should an officer do if technology gives information that seems wrong, and why should he not blindly trust automated systems?
+- How can technology affect civilian protection?
+- Why is disciplined use of technology essential in the Armed Forces?
+
+## Phase 11 – You & Modern Technology
+- As a Lieutenant, how would you keep up with military technology?
+- How would you explain the importance of technology to your soldiers?
+- What if your soldiers resist new technology?
+- How would you train soldiers to use unfamiliar equipment?
+- What would you do if new equipment increased workload instead of reducing it?
+- How would you balance traditional soldiering skills with technological skills?
+- How would you maintain morale when technology changes established procedures?
+- How would you encourage continuous learning among your soldiers?
+- Which military technology interests you most, and what would you like to learn more about?
+- How can your Computer Science background help you as an Army officer?
+- What limitations would your technical background have in military leadership?
+- Why should a technically strong officer still develop field skills?
+- How would you make sure technology supports your soldiers rather than replacing sound judgement?
+
+## Phase 11 – Final IO Cross-Questions
+- Why does the Indian Army need modernisation when it already has a large force?
+- What is more important for a military: manpower or technology?
+- Can technology replace a soldier?
+- Can AI replace military commanders?
+- What is the biggest challenge in modernising a large military?
+- What is the biggest advantage of jointness, and the biggest challenge of integrating three Services?
+- If you are technically strong, why should the Army select you as an officer rather than as a civilian technical professional?
+- Which emerging technology will have the greatest impact on warfare?
+- If all digital systems fail, what should a military still be able to do?
+- If you become a Lieutenant, how will you prepare for the future battlefield?

@@ -1510,3 +1510,94 @@
 - Which professional habit are you trying to improve?
 - What did you struggle with at first but later improve?
 - What mistake taught you an important lesson?
+
+## PIQ 18 – Powerlifting
+- What is powerlifting?
+- Why did you choose powerlifting?
+- When did you start powerlifting?
+- Why did you compete in 2022?
+- What are the three lifts in powerlifting?
+- What is a squat?
+- What is a bench press?
+- What is a deadlift?
+- Which lift is your strongest?
+- What was your squat at the competition?
+- What was your bench press?
+- What was your deadlift?
+- What was your total?
+- What was your body weight at the competition?
+- What are weight classes?
+- What does open category mean?
+- Why did you compete in the open category?
+- What was your overall position?
+- How did you qualify to represent your college?
+- What was the competition called, and where was it held?
+- Which university organised the meet?
+
+## PIQ 18 – Powerlifting: 1st in Squat
+- What exactly does "1st in squat" mean?
+- Was it 1st in the squat event or 1st overall?
+- How many participants were in your category?
+- What were your three squat attempts?
+- What was your best successful squat?
+- What did the second-place competitor lift?
+- What are the rules for a valid squat?
+- Why can a squat attempt be declared invalid?
+- What happens if you fail an attempt?
+- What was your personal best before the competition?
+- Was your competition lift also your personal best?
+
+## PIQ 18 – Powerlifting: Terms
+- What is an attempt, and how is the total calculated?
+- What is a personal best (PB)?
+- What is 1RM?
+- What equipment is used in powerlifting?
+- What are the rack and the spotter for?
+- What does the referee do?
+- What are the competition commands?
+- Why are warm-up sets important?
+
+## PIQ 18 – Powerlifting: Training
+- How did you train for the competition?
+- How many days a week did you train?
+- What was your workout structure?
+- How did you progressively increase the weight?
+- Did you have a coach?
+- How did you prevent injury?
+- What did you eat during your preparation?
+- How important was sleep for your training?
+- How did you manage training when your college workload increased?
+- Did you ever get injured?
+- What was the hardest part of your preparation?
+
+## PIQ 18 – Powerlifting: Representing College
+- How were you selected, and who selected you?
+- What role did your college play?
+- Who else represented your college?
+- Did you train together?
+- Did you help your teammates?
+- What responsibility comes with representing your college?
+- How did it feel to represent your college?
+- What did you learn from competing against athletes from other colleges?
+- Was there a team manager or coach?
+- How did you behave after winning?
+
+## PIQ 18 – Powerlifting: Pressure Situations
+- You are attempting more than your personal best and have only one attempt left. What will you do?
+- You fail your first attempt. What next?
+- Your competitor lifts more than you. How do you respond?
+- You are injured shortly before the competition. Will you compete?
+- You trained hard but performed poorly on competition day. What do you do?
+- Your teammate is nervous before his attempt. What will you tell him?
+
+## PIQ 18 – Powerlifting: Personal
+- Did you continue powerlifting after 2022? Why or why not?
+- Do you still train?
+- What are your current squat, bench press and deadlift?
+- What has changed since 2022?
+- What did powerlifting teach you?
+- Did it change your personality?
+- What was your biggest mistake in training?
+- What was your biggest achievement apart from winning?
+- Why didn't you pursue powerlifting professionally?
+- Would you choose powerlifting over another sport?

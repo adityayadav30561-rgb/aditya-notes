@@ -1701,3 +1701,151 @@
 - Your unit is in a joint exercise with another Service. What would you focus on?
 - You are sent on a UN peacekeeping mission. What would you need to understand before deploying?
 - As a Lieutenant, what kind of leader would you want your soldiers to remember you as?
+
+## Phase 10 – Commands & Army Headquarters
+- What is the relationship between Army Headquarters and a Command Headquarters, and how do they differ?
+- What is the role of the Ministry of Defence in relation to the Army?
+- How does the military chain of command connect with the civilian government?
+- Who exercises political control over the Armed Forces, and why is civilian control important in a democracy?
+- What is the role of the Cabinet Committee on Security?
+- How are major defence decisions taken at the national level?
+- What is the relationship between the COAS and the Government of India?
+- What decides the composition of a division?
+
+## Phase 10 – Northern Command
+- Where is Northern Command headquartered?
+- Which broad areas fall under Northern Command?
+- Why is Northern Command strategically important?
+- What geographical and terrain challenges does Northern Command face?
+- What is the military significance of Jammu and Kashmir?
+- What is the significance of Ladakh?
+- Why is high-altitude deployment important in Northern Command?
+- Why is infrastructure strategically important in this region?
+
+## Phase 10 – Western Command
+- Where is Western Command headquartered?
+- Which broad area does Western Command cover?
+- Why is Western Command, and the western sector, strategically important?
+- What is the military significance of Punjab and Haryana?
+- What types of terrain are found in the western sector?
+- How does plains terrain influence military operations?
+- Why is mechanisation important in suitable western terrain?
+- How does the western sector differ from the northern mountainous sector?
+
+## Phase 10 – South Western Command
+- Where is South Western Command headquartered?
+- Which broad region does South Western Command cover?
+- Why is the Rajasthan sector strategically important?
+
+## Phase 10 – Southern Command
+- Where is Southern Command headquartered?
+- Which broad area comes under Southern Command?
+- What is the strategic importance of India's peninsular region?
+- What is Southern Command's role in peacetime?
+- What types of terrain are found under Southern Command?
+- Why are coastal regions and coastal security important for India?
+- How does the Army coordinate with the Navy in coastal areas?
+- What disaster-relief responsibilities can arise in southern India?
+
+## Phase 10 – Eastern Command
+- Where is Eastern Command headquartered?
+- Which broad region comes under Eastern Command?
+- Why is Eastern Command strategically important?
+- Why are India's northeastern states strategically important?
+- What geographical challenges do jungles and mountains create in the Northeast?
+- Why is connectivity important in the Northeast?
+- What is the Siliguri Corridor (Chicken's Neck), where is it, and why is it strategically important?
+- Why does the Northeast need specialised operational preparedness?
+- What role does the Army play in the Northeast in peacetime?
+
+## Phase 10 – Central Command
+- Where is Central Command headquartered?
+- Which broad area comes under Central Command?
+- Why is Central India important from a military perspective?
+- Why are training areas important for the Army?
+- What role does Central Command play in national emergencies?
+
+## Phase 10 – Operational Geography of India
+- Why is geography important for military planning?
+- What are India's major geographical regions from a military perspective?
+- What are the Himalayas, and why are they strategically important?
+- What is the Karakoram region?
+- Why is the Tibetan Plateau important to India's security?
+- What is the Thar Desert, and why is it strategically important?
+- What is the Indo-Gangetic Plain, and why is it militarily significant?
+- What is the Indian Ocean Region, and why is it strategically important for India?
+- What are India's major maritime approaches?
+- Why are the Andaman and Nicobar Islands strategically important?
+- Why is Lakshadweep strategically important?
+- Why is the Strait of Malacca important for India?
+- What is a chokepoint, and why are maritime chokepoints strategically important?
+- What is the Strait of Hormuz, and why is it important to India?
+- What is the Bab-el-Mandeb, and why is it important for global trade?
+- What is the Suez Canal, and why does it matter to India?
+
+## Phase 10 – India's Land Borders
+- Which countries share land borders with India?
+- Which is India's longest international land border?
+- Which countries are on India's northern, western and eastern borders?
+- What is the approximate length of India's land boundary?
+- Which Indian states border Pakistan?
+- Which Indian states border China?
+- Which Indian states border Nepal?
+- Which Indian states border Bhutan?
+- Which Indian states border Bangladesh?
+- Which Indian states border Myanmar?
+- Why is border geography important for an Army officer?
+- What challenges are common along mountainous, plains, riverine and densely populated borders?
+- What is the role of the Border Roads Organisation?
+
+## Phase 10 – LoC & LAC
+- How did the LoC come about?
+- Where is the LoC located?
+- What are the broad challenges of deployment along the LoC, including terrain and weather?
+- Why does the LAC exist, and which country shares it with India?
+- Why is the LAC strategically important?
+- What are the broad geographical characteristics of the LAC?
+- Why are patrols important for maintaining awareness along the LAC?
+- What are disengagement and de-escalation?
+
+## Phase 10 – Military Infrastructure
+- Why is military infrastructure important?
+- What is strategic infrastructure?
+- What is a cantonment, and what is its purpose?
+- What is a military station, and how is it different from a cantonment?
+- What is a field formation?
+- What are forward areas and rear areas?
+- Why are roads, bridges, airfields and helipads important for military mobility and logistics?
+- Why are fuel, ammunition storage, medical and communication infrastructure important?
+- How does infrastructure development affect national security?
+
+## Phase 10 – Mountain Deployment
+- Why does India maintain substantial military capability in mountainous regions?
+- What is air maintenance, and why is it important in remote areas?
+- Why are roads, tunnels and all-weather connectivity strategically important in mountain regions?
+- How does high-altitude deployment affect soldiers' routine?
+
+## Phase 10 – Deployment & Tenure
+- What are peacetime deployment and operational deployment?
+- What are a peace station, a field area and a difficult area, and what is a field tenure?
+- Why are units rotated between locations, and why does it matter for soldiers?
+- How does deployment affect family life, training and unit administration?
+- What role does the Commanding Officer play in managing a deployment?
+- What is military logistics, and what are its major components (supply, transport, maintenance, medical, ammunition)?
+
+## Phase 10 – Posting & Geography: IO Questions
+- You are posted to a high-altitude area as a Lieutenant. What would you learn first?
+- You are posted to a desert area. What would you consider in preparing your platoon?
+- You are posted to the Northeast. What would you learn about the region?
+- You are posted near the LoC. Which aspects of your responsibilities would you study?
+- You are posted near the LAC. What would you need to understand about the operational environment?
+- Your men are struggling with harsh weather. How would you manage them?
+- Your platoon is deployed far from its parent unit. How would you maintain communication and coordination?
+- Your platoon has limited logistic support. How would you prioritise resources?
+- You move from a peace station to a field area. What changes would you expect in your responsibilities?
+- Why would you want to serve in a difficult area?
+- Which geographical environment would you find most challenging, and why?
+- How would you prepare yourself before joining a unit in a difficult area?
+- How would you build rapport with local people while staying professional?
+- Why should a Lieutenant understand India's geography, and how would it help him as a Platoon Commander?
+- How does geography influence military doctrine?

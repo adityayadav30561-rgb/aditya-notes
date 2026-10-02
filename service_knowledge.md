@@ -1336,3 +1336,122 @@
 - How would you coordinate with EME and Signals for equipment and communication problems?
 - How would you coordinate with medical staff after a casualty, and with supporting Arms during an operation?
 - Why must an Infantry Lieutenant understand artillery, anti-tank weapons, drones, communications and surveillance?
+
+## Phase 8 – OTA Chennai
+- What is OTA Chennai, and where is it located?
+- What is OTA's primary role, and which officers and entries does it train?
+- What is the difference between OTA and IMA?
+- How long is training at OTA?
+- What is the purpose of pre-commission training?
+- What are the major components of training at OTA?
+- What is drill, and why is it taught to officers?
+- What is tactics training?
+- What is obstacle training?
+- What is leadership training?
+- What is character development in military training?
+- Why are discipline and teamwork important during training?
+- What are the purposes of outdoor and classroom training?
+- What is the role of instructors at OTA?
+- Why is peer learning important at OTA?
+- What is the purpose of physical standards at OTA?
+- What is a Passing Out Parade?
+- What are swimming, sports and cross-country training for?
+- What is route marching?
+- What is camp training?
+
+## Phase 8 – Commissioning & First Unit
+- What is an officer's oath?
+- What is the significance of the commissioning ceremony?
+- What is unit allocation?
+- How does a young officer make the transition from academy life to unit life?
+- How does a young officer establish credibility?
+- How does a young officer build professional relationships?
+
+## Phase 8 – Young Officer
+- What is meant by a Young Officer?
+- What is the Young Officers Course, and why is it conducted?
+- What does a Young Officer learn on the course?
+- What tactical, weapon, fieldcraft, navigation and leadership skills are expected from a Young Officer?
+- How does unit experience complement formal courses?
+
+## Phase 8 – Professional Courses & Institutions
+- What are career, mandatory, specialisation and promotion-related courses?
+- What is the role of the Army War College?
+- What is the role of the Defence Services Staff College?
+- What is the role of the National Defence College?
+- What is the role of the College of Defence Management?
+- What is the purpose of the Defence Services Staff Course, and who usually attends it?
+- What is the difference between staff training and command training?
+- What is higher command training?
+
+## Phase 8 – Unit-Level Training
+- What is unit training?
+- What is a training cycle?
+- What is a training objective, and how is it decided?
+- How is training effectiveness measured?
+- What is a training assessment?
+- What is a proficiency test?
+- What is a command-post exercise?
+- What is a lessons-learned process?
+- What should an officer do after a training accident?
+- How does an officer balance training intensity and safety?
+- How does an officer ensure training standards are maintained?
+
+## Phase 8 – Field Exercises
+- What are an exercise scenario and an exercise objective?
+- What is a reconnaissance before an exercise?
+- Why are terrain study, map study, communication planning and logistics planning important before an exercise?
+- What are the roles of JCOs and NCOs during a field exercise?
+
+## Phase 8 – Physical Training & Fitness
+- What are the major components of military fitness?
+- What are endurance, strength, speed, agility, flexibility and stamina?
+- Why are cardiovascular and muscular endurance important?
+- Why are strength and agility important for an Infantry officer?
+- Why is recovery important in military training?
+- What is the role of sports, especially team sports, in military training?
+
+## Phase 8 – Professional Knowledge
+- Which areas of military knowledge should an Army officer keep studying?
+- Why should an officer know his own Arm thoroughly?
+- Why should an Infantry officer understand armour, engineers and Army Aviation?
+- Why should an officer follow current military affairs and modern warfare?
+- Why is knowledge of India's neighbourhood and borders important for an Army officer?
+- What is professional military education?
+
+## Phase 8 – Career Progression & Command
+- What is the difference between time-scale and selection-based promotion?
+- What factors influence an officer's career progression?
+- What does it mean to command a unit?
+- What is the difference between command and management?
+- What skills are needed to command a Battalion and a Brigade, and why does higher command need broader knowledge?
+- What is operational planning?
+- What is the difference between tactical and strategic thinking?
+- How is decision-making different at higher command?
+- What is risk assessment?
+
+## Phase 8 – Joint & Inter-Service Training
+- What is joint training, and why is it important?
+- What is an inter-service exercise, and why do the three Services conduct joint exercises?
+- What is joint operational planning?
+- Why must an Army officer understand Navy and Air Force capabilities?
+- What are joint logistics, joint communications and joint intelligence?
+- What is the role of the CDS in promoting jointness?
+- What is the role of Integrated Theatre Commands?
+
+## Phase 8 – Training: Situational IO Questions
+- You have just joined your first unit. What will you do in your first week?
+- An experienced JCO gives you advice when you are new to the unit. How will you respond?
+- Your platoon repeatedly fails the same training task. What will you change?
+- Your soldiers are tired of repetitive training. How will you motivate them?
+- A soldier is physically excellent but professionally weak. How will you train him?
+- A soldier is technically strong but lacks discipline. How will you handle him?
+- Your platoon is physically fit but performs poorly in tactics. What will you do?
+- Your platoon is tactically strong but physically weak. What will you do?
+- Your training schedule is disrupted by an operational requirement. How will you adapt?
+- You have limited resources for training. How will you meet your objectives?
+- You are sent on a course while your unit prepares for an important exercise. How will you balance both?
+- You fail an important professional course. What will you do?
+- You get the chance to attend an advanced course. How will you prepare?
+- You are posted to a new role outside your comfort zone. How will you approach it?
+- You are asked to train personnel from another Arm. What will you need to understand first?

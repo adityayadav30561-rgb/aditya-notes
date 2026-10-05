@@ -9,6 +9,9 @@ There are two sheets. Each one has its own source file and output file:
 | PIQ questions | `questions.md` | `SSB_Question_Sheet.docx` | Questions about the user's PIQ entries: family, education, residence, work, sports and so on |
 | Service knowledge | `service_knowledge.md` | `SSB_Service_Knowledge.docx` | Armed Forces knowledge: organisation, ranks, commands, roles and similar |
 
+## Lecturette preparation
+There is also a separate lecturette document: `lecturettes.md` builds `SSB_Lecturettes.docx`. This one holds lecturette topic flows, not questions. When the user shares a lecturette topic, add it as a new `## Topic name` section. Write one line per stage in the form `- Stage: point → point → point`, keeping the user's points and order. `node build/build.js` puts each topic on its own page as a table (# · Stage · Flow). Commit `lecturettes.md` and `SSB_Lecturettes.docx` together.
+
 ## Workflow (every time a response is shared)
 1. Pick the right sheet. PIQ entries go in the PIQ sheet; service knowledge (Army/Navy/Air Force organisation etc.) goes in the service knowledge sheet.
 2. Pull out only the questions. Drop answers, tips, explanations, intros, notes, tables and emojis.

@@ -110,19 +110,48 @@ async function build({ src, out, title }) {
   console.log(`Wrote ${out} (${n} questions)`);
 }
 
-// Lecturette notes: each "## Topic" starts a new page with a navy banner, then a
-// table of its flow (# | Stage | Flow). Each "- Stage: a → b → c" line is one row,
-// and its points are listed one per line so the flow can be read at a glance.
+// Lecturette notes. Each "## Topic" in lecturettes.md starts a new page and is shown
+// in three ways:
+//   1. Framework  – "- Stage: a → b → c" lines before any "###" heading, shown as a
+//                   table (# | Stage | Points) with one point per line.
+//   2. Understand it – plain paragraphs under "### Paragraph", to read, not memorise.
+//   3. Flowchart  – "- Stage: key → key" lines under "### Flowchart", shown as boxes
+//                   joined by down arrows: only the points to remember, in order.
 const LECTURETTES = { src: "lecturettes.md", out: "SSB_Lecturettes.docx", title: "SSB – Lecturette Preparation" };
 const L_SIZE = 21; // 10.5 pt
+const RED = "C00000";
 const L_COLS = [520, 2200, CONTENT_W - 520 - 2200]; // # | Stage | Points
+
+function parseLecturettes(file) {
+  const topics = [];
+  let t, part;
+  for (const raw of fs.readFileSync(file, "utf8").split(/\r?\n/)) {
+    const line = raw.trim();
+    if (raw.startsWith("## ")) {
+      t = { title: raw.slice(3).trim(), framework: [], paragraphs: [], flowchart: [] };
+      topics.push(t);
+      part = "framework";
+    } else if (!t) continue;
+    else if (/^### +paragraph/i.test(line)) part = "paragraphs";
+    else if (/^### +flowchart/i.test(line)) part = "flowchart";
+    else if (part === "paragraphs") { if (line) t.paragraphs.push(line); }
+    else if (line.startsWith("- ")) t[part].push(line.slice(2).trim());
+  }
+  return topics;
+}
+
+// "Stage: a → b" → ["Stage", "a → b"]
+const splitStage = (line) => {
+  const colon = line.indexOf(":");
+  return colon > 0 ? [line.slice(0, colon).trim(), line.slice(colon + 1).trim()] : ["", line];
+};
 
 function lCell(w, runs, opts = {}) {
   return new TableCell({
     width: { size: w, type: WidthType.DXA },
-    borders,
+    borders: opts.borders || borders,
     verticalAlign: "center",
-    margins: { top: 70, bottom: 70, left: 100, right: 100 },
+    margins: opts.margins || { top: 70, bottom: 70, left: 100, right: 100 },
     shading: opts.fill ? { type: ShadingType.CLEAR, color: "auto", fill: opts.fill } : undefined,
     children: runs[0] instanceof Paragraph ? runs
       : [new Paragraph({ alignment: opts.align, spacing: { before: 0, after: 0, line: 300 }, children: runs })],
@@ -139,7 +168,7 @@ function flowParas(text) {
       spacing: { before: i ? 40 : 0, after: 0, line: 280 },
       indent: { left: 260, hanging: 260 },
       children: [
-        new TextRun({ text: "→", bold: true, color: "C00000", size: L_SIZE }), new TextRun({ children: [new Tab()] }),
+        new TextRun({ text: "→", bold: true, color: RED, size: L_SIZE }), new TextRun({ children: [new Tab()] }),
         ...(label ? [new TextRun({ text: label, bold: true, size: L_SIZE })] : []),
         new TextRun({ text: part.slice(label.length), size: L_SIZE }),
       ],
@@ -148,8 +177,64 @@ function flowParas(text) {
   });
 }
 
+const partHeading = (text, first) => new Paragraph({
+  keepNext: true,
+  spacing: { before: first ? 0 : 280, after: 100 },
+  border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: NAVY, space: 1 } },
+  children: [new TextRun({ text, bold: true, size: 24, color: NAVY })],
+});
+
+function frameworkTable(lines) {
+  const rows = [new TableRow({ tableHeader: true, children: [
+    lCell(L_COLS[0], [new TextRun({ text: "#", bold: true, size: L_SIZE })], { fill: "DCE3F0", align: AlignmentType.CENTER }),
+    lCell(L_COLS[1], [new TextRun({ text: "Stage", bold: true, size: L_SIZE })], { fill: "DCE3F0" }),
+    lCell(L_COLS[2], [new TextRun({ text: "Points", bold: true, size: L_SIZE })], { fill: "DCE3F0" }),
+  ] })];
+  lines.forEach((line, i) => {
+    const [stage, points] = splitStage(line);
+    const fill = i % 2 ? "F5F7FB" : undefined;
+    rows.push(new TableRow({ cantSplit: true, children: [
+      lCell(L_COLS[0], [new TextRun({ text: String(i + 1), color: "7F7F7F", size: L_SIZE })], { align: AlignmentType.CENTER, fill }),
+      lCell(L_COLS[1], [new TextRun({ text: stage, bold: true, color: NAVY, size: L_SIZE })], { fill }),
+      lCell(L_COLS[2], flowParas(points), { fill }),
+    ] }));
+  });
+  return new Table({ width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: L_COLS, rows });
+}
+
+// Each stage is a box: stage name on the left, its key points joined by red arrows
+// on the right. A red ▼ between boxes shows the order.
+function flowchart(lines) {
+  const BOX_W = Math.round(CONTENT_W * 0.86), LABEL_W = 1900;
+  const edge = { style: BorderStyle.SINGLE, size: 8, color: NAVY };
+  const boxBorders = { top: edge, bottom: edge, left: edge, right: edge };
+  const out = [];
+  lines.forEach((line, i) => {
+    const [stage, points] = splitStage(line);
+    if (i) out.push(new Paragraph({ alignment: AlignmentType.CENTER, keepNext: true, spacing: { before: 0, after: 0 },
+      children: [new TextRun({ text: "▼", color: RED, size: 22 })] }));
+    const runs = [];
+    points.split(/\s*→\s*/).forEach((p, j) => {
+      if (j) runs.push(new TextRun({ text: "  →  ", bold: true, color: RED, size: L_SIZE }));
+      runs.push(new TextRun({ text: p, size: L_SIZE }));
+    });
+    out.push(new Table({
+      alignment: AlignmentType.CENTER,
+      width: { size: BOX_W, type: WidthType.DXA },
+      columnWidths: [LABEL_W, BOX_W - LABEL_W],
+      rows: [new TableRow({ cantSplit: true, children: [
+        lCell(LABEL_W, [new TextRun({ text: stage, bold: true, color: "FFFFFF", size: L_SIZE })],
+          { fill: NAVY, borders: boxBorders, align: AlignmentType.CENTER }),
+        lCell(BOX_W - LABEL_W, runs, { fill: "EEF2F9", borders: boxBorders,
+          margins: { top: 90, bottom: 90, left: 140, right: 140 } }),
+      ] })],
+    }));
+  });
+  return out;
+}
+
 async function buildLecturettes({ src, out, title }) {
-  const topics = parse(path.join(ROOT, src));
+  const topics = parseLecturettes(path.join(ROOT, src));
   const children = [new Paragraph({
     spacing: { after: 200 },
     border: { bottom: { style: BorderStyle.SINGLE, size: 8, color: NAVY, space: 2 } },
@@ -165,23 +250,18 @@ async function buildLecturettes({ src, out, title }) {
       indent: { left: 100, right: 100 },
       children: [new TextRun({ text: `Topic ${ti + 1}: ${t.title}` })],
     }));
-    const rows = [new TableRow({ tableHeader: true, children: [
-      lCell(L_COLS[0], [new TextRun({ text: "#", bold: true, size: L_SIZE })], { fill: "DCE3F0", align: AlignmentType.CENTER }),
-      lCell(L_COLS[1], [new TextRun({ text: "Stage", bold: true, size: L_SIZE })], { fill: "DCE3F0" }),
-      lCell(L_COLS[2], [new TextRun({ text: "Flow", bold: true, size: L_SIZE })], { fill: "DCE3F0" }),
-    ] })];
-    t.questions.forEach((line, i) => {
-      const colon = line.indexOf(":");
-      const stage = colon > 0 ? line.slice(0, colon).trim() : "";
-      const points = colon > 0 ? line.slice(colon + 1).trim() : line;
-      const fill = i % 2 ? "F5F7FB" : undefined;
-      rows.push(new TableRow({ cantSplit: true, children: [
-        lCell(L_COLS[0], [new TextRun({ text: String(i + 1), color: "7F7F7F", size: L_SIZE })], { align: AlignmentType.CENTER, fill }),
-        lCell(L_COLS[1], [new TextRun({ text: stage, bold: true, color: NAVY, size: L_SIZE })], { fill }),
-        lCell(L_COLS[2], flowParas(points), { fill }),
-      ] }));
-    });
-    children.push(new Table({ width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: L_COLS, rows }));
+    children.push(partHeading("1. Framework", true), frameworkTable(t.framework));
+    if (t.paragraphs.length) {
+      children.push(partHeading("2. Understand it"));
+      t.paragraphs.forEach((p) => children.push(new Paragraph({
+        alignment: AlignmentType.JUSTIFIED,
+        spacing: { before: 0, after: 120, line: 300 },
+        children: [new TextRun({ text: p, size: 22 })],
+      })));
+    }
+    if (t.flowchart.length) {
+      children.push(partHeading("3. Flowchart: points to remember"), ...flowchart(t.flowchart));
+    }
   });
 
   const doc = new Document({

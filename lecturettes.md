@@ -1,10 +1,7 @@
 ## India–Pakistan Relations
-- Origin: 1947 Partition → Kashmir dispute → 1948 first war
-- Wars & conflicts: 1965 → 1971 (Bangladesh created) → 1999 Kargil → recurring LoC tensions
-- Core issues: Kashmir → cross-border terrorism → water sharing (Indus Waters Treaty 1960) → nuclear rivalry (since 1998)
-- Attempts at peace: Tashkent 1966 → Shimla 1972 → Lahore Bus Diplomacy 1999 → Composite Dialogue 2004
-- Breakdown: Mumbai 26/11 (2008) → Pathankot, Uri (2016) → Pulwama and Balakot (2019) → Article 370 abrogation (2019) → diplomatic ties downgraded
-- Recent phase: Pahalgam attack (April 2025) → Operation Sindoor (May 2025) → Indus Waters Treaty put in abeyance → trade, travel and cultural links frozen
-- Impact: regional instability → SAARC stalled → defence spending burden → human cost on border populations
-- Way forward: zero tolerance for terrorism → strong military deterrence → keep diplomatic backchannels open → people-to-people and economic cooperation → India's stand: "Talks and terror cannot go together"
-- Conclusion: Peace is desirable, but only on the basis of security, sovereignty and an end to terror
+- What is it: Relationship between two nuclear-armed neighbours, born of the 1947 Partition → Shaped by Kashmir, four wars (1947–48, 1965, 1971, 1999 Kargil) and cross-border terrorism
+- Why it matters: Security: nuclear flashpoint, active LoC → Regional: SAARC stalled, South Asia's growth held back → Strategic: China–Pakistan nexus, Afghanistan → Economic: heavy defence spending, lost trade → Global: terrorism and nuclear risk concern the world
+- Current status in India: Article 370 abrogated (2019) → Pahalgam attack (Apr 2025) → Operation Sindoor (May 2025) → Indus Waters Treaty in abeyance → Attari border closed, trade and visas suspended, diplomatic strength reduced → Ceasefire understanding (May 2025) → India's doctrine: terror attack = act of war, no tolerance of nuclear blackmail, "talks and terror cannot go together"
+- Problems: Kashmir dispute → State-sponsored terrorism (LeT, JeM) → China–Pakistan nexus (CPEC through PoK, UN veto) → Water dispute → Drones and narcotics smuggling across the Punjab border → Disinformation and cyber threats → Deep trust deficit, no structured dialogue
+- Solutions: Zero tolerance for terror, backed by strong deterrence → Military modernisation (air defence, drones, surveillance) → Diplomatic pressure (FATF, UN, global outreach) → Secure borders (smart fencing, anti-drone systems) → Kashmir: development, integration, peace → Economic strength to reduce vulnerabilities → Keep backchannels open → People-to-people ties once Pakistan acts against terror
+- Conclusion: India wants peace, but not at the cost of security or sovereignty → A strong, self-reliant and confident India can deal with Pakistan from a position of strength → Lasting peace depends on Pakistan ending terror

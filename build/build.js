@@ -8,7 +8,7 @@ const fs = require("fs");
 const path = require("path");
 const {
   Document, Packer, Paragraph, TextRun, AlignmentType, HeadingLevel, Footer,
-  PageNumber, BorderStyle, Table, TableRow, TableCell, WidthType, ShadingType,
+  PageNumber, BorderStyle, Tab, Table, TableRow, TableCell, WidthType, ShadingType,
 } = require("docx");
 
 const ROOT = path.join(__dirname, "..");
@@ -139,7 +139,7 @@ function flowParas(text) {
       spacing: { before: i ? 40 : 0, after: 0, line: 280 },
       indent: { left: 260, hanging: 260 },
       children: [
-        new TextRun({ text: "→\t", bold: true, color: "C00000", size: L_SIZE }),
+        new TextRun({ text: "→", bold: true, color: "C00000", size: L_SIZE }), new TextRun({ children: [new Tab()] }),
         ...(label ? [new TextRun({ text: label, bold: true, size: L_SIZE })] : []),
         new TextRun({ text: part.slice(label.length), size: L_SIZE }),
       ],

@@ -1249,44 +1249,129 @@ The G7 faces challenges. Its share of the world economy is shrinking as China an
 - Conclusion: Still matters → India key partner → More voices
 
 ## ASEAN
-- What is it: Association of Southeast Asian Nations, set up in 1967 → 11 members after Timor-Leste joined in 2025 → India: dialogue partner (1996), summit partner (2002), Comprehensive Strategic Partnership (2022) → Heart of India's Act East Policy
-- Why it matters: Trade: ASEAN is among India's largest trading partners → Strategic: South China Sea, Indo-Pacific, ASEAN centrality → Connectivity: Northeast to Southeast Asia (Trilateral Highway, Kaladan) → Maritime security and sea lanes → Civilisational links: Buddhism, Ramayana, trade
-- Current status (Oct 2026): Philippines chairs ASEAN in 2026: "Navigating Our Future, Together" → ASEAN–India foreign ministers met in Manila (Jul 2026); new Plan of Action 2026–2030 → 2026 is the ASEAN–India Year of Maritime Cooperation → AITIGA review: both sides want it done this year; India hosted talks in Jul 2026 → BrahMos exports to the Philippines; growing defence ties in the region
-- Problems: India's large trade deficit with ASEAN; old trade pact (AITIGA) favours imports → China's economic weight and South China Sea pressure → Myanmar's civil war blocks land connectivity → India out of RCEP → Slow project delivery
-- Solutions: Conclude the AITIGA review with fairer rules of origin → Finish the Trilateral Highway and Kaladan → Maritime cooperation: patrols, exercises, domain awareness → Digital links: UPI, fintech; tourism and education → Support ASEAN centrality in the Indo-Pacific
-- Conclusion: ASEAN is central to India's Act East and Indo-Pacific vision → Trade, connectivity and security bind both together → A strong ASEAN–India partnership means a stable Asia
+- What is it: Association of Southeast Asian Nations, set up in 1967 → 11 members after Timor-Leste joined in 2025 → India: dialogue partner (1996), summit partner (2002), Comprehensive Strategic Partnership (2022) → The heart of India's Act East Policy
+- Why it matters: Trade: ASEAN is one of India's largest trade partners → Strategy: South China Sea, Indo-Pacific, ASEAN's central role → Connectivity: Northeast India to Southeast Asia (Trilateral Highway, Kaladan) → Sea security and shipping lanes → Old cultural links: Buddhism, Ramayana, trade
+- Current status (Oct 2026): The Philippines chairs ASEAN in 2026: "Navigating Our Future, Together" → ASEAN–India foreign ministers met in Manila (Jul 2026); new Plan of Action 2026–2030 → 2026 is the ASEAN–India Year of Maritime Cooperation → Review of the old goods trade deal (AITIGA): both sides want it finished this year; India hosted talks in Jul 2026 → BrahMos sold to the Philippines; defence ties in the region growing
+- Problems: India's large trade deficit with ASEAN; the old deal helps imports more → China's economic weight and pressure in the South China Sea → Myanmar's civil war blocks land links → India stayed out of RCEP → Slow progress on projects
+- Solutions: Finish the AITIGA review with fairer rules of origin → Complete the Trilateral Highway and Kaladan → Sea cooperation: patrols, exercises, sharing ship data → Digital links: UPI, fintech; tourism and education → Support ASEAN's central role in the Indo-Pacific
+- Conclusion: ASEAN is central to India's Act East and Indo-Pacific vision → Trade, connectivity and security bind the two together → A strong ASEAN–India partnership means a stable Asia
+
+### Paragraph
+ASEAN, the Association of Southeast Asian Nations, was set up in 1967. It now has 11 members, including Indonesia, Vietnam, Thailand, Singapore, Malaysia and the Philippines, after Timor-Leste joined in 2025. India's ties with ASEAN have grown step by step: it became a dialogue partner in 1996, a summit partner in 2002, and in 2022 a Comprehensive Strategic Partner. ASEAN is at the heart of India's Act East Policy.
+
+ASEAN matters because it is one of India's biggest trading partners and sits at the centre of the Indo-Pacific. Many ASEAN countries face pressure from China in the South China Sea, and they value India as a partner. ASEAN is also where India's Northeast can connect to Southeast Asia through roads and ports. India and Southeast Asia share old cultural links through Buddhism, the Ramayana and centuries of trade.
+
+In 2026 the Philippines chairs ASEAN under the theme "Navigating Our Future, Together". In July 2026 the foreign ministers of ASEAN and India met in Manila and adopted a new Plan of Action for 2026–2030. This year is also the ASEAN–India Year of Maritime Cooperation. Both sides want to finish reviewing their old goods trade agreement, called AITIGA, this year, and India hosted talks in July. India's defence ties are growing too, especially through the sale of BrahMos missiles to the Philippines.
+
+There are problems. India has a large trade deficit with ASEAN, because the old trade deal has helped imports more than exports. China is very powerful in the region, Myanmar's civil war blocks land links, India stayed out of the big RCEP trade bloc, and projects move slowly. The way forward is to finish the AITIGA review on fairer terms, complete the Trilateral Highway and the Kaladan project, deepen sea cooperation, build digital links like UPI and support ASEAN's central role in the Indo-Pacific. A strong ASEAN–India partnership is key to a stable Asia.
+
+### Flowchart
+- What is it: 1967 → 11 members → Strategic partner 2022 → Heart of Act East
+- Why it matters: Big trade partner → South China Sea → Northeast links → Culture
+- Current status: Philippines chair → Plan of Action 2026–30 → Maritime Year 2026 → AITIGA review
+- Problems: Trade deficit → China → Myanmar blocks → Out of RCEP
+- Solutions: Fair AITIGA → Finish Highway, Kaladan → Sea cooperation → UPI links
+- Conclusion: Central to Act East → Trade + security → Stable Asia
 
 ## SAARC
-- What is it: South Asian Association for Regional Cooperation, founded in Dhaka in 1985 → Eight members: India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, Afghanistan → Secretariat in Kathmandu; SAFTA trade pact (2006) → Last summit in Kathmandu (2014); dormant since
-- Why it matters: South Asia: a quarter of humanity, but the least integrated region → Intra-regional trade only about 5% of total trade → Shared challenges: poverty, terrorism, climate, disasters → Neighbourhood First needs regional cooperation → Potential for trade, energy and connectivity
-- Current status (Oct 2026): No summit since 2014; 2016 Islamabad summit boycotted after the Uri attack → India suspended SAARC visa exemptions for Pakistanis after Pahalgam (2025) → China–Pakistan pushing a new regional bloc; trilateral with Bangladesh in Kunming (2025) → India focuses on BIMSTEC and bilateral ties → Some SAARC bodies still work: South Asian University, disaster and health cooperation
-- Problems: India–Pakistan hostility; Pakistan's terrorism → Consensus rule lets one member block everything → Low trade, high non-tariff barriers → China's growing role in South Asia → Political instability in member states
-- Solutions: No revival without an end to cross-border terrorism → Use BIMSTEC and sub-regional groups (BBIN) → Project-based cooperation: energy grids, health, disasters → Bilateral FTAs and connectivity with willing neighbours → People-to-people: education, culture, tourism
-- Conclusion: SAARC's failure is largely due to Pakistan's policy of terror → India has moved to BIMSTEC and bilateral partnerships → Regional cooperation must rest on trust and an end to terror
+- What is it: South Asian Association for Regional Cooperation, set up in Dhaka in 1985 → Eight members: India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, Afghanistan → Office in Kathmandu; South Asian free trade deal (SAFTA, 2006) → Last summit in Kathmandu (2014); inactive since then
+- Why it matters: South Asia has a quarter of the world's people but trades very little within itself → Trade within the region is only about 5% of its total trade → Shared problems: poverty, terrorism, climate change, disasters → Neighbourhood First needs regional cooperation → Big potential in trade, energy and connectivity
+- Current status (Oct 2026): No summit since 2014; the 2016 summit in Islamabad was cancelled after India boycotted it over the Uri attack → India stopped SAARC visa exemptions for Pakistanis after Pahalgam (2025) → China and Pakistan are pushing a new regional group; met Bangladesh in Kunming (2025) → India focuses on BIMSTEC and ties with each neighbour → Some SAARC bodies still work: South Asian University, disaster and health cooperation
+- Problems: India–Pakistan hostility; Pakistan's terror → One member can block everything because all must agree → Low trade; many trade barriers → China's growing role in South Asia → Unstable politics in member countries
+- Solutions: No revival until cross-border terror ends → Use BIMSTEC and smaller groups (BBIN) → Project-based cooperation: power grids, health, disasters → Trade deals and connectivity with willing neighbours → People-to-people ties: education, culture, tourism
+- Conclusion: SAARC failed mainly because of Pakistan's policy of terror → India has moved to BIMSTEC and direct partnerships → Regional cooperation needs trust and an end to terror
+
+### Paragraph
+SAARC, the South Asian Association for Regional Cooperation, was set up in Dhaka in 1985. It has eight members: India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, the Maldives and Afghanistan. Its office is in Kathmandu, and it created a South Asian free trade agreement, SAFTA, in 2006. But SAARC has been almost dead for a decade. Its last summit was held in Kathmandu in 2014.
+
+SAARC should matter a lot. South Asia has a quarter of the world's people, but it is one of the least connected regions. Countries here trade very little with each other, only about 5% of their total trade, compared with much higher levels in Southeast Asia or Europe. The region shares problems like poverty, terrorism, climate change and natural disasters, which could be solved better together.
+
+SAARC stopped working mainly because of Pakistan's support for terrorism. The 2016 summit was to be held in Islamabad, but India boycotted it after the Uri terror attack, and other members also pulled out. Since then, no summit has been held. After the Pahalgam attack in 2025, India stopped SAARC visa exemptions for Pakistanis. China and Pakistan have been trying to create a new regional group without India and held a meeting with Bangladesh in Kunming in 2025. India now focuses on BIMSTEC and on direct ties with each neighbour, though some SAARC bodies, like the South Asian University, still work.
+
+SAARC's problems are India–Pakistan hostility, Pakistan's terror policy, the rule that every decision needs all members to agree, low trade and China's growing role. India's position is clear: SAARC cannot be revived while cross-border terror continues. Meanwhile, India works through BIMSTEC and smaller groups like BBIN, builds power and transport links with willing neighbours and promotes education, culture and tourism. Regional cooperation needs trust, and that trust can only come when terror ends.
+
+### Flowchart
+- What is it: 1985 Dhaka → 8 members → SAFTA → Last summit 2014
+- Why it matters: Quarter of humanity → Only 5% internal trade → Shared problems
+- Current status: 2016 boycott (Uri) → Visa exemption stopped (2025) → China–Pak bloc idea → BIMSTEC focus
+- Problems: Pakistan's terror → Consensus blocks → Low trade → China
+- Solutions: No terror, then revival → BIMSTEC, BBIN → Projects → Neighbour links
+- Conclusion: Failed due to terror → Moved to BIMSTEC → Trust needed
 
 ## BIMSTEC
-- What is it: Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation, set up in 1997 → Seven members: India, Bangladesh, Bhutan, Nepal, Sri Lanka (South Asia), Myanmar, Thailand (Southeast Asia) → Secretariat in Dhaka; Charter in force since 2024 → India leads the security pillar
-- Why it matters: Bridge between South and Southeast Asia → Links Neighbourhood First and Act East → Bay of Bengal: trade, energy, blue economy, maritime security → Alternative to a stalled SAARC, without Pakistan → Connectivity for India's Northeast
-- Current status (Oct 2026): Sixth Summit, Bangkok (Apr 2025): Bangkok Vision 2030, Maritime Transport Cooperation Agreement → Bangladesh holds the chair (2025–27) → India's 21-point action plan: trade in local currencies, digital, energy, disaster management → India invited Bangladesh's PM to the BRICS outreach as BIMSTEC chair; Dhaka stayed away (Sept 2026) → Master Plan for Transport Connectivity being implemented
-- Problems: Slow progress; FTA pending since 2004 → Small secretariat with few resources → Myanmar's civil war; India–Bangladesh strains → China's influence in member states → Overlap with other groupings
-- Solutions: Conclude the BIMSTEC FTA → Fund and staff the secretariat → Implement transport and energy grid connectivity → Maritime security and disaster cooperation in the Bay of Bengal → Youth, tourism, education and culture exchanges
+- What is it: Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation, set up in 1997 → Seven members: India, Bangladesh, Bhutan, Nepal, Sri Lanka (South Asia), Myanmar, Thailand (Southeast Asia) → Office in Dhaka; its Charter came into force in 2024 → India leads the security pillar
+- Why it matters: A bridge between South Asia and Southeast Asia → Links Neighbourhood First and Act East → Bay of Bengal: trade, energy, blue economy, sea security → An alternative to a stuck SAARC, without Pakistan → Connectivity for India's Northeast
+- Current status (Oct 2026): Sixth summit in Bangkok (Apr 2025): Bangkok Vision 2030 and a sea transport agreement → Bangladesh holds the chair (2025–27) → India's 21-point plan: trade in local currencies, digital links, energy, disaster management → India invited Bangladesh's PM to the BRICS outreach as BIMSTEC chair; Dhaka did not attend (Sept 2026) → Transport connectivity master plan being implemented
+- Problems: Slow progress; free trade deal pending since 2004 → Small office with few resources → Myanmar's civil war; India–Bangladesh strains → China's influence in member countries → Overlap with other groups
+- Solutions: Finish the BIMSTEC free trade deal → Give the office more money and staff → Build transport and power grid links → Sea security and disaster cooperation in the Bay of Bengal → Youth, tourism, education and culture exchanges
 - Conclusion: BIMSTEC is India's most promising regional platform → It links South Asia with Southeast Asia → The Bay of Bengal can become a bay of prosperity
 
+### Paragraph
+BIMSTEC stands for the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation. It was set up in 1997 and has seven members around the Bay of Bengal: India, Bangladesh, Bhutan, Nepal and Sri Lanka from South Asia, and Myanmar and Thailand from Southeast Asia. Its office is in Dhaka, and its Charter came into force in 2024. India leads its work on security.
+
+BIMSTEC matters because it is a bridge between South Asia and Southeast Asia. It links two of India's key policies, Neighbourhood First and Act East. The Bay of Bengal is important for trade, energy, fishing and sea security. Since SAARC has been stuck because of Pakistan, BIMSTEC gives India a regional group that works without Pakistan. It also offers new routes for India's landlocked Northeast.
+
+At the sixth BIMSTEC summit in Bangkok in April 2025, leaders adopted the Bangkok Vision 2030 and signed a sea transport agreement. Bangladesh took over as chair for 2025–27. India offered a 21-point plan covering trade in local currencies, digital links, energy and disaster management. In September 2026 India invited Bangladesh's Prime Minister to the BRICS outreach in his role as BIMSTEC chair, but Dhaka chose not to attend, showing the strain in India–Bangladesh ties. Work continues on a master plan for transport links.
+
+BIMSTEC has moved slowly. Its free trade agreement has been pending since 2004, its office has few staff and little money, and Myanmar's civil war and India–Bangladesh tensions create hurdles. China also has influence in several members. The way forward is to finish the free trade deal, give the office more resources, build roads, ports and power grid links, cooperate on sea security and disasters, and grow youth, tourism and education exchanges. BIMSTEC is India's most promising regional platform, and the Bay of Bengal can become a bay of prosperity.
+
+### Flowchart
+- What is it: 1997 → 7 Bay of Bengal nations → Office in Dhaka → Charter 2024
+- Why it matters: Bridge South–Southeast Asia → Neighbourhood First + Act East → No Pakistan → Northeast links
+- Current status: Bangkok summit (2025) → Vision 2030 → Bangladesh chair → India's 21 points
+- Problems: Slow → FTA pending → Small office → Myanmar, Bangladesh strains
+- Solutions: Finish FTA → Strengthen office → Transport, power links → Sea security
+- Conclusion: Most promising platform → Links two regions → Bay of prosperity
+
 ## Colombo Security Conclave
-- What is it: Regional security grouping of Indian Ocean states, led at NSA level → Began in 2011 as an India–Sri Lanka–Maldives maritime security trilateral; revived in 2020 and renamed in 2021 → Members: India, Sri Lanka, Maldives, Mauritius, Bangladesh, Seychelles → Secretariat in Colombo; charter signed in 2024
-- Why it matters: Indian Ocean security led by the region itself → Five pillars: maritime security; terrorism and radicalisation; trafficking and organised crime; cyber security and critical infrastructure; disaster relief → India as net security provider and first responder → Counters outside influence, especially China's → Part of India's Neighbourhood First and MAHASAGAR
-- Current status (Oct 2026): Seventh NSA-level meeting in New Delhi (Nov 2025), chaired by Ajit Doval → Bangladesh and Seychelles inducted as full members; Malaysia attended as a guest → India hosted the ninth Deputy NSA-level meeting (virtual, 30 Sep 2026) → Roadmap for 2025–26: training and capacity building across all five pillars → Joint exercises, information sharing, coastal security cooperation
-- Problems: Political changes in members (Maldives, Sri Lanka, Bangladesh) affect commitment → China's economic pull on small states → Limited capacity and resources of island states → Fear of Indian dominance → Overlap with other forums
-- Solutions: Keep it inclusive, consultative and need-based → Capacity building: training, equipment, coastal radars → Information sharing through IFC-IOR → Joint exercises and coordinated patrols → Expand gradually to like-minded IOR states
-- Conclusion: CSC is India's model of regional security by regional states → It protects the Indian Ocean from outside interference → Security and growth for all in the region
+- What is it: A regional security group of Indian Ocean countries, led by their National Security Advisers (NSAs) → Began in 2011 as an India–Sri Lanka–Maldives sea security group; revived in 2020 and renamed in 2021 → Members: India, Sri Lanka, Maldives, Mauritius, Bangladesh, Seychelles → Office in Colombo; charter signed in 2024
+- Why it matters: Indian Ocean security run by the region's own countries → Five areas: sea security; terrorism and radicalisation; trafficking and organised crime; cyber security; disaster relief → India as the main security provider and first responder → Keeps outside influence, especially China's, in check → Part of Neighbourhood First and MAHASAGAR
+- Current status (Oct 2026): Seventh NSA-level meeting in New Delhi (Nov 2025), led by Ajit Doval → Bangladesh and Seychelles became full members; Malaysia attended as a guest → India hosted the ninth Deputy NSA meeting online (30 Sep 2026) → Roadmap for 2025–26: training and capacity building in all five areas → Joint exercises, information sharing, coastal security cooperation
+- Problems: Changes of government in members (Maldives, Sri Lanka, Bangladesh) affect commitment → China's money attracts small states → Island states have limited capacity → Fear of Indian dominance → Overlap with other forums
+- Solutions: Keep it inclusive and based on what members need → Capacity building: training, equipment, coastal radars → Share ship information through India's Information Fusion Centre → Joint exercises and patrols → Expand slowly to like-minded Indian Ocean countries
+- Conclusion: The CSC is India's model of regional security by regional countries → It protects the Indian Ocean from outside interference → Security and growth for all in the region
+
+### Paragraph
+The Colombo Security Conclave is a security group of Indian Ocean countries, run by their National Security Advisers. It started in 2011 as a sea security arrangement between India, Sri Lanka and the Maldives. It went quiet for some years, was revived in 2020 and was renamed the Colombo Security Conclave in 2021. Mauritius, Bangladesh and Seychelles have since joined as members. Its office is in Colombo, and a charter was signed in 2024.
+
+The group matters because it lets the countries of the Indian Ocean manage their own security instead of depending on outside powers. It works in five areas: sea security, terrorism and radicalisation, trafficking and organised crime, cyber security, and disaster relief. For India, it is a practical way to act as the region's main security provider and first responder. It also helps limit the influence of outside powers, especially China, which is active around these small island states.
+
+In November 2025 India hosted the seventh meeting of the group's National Security Advisers in New Delhi, led by Ajit Doval. Bangladesh and Seychelles were made full members, and Malaysia attended as a guest. In September 2026 India hosted a meeting of deputy NSAs online. Members are following a roadmap for 2025–26 that focuses on training and building capacity in all five areas, and they hold joint exercises and share information on coastal security.
+
+The group faces challenges. When governments change in member countries like the Maldives, Sri Lanka or Bangladesh, their commitment can change too. China's money attracts small states, island nations have limited capacity, and some fear Indian dominance. India should keep the group inclusive and focused on what members actually need, provide training, equipment and coastal radars, share shipping information through its Information Fusion Centre and expand slowly. The Colombo Security Conclave is India's model of regional security by regional countries, offering security and growth for all.
+
+### Flowchart
+- What is it: NSA-level group → 2011 trilateral → Renamed 2021 → 6 members
+- Why it matters: Region secures itself → 5 pillars → India first responder → Check China
+- Current status: 7th NSA meet Delhi (Nov 2025) → Bangladesh, Seychelles join → Deputy NSA meet (Sep 2026)
+- Problems: Government changes → China's money → Small capacity → Dominance fear
+- Solutions: Inclusive → Training, radars → Info sharing → Joint patrols
+- Conclusion: Regional security model → No outside interference → Growth for all
 
 ## IORA (Indian Ocean Rim Association)
-- What is it: Regional organisation of Indian Ocean rim states, set up in 1997; secretariat in Mauritius → 23 members and 12 dialogue partners → Priority areas: maritime safety, trade, fisheries, disaster risk, academic and science, tourism, blue economy, women's empowerment → India chairs IORA for 2025–27
-- Why it matters: Indian Ocean: key sea lanes and half the world's container traffic → Blue economy: fisheries, ports, seabed resources → Cooperation among Asia, Africa and Australia → India's leadership in its own ocean → Balances outside powers' influence
-- Current status (Oct 2026): India's chair theme: Innovation, Openness, Resilience and Adaptability (spells IORA) → India hosted the 28th Committee of Senior Officials, New Delhi (15–16 Jun 2026) → Work started on the next IORA Action Plan (2028–2032) → Focus on maritime safety, blue economy, disaster resilience → Iran war and Hormuz crisis raise the importance of IOR cooperation
-- Problems: Weak institution; small secretariat and budget → Diverse members with different interests → No security mandate → Consensus slows decisions → Low visibility compared with other groupings
-- Solutions: Use India's chair to deliver projects: blue economy, fisheries, disaster early warning → Stronger secretariat and funding → Link IORA with IONS and the Colombo Security Conclave → Trade facilitation and connectivity among members → Research and academic networks
-- Conclusion: IORA brings the Indian Ocean community together → India's chairship can make it more active → An open and resilient Indian Ocean benefits all
+- What is it: A regional group of countries on the Indian Ocean's shores, set up in 1997; office in Mauritius → 23 members and 12 dialogue partners → Focus areas: sea safety, trade, fisheries, disasters, science, tourism, blue economy, women's empowerment → India chairs IORA for 2025–27
+- Why it matters: The Indian Ocean carries key sea routes and much of the world's container traffic → Blue economy: fish, ports, seabed resources → Cooperation across Asia, Africa and Australia → India's leadership in its own ocean → Balances the influence of outside powers
+- Current status (Oct 2026): India's theme as chair: Innovation, Openness, Resilience and Adaptability (spells I-O-R-A) → India hosted the senior officials' meeting in New Delhi (15–16 Jun 2026) → Work started on the next IORA Action Plan (2028–2032) → Focus on sea safety, blue economy, disaster resilience → The Iran war and Hormuz crisis show why Indian Ocean cooperation matters
+- Problems: A weak institution; small office and budget → Members are very different with different interests → No security role → All must agree, which slows decisions → Low visibility compared with other groups
+- Solutions: Use India's chair to deliver projects: blue economy, fisheries, disaster early warning → Stronger office and more funding → Link IORA with IONS and the Colombo Security Conclave → Easier trade and connectivity among members → Research and university networks
+- Conclusion: IORA brings the Indian Ocean community together → India's chairship can make it more active → An open and resilient Indian Ocean benefits everyone
+
+### Paragraph
+IORA, the Indian Ocean Rim Association, is a group of countries whose shores touch the Indian Ocean. It was set up in 1997 and has its office in Mauritius. It now has 23 members from Asia, Africa, the Middle East and Australia, along with 12 dialogue partners. IORA works on sea safety, trade, fisheries, disaster management, science, tourism, the blue economy and women's empowerment. India is the chair of IORA for 2025–27.
+
+IORA matters because the Indian Ocean is one of the busiest oceans in the world. Its sea routes carry much of the world's oil and container trade. The ocean is also rich in fish, minerals and energy, which together are called the blue economy. IORA brings together countries from three continents to cooperate on these shared resources. For India, chairing IORA is a chance to show leadership in its own ocean and to balance the influence of outside powers.
+
+As chair, India chose a theme whose first letters spell IORA: Innovation, Openness, Resilience and Adaptability. In June 2026 India hosted a meeting of senior officials in New Delhi to review progress and begin work on the next IORA Action Plan for 2028–2032. The focus is on sea safety, the blue economy and resilience against disasters. The Iran war and the closure of the Strait of Hormuz have shown how much the countries of the Indian Ocean depend on each other.
+
+IORA has weaknesses. It has a small office and budget, its members are very different from each other, it has no security role and every decision needs all members to agree. India should use its chairship to deliver real projects in fisheries, the blue economy and disaster warning, strengthen IORA's office, link it with other Indian Ocean groups like IONS and the Colombo Security Conclave, and build trade and research networks. IORA brings the Indian Ocean community together, and an open and resilient Indian Ocean benefits everyone.
+
+### Flowchart
+- What is it: 1997 → Office in Mauritius → 23 members → India chair 2025–27
+- Why it matters: Busy sea routes → Blue economy → 3 continents → India's leadership
+- Current status: Theme spells IORA → Delhi officials' meet (Jun 2026) → Action Plan 2028–32
+- Problems: Weak office → Diverse members → No security role → Consensus
+- Solutions: Deliver projects → Stronger office → Link IONS, CSC → Trade, research
+- Conclusion: Ocean community → Active chairship → Open ocean for all
 
 ## Pax Silica
 - What is it: US-led coalition launched in Dec 2025 for secure supply chains in semiconductors, critical minerals and AI → Members include the US, Japan, South Korea, Australia, Singapore, UK, Israel, UAE, Qatar, Greece → India joined on 20 Feb 2026 at the AI Impact Summit, New Delhi → Aim: reduce coercive dependence on China

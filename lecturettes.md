@@ -624,44 +624,129 @@ Challenges remain. Pakistan still supports terror, China helps Pakistan, and fak
 - Conclusion: New normal → Precise, decisive → Our time and place
 
 ## Article 370
-- What is it: Temporary provision giving Jammu and Kashmir special status, with its own constitution and flag → Abrogated on 5 Aug 2019; Article 35A ended too → J&K Reorganisation Act: two Union Territories, J&K (with legislature) and Ladakh → Supreme Court upheld the abrogation (Dec 2023); ordered elections and statehood "at the earliest"
-- Why it matters: National integration: one Constitution, equal rights for all citizens → Security: aimed to end separatism and terror ecosystem → Development: central laws, investment, land rights for outsiders → Social justice: rights for women, Dalits, West Pakistan refugees, Valmikis → Strategic: J&K borders Pakistan and China
-- Current status (Oct 2026): Assembly elections held (2024); Omar Abdullah-led NC government in office → Statehood not yet restored; pleas pending in the Supreme Court → J&K Assembly passed a resolution demanding immediate statehood (28 Sep 2026) → Connectivity: Chenab bridge, Vande Bharat to Srinagar (2025) → Pahalgam attack (Apr 2025) hit tourism; security grid tightened → Ladakh: agitation for Sixth Schedule and statehood
-- Problems: Delay in statehood; dual power centres between LG and elected government → Terrorism in the Pir Panjal and Jammu region; infiltration → Alienation and unemployment among youth → Tourism dependence, hit by attacks → Ladakh's demands for safeguards → Pakistan's propaganda
-- Solutions: Restore statehood at the right time, as promised → Development: jobs, investment, tourism, horticulture, startups → Counter-terror grid: intelligence, border fencing, village defence guards → Engage youth: sports, skilling, education → Dialogue with Ladakh on safeguards → Strengthen local democracy: panchayats, district councils
-- Conclusion: Abrogation ended a divisive provision and integrated J&K fully → Peace needs development, democracy and security together → Statehood and trust will complete the journey
+- What is it: A temporary article that gave Jammu and Kashmir special status, with its own constitution and flag → Removed on 5 Aug 2019; Article 35A also ended → J&K split into two Union Territories: J&K (with an assembly) and Ladakh → Supreme Court upheld the decision (Dec 2023); asked for elections and statehood "as soon as possible"
+- Why it matters: National unity: one Constitution and equal rights for all → Security: meant to end separatism and the terror network → Development: central laws, investment, land rights → Social justice: rights for women, Dalits, West Pakistan refugees and Valmikis → Strategy: J&K borders Pakistan and China
+- Current status (Oct 2026): Assembly elections held (2024); Omar Abdullah's NC government in office → Statehood not yet restored; cases pending in the Supreme Court → J&K Assembly passed a resolution asking for statehood now (28 Sep 2026) → Better links: Chenab bridge, Vande Bharat train to Srinagar (2025) → Pahalgam attack (Apr 2025) hurt tourism; security tightened → Ladakh: protests for Sixth Schedule protection and statehood
+- Problems: Delay in statehood; two power centres (Lieutenant Governor and elected government) → Terror in the Pir Panjal and Jammu areas; infiltration → Young people feel left out; unemployment → Economy depends on tourism, which suffers after attacks → Ladakh wants safeguards → Pakistan's propaganda
+- Solutions: Restore statehood at the right time, as promised → Development: jobs, investment, tourism, fruit farming, startups → Strong counter-terror grid: intelligence, fencing, village defence guards → Engage youth: sports, skills, education → Talk to Ladakh about safeguards → Strengthen local democracy: panchayats and district councils
+- Conclusion: Removing Article 370 ended a divisive provision and fully joined J&K with India → Peace needs development, democracy and security together → Statehood and trust will complete the journey
+
+### Paragraph
+Article 370 was a temporary part of the Indian Constitution that gave Jammu and Kashmir a special status. J&K had its own constitution and flag, and many Indian laws did not apply there. On 5 August 2019, Parliament removed Article 370 and Article 35A. J&K was divided into two Union Territories: Jammu and Kashmir, with its own assembly, and Ladakh. In December 2023, the Supreme Court upheld this decision and asked for elections and the return of statehood as soon as possible.
+
+The change matters because it brought one Constitution and equal rights to everyone in J&K. Groups who were left out earlier, such as women who married outsiders, Dalits, Valmikis and refugees from West Pakistan, got full rights. The government also hoped it would weaken separatism and terror and bring investment and jobs. J&K is very important for security, since it borders both Pakistan and China.
+
+Since then, elections were held in 2024 with good turnout, and Omar Abdullah's National Conference formed the government. Connectivity improved with the Chenab rail bridge and a Vande Bharat train to Srinagar. But statehood has not been restored yet, and in September 2026 the J&K Assembly passed a resolution demanding it. The Pahalgam terror attack in 2025 hurt tourism. In Ladakh, people have protested for special protection under the Sixth Schedule.
+
+Problems remain: the delay in statehood, two power centres, terror in the Jammu region, and jobless youth. The way forward is to restore statehood at the right time, create jobs through tourism, farming and startups, keep a strong counter-terror grid, engage young people and talk to Ladakh. Removing Article 370 joined J&K fully with India, but lasting peace needs development, democracy and trust together.
+
+### Flowchart
+- What is it: Special status → Removed 5 Aug 2019 → Two UTs → SC upheld (2023)
+- Why it matters: One Constitution → Equal rights → End separatism → Border state
+- Current status: 2024 elections → Omar govt → No statehood yet → Assembly resolution → Ladakh protests
+- Problems: Statehood delay → Terror in Jammu → Youth jobs → Tourism hit
+- Solutions: Statehood on time → Jobs → Counter-terror grid → Youth → Talk to Ladakh
+- Conclusion: Full integration → Development + democracy + security → Trust
 
 ## Indus Waters Treaty
-- What is it: Signed in 1960 by Nehru and Ayub Khan, brokered by the World Bank → Eastern rivers (Ravi, Beas, Sutlej) to India; western rivers (Indus, Jhelum, Chenab) mainly to Pakistan → India allowed limited use of western rivers: run-of-river hydropower, limited storage → Permanent Indus Commission; disputes go to a Neutral Expert or Court of Arbitration
-- Why it matters: Water security for both countries; Pakistan's farming depends on it → Survived three wars; seen as a model treaty → Hydropower for J&K → A lever after cross-border terror → Climate change: glaciers melting, flows changing
-- Current status (Oct 2026): India placed the treaty "in abeyance" after Pahalgam (23 Apr 2025) → Court of Arbitration, The Hague (31 Aug 2026): abeyance not allowed under the treaty; terrorism not a breach of the water pact → Interim order restricts some construction at the Ratle project on the Chenab until the Neutral Expert decides (expected 2027) → India rejected the award: court "illegally constituted", no jurisdiction; abeyance continues → India speeding up projects: Pakal Dul, Kiru, Kwar, Ratle, Sawalkot; reservoir flushing
-- Problems: Treaty is outdated: no climate or terrorism clauses → Pakistan uses legal forums to block Indian projects → India lacks storage and canals to use its full share → Global criticism of "weaponising water" → Escalation risk with Pakistan → Disputed legal process (Neutral Expert vs Court of Arbitration)
-- Solutions: Build storage and hydropower on the western rivers; use India's full share → Renegotiate the treaty for new realities: climate, terror, technology → Keep the legal case strong; engage the World Bank and partners → Share flood data on humanitarian grounds → Link any future talks to an end to terrorism
-- Conclusion: The treaty was built on goodwill, which Pakistan's terrorism has broken → "Blood and water cannot flow together" → India will use its waters fully, within its rights
+- What is it: Signed in 1960 by Nehru and Ayub Khan, with help from the World Bank → Eastern rivers (Ravi, Beas, Sutlej) for India; western rivers (Indus, Jhelum, Chenab) mostly for Pakistan → India can use western rivers in a limited way: hydropower without big dams, small storage → Permanent Indus Commission; disputes go to a Neutral Expert or a Court of Arbitration
+- Why it matters: Water for both countries; Pakistan's farming depends on it → Survived three wars; once seen as a model treaty → Hydropower for J&K → A tool of pressure after cross-border terror → Climate change: glaciers melting, river flows changing
+- Current status (Oct 2026): India put the treaty "in abeyance" (on hold) after Pahalgam (23 Apr 2025) → Court of Arbitration at The Hague (31 Aug 2026): India cannot put it on hold; terror is not a breach of the water treaty → The court also limited some work at the Ratle project on the Chenab until a Neutral Expert decides (expected 2027) → India rejected the ruling: the court was "illegally set up" and has no power; the hold continues → India speeding up projects: Pakal Dul, Kiru, Kwar, Ratle, Sawalkot
+- Problems: Treaty is old: nothing on climate change or terror → Pakistan uses courts to block Indian projects → India lacks dams and canals to use its full share → World criticism of "using water as a weapon" → Risk of conflict with Pakistan → Confusion between two legal processes
+- Solutions: Build storage and hydropower on the western rivers; use India's full share → Renegotiate the treaty for today: climate, terror, technology → Keep India's legal case strong; engage the World Bank and partners → Share flood data on humanitarian grounds → Link any future talks to an end to terror
+- Conclusion: The treaty was built on goodwill, which Pakistan's terror has broken → "Blood and water cannot flow together" → India will use its waters fully, within its rights
+
+### Paragraph
+The Indus Waters Treaty was signed in 1960 by Prime Minister Nehru and Pakistan's President Ayub Khan, with the World Bank's help. It divides the six rivers of the Indus system. India got the three eastern rivers, the Ravi, Beas and Sutlej. Pakistan got most of the water of the three western rivers, the Indus, Jhelum and Chenab, though India can use them in a limited way, such as for hydropower without large dams. A Permanent Indus Commission meets to handle issues, and disputes can go to a Neutral Expert or a Court of Arbitration.
+
+The treaty matters because water is life for both countries. Pakistan's farming depends heavily on these rivers. The treaty survived three wars and was once called a model of cooperation. But Pakistan kept using terror against India, and India began to ask why it should keep a generous treaty with a country that sponsors attacks. Climate change is also changing river flows.
+
+After the Pahalgam attack in April 2025, India put the treaty "in abeyance", which means on hold. In August 2026 a Court of Arbitration at The Hague said India cannot do this and that terrorism does not break a water treaty. It also limited some work at the Ratle dam on the Chenab until a Neutral Expert decides, probably in 2027. India rejected the ruling, saying the court was set up illegally and has no power over India's decisions. India is now speeding up its own projects on the western rivers.
+
+The way forward is for India to build dams, storage and canals so it can use its full share, ask for a new treaty that deals with climate and terror, keep its legal case strong and share flood data for humanitarian reasons. The treaty was built on goodwill, which Pakistan's terror has broken. As India says, blood and water cannot flow together.
+
+### Flowchart
+- What is it: 1960 → Nehru–Ayub → World Bank → East rivers India, West rivers Pakistan
+- Why it matters: Water for both → Survived 3 wars → J&K hydropower → Pressure tool
+- Current status: On hold after Pahalgam → Hague ruling (Aug 2026) → Ratle limits → India rejects
+- Problems: Old treaty → Pak legal moves → Few dams → World criticism
+- Solutions: Build storage → Renegotiate → Strong legal case → Flood data
+- Conclusion: Goodwill broken → Blood and water can't flow together → Use full share
 
 ## Atmanirbhar Bharat in Defence
-- What is it: Self-reliance in designing and making weapons at home → Positive indigenisation lists: hundreds of items banned from import → 75% of the capital procurement budget reserved for domestic industry → Defence corridors in UP and Tamil Nadu; iDEX for startups; private sector opened up
-- Why it matters: Wars cannot be fought with imported spares → Strategic autonomy; no supply cutoffs in a crisis → Saves foreign exchange; creates jobs and MSMEs → Defence exports build influence → Operation Sindoor proved indigenous systems: BrahMos, Akash, Akashteer
-- Current status (Oct 2026): Defence production at a record ₹1.78 lakh crore (FY 2025–26), three times FY 2014–15 → Exports at a record ₹38,424 crore, up 62.66%; to 80+ countries; private sector 45% of exports → Private sector share of production up to 24% → Key systems: Tejas, Prachand helicopter, Pinaka, Akash, ATAGS, INS Vikrant, BrahMos (exported to the Philippines) → Targets: ₹3 lakh crore production and ₹50,000 crore exports by 2029
-- Problems: Jet engines still imported (Tejas delays due to GE engine supply) → Low R&D spending → Delays in DRDO and DPSU projects → India still among the world's largest arms importers → Dependence on foreign components and electronics → Complex procurement process
-- Solutions: Engines and core tech: AMCA engine with Safran, Kaveri → Raise R&D spending; involve academia and startups → Faster procurement; trust the private sector → Joint ventures with technology transfer → Export promotion with credit lines → Testing and certification infrastructure
-- Conclusion: Self-reliance is a strategic necessity, not a choice → From the world's largest importer to a trusted exporter → A strong nation must make its own weapons
+- What is it: Self-reliance in designing and making weapons in India → Lists of items that can no longer be imported (positive indigenisation lists) → 75% of the money for new weapons kept for Indian companies → Defence corridors in UP and Tamil Nadu; iDEX for startups; private companies allowed in
+- Why it matters: Wars cannot be fought with imported spare parts → Independence; no risk of supplies being cut in a crisis → Saves foreign money; creates jobs and small industries → Exports build influence → Operation Sindoor proved Indian systems: BrahMos, Akash, Akashteer
+- Current status (Oct 2026): Defence production at a record ₹1.78 lakh crore (2025–26), three times 2014–15 → Exports at a record ₹38,424 crore, up 62.66%; sold to 80+ countries; private companies 45% of exports → Private share of production rose to 24% → Key systems: Tejas, Prachand helicopter, Pinaka, Akash, ATAGS gun, INS Vikrant, BrahMos (sold to the Philippines) → Targets: ₹3 lakh crore production and ₹50,000 crore exports by 2029
+- Problems: Jet engines still imported (Tejas delayed by slow US engine supply) → Low spending on research → Delays in DRDO and PSU projects → India still one of the world's biggest arms importers → Dependence on foreign parts and electronics → Slow, complex buying process
+- Solutions: Engines and core technology: AMCA engine with Safran, Kaveri engine → More research money; involve universities and startups → Faster buying; trust private companies → Joint ventures with technology transfer → Help exports with credit lines → Testing and certification facilities
+- Conclusion: Self-reliance is a strategic need, not a choice → From the world's biggest importer to a trusted exporter → A strong nation must make its own weapons
+
+### Paragraph
+Atmanirbhar Bharat in defence means India designing and making its own weapons instead of buying them from abroad. To push this, the government has made lists of hundreds of items that can no longer be imported. It has reserved 75% of the money for buying new weapons for Indian companies. Defence corridors have been set up in Uttar Pradesh and Tamil Nadu, the iDEX scheme supports startups, and private companies are now encouraged to make weapons.
+
+This matters because a country cannot fight a war with imported spare parts. If a supplier stops sending parts during a crisis, our forces could be stuck. Making weapons at home gives India independence, saves foreign money, creates jobs and builds small industries. Selling weapons abroad also increases India's influence. Operation Sindoor proved that Indian-made systems like BrahMos, Akash and the Akashteer air defence network work well in real battle.
+
+The results are encouraging. In 2025–26 India's defence production reached a record ₹1.78 lakh crore, three times the 2014–15 level. Exports hit a record ₹38,424 crore, up more than 62%, and Indian weapons now go to over 80 countries. Private companies are growing fast. India makes the Tejas fighter, Prachand helicopter, Pinaka rocket system, ATAGS gun and even the aircraft carrier INS Vikrant, and has sold BrahMos missiles to the Philippines. The target is ₹3 lakh crore of production and ₹50,000 crore of exports by 2029.
+
+But challenges remain. India still imports jet engines, and slow supply of US engines has delayed Tejas jets. Research spending is low, many projects are late and India is still one of the biggest arms importers. The way forward is to build our own engines, spend more on research, speed up buying, trust private industry and partner with foreign firms that share technology. A strong nation must make its own weapons.
+
+### Flowchart
+- What is it: Make weapons in India → Import ban lists → 75% budget for Indian firms → Corridors, iDEX
+- Why it matters: No foreign dependence in war → Save money → Jobs → Sindoor proved it
+- Current status: ₹1.78 lakh cr production → ₹38,424 cr exports → 80+ countries → Tejas, BrahMos
+- Problems: Imported engines → Low R&D → Delays → Still big importer
+- Solutions: Own engines → More R&D → Faster buying → Private sector → Joint ventures
+- Conclusion: Strategic need → Importer to exporter → Make our own
 
 ## Theatre Commands
-- What is it: Integrated commands that put Army, Navy and Air Force units of a region under one commander → India today has 17 single-service commands; only the Andaman and Nicobar Command (2001) is tri-service → Post of CDS and the Department of Military Affairs created in 2020 to drive jointness → Plan: three theatres, Northern (China), Western (Pakistan) and Maritime
-- Why it matters: Modern wars are fought jointly: land, sea, air, cyber, space → Faster decisions and better use of scarce resources → Two-front threat from China and Pakistan → Lessons of Kargil and Operation Sindoor → Global practice: US, China
-- Current status (Oct 2026): Gen N S Raja Subramani took over as CDS (31 May 2026) with a mandate for theatre commands → Three sets of recommendations sent to the Defence Ministry (Apr 2026) → CDS to seek the Defence Minister's and then the Cabinet Committee on Security's approval → Army chief: theatre commands may take shape in two to three years → Inter-Services Organisations Act (2023) gives joint commanders disciplinary powers → Integration steps under way: joint logistics, training, communications
-- Problems: Different service cultures and doctrines → Air Force concern about splitting limited fighter squadrons → Who controls which assets; role of service chiefs → Need for new budgets, infrastructure and joint doctrine → Slow decision-making
-- Solutions: Clear political direction and a firm timeline → Start with joint logistics, training, cyber and space → Keep air power flexible across theatres → Common communication networks and joint doctrines → Pilot theatres before a full rollout → Joint postings and professional military education
+- What is it: Joint commands that put Army, Navy and Air Force units of one area under one commander → India today has 17 separate service commands; only the Andaman and Nicobar Command (2001) has all three → Chief of Defence Staff (CDS) and Department of Military Affairs created in 2020 to drive jointness → Plan: three theatres: Northern (China), Western (Pakistan), Maritime (sea)
+- Why it matters: Modern wars are fought jointly on land, sea, air, cyber and space → Faster decisions; better use of limited resources → Two-front threat from China and Pakistan → Lessons of Kargil and Operation Sindoor → Big powers like the US and China already use this model
+- Current status (Oct 2026): Gen N S Raja Subramani became CDS (31 May 2026) with the task of creating theatre commands → Three sets of plans sent to the Defence Ministry (Apr 2026) → CDS to seek approval from the Defence Minister and then the Cabinet Committee on Security → Army chief: theatre commands may take shape in two to three years → A 2023 law gives joint commanders powers over all three services → Joint logistics, training and communication being built
+- Problems: Each service has its own culture and way of fighting → Air Force worried about splitting its few fighter squadrons → Who controls which assets; role of service chiefs → Need new budgets, buildings and joint rules → Slow decisions
+- Solutions: Clear political direction and a firm deadline → Start with joint logistics, training, cyber and space → Keep air power flexible across theatres → Common communication networks and joint doctrine → Test with pilot theatres first → Joint postings and joint military education
 - Conclusion: Jointness is the key to winning future wars → Theatre commands are the biggest military reform since Independence → India must move fast, but carefully
 
+### Paragraph
+A theatre command puts the Army, Navy and Air Force units of one geographical area under a single commander, so that they plan and fight as one team. Today India has 17 separate commands, each run by one service. Only the Andaman and Nicobar Command, set up in 2001, includes all three. In 2020 the government created the post of Chief of Defence Staff and the Department of Military Affairs to bring the services together. The plan is to form three theatre commands: a Northern one facing China, a Western one facing Pakistan, and a Maritime one for the sea.
+
+This matters because modern wars are not fought by one service alone. Land, sea, air, cyber and space all work together. A single commander can take faster decisions and use scarce resources like fighter jets and drones better. India faces the risk of a two-front war with China and Pakistan, and lessons from Kargil and Operation Sindoor show the value of jointness. The US and China already use theatre commands.
+
+In May 2026 General N S Raja Subramani became the new Chief of Defence Staff, with the clear task of creating theatre commands. Three sets of plans were sent to the Defence Ministry in April 2026, and they now need approval from the Defence Minister and the Cabinet Committee on Security. The Army chief has said the commands may take shape in two to three years. A 2023 law already gives joint commanders powers over personnel from all three services.
+
+There are challenges. Each service has its own culture, and the Air Force worries about dividing its limited fighter squadrons. Questions remain about control of assets and the role of service chiefs. The best way forward is clear political direction, a firm timeline, starting with joint logistics and training, keeping air power flexible and testing pilot commands first. Theatre commands will be the biggest military reform since Independence and are key to winning future wars.
+
+### Flowchart
+- What is it: One commander, all services → 17 commands today → A&N Command → CDS 2020 → 3 theatres
+- Why it matters: Joint wars → Faster decisions → Two-front threat → Kargil, Sindoor lessons
+- Current status: CDS Gen Subramani (May 2026) → Plans sent (Apr 2026) → Approval pending → 2–3 years
+- Problems: Service cultures → IAF squadron worry → Asset control → Slow decisions
+- Solutions: Political push → Joint logistics first → Flexible air power → Pilot theatres
+- Conclusion: Jointness wins wars → Biggest reform → Fast but careful
+
 ## India's Nuclear Policy
-- What is it: Nuclear tests in 1974 and 1998 (Pokhran-II) → Doctrine (2003): credible minimum deterrence, No First Use, no use against non-nuclear states → Massive retaliation if attacked; civilian control through the Nuclear Command Authority → Nuclear triad: land (Agni), air (Rafale, Su-30MKI), sea (SSBNs)
-- Why it matters: Deterrence against two nuclear neighbours, China and Pakistan → Responsible nuclear power: NSG waiver (2008), member of MTCR, Wassenaar and Australia Group → India refuses the NPT and CTBT as discriminatory → Civil nuclear energy for clean power → No nuclear blackmail: India's stand during Operation Sindoor
-- Current status (Oct 2026): INS Aridaman inducted (Apr 2026), India's third SSBN; three SSBNs operational for the first time → SIPRI (2026) lists Indian warheads as deployed for the first time, linked to SSBN patrols → Agni-V tested with MIRV (Mission Divyastra, 2024) → Civil nuclear: SHANTI Act (2025) opens nuclear power to private players; target 100 GW by 2047 → NSG membership still blocked by China
-- Problems: China's fast nuclear build-up → Pakistan's tactical nuclear weapons and first-use posture → Debate over keeping No First Use → NSG membership blocked → Arms race; hypersonic and MIRV weapons → Safety and security of materials
-- Solutions: Keep credible minimum deterrence; strengthen second-strike capability (SSBNs, K-4, K-5) → Retain No First Use; it gives moral and diplomatic strength → Robust command and control; early warning → Diplomacy for NSG membership; support global disarmament → Expand civil nuclear power safely (small modular reactors)
-- Conclusion: India's nuclear weapons are for deterrence, not war → A responsible nuclear power with a clear doctrine → Strength with restraint is India's policy
+- What is it: Nuclear tests in 1974 and 1998 (Pokhran-II) → Nuclear doctrine (2003): keep only enough weapons to deter (credible minimum deterrence), No First Use, no use against countries without nuclear weapons → Massive retaliation if attacked; civilian leaders control the weapons (Nuclear Command Authority) → Nuclear triad: land (Agni missiles), air (Rafale, Su-30MKI), sea (nuclear submarines)
+- Why it matters: Deterrence against two nuclear neighbours: China and Pakistan → A responsible nuclear power: NSG waiver (2008); member of MTCR, Wassenaar and Australia Group → India rejects the NPT and CTBT as unfair → Nuclear power for clean energy → During Operation Sindoor, India refused to accept nuclear blackmail
+- Current status (Oct 2026): INS Aridaman joined the Navy (Apr 2026); India's third nuclear missile submarine; three now in service → SIPRI (2026) lists Indian warheads as "deployed" for the first time, linked to submarine patrols → Agni-V tested with multiple warheads (Mission Divyastra, 2024) → Civil nuclear: SHANTI Act (2025) lets private companies into nuclear power; target 100 GW by 2047 → China still blocks India's NSG membership
+- Problems: China is building nuclear weapons fast → Pakistan's small battlefield nuclear weapons and first-use threat → Debate on whether to keep No First Use → NSG membership blocked → Arms race: hypersonic and multi-warhead missiles → Safety and security of nuclear material
+- Solutions: Keep credible minimum deterrence; strengthen second-strike ability (submarines, K-4 and K-5 missiles) → Keep No First Use; it gives moral and diplomatic strength → Strong command and control; early warning → Diplomacy for NSG membership; support global disarmament → Grow nuclear power safely (small modular reactors)
+- Conclusion: India's nuclear weapons are for deterrence, not for war → A responsible nuclear power with a clear doctrine → Strength with restraint is India's policy
+
+### Paragraph
+India tested a nuclear device in 1974 and carried out five tests in 1998 under Pokhran-II, declaring itself a nuclear weapons state. In 2003 India published its nuclear doctrine. Its main ideas are simple: keep only enough weapons to stop others from attacking (credible minimum deterrence), never use nuclear weapons first (No First Use), never use them against countries without nuclear weapons, and hit back massively if attacked. Elected civilian leaders control the weapons. India can launch them from land, air and sea, which is called a nuclear triad.
+
+This policy matters because India has two nuclear-armed neighbours, China and Pakistan, and both have fought wars with India. Nuclear weapons stop them from threatening India with nuclear attack. India is also seen as a responsible nuclear power. It received a special waiver from the Nuclear Suppliers Group in 2008 and has joined other control groups. India has refused to sign the NPT and CTBT because they divide the world into nuclear "haves" and "have-nots". During Operation Sindoor, India made it clear it will not accept nuclear blackmail.
+
+In April 2026 India commissioned INS Aridaman, its third nuclear-powered submarine that carries nuclear missiles. With three such submarines, India can now keep at least one at sea all the time, which guarantees a second strike. For the first time, the research body SIPRI listed Indian warheads as deployed. On the civilian side, a 2025 law opened nuclear power to private companies, with a goal of 100 GW by 2047.
+
+There are challenges. China is building nuclear weapons quickly, Pakistan threatens to use small battlefield nuclear weapons, and China still blocks India's entry into the NSG. India should keep a strong second-strike ability, keep its No First Use policy, improve command systems, push for NSG membership and grow nuclear power safely. India's nuclear weapons are for deterrence, not for war, and its policy is strength with restraint.
+
+### Flowchart
+- What is it: 1974, 1998 tests → Doctrine 2003 → Minimum deterrence → No First Use → Triad
+- Why it matters: China + Pakistan → Responsible power → NSG waiver → No blackmail
+- Current status: INS Aridaman (3rd SSBN) → Warheads deployed (SIPRI) → Agni-V MIRV → SHANTI Act
+- Problems: China build-up → Pak tactical nukes → NFU debate → NSG blocked
+- Solutions: Second strike → Keep NFU → Command control → NSG diplomacy
+- Conclusion: Deterrence, not war → Responsible → Strength with restraint
 
 ## Blue Water Navy
 - What is it: A navy that can operate far from its shores for long periods → Needs aircraft carriers, nuclear submarines, long-range ships and logistics support → India's Navy: about 140 ships; two carriers, INS Vikramaditya and INS Vikrant → Goal: 175–200 ships; "a builder's navy"

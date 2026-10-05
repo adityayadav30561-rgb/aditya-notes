@@ -1124,44 +1124,129 @@ HAL faces criticism for repeated delays, dependence on foreign engines, safety c
 - Conclusion: Central to air power → Deliver faster → Strong HAL, strong IAF
 
 ## NITI Aayog
-- What is it: National Institution for Transforming India; replaced the Planning Commission on 1 Jan 2015 → Chaired by the PM; Governing Council of all CMs and LGs → A policy think tank, not a fund allocator → Promotes cooperative and competitive federalism
-- Why it matters: Long-term vision and strategy (Viksit Bharat@2047) → Rankings that push states: SDG India Index, Export Preparedness, Fiscal Health → Aspirational Districts and Blocks Programmes → Innovation: Atal Innovation Mission → Brings Centre and states together
-- Current status (Oct 2026): 11th Governing Council meeting (11 Jun 2026): "Inclusive Human Development for Viksit Bharat@2047" → All 28 states and 5 UTs attended; all CMs together for the first time → Targets discussed: Lakhpati Didis from 3 crore to 6 crore; export plans built on One District One Product → Focus on AI, data centres, defence manufacturing, water conservation, natural farming → Multidimensional poverty: about 25 crore people lifted out over a decade
-- Problems: No financial powers; advice often ignored → Seen by some as too close to the Centre → Weak state-level capacity and data → Opposition states sometimes boycott meetings → Overlap with ministries
-- Solutions: Stronger State Institutions for Transformation in every state → Evidence-based policy and real-time data → Give it a bigger role in evaluating schemes → Regular Centre–state dialogue → Focus on outcomes, not just indices
-- Conclusion: NITI Aayog is the government's think tank for transforming India → Team India: Centre and states working together → Key to planning the road to Viksit Bharat
+- What is it: National Institution for Transforming India; replaced the Planning Commission on 1 Jan 2015 → Chaired by the Prime Minister; its Governing Council has all Chief Ministers and Lieutenant Governors → A think tank that gives policy advice; it does not give money to states → Promotes cooperative and competitive federalism
+- Why it matters: Long-term vision and plans (Viksit Bharat@2047) → State rankings push states to do better: SDG India Index, Export Preparedness, Fiscal Health → Aspirational Districts and Blocks programmes for backward areas → New ideas: Atal Innovation Mission (Atal Tinkering Labs) → Brings the Centre and states to one table
+- Current status (Oct 2026): 11th Governing Council meeting (11 Jun 2026): "Inclusive Human Development for Viksit Bharat@2047" → All 28 states and 5 UTs attended; all Chief Ministers together for the first time → Goals discussed: Lakhpati Didis from 3 crore to 6 crore; export plans based on One District One Product → Focus on AI, data centres, defence manufacturing, saving water, natural farming → About 25 crore people came out of multidimensional poverty over a decade
+- Problems: No money powers; its advice is often ignored → Some see it as too close to the Centre → States lack capacity and good data → Opposition states sometimes skip meetings → Overlap with ministries
+- Solutions: A State Institution for Transformation in every state → Policies based on evidence and real-time data → A bigger role in checking how schemes work → Regular Centre–state dialogue → Focus on real results, not only rankings
+- Conclusion: NITI Aayog is the government's think tank for changing India → "Team India": Centre and states working together → Key to planning the road to Viksit Bharat
+
+### Paragraph
+NITI Aayog, the National Institution for Transforming India, replaced the old Planning Commission on 1 January 2015. The Planning Commission made Five Year Plans and decided how much money states would get. NITI Aayog works differently. It is a think tank that gives advice and ideas to the Centre and the states, but it does not hand out money. The Prime Minister chairs it, and its Governing Council includes all Chief Ministers and Lieutenant Governors.
+
+NITI Aayog matters because it plans for the long term, including the roadmap for Viksit Bharat by 2047. It believes in cooperative federalism, where the Centre and states work as "Team India", and competitive federalism, where states compete to do better. It publishes rankings like the SDG India Index and the Fiscal Health Index, which push states to improve. Its Aspirational Districts Programme helps India's most backward districts, and its Atal Innovation Mission has set up tinkering labs in thousands of schools.
+
+In June 2026 the 11th Governing Council meeting was held on the theme "Inclusive Human Development for Viksit Bharat@2047". For the first time ever, Chief Ministers from all 28 states attended along with the 5 Union Territories. The meeting discussed doubling the number of Lakhpati Didis, women in self-help groups earning over ₹1 lakh a year, from 3 crore to 6 crore, building export plans around One District One Product, and focusing on AI, defence manufacturing, saving water and natural farming. NITI Aayog also reports that about 25 crore people came out of multidimensional poverty in a decade.
+
+NITI Aayog has limits. Since it has no money powers, its advice is often ignored, some states see it as too close to the Centre, and states lack good data. It can become more effective if every state sets up its own transformation institution, if policies are based on real data, if it checks how schemes are working and if it focuses on results rather than only rankings. NITI Aayog is India's think tank for transformation, bringing the Centre and states together on the road to Viksit Bharat.
+
+### Flowchart
+- What is it: Replaced Planning Commission (2015) → PM chairs → All CMs → Think tank, no funds
+- Why it matters: Vision 2047 → State rankings → Aspirational Districts → Atal Innovation
+- Current status: 11th Council (Jun 2026) → All CMs for first time → Lakhpati Didis 3 to 6 cr → 25 cr out of poverty
+- Problems: No money power → Advice ignored → Seen as pro-Centre → Weak data
+- Solutions: State transformation bodies → Data-based policy → Check schemes → Results
+- Conclusion: Think tank → Team India → Road to Viksit Bharat
 
 ## RBI
-- What is it: Reserve Bank of India, set up on 1 Apr 1935; nationalised in 1949 → India's central bank: issues currency, banker to government and banks → Regulates banks, NBFCs and payments; manages forex reserves → Monetary Policy Committee (since 2016): 4% inflation target, band of 2–6%
-- Why it matters: Price stability and growth → Financial stability; trust in banks → Rupee value and forex management → Financial inclusion and digital payments (UPI) → Crisis manager in shocks (COVID, oil, war)
-- Current status (Oct 2026): Governor: Sanjay Malhotra → Repo rate at 5.25%, unchanged for five straight meetings; neutral stance → FY27 inflation forecast 5% amid oil and LPG shocks → Forex reserves about $682 bn (May 2026), about 11 months of import cover → Digital rupee pilot: 12 million users; push for rupee trade settlement → Action against cyber fraud and mule accounts
-- Problems: Imported inflation from oil and the Iran war → Rupee pressure from capital outflows → Cyber frauds and digital risks → Unsecured lending and NBFC risks → Climate-related financial risks → Balancing growth and inflation
-- Solutions: Flexible inflation targeting; careful rate decisions → Strong reserves; intervene against volatility → Tighter cyber security and fraud detection → Strong supervision of banks and NBFCs → Internationalise the rupee: vostro accounts, UPI links → Financial literacy and inclusion
-- Conclusion: RBI is the guardian of India's economic stability → Its credibility is a national asset → Stable prices and sound banks are the base of Viksit Bharat
+- What is it: Reserve Bank of India, set up on 1 Apr 1935; nationalised in 1949 → India's central bank: prints currency; bank to the government and to other banks → Regulates banks, NBFCs and payments; manages foreign exchange reserves → Monetary Policy Committee (since 2016): target 4% inflation, within 2–6%
+- Why it matters: Keeps prices stable while supporting growth → Keeps the banking system safe; people trust banks → Manages the rupee and forex reserves → Financial inclusion and digital payments (UPI) → Handles crises (COVID, oil shocks, war)
+- Current status (Oct 2026): Governor: Sanjay Malhotra → Repo rate at 5.25%, unchanged for five meetings in a row; neutral stance → Expects about 5% inflation in 2026–27 due to oil and LPG shocks → Forex reserves about $682 bn (May 2026), enough for about 11 months of imports → Digital rupee trial: 12 million users; push for trade in rupees → Action against cyber fraud and mule accounts
+- Problems: Imported inflation from oil and the Iran war → Pressure on the rupee when foreign money leaves → Cyber fraud and digital risks → Risky unsecured loans and NBFC risks → Climate risks to banks → Balancing growth and inflation
+- Solutions: Keep inflation near target with careful rate decisions → Strong reserves; step in to stop wild rupee swings → Tighter cyber security and fraud detection → Close watch on banks and NBFCs → Make the rupee more global: rupee trade accounts, UPI links → Financial literacy and inclusion
+- Conclusion: The RBI is the guardian of India's economic stability → Its trustworthiness is a national asset → Stable prices and sound banks are the base of Viksit Bharat
+
+### Paragraph
+The Reserve Bank of India, or RBI, was set up on 1 April 1935 and was nationalised in 1949. It is India's central bank. It prints currency notes, acts as the bank of the government and of other banks, regulates banks and non-banking finance companies, manages the payment system and looks after India's foreign exchange reserves. Since 2016 a six-member Monetary Policy Committee sets the main interest rate, called the repo rate, with the goal of keeping inflation at 4%, within a band of 2% to 6%.
+
+The RBI matters because it protects the value of our money. If prices rise too fast, it raises interest rates; if growth slows, it can cut them. It keeps banks safe so that people trust them with their savings. It manages the rupee and the forex reserves, which protect India in a crisis. It has also helped bring banking to the poor and supported the growth of UPI. During shocks like COVID or oil price spikes, the RBI acts as the country's financial firefighter.
+
+The RBI is now led by Governor Sanjay Malhotra. It has kept the repo rate at 5.25% for five meetings in a row and expects inflation of about 5% this year, mainly because the Iran war has pushed up oil and LPG prices. India's forex reserves are strong at about $682 billion, enough to pay for about 11 months of imports. The RBI's digital rupee trial has 12 million users, and it is encouraging trade in rupees. It is also fighting cyber fraud and mule accounts.
+
+The RBI faces challenges such as inflation from imported oil, pressure on the rupee, cyber fraud, risky loans and climate risks. Its tools are careful interest rate decisions, strong reserves, tight supervision of banks, better cyber security and making the rupee more international. The RBI is the guardian of India's economic stability, and stable prices and safe banks are the base of Viksit Bharat.
+
+### Flowchart
+- What is it: 1935 → Nationalised 1949 → Central bank → Currency, banks, forex → MPC 4% target
+- Why it matters: Price stability → Safe banks → Rupee → Inclusion → Crisis manager
+- Current status: Governor Malhotra → Repo 5.25% → 5% inflation forecast → $682 bn reserves → Digital rupee
+- Problems: Oil inflation → Rupee pressure → Cyber fraud → Risky loans
+- Solutions: Careful rates → Strong reserves → Supervision → Cyber security → Global rupee
+- Conclusion: Guardian of stability → Trust → Base of Viksit Bharat
 
 ## United Nations
-- What is it: Set up in 1945 after World War II; 193 members → Six main organs: General Assembly, Security Council, ECOSOC, Secretariat, International Court of Justice, Trusteeship Council → Security Council: 5 permanent members with veto, 10 elected members → India: founding member; elected to the UNSC eight times (last 2021–22)
-- Why it matters: Peace and security: peacekeeping, conflict resolution → Development: SDGs, health (WHO), food (WFP), children (UNICEF) → Climate change, human rights, refugees → Global rules and international law → For India: platform for Global South, counter-terrorism, reform
-- Current status (Oct 2026): Antonio Guterres's term ends on 31 Dec 2026; seven candidates in the race for the next Secretary-General → UN80 reform drive (launched 2025) to cut costs amid a funding crisis → India questions candidates on UNSC reform and Global South priorities → UNSC reform still stuck in inter-governmental negotiations → India among the largest troop contributors to UN peacekeeping → UN struggles to stop wars in Ukraine, Gaza, Iran and Sudan
-- Problems: UNSC paralysed by vetoes → Unrepresentative: no permanent member from Africa, Latin America or India → Funding cuts, especially by the US → Weak enforcement; big powers ignore rulings → No agreed definition of terrorism; CCIT pending → Rise of minilateral groupings
-- Solutions: Expand the UNSC in both permanent and non-permanent seats; G4 push (India, Brazil, Germany, Japan) → Limit use of the veto → Adopt the CCIT → Stable funding and efficient agencies → Strengthen peacekeeping and the voice of the Global South
+- What is it: Set up in 1945 after World War II; 193 members → Six main bodies: General Assembly, Security Council, ECOSOC, Secretariat, International Court of Justice, Trusteeship Council → Security Council: 5 permanent members with veto power, 10 elected members → India: a founding member; elected to the Security Council eight times (last 2021–22)
+- Why it matters: Peace: peacekeeping and ending conflicts → Development: SDGs, health (WHO), food (WFP), children (UNICEF) → Climate change, human rights, refugees → Global rules and international law → For India: a stage for the Global South, fighting terror and reform
+- Current status (Oct 2026): Antonio Guterres's term ends on 31 Dec 2026; seven candidates are in the race for the next Secretary-General → UN80 reform plan (2025) to cut costs during a money crisis → India questions candidates about Security Council reform and Global South needs → Security Council reform still stuck in talks → India is one of the biggest contributors of UN peacekeepers → The UN has struggled to stop wars in Ukraine, Gaza, Iran and Sudan
+- Problems: Security Council blocked by vetoes → Not representative: no permanent member from Africa, Latin America, or India → Money cuts, especially by the US → Weak enforcement; big powers ignore rulings → No agreed definition of terrorism; CCIT pending → Countries turning to smaller groups instead
+- Solutions: Expand the Security Council in both permanent and elected seats; G4 push (India, Brazil, Germany, Japan) → Limit the use of the veto → Adopt the CCIT against terrorism → Stable funding and efficient agencies → Stronger peacekeeping; more voice for the Global South
 - Conclusion: The UN is still the only truly global forum → A 1945 structure cannot meet 2026 challenges → India, the world's largest democracy, deserves a permanent seat
 
+### Paragraph
+The United Nations was set up in 1945, after World War II, to keep peace and help countries cooperate. It now has 193 members. Its main bodies include the General Assembly, where every country has a vote, and the Security Council, which handles war and peace. The Security Council has five permanent members, the US, UK, France, Russia and China, who each have a veto, plus ten elected members. India is a founding member of the UN and has been elected to the Security Council eight times, most recently in 2021–22.
+
+The UN matters because it is the only body where almost every country meets. Its peacekeepers work in conflict zones, and its agencies like the WHO, UNICEF and the World Food Programme help millions of people. It sets goals like the Sustainable Development Goals and works on climate change, human rights and refugees. For India, the UN is a stage to speak for the Global South, fight terrorism and push for reform.
+
+The UN is going through a difficult period. Secretary-General Antonio Guterres's term ends at the end of 2026, and seven candidates are competing to replace him. Because of a money crisis, partly from US funding cuts, the UN has launched a reform plan called UN80 to cut costs. India has asked the candidates what they will do about Security Council reform and the needs of developing countries. Meanwhile, the UN has been unable to stop wars in Ukraine, Gaza, Iran and Sudan. India remains one of the largest contributors of soldiers to UN peacekeeping.
+
+The UN's biggest problem is that its structure still reflects 1945. The Security Council is often blocked by vetoes, and it has no permanent member from Africa, Latin America, or India, the world's most populous country. The UN also has no agreed definition of terrorism. The way forward is to expand the Security Council, limit the veto, adopt India's proposed convention against terrorism and give developing countries more voice. The UN is still the only truly global forum, but it must reform, and India deserves a permanent seat.
+
+### Flowchart
+- What is it: 1945 → 193 members → P5 veto → India founding member, UNSC 8 times
+- Why it matters: Peace → Development → Climate, rights → Global South voice
+- Current status: New SG in 2027 → UN80 cost cuts → UNSC reform stuck → Wars unchecked → India top peacekeeper
+- Problems: Veto paralysis → Unrepresentative → Funding cuts → No terror definition
+- Solutions: Expand UNSC → Limit veto → Adopt CCIT → Global South voice
+- Conclusion: Only global forum → 1945 vs 2026 → India deserves a seat
+
 ## G20
-- What is it: Group of 19 countries plus the EU and the African Union (since 2023) → Began in 1999 for finance ministers; leaders' summits since 2008 → About 85% of world GDP, 75% of trade and two-thirds of the population → Rotating presidency; no permanent secretariat
-- Why it matters: Main forum for global economic coordination → Brings developed and developing economies to one table → Debt, climate finance, digital economy, development → India's G20 presidency (2023) raised its global profile → Voice for the Global South
-- Current status (Oct 2026): US holds the 2026 presidency; summit in Miami (Dec 2026) → US excluded South Africa and invited Poland → US narrowing the agenda; less focus on climate and development → India's 2023 legacy: New Delhi Declaration by consensus, African Union admitted, Global Biofuels Alliance, IMEC launched → Four Global South presidencies in a row ended in 2025 (Indonesia, India, Brazil, South Africa)
-- Problems: Divisions: US–China rivalry, Russia–Ukraine, West Asia → Exclusion of a member weakens the group's legitimacy → Declarations not binding; weak follow-up → Climate and debt goals sidelined → Too many issues, too little delivery
-- Solutions: Keep the G20 inclusive and consensus-based → Focus on core issues: growth, debt, trade, finance → Carry forward the Global South agenda: debt relief, climate finance, DPI → Better tracking of commitments → India as a bridge between the West and the Global South
-- Conclusion: The G20 is the premier forum for global economic cooperation → India's presidency showed it can deliver consensus → It must stay inclusive to stay relevant
+- What is it: Group of 19 countries plus the EU and the African Union (since 2023) → Started in 1999 for finance ministers; leaders' summits since 2008 → About 85% of world GDP, 75% of trade and two-thirds of the world's people → Presidency rotates every year; no permanent office
+- Why it matters: Main forum for managing the world economy → Brings rich and developing countries to one table → Debt, climate money, digital economy, development → India's G20 presidency (2023) raised its global image → A voice for the Global South
+- Current status (Oct 2026): The US holds the 2026 presidency; summit in Miami (Dec 2026) → The US left out South Africa and invited Poland → The US narrowed the agenda; less focus on climate and development → India's 2023 legacy: New Delhi Declaration agreed by all, African Union admitted, Global Biofuels Alliance, IMEC corridor launched → Four Global South presidencies in a row ended in 2025 (Indonesia, India, Brazil, South Africa)
+- Problems: Divisions: US–China rivalry, Russia–Ukraine, West Asia → Leaving out a member weakens the group → Statements are not binding; weak follow-up → Climate and debt goals pushed aside → Too many topics, too few results
+- Solutions: Keep the G20 inclusive and based on agreement → Focus on core issues: growth, debt, trade, finance → Carry forward the Global South agenda: debt relief, climate money, digital public infrastructure → Track promises better → India as a bridge between the West and the Global South
+- Conclusion: The G20 is the top forum for world economic cooperation → India's presidency showed it can build agreement → It must stay inclusive to stay relevant
+
+### Paragraph
+The G20, or Group of Twenty, brings together 19 major countries, the European Union and, since 2023, the African Union. It began in 1999 as a meeting of finance ministers after the Asian financial crisis, and leaders have met every year since the 2008 global financial crisis. Together, G20 members make up about 85% of the world's economy, 75% of its trade and two-thirds of its people. The presidency rotates each year, and there is no permanent office.
+
+The G20 matters because it is the main place where rich and developing countries discuss the world economy together. It deals with issues like growth, debt, climate finance and the digital economy. India's G20 presidency in 2023 was a big success. India got all members to agree on the New Delhi Declaration despite deep divisions, brought the African Union in as a permanent member, launched the Global Biofuels Alliance and announced the IMEC trade corridor. This raised India's image as a leader of the Global South.
+
+In 2026 the United States holds the presidency and will host the summit in Miami in December. The US has left out South Africa and invited Poland instead, and it has narrowed the agenda, giving less attention to climate change and development. This came after four presidencies in a row from developing countries, Indonesia, India, Brazil and South Africa, which had put Global South issues at the centre.
+
+The G20 faces problems: rivalry between the US and China, wars in Ukraine and West Asia, non-binding statements and weak follow-up. Leaving out a member also weakens its legitimacy. The way forward is to keep the G20 inclusive, focus on core economic issues, continue the Global South agenda of debt relief, climate money and digital public infrastructure, and track promises better. India can act as a bridge between the West and the developing world. The G20 is the top forum for world economic cooperation, but it must stay inclusive to stay relevant.
+
+### Flowchart
+- What is it: 19 + EU + AU → 1999 → Leaders since 2008 → 85% of world GDP
+- Why it matters: World economy forum → Rich + developing → India's 2023 success
+- Current status: US presidency 2026 → Miami summit (Dec) → South Africa out → Narrow agenda
+- Problems: Divisions → Exclusion → Non-binding → Climate, debt sidelined
+- Solutions: Inclusive → Core issues → Global South agenda → India as bridge
+- Conclusion: Top economic forum → India built consensus → Stay inclusive
 
 ## G7
-- What is it: Group of Seven: US, UK, France, Germany, Italy, Japan, Canada, plus the EU → Began in 1975; Russia joined (G8) in 1997 and was suspended in 2014 → Informal club of rich democracies; presidency rotates → India not a member, but invited as an outreach partner
-- Why it matters: Big share of world GDP, technology and finance → Shapes sanctions, trade rules, technology and climate policy → Supply chains, critical minerals, AI governance → India's regular invitation shows its rising importance → Platform for India to voice Global South concerns
-- Current status (Oct 2026): G7 Summit, Evian, France (Jun 2026) → India invited for the 13th time; Modi's seventh straight G7 → Modi met Trump on the sidelines, their first meeting in 16 months → Bilaterals with Canada (Mark Carney), UK, Japan (Sanae Takaichi), UAE and others → India–Canada ties reset: energy and coal deals discussed → Theme: new partnerships and rebuilding international solidarity
-- Problems: Declining share of world GDP; rise of China and India → Divisions within the G7 over US tariffs and policy → Seen as a rich nations' club → Russia's exclusion; little influence on wars → India's concerns (energy, terror, trade) not always heard
-- Solutions: Engage the Global South as real partners → Include India in a wider format (talk of a "G7 plus") → Cooperate on supply chains, critical minerals, AI, clean energy → Coordinate on terrorism and maritime security
-- Conclusion: The G7 still matters, but it can no longer act alone → India is an indispensable partner for global solutions → A fair world order needs more voices at the table
+- What is it: Group of Seven: US, UK, France, Germany, Italy, Japan, Canada, plus the EU → Started in 1975; Russia joined (G8) in 1997 and was removed in 2014 → An informal club of rich democracies; the presidency rotates → India is not a member but is often invited as a partner
+- Why it matters: A big share of the world's wealth, technology and finance → Shapes sanctions, trade rules, technology and climate policy → Supply chains, critical minerals, AI rules → India's regular invitation shows its rising importance → A stage for India to speak for the Global South
+- Current status (Oct 2026): G7 summit at Evian, France (Jun 2026) → India invited for the 13th time; Modi's seventh G7 in a row → Modi met Trump there, their first meeting in 16 months → Meetings with Canada (Mark Carney), UK, Japan (Sanae Takaichi), UAE and others → India–Canada ties reset; energy and coal deals discussed → Theme: new partnerships and rebuilding international solidarity
+- Problems: Its share of world GDP is falling as China and India rise → Divisions inside the G7 over US tariffs → Seen as a rich nations' club → Russia left out; little influence on wars → India's concerns (energy, terror, trade) not always heard
+- Solutions: Treat the Global South as real partners → Include India in a wider group (talk of a "G7 plus") → Cooperate on supply chains, critical minerals, AI and clean energy → Work together on terrorism and sea security
+- Conclusion: The G7 still matters, but it can no longer act alone → India is a key partner for global solutions → A fair world order needs more voices at the table
+
+### Paragraph
+The G7, or Group of Seven, is a club of seven rich democracies: the United States, United Kingdom, France, Germany, Italy, Japan and Canada, with the European Union also taking part. It began in 1975. Russia joined in 1997, making it the G8, but was removed in 2014 after it took Crimea. The G7 has no permanent office; the presidency rotates each year. India is not a member, but it is often invited as a partner country.
+
+The G7 matters because its members hold a large share of the world's wealth, technology and finance. Its decisions shape global sanctions, trade rules, technology standards and climate policy. Today it also works on supply chains, critical minerals and rules for artificial intelligence. India's regular invitations show that the world sees India as an important economy and democracy, and they give India a chance to speak for developing countries.
+
+In June 2026 the G7 summit was held at Evian in France. India was invited for the 13th time, and it was PM Modi's seventh G7 summit in a row. On the sidelines, Modi met US President Trump, their first meeting in 16 months after a period of trade tension. He also met the leaders of Canada, the UK, Japan and the UAE. The meeting with Canada's PM Mark Carney helped reset India–Canada relations, with talks on energy and coal deals.
+
+The G7 faces challenges. Its share of the world economy is shrinking as China and India grow, its members are divided over US tariffs, and many see it as a rich nations' club with little influence on today's wars. For India, its concerns about energy, terrorism and trade are not always heard. The way forward is for the G7 to treat developing countries as real partners, possibly in a wider "G7 plus" format with India, and to cooperate on supply chains, minerals, AI and clean energy. The G7 still matters, but a fair world order needs more voices at the table.
+
+### Flowchart
+- What is it: 7 rich democracies + EU → 1975 → Russia out 2014 → India invited
+- Why it matters: Wealth, tech → Sanctions, rules → AI, minerals → India's rise
+- Current status: Evian summit (Jun 2026) → India's 13th invite → Modi–Trump meet → Canada reset
+- Problems: Shrinking share → Internal divisions → Rich club → Weak on wars
+- Solutions: Global South partners → G7 plus → Supply chains, AI → Terror cooperation
+- Conclusion: Still matters → India key partner → More voices
 
 ## ASEAN
 - What is it: Association of Southeast Asian Nations, set up in 1967 → 11 members after Timor-Leste joined in 2025 → India: dialogue partner (1996), summit partner (2002), Comprehensive Strategic Partnership (2022) → Heart of India's Act East Policy

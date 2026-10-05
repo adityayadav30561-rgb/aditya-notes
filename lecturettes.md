@@ -874,44 +874,129 @@ But challenges remain. Factories still give only about 15–17% of India's econo
 - Conclusion: Engine of jobs → Assembled to designed → World's factory
 
 ## UPI and Cyber Crime
-- What is it: UPI (2016), built by NPCI: instant, free, mobile-to-mobile payments → Part of India's digital public infrastructure: Aadhaar, Jan Dhan, mobile (JAM) → Cyber crime: online fraud, phishing, digital arrest scams, mule accounts → Digital growth has brought digital crime
-- Why it matters: Financial inclusion for street vendors, villages, small businesses → India makes nearly half the world's real-time payments → Soft power: UPI in UAE, Singapore, France, Nepal, Bhutan, Sri Lanka, Mauritius → Frauds hurt trust, savings and the elderly → National security: terror financing, data theft
-- Current status (Oct 2026): UPI record of 24.51 bn transactions worth ₹29.82 lakh crore (Aug 2026) → Cyber fraud: 12.71 lakh complaints and ₹10,178 crore lost (Jan–Jun 2026), about ₹56 crore a day → Main types: investment scams, digital arrest, loan apps, phishing → Response: I4C, helpline 1930, cybercrime.gov.in, Sanchar Saathi → Data protection: DPDP Act (2023) and its rules → RBI tools against mule accounts
-- Problems: Low digital literacy → Mule accounts and SIM-card misuse → Cross-border scam centres (Cambodia, Myanmar) → Slow investigation and recovery → AI deepfakes and voice cloning → Shortage of trained cyber police
-- Solutions: Digital literacy: "Stop, Think, Take Action" → Faster blocking: 1930 helpline, bank coordination → Act against mule accounts and fake SIMs → Trained cyber police and forensic labs in every district → International cooperation against scam centres → AI-based fraud detection by banks and NPCI
-- Conclusion: UPI is India's digital success story → Security must keep pace with innovation → An alert citizen is the strongest firewall
+- What is it: UPI (2016), built by NPCI: instant, free payments from one mobile to another → Part of India's digital public infrastructure: Jan Dhan accounts, Aadhaar and mobile phones (JAM) → Cyber crime: online fraud, phishing, "digital arrest" scams, mule bank accounts → As digital payments grew, digital crime grew too
+- Why it matters: Brought banking to street vendors, villages and small shops → India makes nearly half of the world's real-time digital payments → Soft power: UPI works in UAE, Singapore, France, Nepal, Bhutan, Sri Lanka, Mauritius → Fraud hurts trust, savings and older people most → Security: terror funding, data theft
+- Current status (Oct 2026): UPI record: 24.51 bn transactions worth ₹29.82 lakh crore in one month (Aug 2026) → Cyber fraud: 12.71 lakh complaints and ₹10,178 crore lost (Jan–Jun 2026), about ₹56 crore a day → Main frauds: fake investment schemes, digital arrest, loan apps, phishing → Response: I4C, helpline 1930, cybercrime.gov.in, Sanchar Saathi → Data protection law (DPDP Act 2023) and its rules → RBI tools to catch mule accounts
+- Problems: Many people don't know how to stay safe online → Mule accounts and misuse of SIM cards → Scam centres abroad (Cambodia, Myanmar) → Slow investigation; money rarely recovered → AI deepfakes and voice cloning → Too few trained cyber police
+- Solutions: Digital awareness: "Stop, Think, Take Action" → Quick blocking through 1930 and bank coordination → Shut mule accounts and fake SIMs → Trained cyber police and forensic labs in every district → Work with other countries against scam centres → AI-based fraud detection by banks and NPCI
+- Conclusion: UPI is India's digital success story → Security must keep pace with new technology → An alert citizen is the strongest firewall
+
+### Paragraph
+UPI, or Unified Payments Interface, was launched in 2016 by the National Payments Corporation of India. It lets anyone send money instantly and for free from one mobile phone to another using a simple ID or QR code. UPI is part of India's digital public infrastructure, built on Jan Dhan bank accounts, Aadhaar and mobile phones. But as digital payments have grown, so has cyber crime, such as online fraud, fake messages, "digital arrest" scams and mule bank accounts used to move stolen money.
+
+UPI matters because it has changed daily life. A tea seller, a farmer or a small shopkeeper can now accept digital payments. India makes nearly half of all real-time digital payments in the world, and UPI now works in countries like the UAE, Singapore, France and Nepal, which adds to India's soft power. At the same time, fraud destroys trust, wipes out people's savings and often targets older people. Cyber crime can also fund terrorism and steal data.
+
+The numbers are huge on both sides. In August 2026 UPI handled a record 24.51 billion transactions worth ₹29.82 lakh crore. But in the first half of 2026 people filed 12.71 lakh cyber fraud complaints and lost over ₹10,000 crore, about ₹56 crore every day. Most money is lost through fake investment schemes, digital arrest calls, loan apps and phishing. The government runs the 1930 helpline, the cybercrime.gov.in portal and the Sanchar Saathi app, and has a data protection law. The RBI is using tools to catch mule accounts.
+
+The main problems are low awareness, mule accounts, scam centres abroad, slow investigations, AI deepfakes and too few trained cyber police. The answer is awareness campaigns, fast blocking of stolen money, shutting mule accounts and fake SIMs, trained cyber police in every district, global cooperation and AI-based fraud detection. UPI is India's digital success story, but security must keep pace, and an alert citizen is the best defence.
+
+### Flowchart
+- What is it: UPI 2016 → Instant, free → JAM trinity → Cyber fraud rising
+- Why it matters: Inclusion → Half of world's real-time payments → Global UPI → Fraud hurts trust
+- Current status: 24.51 bn transactions (Aug 2026) → 12.71 lakh complaints → ₹56 cr lost a day → 1930 helpline
+- Problems: Low awareness → Mule accounts → Scam centres abroad → Deepfakes
+- Solutions: Awareness → Fast blocking → Shut mule accounts → Cyber police → AI detection
+- Conclusion: Digital success → Security must keep pace → Alert citizen = firewall
 
 ## Inflation and Rising Prices
-- What is it: General rise in prices over time; measured by CPI (retail) and WPI (wholesale) → RBI's target: 4% CPI inflation, with a band of 2–6% → Causes: demand-pull, cost-push (fuel, food), supply shocks → India's inflation is driven largely by food and fuel
-- Why it matters: Hurts the poor most; reduces real income and savings → Affects interest rates, loans and investment → Food inflation hits nutrition → Political and social stability → Rupee and imports
-- Current status (Oct 2026): CPI inflation rose to 4.82% (Aug 2026), from 4.45% in July → Rural inflation 5.23%, urban 4.31% → RBI kept the repo rate at 5.25% for the fifth straight meeting; FY27 inflation forecast 5% → Pressure from the Iran war: crude oil and LPG prices → Earlier, inflation was very low in 2025 due to falling food prices
-- Problems: Oil import dependence; Hormuz disruption → Food price volatility: monsoon, heat waves, supply chains → Weak cold storage and warehousing → Global prices and a weaker rupee → Hoarding and middlemen
-- Solutions: RBI: flexible inflation targeting → Supply side: storage, cold chains, food processing → Buffer stocks; open market sales of wheat and rice; export curbs when needed → Cut fuel taxes during shocks; diversify energy imports → Crop diversification: pulses and oilseeds → Free foodgrains (PMGKAY) for the poor
-- Conclusion: Price stability is the foundation of growth → Inflation is a hidden tax on the poor → Keep inflation low through both monetary and supply-side action
+- What is it: A general rise in prices over time; measured by CPI (shop prices) and WPI (wholesale prices) → RBI's target: 4% CPI inflation, within a band of 2–6% → Causes: too much demand, higher costs (fuel, food), supply shocks → In India, food and fuel drive most price rises
+- Why it matters: Hurts the poor most; reduces what money can buy and people's savings → Affects interest rates, loans and investment → Food price rises hurt nutrition → Can cause social and political unrest → Affects the rupee and imports
+- Current status (Oct 2026): CPI inflation rose to 4.82% (Aug 2026), from 4.45% in July → Villages 5.23%, cities 4.31% → RBI kept the repo rate at 5.25% for the fifth meeting in a row; expects 5% inflation in 2026–27 → Pressure from the Iran war: crude oil and LPG prices → Earlier, inflation was very low in 2025 because food prices fell
+- Problems: Depend on imported oil; Hormuz disruption → Food prices jump with bad monsoons, heat waves and supply problems → Poor cold storage and warehouses → World prices and a weaker rupee → Hoarding and middlemen
+- Solutions: RBI: keep inflation near 4% through interest rates → Supply side: storage, cold chains, food processing → Buffer stocks; sell wheat and rice in the open market; limit exports when needed → Cut fuel taxes during shocks; buy energy from many countries → Grow more pulses and oilseeds → Free food grains for the poor (PMGKAY)
+- Conclusion: Stable prices are the base of growth → Inflation is a hidden tax on the poor → Keep it low with both RBI action and better supply
+
+### Paragraph
+Inflation means a general rise in prices over time. When there is inflation, the same money buys fewer things. In India it is measured mainly by the Consumer Price Index (CPI), which tracks prices that families pay, and the Wholesale Price Index (WPI). The Reserve Bank of India tries to keep CPI inflation at 4%, allowing it to move between 2% and 6%. Prices rise when demand is too high, when costs like fuel go up, or when supply is hit by bad weather or war. In India, food and fuel are the biggest drivers.
+
+Inflation matters because it hurts the poor the most. A poor family spends most of its income on food and fuel, so even a small price rise squeezes its budget. Inflation also eats into savings, pushes up interest rates on loans and can slow down investment. If food prices rise sharply, nutrition suffers and people get angry, which can cause unrest.
+
+In August 2026 retail inflation rose to 4.82%, up from 4.45% in July, and it was higher in villages than in cities. The RBI kept its main interest rate, the repo rate, at 5.25% for the fifth meeting in a row, and expects inflation of about 5% this year. The main pressure comes from the Iran war, which has pushed up the prices of crude oil and cooking gas. This is a change from 2025, when inflation was very low because food prices fell.
+
+India's problems are its dependence on imported oil, food prices that swing with the monsoon, poor storage and hoarding. To control inflation, the RBI uses interest rates, while the government works on supply: better storage and cold chains, buffer stocks of grain, cutting fuel taxes in a crisis, buying energy from many countries and growing more pulses and oilseeds. Free food grains protect the poorest. Stable prices are the base of growth, because inflation is a hidden tax on the poor.
+
+### Flowchart
+- What is it: Rising prices → CPI, WPI → RBI target 4% (2–6%) → Food, fuel drivers
+- Why it matters: Hurts poor → Eats savings → Loan rates → Unrest
+- Current status: 4.82% (Aug 2026) → Repo 5.25% → 5% forecast → Oil, LPG pressure
+- Problems: Imported oil → Monsoon swings → Poor storage → Hoarding
+- Solutions: RBI rates → Storage, cold chains → Buffer stocks → Fuel tax cuts → Pulses
+- Conclusion: Stability = growth → Hidden tax on poor → Money + supply action
 
 ## Agriculture, MSP and Farmers
-- What is it: Agriculture employs about 45% of India's workforce but gives about 16–18% of GDP → MSP: a guaranteed price for 22 crops, at least 1.5 times the cost of production → Most farmers are small and marginal (average holding about 1 hectare) → Big schemes: PM-KISAN, crop insurance, Kisan Credit Card
-- Why it matters: Food security for 140 crore people → Rural incomes and demand → Jobs and livelihoods → Exports: rice, spices, marine products → Social and political stability
-- Current status (Oct 2026): MSP raised for 14 kharif crops (2026–27); paddy up ₹72 to ₹2,441 per quintal → Biggest hikes: sunflower, cotton, nigerseed, sesamum, to promote oilseeds and pulses → Record foodgrain production in recent years → Missions for pulses and edible oils; PM Dhan-Dhaanya Krishi Yojana in 100 districts → Farm and dairy kept protected in trade deals (US, EU) → Demand for a legal guarantee of MSP continues
-- Problems: Small holdings, low productivity → Climate change: heat waves, erratic monsoon → Groundwater depletion; paddy–wheat cycle in Punjab and Haryana → MSP procurement limited to a few crops and states → Farmer debt and distress; weak markets and storage → Low investment and technology use
-- Solutions: Crop diversification: pulses, oilseeds, millets → Better markets: e-NAM, FPOs, cold chains, food processing → Climate-resilient seeds, micro-irrigation, natural farming → Wider MSP procurement or price-deficiency payments → Credit, insurance and technology: drones, soil health cards → Agri exports and value addition
-- Conclusion: "Jai Jawan, Jai Kisan": farmers feed the nation → From food security to farmers' prosperity → A strong farmer means a strong India
+- What is it: Farming employs about 45% of India's workers but gives only about 16–18% of GDP → MSP (Minimum Support Price): a guaranteed price for 22 crops, at least 1.5 times the cost of growing them → Most farmers are small; average land is about 1 hectare → Key schemes: PM-KISAN, crop insurance, Kisan Credit Card
+- Why it matters: Food for 140 crore people → Village incomes and spending → Jobs and livelihoods → Exports: rice, spices, sea food → Social and political stability
+- Current status (Oct 2026): MSP raised for 14 kharif crops (2026–27); paddy up ₹72 to ₹2,441 per quintal → Biggest rises for sunflower, cotton, nigerseed and sesame, to grow more oilseeds and pulses → Record grain production in recent years → Missions for pulses and edible oils; PM Dhan-Dhaanya Krishi Yojana in 100 districts → Farming and dairy kept protected in trade deals with the US and EU → Demand for a legal guarantee of MSP continues
+- Problems: Small farms, low output per hectare → Climate change: heat waves, uneven monsoon → Falling groundwater; rice–wheat cycle in Punjab and Haryana → MSP buying limited to a few crops and states → Farmer debt and distress; weak markets and storage → Little investment and technology
+- Solutions: Grow different crops: pulses, oilseeds, millets → Better markets: e-NAM, farmer producer groups (FPOs), cold chains, food processing → Climate-ready seeds, drip irrigation, natural farming → Wider MSP buying or payments to cover price gaps → Credit, insurance and technology: drones, soil health cards → Farm exports and adding value
+- Conclusion: "Jai Jawan, Jai Kisan": farmers feed the nation → Move from food security to farmers' prosperity → A strong farmer means a strong India
+
+### Paragraph
+Agriculture is the biggest source of jobs in India. About 45% of workers depend on farming, but it produces only about 16–18% of the country's income. Most Indian farmers are small, with about one hectare of land on average. To protect them, the government announces a Minimum Support Price, or MSP, for 22 crops. This is a guaranteed price at least 1.5 times the cost of growing the crop. Farmers also get ₹6,000 a year under PM-KISAN, crop insurance and cheap loans through the Kisan Credit Card.
+
+Agriculture matters because it feeds 140 crore people and supports village incomes. When farmers earn well, they spend more, which helps the whole economy. India also exports rice, spices and sea food. If farmers are in distress, there can be social and political unrest, as the farm protests of 2020–21 showed.
+
+In May 2026 the government raised the MSP for 14 kharif crops. Paddy went up by ₹72 to ₹2,441 per quintal, and the biggest rises were for oilseeds like sunflower and sesame, to encourage farmers to grow more of what India imports. India has had record grain harvests, and there are new missions for pulses and edible oils. In trade deals with the US and the EU, India has protected farming and dairy. Many farmer groups still want MSP to be guaranteed by law.
+
+Farming faces many problems: small farms, low yields, climate change, falling groundwater in Punjab and Haryana, limited MSP buying, debt and weak markets. The way forward is to grow a wider mix of crops like pulses and millets, build better markets and cold storage, use climate-ready seeds and drip irrigation, give farmers credit, insurance and technology like drones, and process and export more. As the slogan "Jai Jawan, Jai Kisan" reminds us, a strong farmer means a strong India.
+
+### Flowchart
+- What is it: 45% workers, 16–18% GDP → MSP for 22 crops → Small farms → PM-KISAN
+- Why it matters: Food security → Rural income → Exports → Stability
+- Current status: MSP up for 14 crops → Paddy ₹2,441 → Oilseeds push → Farming protected in trade deals
+- Problems: Small farms → Climate → Groundwater → Limited MSP → Debt
+- Solutions: Crop mix → Markets, FPOs → Drip irrigation → Credit, tech → Exports
+- Conclusion: Jai Jawan Jai Kisan → Food to prosperity → Strong farmer, strong India
 
 ## Role of Youth in Nation Building
-- What is it: About 65% of Indians are under 35; median age about 28 → Demographic dividend: a large working-age population until the 2040s → Youth as builders: jobs, startups, armed forces, public service → "Arise, awake and stop not till the goal is reached": Swami Vivekananda
-- Why it matters: Youth will build Viksit Bharat by 2047 → Innovation: startups, technology, research → Social change: volunteering, awareness, voting → Defence and security of the nation → Global workforce and soft power
-- Current status (Oct 2026): Youth unemployment about 15.3% (PLFS, Apr 2026); overall unemployment about 5.5% → Schemes: Skill India, PM Internship Scheme, employment-linked incentives, MY Bharat platform → India the third largest startup ecosystem; 100+ unicorns → Viksit Bharat Young Leaders Dialogue for youth ideas → Youth in sports, space, defence and digital economy
-- Problems: Unemployment and underemployment; skill mismatch → Drug abuse, especially in border states → Mental health and social media addiction → Brain drain → Low participation of young women in work → Radicalisation and misinformation
-- Solutions: Skills linked to industry; apprenticeships → Entrepreneurship: easy credit, mentoring, incubators → Sports, NCC, NSS, volunteering for character building → Mental health support; awareness against drugs → Civic participation: voting, community service → Values: discipline, integrity, service to the nation
-- Conclusion: Youth are not just the future, they are the present → A disciplined, skilled and patriotic youth will build Viksit Bharat → The nation's strength lies in its young
+- What is it: About 65% of Indians are under 35; average age about 28 → Demographic dividend: a large working-age population until the 2040s → Youth build the nation through jobs, startups, the armed forces and public service → Swami Vivekananda: "Arise, awake and stop not till the goal is reached"
+- Why it matters: Youth will build Viksit Bharat by 2047 → New ideas: startups, technology, research → Social change: volunteering, awareness, voting → Defence and security of the nation → Global workforce and soft power
+- Current status (Oct 2026): Youth unemployment about 15.3% (PLFS, Apr 2026); overall unemployment about 5.5% → Schemes: Skill India, PM Internship Scheme, job-linked incentives, MY Bharat platform → India has the world's third largest startup ecosystem; 100+ unicorns → Viksit Bharat Young Leaders Dialogue collects youth ideas → Young Indians shining in sports, space, defence and the digital economy
+- Problems: Unemployment and jobs that don't match skills → Drug abuse, especially in border states → Mental health and social media addiction → Brain drain → Few young women in paid work → Radicalisation and fake news
+- Solutions: Skills linked to industry; apprenticeships → Entrepreneurship: easy loans, mentors, incubators → Sports, NCC, NSS and volunteering to build character → Mental health support; campaigns against drugs → Civic duty: voting, community service → Values: discipline, honesty, service to the nation
+- Conclusion: Youth are not just the future; they are the present → Disciplined, skilled and patriotic youth will build Viksit Bharat → The nation's strength lies in its young people
+
+### Paragraph
+India is one of the youngest countries in the world. About 65% of Indians are under 35, and the average age is about 28. This gives India a "demographic dividend": a large number of people of working age who can drive growth until the 2040s. Young people build the nation in many ways, through jobs, startups, the armed forces, public service and social work. As Swami Vivekananda said, "Arise, awake and stop not till the goal is reached."
+
+Youth matter because they will build Viksit Bharat by 2047. They bring new ideas in technology, business and research. They lead social change through volunteering, awareness campaigns and voting. They defend the nation in uniform, and Indian youth working abroad spread India's influence. If young people get the right education, skills and values, the country will rise.
+
+Today there are both strengths and gaps. India has the world's third largest startup ecosystem with over 100 unicorns, and young Indians are doing well in sports, space, defence and the digital economy. The government runs Skill India, the PM Internship Scheme, job-linked incentives and the MY Bharat platform, and holds the Viksit Bharat Young Leaders Dialogue to hear youth ideas. But youth unemployment is about 15%, much higher than the overall rate of about 5.5%.
+
+Young people also face drug abuse, especially in border states, mental health problems, social media addiction, brain drain, fake news and radicalisation, and many young women are not in paid work. The way forward is to link skills to industry needs, support young entrepreneurs, encourage sports, NCC, NSS and volunteering, provide mental health support and fight drugs. Youth must also do their duty: vote, serve the community and live with discipline and honesty. Young people are not just the future; they are the present, and the nation's strength lies in them.
+
+### Flowchart
+- What is it: 65% under 35 → Demographic dividend → Jobs, startups, forces → Vivekananda
+- Why it matters: Build Viksit Bharat → Innovation → Social change → Defence
+- Current status: 15.3% youth unemployment → Skill India, internships → 3rd startup ecosystem → MY Bharat
+- Problems: Jobs mismatch → Drugs → Mental health → Brain drain → Fake news
+- Solutions: Skills + apprenticeships → Startups → NCC, NSS, sports → Mental health → Civic duty
+- Conclusion: Present, not just future → Skilled, patriotic → Strength of nation
 
 ## Education Reforms (NEP 2020)
-- What is it: National Education Policy 2020, replacing the 1986 policy → 5+3+3+4 school structure; early childhood education → Mother tongue up to Class 5 where possible; vocational education from Class 6 → Four-year undergraduate degree, multiple entry and exit, Academic Bank of Credits
-- Why it matters: Shift from rote learning to critical thinking and skills → Equity and access for all → Prepares the workforce for the demographic dividend → Research and innovation → Global standing of Indian universities
-- Current status (Oct 2026): CBSE Class 10 board exams held twice a year from 2026; second exam optional → New curriculum and textbooks under NCF → APAAR ID for students; PARAKH assessment centre → Viksit Bharat Shiksha Adhishthan Bill: a single higher education regulator replacing UGC, AICTE and NCTE; under a Joint Parliamentary Committee → Three-language formula debate with some states
-- Problems: Spending on education below the 6% of GDP target → Teacher shortage and training gaps → Language row; Centre–state friction → Digital divide → Concerns over autonomy under a single regulator → Uneven implementation across states
-- Solutions: Raise public spending to 6% of GDP → Train and recruit teachers → Flexible language policy with consensus → Digital infrastructure in rural schools → Balance regulation with university autonomy → Cooperative federalism in implementation
-- Conclusion: NEP 2020 is a roadmap to a knowledge society → Its success depends on implementation, funding and teachers → Education is the foundation of Viksit Bharat
+- What is it: National Education Policy 2020, replacing the 1986 policy → New school structure: 5+3+3+4, including early childhood education → Teaching in the mother tongue up to Class 5 where possible; job skills from Class 6 → Four-year college degree; leave and rejoin anytime; Academic Bank of Credits
+- Why it matters: Move from rote learning to thinking and skills → Equal access to good education for all → Prepares the young workforce for jobs → Boosts research and new ideas → Raises the standing of Indian universities
+- Current status (Oct 2026): CBSE Class 10 board exams held twice a year from 2026; the second exam is optional → New syllabus and textbooks under the National Curriculum Framework → APAAR ID for every student; PARAKH for assessment → Viksit Bharat Shiksha Adhishthan Bill: one higher education regulator to replace UGC, AICTE and NCTE; being studied by a Joint Parliamentary Committee → Debate with some states over the three-language formula
+- Problems: Spending on education below the 6% of GDP target → Shortage of teachers; training gaps → Language row; Centre–state friction → Digital divide → Worry that one regulator will reduce university freedom → Uneven progress across states
+- Solutions: Raise public spending to 6% of GDP → Hire and train more teachers → Flexible language policy built on agreement → Digital infrastructure in village schools → Balance regulation with university freedom → Centre and states working together
+- Conclusion: NEP 2020 is a roadmap to a knowledge society → Its success depends on money, teachers and implementation → Education is the foundation of Viksit Bharat
+
+### Paragraph
+The National Education Policy 2020, or NEP, replaced the old policy of 1986. It changes how Indian children learn from pre-school to college. The old 10+2 system is being replaced by a 5+3+3+4 structure that includes early childhood education. Children should be taught in their mother tongue up to Class 5 where possible, and job skills will be taught from Class 6. In college, students can do a four-year degree, leave and rejoin later, and store their credits in an Academic Bank of Credits.
+
+NEP matters because Indian education has long focused on rote learning and exams. The new policy wants students to think, question and solve problems. It aims to give every child, rich or poor, access to good education, and to prepare India's huge young population for real jobs. It also wants more research and better universities, so that Indian students do not have to go abroad for quality education.
+
+Several changes have started. From 2026, CBSE Class 10 students can take the board exam twice a year, with the second one optional, which reduces stress. New textbooks have been prepared under the National Curriculum Framework. Every student is getting an APAAR ID to track their learning. In December 2025 the government introduced the Viksit Bharat Shiksha Adhishthan Bill to replace the UGC, AICTE and NCTE with a single regulator; it is being studied by a parliamentary committee. Some states have opposed the three-language formula.
+
+The main problems are low spending on education, a shortage of trained teachers, language disputes, the digital divide and worries that a single regulator could reduce the freedom of universities. The way forward is to raise education spending to 6% of GDP, hire and train more teachers, build agreement on language, bring digital tools to village schools and let the Centre and states work together. NEP 2020 is a roadmap to a knowledge society, and education is the foundation of Viksit Bharat.
+
+### Flowchart
+- What is it: NEP 2020 → 5+3+3+4 → Mother tongue → Skills from Class 6 → 4-year degree
+- Why it matters: Thinking over rote → Equal access → Jobs → Research
+- Current status: Boards twice a year → New textbooks → APAAR ID → Single regulator bill → Language debate
+- Problems: Low spending → Teacher shortage → Language row → Digital divide
+- Solutions: 6% of GDP → More teachers → Language consensus → Digital schools
+- Conclusion: Knowledge society → Implementation key → Base of Viksit Bharat
 
 ## Uniform Civil Code
 - What is it: One set of civil laws for all citizens on marriage, divorce, inheritance, adoption → Article 44 (Directive Principles): the State shall endeavour to secure a UCC → Today, personal laws differ by religion; Goa has had a common civil code since Portuguese times → Supreme Court cases: Shah Bano (1985), Sarla Mudgal (1995)

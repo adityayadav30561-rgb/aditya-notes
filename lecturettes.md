@@ -1474,33 +1474,101 @@ India's problems are its heavy dependence on imported oil, the risk at the Hormu
 - Conclusion: Affects every home → No single source → Clean energy answer
 
 ## Belt and Road Initiative (BRI)
-- What is it: China's global infrastructure plan launched by Xi Jinping in 2013 → Land "Belt" and maritime "Road"; 150+ countries; over $1 trillion → Ports, railways, roads, power plants, digital networks → Flagship: China–Pakistan Economic Corridor (CPEC)
-- Why it matters: Expands China's economic and strategic influence → CPEC passes through PoK: violates India's sovereignty → Ports near India: Gwadar, Hambantota, Chittagong, Kyaukphyu → Debt traps: Sri Lanka leased Hambantota to China for 99 years → Shapes Asia's connectivity and trade
-- Current status (Oct 2026): India still refuses to join; skipped all Belt and Road Forums → China shifting to "small and beautiful" projects; lending has slowed → CPEC slowed by attacks on Chinese workers and Pakistan's debt → BRI deals in India's neighbours: Nepal, Bangladesh, Sri Lanka, Maldives, Myanmar → Alternatives: IMEC, INSTC, PGII by the G7
-- Problems: Sovereignty violation through PoK → Debt traps and opaque loans → Dual-use ports; Chinese naval access → Environmental and local concerns → China's growing pull on India's neighbours
-- Solutions: Offer better alternatives: transparent, sustainable, demand-driven projects → IMEC, INSTC, Chabahar, Kaladan → Partner with Japan, the EU, US and Gulf (PGII, Blue Dot) → Faster delivery of Indian projects in the neighbourhood → Uphold sovereignty and international norms
-- Conclusion: BRI is China's bid to reshape the world order → India's stand: connectivity must respect sovereignty → India counters with credible, transparent partnerships
+- What is it: China's worldwide infrastructure plan, launched by Xi Jinping in 2013 → A land "Belt" and a sea "Road"; 150+ countries; over $1 trillion → Builds ports, railways, roads, power plants and digital networks → Main project: the China–Pakistan Economic Corridor (CPEC)
+- Why it matters: Spreads China's economic and strategic influence → CPEC passes through PoK, which violates India's sovereignty → Ports near India: Gwadar, Hambantota, Chittagong, Kyaukphyu → Debt traps: Sri Lanka gave Hambantota port to China on a 99-year lease → Shapes how Asia is connected and trades
+- Current status (Oct 2026): India still refuses to join; it skipped all Belt and Road Forums → China now prefers smaller projects; its lending has slowed → CPEC slowed by attacks on Chinese workers and Pakistan's debt → BRI deals in India's neighbours: Nepal, Bangladesh, Sri Lanka, Maldives, Myanmar → Alternatives: IMEC, INSTC and the G7's PGII
+- Problems: Violates India's sovereignty through PoK → Debt traps and secret loan terms → Ports that could also serve China's navy → Harm to the environment and local people → China's growing pull on India's neighbours
+- Solutions: Offer better options: open, sustainable projects that people ask for → Build IMEC, INSTC, Chabahar and Kaladan → Partner with Japan, the EU, US and Gulf countries (PGII, Blue Dot) → Finish Indian projects in neighbouring countries faster → Uphold sovereignty and international rules
+- Conclusion: The BRI is China's attempt to reshape the world order → India's stand: connectivity must respect sovereignty → India answers with open, trusted partnerships
+
+### Paragraph
+The Belt and Road Initiative, or BRI, is China's huge plan to build infrastructure around the world. President Xi Jinping launched it in 2013. It has two parts: a land "Belt" of roads and railways across Asia to Europe, and a sea "Road" of ports along the Indian Ocean and beyond. More than 150 countries have signed up, and China has spent over a trillion dollars on ports, railways, roads, power plants and digital networks. Its biggest project is the China–Pakistan Economic Corridor, or CPEC.
+
+The BRI matters to India for several reasons. First, CPEC runs through Pakistan-occupied Kashmir, which is Indian territory, so it violates India's sovereignty. Second, China has built or financed ports all around India, at Gwadar in Pakistan, Hambantota in Sri Lanka, Chittagong in Bangladesh and Kyaukphyu in Myanmar, which could one day help its navy. Third, many BRI loans have pushed poor countries into debt. When Sri Lanka could not repay, it had to lease Hambantota port to China for 99 years.
+
+India has never joined the BRI and has skipped all its forums. In recent years China has slowed its lending and now prefers smaller projects. CPEC has slowed down because of attacks on Chinese workers in Pakistan and Pakistan's own debt problems. Still, China keeps signing BRI deals with India's neighbours, like Nepal, Bangladesh, Sri Lanka, the Maldives and Myanmar. India and its partners are building alternatives, such as the India–Middle East–Europe Economic Corridor (IMEC), the INSTC route to Russia and the G7's infrastructure programme.
+
+The BRI raises problems of sovereignty, debt traps, secret loan terms and possible military use of ports. India's answer is not to block connectivity, but to offer better options: open, sustainable projects that countries actually need, built with partners like Japan, the EU, the US and the Gulf. India must also finish its own projects in neighbouring countries faster. The BRI is China's attempt to reshape the world order, and India's stand is clear: connectivity must respect sovereignty.
+
+### Flowchart
+- What is it: Xi 2013 → Belt + Road → 150+ countries → CPEC flagship
+- Why it matters: China's influence → CPEC in PoK → Ports around India → Debt traps
+- Current status: India refuses → Lending slowed → CPEC slowed → Deals with neighbours → IMEC, INSTC
+- Problems: Sovereignty → Debt → Dual-use ports → Pull on neighbours
+- Solutions: Better options → IMEC, Chabahar → Partners → Faster Indian projects
+- Conclusion: Reshape world order → Respect sovereignty → Trusted partnerships
 
 ## Act East Policy
-- What is it: Look East Policy (1991) upgraded to Act East (2014) → Covers ASEAN, Japan, South Korea, Australia, the Pacific islands → 3 Cs: Commerce, Culture, Connectivity → Northeast India as the gateway
-- Why it matters: Economic: trade, investment, supply chains → Strategic: Indo-Pacific balance; check on China → Connectivity and development of the Northeast → Maritime security and freedom of navigation → Civilisational links: Buddhism, Ramayana, diaspora
-- Current status (Oct 2026): ASEAN–India Comprehensive Strategic Partnership; Plan of Action 2026–2030 → 2026: ASEAN–India Year of Maritime Cooperation → AITIGA trade review under way → Defence exports: BrahMos to the Philippines; ties with Vietnam and Indonesia → Japan: bullet train, investment, semiconductors → Myanmar's new government recommitted to Kaladan and the Trilateral Highway
-- Problems: Myanmar's civil war blocks land routes → Trade deficit with ASEAN → Slow connectivity projects → China's dominance in the region → Northeast insurgency and Manipur unrest
-- Solutions: Finish Kaladan and the India–Myanmar–Thailand Highway → Develop the Northeast: roads, rail, airports, border trade → Fairer trade deals → Maritime cooperation and defence partnerships → Tourism, education and Buddhist circuits
-- Conclusion: Act East is India's bridge to the dynamic East → The Northeast is its heart → A connected, secure Indo-Pacific serves India's future
+- What is it: Look East Policy (1991) upgraded to Act East (2014) → Covers ASEAN, Japan, South Korea, Australia and the Pacific islands → Three Cs: Commerce, Culture, Connectivity → Northeast India is the gateway
+- Why it matters: Economy: trade, investment, supply chains → Strategy: balance in the Indo-Pacific; check on China → Connectivity and development of the Northeast → Sea security and free movement of ships → Old links: Buddhism, Ramayana, Indian communities abroad
+- Current status (Oct 2026): ASEAN–India Comprehensive Strategic Partnership; Plan of Action 2026–2030 → 2026 is the ASEAN–India Year of Maritime Cooperation → Review of the ASEAN–India goods trade deal going on → Defence exports: BrahMos to the Philippines; ties with Vietnam and Indonesia → Japan: bullet train, investment, semiconductors → Myanmar's new government recommitted to Kaladan and the Trilateral Highway
+- Problems: Myanmar's civil war blocks land routes → Trade deficit with ASEAN → Connectivity projects are slow → China dominates the region → Unrest in the Northeast, including Manipur
+- Solutions: Finish Kaladan and the India–Myanmar–Thailand Highway → Develop the Northeast: roads, rail, airports, border trade → Fairer trade deals → Sea cooperation and defence partnerships → Tourism, education and Buddhist circuits
+- Conclusion: Act East is India's bridge to the fast-growing East → The Northeast is its heart → A connected, secure Indo-Pacific serves India's future
+
+### Paragraph
+India's Look East Policy began in 1991, when India opened its economy and started building ties with Southeast Asia. In 2014 it was upgraded to the Act East Policy, which means doing more and doing it faster. Act East covers ASEAN countries, Japan, South Korea, Australia and the Pacific islands. It rests on three Cs: Commerce, Culture and Connectivity. India's Northeast is the gateway for this policy.
+
+Act East matters because East and Southeast Asia are among the fastest-growing regions in the world. They offer trade, investment and supply chains. The policy also helps India balance China in the Indo-Pacific and keep sea routes open. It is key to developing the Northeast, which can become a trade hub instead of a remote corner. India shares ancient links with this region through Buddhism, the Ramayana and trade, and millions of people of Indian origin live there.
+
+The policy is active. India and ASEAN have a Comprehensive Strategic Partnership and a new Plan of Action for 2026–2030, and 2026 is the ASEAN–India Year of Maritime Cooperation. The two sides are reviewing their goods trade deal. India has sold BrahMos missiles to the Philippines and is deepening defence ties with Vietnam and Indonesia. Japan is building India's bullet train and investing in chips. In 2026 Myanmar's new government recommitted to the Kaladan project and the Trilateral Highway, which are key land links.
+
+But there are problems. Myanmar's civil war blocks land routes, India has a large trade deficit with ASEAN, projects move slowly, China dominates the region and parts of the Northeast, like Manipur, face unrest. The way forward is to finish Kaladan and the Trilateral Highway, build roads, railways and airports in the Northeast, negotiate fairer trade terms, deepen sea and defence cooperation, and promote tourism and Buddhist circuits. Act East is India's bridge to the fast-growing East, and the Northeast is its heart.
+
+### Flowchart
+- What is it: Look East 1991 → Act East 2014 → ASEAN, Japan, Australia → 3 Cs → NE gateway
+- Why it matters: Growth region → Indo-Pacific balance → NE development → Culture
+- Current status: Plan of Action 2026–30 → Maritime Year → AITIGA review → BrahMos to Philippines → Kaladan recommitted
+- Problems: Myanmar war → Trade deficit → Slow projects → China → NE unrest
+- Solutions: Finish Kaladan, Highway → NE infrastructure → Fair trade → Defence ties
+- Conclusion: Bridge to East → NE is heart → Secure Indo-Pacific
 
 ## Look West Policy
-- What is it: India's engagement with West Asia (the Gulf, Israel, Iran) → Link West approach since 2014; Gulf ties raised to strategic partnerships → Key partners: UAE, Saudi Arabia, Qatar, Oman, Israel, Iran → Pillars: energy, trade, diaspora, security, investment
-- Why it matters: Energy: most of India's oil, LPG and gas → Diaspora: about 9 million Indians; large remittances → Trade and investment: UAE and Saudi among top partners; Gulf sovereign funds → Security: counter-terrorism, maritime security → Connectivity: IMEC, INSTC, Chabahar
-- Current status (Oct 2026): Iran war and Hormuz closure: energy crisis, attacks on shipping; Navy escorts (Operation Sankalp) → India–UAE CEPA (2022) boosting trade; India–Oman CEPA signed (Dec 2025) → IMEC slowed by West Asia tensions; digital and energy parts still moving → Israel: Special Strategic Partnership (Feb 2026) → UAE left OPEC (May 2026) → Saudi–Pakistan defence pact (2025) a concern for India
-- Problems: War and instability across the region → Balancing Israel, Iran and the Arab states → Over-dependence on Gulf energy → Safety of the diaspora; labour rights → Pakistan's ties with Gulf states → IMEC and Chabahar stalled
-- Solutions: Balanced, non-aligned engagement with all sides → Diversify energy; invite Gulf investment in Indian refineries and reserves → Protect the diaspora: evacuation plans, labour agreements → Trade deals: India–GCC FTA → Counter-terror and maritime cooperation → Revive IMEC once peace returns
+- What is it: India's ties with West Asia: the Gulf, Israel and Iran → "Link West" approach since 2014; ties with Gulf countries raised to strategic partnerships → Key partners: UAE, Saudi Arabia, Qatar, Oman, Israel, Iran → Pillars: energy, trade, Indian workers, security, investment
+- Why it matters: Energy: most of India's oil, LPG and gas → People: about 9 million Indians; they send home a lot of money → Trade and investment: UAE and Saudi Arabia are top partners; Gulf investment funds → Security: fighting terror; sea security → Connectivity: IMEC, INSTC, Chabahar
+- Current status (Oct 2026): Iran war and Hormuz closure: energy crisis, attacks on ships; Navy escorts (Operation Sankalp) → India–UAE trade deal (CEPA, 2022) growing trade; India–Oman trade deal signed (Dec 2025) → IMEC slowed by West Asia tensions; digital and energy parts still moving → Israel: Special Strategic Partnership (Feb 2026) → UAE left OPEC (May 2026) → Saudi–Pakistan defence pact (2025) is a concern for India
+- Problems: War and instability across the region → Balancing Israel, Iran and the Arab states → Too much dependence on Gulf energy → Safety of Indian workers; labour rights → Pakistan's ties with Gulf states → IMEC and Chabahar stuck
+- Solutions: Balanced engagement with all sides → Buy energy from many places; invite Gulf money into Indian refineries and reserves → Protect Indian workers: evacuation plans, labour agreements → Trade deals: India–GCC free trade agreement → Counter-terror and sea security cooperation → Restart IMEC once peace returns
 - Conclusion: West Asia is India's extended neighbourhood → Peace there is vital for India's energy and people → India engages all and takes no sides
 
+### Paragraph
+India's Look West Policy covers its ties with West Asia, which includes the Gulf countries, Israel and Iran. Since 2014, India has followed a "Link West" approach and raised ties with Gulf countries like the UAE and Saudi Arabia to strategic partnerships. Its key partners in the region are the UAE, Saudi Arabia, Qatar, Oman, Israel and Iran. The relationship rests on five pillars: energy, trade, Indian workers, security and investment.
+
+West Asia matters hugely to India. Most of India's oil, cooking gas and natural gas comes from there. About 9 million Indians live and work in the Gulf and send a lot of money home. The UAE and Saudi Arabia are among India's top trade partners, and Gulf investment funds are putting money into India. The region is also important for fighting terrorism and for sea security, and for trade routes like IMEC, INSTC and Chabahar.
+
+2026 has been a difficult year. The Iran war and the closure of the Strait of Hormuz caused an energy crisis in India and attacks on ships, so the Navy escorted Indian vessels under Operation Sankalp. Still, ties with the Gulf grew: trade with the UAE has risen under their 2022 trade deal, and India signed a trade deal with Oman in December 2025. Ties with Israel became a Special Strategic Partnership in February 2026. The IMEC corridor has slowed, though its digital and energy parts continue. The UAE left OPEC in May 2026, and the 2025 defence pact between Saudi Arabia and Pakistan is a concern for India.
+
+India's main challenge is balance. It must keep good ties with Israel, Iran and the Arab states at the same time, while reducing its dependence on Gulf energy and protecting its workers. The way forward is to engage all sides, buy energy from many sources, invite Gulf investment into Indian refineries and oil reserves, sign a trade deal with the Gulf Cooperation Council, cooperate on terror and sea security, and restart IMEC when peace returns. West Asia is India's extended neighbourhood, and India engages all sides without taking sides.
+
+### Flowchart
+- What is it: Gulf, Israel, Iran → Link West since 2014 → UAE, Saudi strategic partners → 5 pillars
+- Why it matters: Energy → 9 mn Indians → Trade, investment → Security → IMEC
+- Current status: Iran war → Op Sankalp → UAE, Oman trade deals → Israel partnership → Saudi–Pak pact
+- Problems: War → Balancing → Energy dependence → Workers' safety → IMEC stuck
+- Solutions: Engage all → Many energy sources → Protect workers → GCC FTA → Revive IMEC
+- Conclusion: Extended neighbourhood → Peace vital → Engage all, no sides
+
 ## SAGAR and MAHASAGAR
-- What is it: SAGAR: "Security and Growth for All in the Region", announced by PM Modi in Mauritius (2015) → MAHASAGAR: "Mutual and Holistic Advancement for Security and Growth Across Regions", announced in Mauritius (12 Mar 2025) → Extends SAGAR beyond the Indian Ocean to the Global South → India as net security provider and first responder
-- Why it matters: Indian Ocean security: sea lanes, energy, trade → Counters China's growing presence → Capacity building of small island and coastal states → Blue economy and climate resilience → India's leadership in its own region
-- Current status (Oct 2026): Agalega (Mauritius): airstrip and jetty for maritime security → IOS Sagar: Indian warship with crew from partner navies (2025) → MILAN and International Fleet Review 2026, Visakhapatnam: 74 countries → IFC-IOR, Gurugram: maritime information hub → Colombo Security Conclave and India's IORA chairship → First responder: disaster relief, anti-piracy, Operation Sankalp in the Gulf
-- Problems: China's bases, ports and research vessels → Small states balancing India and China → Limited Indian naval and financial resources → Slow project delivery → Climate change and rising seas
-- Solutions: Coastal radars, patrol vessels, hydrography and training for partners → Faster development projects and grants → Joint exercises and information sharing → Blue economy, fisheries and disaster cooperation → Stronger Navy and maritime domain awareness
-- Conclusion: SAGAR to MAHASAGAR: from regional to global vision → India's approach: partnership, not domination → A secure Indian Ocean is the foundation of a prosperous India
+- What is it: SAGAR: "Security and Growth for All in the Region", announced by PM Modi in Mauritius (2015) → MAHASAGAR: "Mutual and Holistic Advancement for Security and Growth Across Regions", announced in Mauritius (12 Mar 2025) → Takes SAGAR beyond the Indian Ocean to the wider Global South → India as the main security provider and first responder
+- Why it matters: Indian Ocean security: sea routes, energy, trade → Answer to China's growing presence → Helps small island and coastal countries build their own capacity → Blue economy and climate resilience → India's leadership in its own region
+- Current status (Oct 2026): Agalega (Mauritius): airstrip and jetty for sea security → IOS Sagar: an Indian warship with sailors from partner navies (2025) → MILAN and International Fleet Review 2026 at Visakhapatnam: 74 countries → Information Fusion Centre in Gurugram shares ship data with partners → Colombo Security Conclave and India's IORA chairship → First responder: disaster relief, anti-piracy, Operation Sankalp in the Gulf
+- Problems: China's bases, ports and research ships → Small states balancing India and China → India's limited naval and financial resources → Slow delivery of projects → Climate change and rising seas
+- Solutions: Coastal radars, patrol boats, sea mapping and training for partners → Faster development projects and grants → Joint exercises and information sharing → Blue economy, fisheries and disaster cooperation → A stronger Navy and better knowledge of what moves at sea
+- Conclusion: From SAGAR to MAHASAGAR: from a regional to a wider vision → India's way is partnership, not domination → A safe Indian Ocean is the foundation of a prosperous India
+
+### Paragraph
+SAGAR stands for "Security and Growth for All in the Region". Prime Minister Modi announced it in Mauritius in 2015 as India's vision for the Indian Ocean. Ten years later, on 12 March 2025, again in Mauritius, he expanded it into MAHASAGAR, which stands for "Mutual and Holistic Advancement for Security and Growth Across Regions". MAHASAGAR takes the idea beyond the Indian Ocean to the wider Global South. Both visions show India as the region's main security provider and first responder.
+
+These visions matter because India's trade, energy and security depend on the Indian Ocean. China has been building ports and bases in the region and sending research ships, and India wants to offer its neighbours a better partner. Many small island countries, like Mauritius, Seychelles and the Maldives, need help to guard their huge sea areas, fight piracy, manage fishing and deal with climate change. Through SAGAR and MAHASAGAR, India helps them build their own capacity.
+
+The vision is being put into action. India helped build an airstrip and jetty on Mauritius's Agalega island for sea security. In 2025 the Indian warship IOS Sagar sailed with sailors from several partner navies. In February 2026, 74 countries joined the MILAN exercise and International Fleet Review at Visakhapatnam. India's Information Fusion Centre in Gurugram shares shipping data with partners, and India works through the Colombo Security Conclave and chairs IORA. India has also been the first to help in disasters, fight piracy and escort ships during the Iran war.
+
+Challenges remain: China's bases and ships, small states trying to balance India and China, India's limited resources, slow projects and rising seas. India should give partners coastal radars, patrol boats and training, deliver projects faster, hold joint exercises, cooperate on fisheries and disasters and keep building a strong Navy. From SAGAR to MAHASAGAR, India's way is partnership, not domination, and a safe Indian Ocean is the foundation of a prosperous India.
+
+### Flowchart
+- What is it: SAGAR 2015 (Mauritius) → MAHASAGAR 2025 (Mauritius) → Global South → First responder
+- Why it matters: Ocean security → Counter China → Help island states → Blue economy
+- Current status: Agalega → IOS Sagar → MILAN 74 nations → IFC-IOR → CSC, IORA chair
+- Problems: Chinese bases → Small states balancing → Limited resources → Slow projects
+- Solutions: Radars, boats, training → Faster projects → Joint exercises → Strong Navy
+- Conclusion: Regional to wider vision → Partnership, not domination → Safe ocean, prosperous India

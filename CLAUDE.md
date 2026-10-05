@@ -10,7 +10,13 @@ There are two sheets. Each one has its own source file and output file:
 | Service knowledge | `service_knowledge.md` | `SSB_Service_Knowledge.docx` | Armed Forces knowledge: organisation, ranks, commands, roles and similar |
 
 ## Lecturette preparation
-There is also a separate lecturette document: `lecturettes.md` builds `SSB_Lecturettes.docx`. This one holds lecturette topic flows, not questions. When the user shares a lecturette topic, add it as a new `## Topic name` section. Write one line per stage in the form `- Stage: point → point → point`, keeping the user's points and order. Keep points short and drop tips, sources and commentary. `node build/build.js` puts each topic on its own page as a table (# · Stage · Flow), with each point on its own line. Commit `lecturettes.md` and `SSB_Lecturettes.docx` together.
+There is also a separate lecturette document: `lecturettes.md` builds `SSB_Lecturettes.docx`. It holds lecturette topics, not questions. When the user shares a topic, add it as a new `## Topic name` section. Use simple, everyday words throughout. Each topic is shown in three ways:
+
+1. **Framework**: six lines in the form `- Stage: point → point → point`, with the stages What is it, Why it matters, Current status (Mon YYYY), Problems, Solutions and Conclusion. Keep the user's points and order, keep each point short and drop tips, sources and commentary.
+2. **Understand it**: under `### Paragraph`, 3–4 short plain paragraphs that tell the whole topic as a story, so it can be understood without memorising.
+3. **Flowchart**: under `### Flowchart`, the same six stages in the form `- Stage: keyword → keyword`, with only short cues to remember, in speaking order.
+
+`node build/build.js` puts each topic on its own page: the framework as a table (# · Stage · Points), then the paragraphs, then the flowchart as boxes joined by arrows. Commit `lecturettes.md` and `SSB_Lecturettes.docx` together.
 
 ## Workflow (every time a response is shared)
 1. Pick the right sheet. PIQ entries go in the PIQ sheet; service knowledge (Army/Navy/Air Force organisation etc.) goes in the service knowledge sheet.

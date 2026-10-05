@@ -111,8 +111,8 @@ async function build({ src, out, title }) {
 }
 
 // Lecturette notes: each "## Topic" starts a new page with a navy banner, then a
-// table of its flow (# | Stage | Points). Each "- Stage: a → b → c" line is one row,
-// with the arrows highlighted so the flow can be read at a glance.
+// table of its flow (# | Stage | Flow). Each "- Stage: a → b → c" line is one row,
+// and its points are listed one per line so the flow can be read at a glance.
 const LECTURETTES = { src: "lecturettes.md", out: "SSB_Lecturettes.docx", title: "SSB – Lecturette Preparation" };
 const L_SIZE = 21; // 10.5 pt
 const L_COLS = [520, 2200, CONTENT_W - 520 - 2200]; // # | Stage | Points
@@ -124,17 +124,28 @@ function lCell(w, runs, opts = {}) {
     verticalAlign: "center",
     margins: { top: 70, bottom: 70, left: 100, right: 100 },
     shading: opts.fill ? { type: ShadingType.CLEAR, color: "auto", fill: opts.fill } : undefined,
-    children: [new Paragraph({ alignment: opts.align, spacing: { before: 0, after: 0, line: 300 }, children: runs })],
+    children: runs[0] instanceof Paragraph ? runs
+      : [new Paragraph({ alignment: opts.align, spacing: { before: 0, after: 0, line: 300 }, children: runs })],
   });
 }
 
-function flowRuns(text) {
-  const runs = [];
-  text.split(/\s*→\s*/).forEach((part, i) => {
-    if (i) runs.push(new TextRun({ text: "  →  ", bold: true, color: "C00000", size: L_SIZE }));
-    runs.push(new TextRun({ text: part, size: L_SIZE }));
+// One line per point, each led by a red arrow. A short "Label:" at the start of a
+// point (e.g. "Security:") is set in bold.
+function flowParas(text) {
+  return text.split(/\s*→\s*/).map((part, i) => {
+    const colon = part.indexOf(":");
+    const label = colon > 0 && colon <= 25 ? part.slice(0, colon + 1) : "";
+    return new Paragraph({
+      spacing: { before: i ? 40 : 0, after: 0, line: 280 },
+      indent: { left: 260, hanging: 260 },
+      children: [
+        new TextRun({ text: "→\t", bold: true, color: "C00000", size: L_SIZE }),
+        ...(label ? [new TextRun({ text: label, bold: true, size: L_SIZE })] : []),
+        new TextRun({ text: part.slice(label.length), size: L_SIZE }),
+      ],
+      tabStops: [{ type: "left", position: 260 }],
+    });
   });
-  return runs;
 }
 
 async function buildLecturettes({ src, out, title }) {
@@ -167,7 +178,7 @@ async function buildLecturettes({ src, out, title }) {
       rows.push(new TableRow({ cantSplit: true, children: [
         lCell(L_COLS[0], [new TextRun({ text: String(i + 1), color: "7F7F7F", size: L_SIZE })], { align: AlignmentType.CENTER, fill }),
         lCell(L_COLS[1], [new TextRun({ text: stage, bold: true, color: NAVY, size: L_SIZE })], { fill }),
-        lCell(L_COLS[2], flowRuns(points), { fill }),
+        lCell(L_COLS[2], flowParas(points), { fill }),
       ] }));
     });
     children.push(new Table({ width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: L_COLS, rows }));

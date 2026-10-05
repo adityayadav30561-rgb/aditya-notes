@@ -333,3 +333,43 @@
 - Problems: Federalism: state assemblies' terms may be cut short → Regional issues may be overshadowed by national ones → What if a government falls mid-term? → Need for many more EVMs and VVPATs → Constitutional amendments and states' consent → Opposition from many parties
 - Solutions: Broad political consensus → Clear rules for hung houses and no-confidence motions (constructive no-confidence) → Phased rollout → Strengthen the Election Commission and logistics → Protect the federal balance
 - Conclusion: Simultaneous elections can save money and improve governance → Democracy and federalism must not be weakened → Reform through consensus is the way forward
+
+## DRDO
+- What is it: Defence Research and Development Organisation, set up in 1958 → About 50 labs working on missiles, aircraft, electronics, armaments, life sciences → Under the Ministry of Defence (Department of Defence R&D) → Mission: self-reliance in critical defence technologies
+- Why it matters: Technologies no country will sell: missiles, nuclear delivery, BMD → Strategic autonomy and Atmanirbhar Bharat → Saves foreign exchange; builds an industrial base → Spin-offs for civilian use → Proven in Operation Sindoor: Akash, Akashteer, BrahMos (with Russia)
+- Current status (Oct 2026): Multi-layered Ballistic Missile Defence tested (Jun 2026), able to engage even ICBM-class threats → Maiden test of the Naval Anti-Ship Missile–Medium Range (Jun 2026) → Scramjet combustor ran 1,200 seconds (May 2026), a step to hypersonic missiles → RudraM-II air-to-surface missile tested with the IAF (Jun 2026) → AMCA engine co-development with Safran; laser weapons and counter-drone systems
+- Problems: Long delays and cost overruns (Kaveri engine, Arjun, Tejas) → Low R&D budget compared with major powers → Weak link with industry and users → Brain drain to the private sector and abroad → Gap between lab prototype and mass production
+- Solutions: Focus DRDO on cutting-edge research; leave production to industry → Raise defence R&D spending → Involve private firms, startups and academia (iDEX, TDF) → Timelines and accountability for projects → Better pay and career growth for scientists
+- Conclusion: DRDO is the backbone of India's defence self-reliance → From Agni to BMD, it has given India strategic strength → Faster delivery will make it world-class
+
+## ISRO
+- What is it: Indian Space Research Organisation, set up in 1969; vision of Dr Vikram Sarabhai → Under the Department of Space → Landmarks: Aryabhata (1975), Chandrayaan-1 (2008), Mangalyaan (2014), Chandrayaan-3 at the lunar south pole (2023), Aditya-L1 (2024) → Known for low-cost, high-success missions
+- Why it matters: Space for development: communication, weather, disasters, navigation (NavIC) → National security: surveillance, military satellites → Science: Moon, Mars, Sun → Space economy and startups → Global prestige and soft power
+- Current status (Oct 2026): SpaDeX docking (Jan 2025): India the fourth nation to dock in space → Shubhanshu Shukla flew to the ISS (Axiom-4, 2025); NISAR launched with NASA (2025) → LVM3 launched its heaviest satellites (2025) → Setback: PSLV-C62 failed (Jan 2026), second PSLV failure in eight months → Gaganyaan: first uncrewed flight G1 with robot Vyommitra due by end-2026; crewed flight in 2027 → Plans: Bharatiya Antariksh Station by 2035; Indian on the Moon by 2040
+- Problems: Recent PSLV failures → Low budget compared with NASA and China → Slow launch rate → Competition from SpaceX and others → Space debris → Talent and supply-chain limits
+- Solutions: Fix failures; strict quality checks → Private sector: IN-SPACe, NSIL, Space Policy 2023, FDI in space → More launches: Next Generation Launch Vehicle, reusable rockets → Space startups (Skyroot, Agnikul) → Defence space capability → International partnerships
+- Conclusion: ISRO turned India into a space power on a modest budget → Gaganyaan and the space station mark the next leap → The sky is not the limit for India
+
+## HAL
+- What is it: Hindustan Aeronautics Limited; roots in 1940 (Walchand Hirachand), present form in 1964 → India's main defence aerospace PSU; a Maharatna company → Makes Tejas, Dhruv ALH, Prachand LCH, LUH, HTT-40; licence-built Su-30MKI → Also maintains and overhauls most IAF aircraft
+- Why it matters: Backbone of the Air Force's fleet → Self-reliance in fighters, helicopters and trainers → Exports and partnerships → Jobs and an aerospace supply chain → IAF's squadron strength depends on HAL's delivery
+- Current status (Oct 2026): Order book about ₹2.5 lakh crore → 156 Prachand helicopters ordered (₹62,700 crore), the biggest order from HAL → 180 Tejas Mk1A on order for the IAF → GE engine delays: only 10 F404 engines delivered by Aug 2026; IAF deliveries slipping → AMCA (fifth-generation fighter) opened to private partners → HAL to give about 40% of LCH work to private industry
+- Problems: Repeated delivery delays → Dependence on foreign engines (GE) → IAF short of fighter squadrons (about 29 vs 42 needed) → Quality and safety concerns (Dhruv grounding) → Low exports → Slow modernisation of production lines
+- Solutions: Faster production; second assembly lines; private partners → Indigenous engines: Kaveri, AMCA engine with Safran → Strict quality control and accountability → Export push: Tejas, Dhruv, Prachand → Competition from private firms to raise efficiency
+- Conclusion: HAL is central to India's air power → It must deliver faster and better → A strong HAL means a strong Air Force
+
+## NITI Aayog
+- What is it: National Institution for Transforming India; replaced the Planning Commission on 1 Jan 2015 → Chaired by the PM; Governing Council of all CMs and LGs → A policy think tank, not a fund allocator → Promotes cooperative and competitive federalism
+- Why it matters: Long-term vision and strategy (Viksit Bharat@2047) → Rankings that push states: SDG India Index, Export Preparedness, Fiscal Health → Aspirational Districts and Blocks Programmes → Innovation: Atal Innovation Mission → Brings Centre and states together
+- Current status (Oct 2026): 11th Governing Council meeting (11 Jun 2026): "Inclusive Human Development for Viksit Bharat@2047" → All 28 states and 5 UTs attended; all CMs together for the first time → Targets discussed: Lakhpati Didis from 3 crore to 6 crore; export plans built on One District One Product → Focus on AI, data centres, defence manufacturing, water conservation, natural farming → Multidimensional poverty: about 25 crore people lifted out over a decade
+- Problems: No financial powers; advice often ignored → Seen by some as too close to the Centre → Weak state-level capacity and data → Opposition states sometimes boycott meetings → Overlap with ministries
+- Solutions: Stronger State Institutions for Transformation in every state → Evidence-based policy and real-time data → Give it a bigger role in evaluating schemes → Regular Centre–state dialogue → Focus on outcomes, not just indices
+- Conclusion: NITI Aayog is the government's think tank for transforming India → Team India: Centre and states working together → Key to planning the road to Viksit Bharat
+
+## RBI
+- What is it: Reserve Bank of India, set up on 1 Apr 1935; nationalised in 1949 → India's central bank: issues currency, banker to government and banks → Regulates banks, NBFCs and payments; manages forex reserves → Monetary Policy Committee (since 2016): 4% inflation target, band of 2–6%
+- Why it matters: Price stability and growth → Financial stability; trust in banks → Rupee value and forex management → Financial inclusion and digital payments (UPI) → Crisis manager in shocks (COVID, oil, war)
+- Current status (Oct 2026): Governor: Sanjay Malhotra → Repo rate at 5.25%, unchanged for five straight meetings; neutral stance → FY27 inflation forecast 5% amid oil and LPG shocks → Forex reserves about $682 bn (May 2026), about 11 months of import cover → Digital rupee pilot: 12 million users; push for rupee trade settlement → Action against cyber fraud and mule accounts
+- Problems: Imported inflation from oil and the Iran war → Rupee pressure from capital outflows → Cyber frauds and digital risks → Unsecured lending and NBFC risks → Climate-related financial risks → Balancing growth and inflation
+- Solutions: Flexible inflation targeting; careful rate decisions → Strong reserves; intervene against volatility → Tighter cyber security and fraud detection → Strong supervision of banks and NBFCs → Internationalise the rupee: vostro accounts, UPI links → Financial literacy and inclusion
+- Conclusion: RBI is the guardian of India's economic stability → Its credibility is a national asset → Stable prices and sound banks are the base of Viksit Bharat

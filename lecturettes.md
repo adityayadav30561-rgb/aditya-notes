@@ -999,44 +999,129 @@ The main problems are low spending on education, a shortage of trained teachers,
 - Conclusion: Knowledge society → Implementation key → Base of Viksit Bharat
 
 ## Uniform Civil Code
-- What is it: One set of civil laws for all citizens on marriage, divorce, inheritance, adoption → Article 44 (Directive Principles): the State shall endeavour to secure a UCC → Today, personal laws differ by religion; Goa has had a common civil code since Portuguese times → Supreme Court cases: Shah Bano (1985), Sarla Mudgal (1995)
-- Why it matters: Equality before law; gender justice → National integration; one nation, one civil law → Simplifies complex personal laws → Ends practices like polygamy and unequal inheritance → Secularism: law separate from religion
-- Current status (Oct 2026): Uttarakhand first state to implement a UCC (Jan 2025), including registration of live-in relationships → Gujarat passed its UCC (Mar 2026) → Assam passed its UCC (May 2026), the first in the Northeast → Scheduled Tribes exempted to protect their customs → Other states (MP, Maharashtra, UP) have shown interest
-- Problems: India's diversity of religions and customs → Minority fears of imposition → Tribal customary laws (Sixth Schedule, Article 371) → Privacy concerns over live-in registration → Federal question: state laws vs a national code → Lack of a central draft
-- Solutions: Build consensus through dialogue with all communities → Gradual approach: start with gender-just reforms → Protect tribal customs and diversity → Focus on equality, not uniformity alone → Law Commission study and wide consultation
-- Conclusion: UCC is about justice and equality, especially for women → It must come through consensus, not compulsion → Unity in diversity is India's strength
+- What is it: One set of civil laws for all citizens on marriage, divorce, inheritance and adoption → Article 44 (Directive Principles): the State shall try to bring a UCC → Today personal laws differ by religion; Goa has had a common civil code since Portuguese times → Supreme Court cases: Shah Bano (1985), Sarla Mudgal (1995)
+- Why it matters: Equality before law; justice for women → National unity: one nation, one civil law → Makes complex personal laws simpler → Ends practices like polygamy and unequal inheritance → Secularism: law separate from religion
+- Current status (Oct 2026): Uttarakhand was the first state to bring in a UCC (Jan 2025), including registration of live-in relationships → Gujarat passed its UCC (Mar 2026) → Assam passed its UCC (May 2026), the first in the Northeast → Scheduled Tribes are left out to protect their customs → Other states (MP, Maharashtra, UP) have shown interest
+- Problems: India has many religions and customs → Minorities fear it will be forced on them → Tribal customary laws (Sixth Schedule, Article 371) → Privacy worries about registering live-in relationships → State laws vs one national code → No central draft yet
+- Solutions: Build agreement through talks with all communities → Go step by step: start with reforms that give women equal rights → Protect tribal customs and diversity → Focus on equality, not just sameness → Wide consultation through the Law Commission
+- Conclusion: UCC is about justice and equality, especially for women → It must come through agreement, not force → Unity in diversity is India's strength
+
+### Paragraph
+A Uniform Civil Code, or UCC, means one set of civil laws for all citizens on matters like marriage, divorce, inheritance and adoption, whatever their religion. Today India has different personal laws for Hindus, Muslims, Christians and others. Article 44 of the Constitution, part of the Directive Principles, says the State shall try to bring a UCC. Goa has had a common civil code since Portuguese times. The Supreme Court has spoken in favour of a UCC in cases like Shah Bano (1985) and Sarla Mudgal (1995).
+
+The UCC matters because it is linked to equality and justice, especially for women. Under some personal laws, women do not get equal rights in divorce or inheritance, and practices like polygamy are allowed. Supporters say one law for all will make the system simpler, strengthen national unity and separate law from religion, which is the true meaning of secularism.
+
+Some states have moved ahead. Uttarakhand became the first state to bring in a UCC in January 2025, which also requires couples in live-in relationships to register. Gujarat passed its UCC in March 2026, and Assam passed one in May 2026, becoming the first state in the Northeast to do so. These laws leave out Scheduled Tribes to protect their customs. Other states like Madhya Pradesh, Maharashtra and Uttar Pradesh have shown interest.
+
+The UCC also raises concerns. India has huge diversity of religions and customs, and minorities fear a law may be imposed on them. Tribal communities have their own customary laws protected by the Constitution, and some people worry about privacy in live-in registration. The best way forward is to build agreement through dialogue, move step by step starting with reforms that give women equal rights, protect tribal customs and hold wide consultations. The UCC is about justice and equality, but it must come through agreement, not force, because unity in diversity is India's strength.
+
+### Flowchart
+- What is it: One civil law for all → Article 44 → Goa's code → Shah Bano, Sarla Mudgal
+- Why it matters: Equality → Women's rights → Unity → Secularism
+- Current status: Uttarakhand (2025) → Gujarat (Mar 2026) → Assam (May 2026) → Tribes exempt
+- Problems: Diversity → Minority fears → Tribal laws → Privacy
+- Solutions: Dialogue → Step by step → Protect tribes → Law Commission
+- Conclusion: Justice for women → Agreement, not force → Unity in diversity
 
 ## One Nation One Election
-- What is it: Holding Lok Sabha and state assembly elections together → India did so from 1951 to 1967; the cycle broke due to early dissolutions → Kovind Committee report (2024) recommended it in two phases → Constitution (129th Amendment) Bill introduced in Dec 2024
-- Why it matters: Cuts huge election costs → Less disruption of governance from the Model Code of Conduct → Frees security forces and staff → Higher voter turnout and less voter fatigue → Policy focus on development, not constant campaigning
-- Current status (Oct 2026): Bills under a 39-member Joint Parliamentary Committee (Chair: P.P. Chaudhary) → JPC's tenure extended to the Winter Session 2026 → JPC consulting states, parties and experts → Aim: make it operational by or after the 2029 general election → Local body polls to follow within 100 days (proposed)
-- Problems: Federalism: state assemblies' terms may be cut short → Regional issues may be overshadowed by national ones → What if a government falls mid-term? → Need for many more EVMs and VVPATs → Constitutional amendments and states' consent → Opposition from many parties
-- Solutions: Broad political consensus → Clear rules for hung houses and no-confidence motions (constructive no-confidence) → Phased rollout → Strengthen the Election Commission and logistics → Protect the federal balance
-- Conclusion: Simultaneous elections can save money and improve governance → Democracy and federalism must not be weakened → Reform through consensus is the way forward
+- What is it: Holding Lok Sabha and state assembly elections at the same time → India did this from 1951 to 1967; the cycle broke when some houses were dissolved early → Kovind Committee (2024) recommended it in two steps → Constitution (129th Amendment) Bill introduced in Dec 2024
+- Why it matters: Saves huge election costs → Less stopping of government work due to the Model Code of Conduct → Frees security forces and staff → Higher turnout; less voter fatigue → Focus on development, not constant campaigning
+- Current status (Oct 2026): Bills being studied by a 39-member Joint Parliamentary Committee (Chair: P.P. Chaudhary) → Committee's time extended to the Winter Session 2026 → Committee meeting states, parties and experts → Aim: start by or after the 2029 general election → Local body elections to follow within 100 days (proposed)
+- Problems: Federalism: some state assemblies may have their terms cut short → Local issues may be lost behind national ones → What happens if a government falls mid-term? → Need many more voting machines (EVMs and VVPATs) → Constitutional changes; states' agreement → Many parties oppose it
+- Solutions: Build wide political agreement → Clear rules for hung houses and no-confidence motions (e.g. "constructive no-confidence") → Bring it in step by step → Strengthen the Election Commission and its resources → Protect the balance between Centre and states
+- Conclusion: Simultaneous elections can save money and improve governance → Democracy and federalism must not be weakened → Reform through agreement is the way forward
+
+### Paragraph
+One Nation One Election means holding elections to the Lok Sabha and all state assemblies at the same time. This is not a new idea. India held such elections from 1951 to 1967, but the cycle broke when some assemblies and the Lok Sabha were dissolved early. In 2024 a committee led by former President Ram Nath Kovind recommended bringing it back in two steps. In December 2024 the government introduced the Constitution (129th Amendment) Bill to make it possible.
+
+The idea matters because India is almost always in election mode. Elections cost a lot of money, and whenever they are announced, the Model Code of Conduct stops new government work. Security forces, teachers and officials are pulled away again and again. Supporters say holding all elections together will save money, let governments focus on development, reduce voter fatigue and may even increase turnout.
+
+The bills are now being studied by a 39-member Joint Parliamentary Committee led by P.P. Chaudhary. Its time has been extended to the Winter Session of 2026, and it has been meeting states, parties and experts across the country. The aim is to bring in simultaneous elections by or after the 2029 general election, with local body elections following within 100 days.
+
+There are serious concerns. Some state assemblies would have their terms cut short, which critics say hurts federalism. Local issues might be drowned out by national ones. It is unclear what happens if a government falls in the middle of its term. India would also need many more voting machines, and the Constitution must be changed. Many parties oppose the plan. The way forward is to build broad agreement, make clear rules for when governments fall, bring the change in step by step and strengthen the Election Commission. Simultaneous elections can save money and improve governance, but democracy and federalism must not be weakened.
+
+### Flowchart
+- What is it: LS + assemblies together → Done 1951–67 → Kovind Committee → 129th Amendment Bill
+- Why it matters: Save money → Less Code of Conduct freeze → Free forces → Focus on development
+- Current status: JPC (39 members) → Extended to Winter Session 2026 → Target 2029+
+- Problems: Federalism → Local issues lost → Mid-term collapse → More EVMs → Opposition
+- Solutions: Consensus → Clear rules → Step by step → Strong EC
+- Conclusion: Saves money → Protect democracy → Reform by agreement
 
 ## DRDO
-- What is it: Defence Research and Development Organisation, set up in 1958 → About 50 labs working on missiles, aircraft, electronics, armaments, life sciences → Under the Ministry of Defence (Department of Defence R&D) → Mission: self-reliance in critical defence technologies
-- Why it matters: Technologies no country will sell: missiles, nuclear delivery, BMD → Strategic autonomy and Atmanirbhar Bharat → Saves foreign exchange; builds an industrial base → Spin-offs for civilian use → Proven in Operation Sindoor: Akash, Akashteer, BrahMos (with Russia)
-- Current status (Oct 2026): Multi-layered Ballistic Missile Defence tested (Jun 2026), able to engage even ICBM-class threats → Maiden test of the Naval Anti-Ship Missile–Medium Range (Jun 2026) → Scramjet combustor ran 1,200 seconds (May 2026), a step to hypersonic missiles → RudraM-II air-to-surface missile tested with the IAF (Jun 2026) → AMCA engine co-development with Safran; laser weapons and counter-drone systems
-- Problems: Long delays and cost overruns (Kaveri engine, Arjun, Tejas) → Low R&D budget compared with major powers → Weak link with industry and users → Brain drain to the private sector and abroad → Gap between lab prototype and mass production
-- Solutions: Focus DRDO on cutting-edge research; leave production to industry → Raise defence R&D spending → Involve private firms, startups and academia (iDEX, TDF) → Timelines and accountability for projects → Better pay and career growth for scientists
-- Conclusion: DRDO is the backbone of India's defence self-reliance → From Agni to BMD, it has given India strategic strength → Faster delivery will make it world-class
+- What is it: Defence Research and Development Organisation, set up in 1958 → About 50 labs working on missiles, aircraft, electronics, weapons and soldier support → Under the Ministry of Defence → Mission: make India self-reliant in key defence technologies
+- Why it matters: Builds technology no country will sell: missiles, nuclear delivery, missile defence → Strategic independence and Atmanirbhar Bharat → Saves foreign money; builds industry → Inventions also help civilians → Proven in Operation Sindoor: Akash, Akashteer, BrahMos (made with Russia)
+- Current status (Oct 2026): Tested a multi-layer missile defence system (Jun 2026) able to stop even long-range missiles → First test of a new naval anti-ship missile (Jun 2026) → Scramjet engine ran for 1,200 seconds (May 2026), a step towards hypersonic missiles → RudraM-II air-to-ground missile tested with the IAF (Jun 2026) → Working with Safran on a jet engine for AMCA; laser weapons and anti-drone systems
+- Problems: Long delays and cost overruns (Kaveri engine, Arjun tank, Tejas) → Low research budget compared with big powers → Weak links with industry and the armed forces → Scientists leaving for private jobs or abroad → Gap between a lab model and mass production
+- Solutions: Let DRDO focus on advanced research; let industry do production → Spend more on defence research → Involve private firms, startups and universities (iDEX) → Fixed timelines and accountability → Better pay and careers for scientists
+- Conclusion: DRDO is the backbone of India's defence self-reliance → From Agni to missile defence, it has given India strategic strength → Faster delivery will make it world-class
+
+### Paragraph
+DRDO, the Defence Research and Development Organisation, was set up in 1958 under the Ministry of Defence. It has about 50 laboratories that work on missiles, aircraft, radars, electronics, weapons and equipment to support soldiers. Its mission is to make India self-reliant in the defence technologies that matter most.
+
+DRDO matters because some technologies, like missiles, nuclear delivery systems and missile defence, are never sold by other countries. India has to build them itself. DRDO's work gives India strategic independence, saves foreign money and helps Indian industry grow. Many of its inventions also help civilians. DRDO developed the Agni and Prithvi missiles, the Akash air defence system and the Tejas design, and BrahMos was built with Russia. During Operation Sindoor, systems like Akash and the Akashteer air defence network worked very well.
+
+DRDO had a strong 2026. In June it tested a multi-layer missile defence system that can stop even very long-range missiles, putting India in a small group of countries with this ability. It also tested a new naval anti-ship missile and the RudraM-II air-to-ground missile with the Air Force. In May its scramjet engine ran for 1,200 seconds, a major step towards hypersonic missiles. DRDO is also working with France's Safran on an engine for India's future stealth fighter, and on laser weapons and anti-drone systems.
+
+But DRDO has weaknesses. Many projects, like the Kaveri engine and the Arjun tank, have taken decades and cost much more than planned. Its research budget is small compared with big powers, and many scientists leave for better jobs. The way forward is to let DRDO focus on advanced research while private industry does mass production, raise research spending, work with startups and universities, set firm deadlines and look after scientists. DRDO is the backbone of India's defence self-reliance, and faster delivery will make it world-class.
+
+### Flowchart
+- What is it: 1958 → 50 labs → Missiles, radars → Self-reliance mission
+- Why it matters: Tech no one sells → Independence → Agni, Akash, BrahMos → Sindoor proof
+- Current status: Missile defence test → Naval anti-ship missile → Scramjet 1,200 s → RudraM-II
+- Problems: Delays → Low budget → Weak industry links → Brain drain
+- Solutions: Research focus → More funding → Startups, universities → Deadlines
+- Conclusion: Backbone of self-reliance → Strategic strength → Faster delivery
 
 ## ISRO
-- What is it: Indian Space Research Organisation, set up in 1969; vision of Dr Vikram Sarabhai → Under the Department of Space → Landmarks: Aryabhata (1975), Chandrayaan-1 (2008), Mangalyaan (2014), Chandrayaan-3 at the lunar south pole (2023), Aditya-L1 (2024) → Known for low-cost, high-success missions
-- Why it matters: Space for development: communication, weather, disasters, navigation (NavIC) → National security: surveillance, military satellites → Science: Moon, Mars, Sun → Space economy and startups → Global prestige and soft power
-- Current status (Oct 2026): SpaDeX docking (Jan 2025): India the fourth nation to dock in space → Shubhanshu Shukla flew to the ISS (Axiom-4, 2025); NISAR launched with NASA (2025) → LVM3 launched its heaviest satellites (2025) → Setback: PSLV-C62 failed (Jan 2026), second PSLV failure in eight months → Gaganyaan: first uncrewed flight G1 with robot Vyommitra due by end-2026; crewed flight in 2027 → Plans: Bharatiya Antariksh Station by 2035; Indian on the Moon by 2040
-- Problems: Recent PSLV failures → Low budget compared with NASA and China → Slow launch rate → Competition from SpaceX and others → Space debris → Talent and supply-chain limits
-- Solutions: Fix failures; strict quality checks → Private sector: IN-SPACe, NSIL, Space Policy 2023, FDI in space → More launches: Next Generation Launch Vehicle, reusable rockets → Space startups (Skyroot, Agnikul) → Defence space capability → International partnerships
-- Conclusion: ISRO turned India into a space power on a modest budget → Gaganyaan and the space station mark the next leap → The sky is not the limit for India
+- What is it: Indian Space Research Organisation, set up in 1969; Dr Vikram Sarabhai's vision → Under the Department of Space → Milestones: Aryabhata (1975), Chandrayaan-1 (2008), Mangalyaan (2014), Chandrayaan-3 at the Moon's south pole (2023), Aditya-L1 (2024) → Famous for low-cost, high-success missions
+- Why it matters: Space for daily life: communication, weather, disaster warning, navigation (NavIC) → Security: surveillance and military satellites → Science: Moon, Mars, Sun → Space economy and startups → Pride and soft power
+- Current status (Oct 2026): SpaDeX docking (Jan 2025): India the fourth country to join two spacecraft in space → Shubhanshu Shukla flew to the International Space Station (2025); NISAR satellite launched with NASA (2025) → LVM3 launched India's heaviest satellites (2025) → Setback: PSLV-C62 failed (Jan 2026), the second PSLV failure in eight months → Gaganyaan: first uncrewed flight G1, with robot Vyommitra, expected by end-2026; crewed flight in 2027 → Plans: Bharatiya Antariksh Station by 2035; an Indian on the Moon by 2040
+- Problems: Recent PSLV failures → Small budget compared with NASA and China → Few launches a year → Competition from SpaceX and others → Space debris → Limited talent and supply chain
+- Solutions: Fix failures; strict quality checks → Private sector: IN-SPACe, NSIL, Space Policy 2023, foreign investment in space → More launches: new heavy rocket, reusable rockets → Support space startups (Skyroot, Agnikul) → Build defence space capability → International partnerships
+- Conclusion: ISRO made India a space power on a small budget → Gaganyaan and the space station are the next big leap → For India, the sky is not the limit
+
+### Paragraph
+ISRO, the Indian Space Research Organisation, was set up in 1969, based on the vision of Dr Vikram Sarabhai, who believed space technology should help ordinary people. ISRO has achieved a lot: India's first satellite Aryabhata in 1975, Chandrayaan-1 which found water on the Moon in 2008, Mangalyaan which reached Mars on its first try in 2014, Chandrayaan-3 which landed near the Moon's south pole in 2023, and Aditya-L1 which studies the Sun. ISRO is known around the world for doing a lot with very little money.
+
+ISRO matters because space touches daily life. Satellites help with TV and phones, weather forecasts, cyclone warnings, farming, maps and navigation through India's own NavIC system. They also help the armed forces watch the borders. Space missions inspire young people and raise India's standing in the world, and a growing space economy creates jobs and startups.
+
+Recent years brought both wins and setbacks. In January 2025 ISRO joined two spacecraft in orbit, making India only the fourth country to do so. Shubhanshu Shukla flew to the International Space Station in 2025, and the NISAR satellite was launched with NASA. But in January 2026 the PSLV-C62 rocket failed, the second PSLV failure in eight months, and 16 satellites were lost. The first uncrewed test flight of Gaganyaan, carrying the robot Vyommitra, is expected by the end of 2026, with India's first astronauts to follow in 2027. ISRO plans its own space station by 2035 and an Indian on the Moon by 2040.
+
+ISRO's challenges are the recent failures, a small budget, too few launches each year and strong competition from companies like SpaceX. The way forward is to fix the failures with strict checks, open space to private companies, build new and reusable rockets, support startups like Skyroot and Agnikul, and work with foreign partners. ISRO made India a space power on a modest budget, and for India the sky is not the limit.
+
+### Flowchart
+- What is it: 1969 → Vikram Sarabhai → Chandrayaan, Mangalyaan → Low cost, high success
+- Why it matters: Weather, phones, NavIC → Border watch → Science → Space startups
+- Current status: SpaDeX docking → Shukla to ISS → PSLV-C62 failed → Gaganyaan G1 end-2026
+- Problems: Launch failures → Small budget → Few launches → SpaceX competition
+- Solutions: Quality checks → Private sector → Reusable rockets → Startups
+- Conclusion: Space power on small budget → Gaganyaan, space station → Sky not the limit
 
 ## HAL
-- What is it: Hindustan Aeronautics Limited; roots in 1940 (Walchand Hirachand), present form in 1964 → India's main defence aerospace PSU; a Maharatna company → Makes Tejas, Dhruv ALH, Prachand LCH, LUH, HTT-40; licence-built Su-30MKI → Also maintains and overhauls most IAF aircraft
-- Why it matters: Backbone of the Air Force's fleet → Self-reliance in fighters, helicopters and trainers → Exports and partnerships → Jobs and an aerospace supply chain → IAF's squadron strength depends on HAL's delivery
-- Current status (Oct 2026): Order book about ₹2.5 lakh crore → 156 Prachand helicopters ordered (₹62,700 crore), the biggest order from HAL → 180 Tejas Mk1A on order for the IAF → GE engine delays: only 10 F404 engines delivered by Aug 2026; IAF deliveries slipping → AMCA (fifth-generation fighter) opened to private partners → HAL to give about 40% of LCH work to private industry
-- Problems: Repeated delivery delays → Dependence on foreign engines (GE) → IAF short of fighter squadrons (about 29 vs 42 needed) → Quality and safety concerns (Dhruv grounding) → Low exports → Slow modernisation of production lines
-- Solutions: Faster production; second assembly lines; private partners → Indigenous engines: Kaveri, AMCA engine with Safran → Strict quality control and accountability → Export push: Tejas, Dhruv, Prachand → Competition from private firms to raise efficiency
+- What is it: Hindustan Aeronautics Limited; started in 1940 by Walchand Hirachand; present form since 1964 → India's main aircraft maker for defence; a Maharatna public company → Makes Tejas jets, Dhruv helicopters, Prachand attack helicopters, light utility helicopters, HTT-40 trainers; builds Su-30MKI under licence → Also repairs and maintains most Air Force aircraft
+- Why it matters: Backbone of the Air Force's fleet → Self-reliance in fighters, helicopters and trainers → Exports and partnerships → Jobs and an aircraft supply chain → The Air Force's strength depends on HAL delivering on time
+- Current status (Oct 2026): Order book about ₹2.5 lakh crore → 156 Prachand helicopters ordered (₹62,700 crore), the biggest order ever for HAL → 180 Tejas Mk1A on order for the Air Force → US engine delays: only 10 GE F404 engines delivered by Aug 2026; Tejas deliveries slipping → Future stealth fighter (AMCA) opened to private companies → HAL to give about 40% of Prachand work to private industry
+- Problems: Repeated delivery delays → Depends on foreign engines (GE) → Air Force short of fighter squadrons (about 29 against 42 needed) → Quality and safety concerns (Dhruv helicopters grounded after crashes) → Few exports → Slow upgrade of factories
+- Solutions: Faster production: second assembly lines, private partners → Indian engines: Kaveri, AMCA engine with Safran → Strict quality checks and accountability → Export push: Tejas, Dhruv, Prachand → Competition from private firms to improve efficiency
 - Conclusion: HAL is central to India's air power → It must deliver faster and better → A strong HAL means a strong Air Force
+
+### Paragraph
+Hindustan Aeronautics Limited, or HAL, began in 1940 when industrialist Walchand Hirachand started an aircraft company in Bengaluru. It took its present form in 1964. Today HAL is India's main maker of military aircraft and a Maharatna public sector company. It builds the Tejas fighter, the Dhruv helicopter, the Prachand attack helicopter, light utility helicopters and the HTT-40 trainer, and it assembles Su-30MKI fighters under licence. HAL also repairs and maintains most of the Indian Air Force's aircraft.
+
+HAL matters because the Air Force depends on it. If HAL delivers jets and helicopters on time, the Air Force stays strong. HAL is also central to India's self-reliance in defence, since it builds aircraft that India would otherwise have to import. It creates jobs, supports thousands of small suppliers and can earn money through exports.
+
+HAL has a huge order book of about ₹2.5 lakh crore. In 2025 it won its biggest ever order, for 156 Prachand helicopters worth about ₹62,700 crore, and it has orders for 180 Tejas Mk1A jets. But deliveries of the Tejas have been delayed because the US company GE has been slow to supply engines; only 10 engines had arrived by August 2026. The government has opened the future stealth fighter, AMCA, to private companies, and HAL plans to give about 40% of the Prachand work to private industry.
+
+HAL faces criticism for repeated delays, dependence on foreign engines, safety concerns after Dhruv crashes and low exports. Meanwhile, the Air Force has only about 29 fighter squadrons against the 42 it needs. The way forward is to speed up production with more assembly lines and private partners, develop Indian engines, enforce strict quality checks, push exports and allow competition from private firms. HAL is central to India's air power, and a strong HAL means a strong Air Force.
+
+### Flowchart
+- What is it: 1940 → Walchand Hirachand → Maharatna → Tejas, Dhruv, Prachand
+- Why it matters: Air Force backbone → Self-reliance → Jobs → Exports
+- Current status: ₹2.5 lakh cr orders → 156 Prachand → 180 Tejas Mk1A → GE engine delays → AMCA to private
+- Problems: Delays → Foreign engines → 29 squadrons → Safety → Few exports
+- Solutions: More assembly lines → Indian engines → Quality checks → Exports → Competition
+- Conclusion: Central to air power → Deliver faster → Strong HAL, strong IAF
 
 ## NITI Aayog
 - What is it: National Institution for Transforming India; replaced the Planning Commission on 1 Jan 2015 → Chaired by the PM; Governing Council of all CMs and LGs → A policy think tank, not a fund allocator → Promotes cooperative and competitive federalism

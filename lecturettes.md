@@ -499,44 +499,129 @@ Still, there are challenges: China's growing bases, unrest in Hormuz and the Red
 - Conclusion: Security tied to sea → First responder → Free, open ocean
 
 ## India and the Global South
-- What is it: Developing countries of Asia, Africa, Latin America and the Pacific → India's roots: anti-colonial struggle, Bandung (1955), Non-Aligned Movement, G77 → India's role today: voice and bridge between the developed and developing world → "Vasudhaiva Kutumbakam": One Earth, One Family, One Future
-- Why it matters: Majority of the world's population and future growth → Shared concerns: debt, climate finance, food and energy security, technology access → Reform of the UN, IMF, World Bank and WTO → India's leadership role and diplomatic support → Balances India's ties with the West
-- Current status (Oct 2026): Voice of Global South Summits: three held since 2023 → African Union made a permanent G20 member under India's presidency (2023) → India chaired BRICS (2026) and hosted the AI Impact Summit (Feb 2026), both with a Global South focus → Fourth India–Africa Forum Summit (May 2026) → Digital public infrastructure (UPI, Aadhaar, CoWIN) shared with partner countries → India as first responder: vaccines, disaster relief, fuel and food aid
-- Problems: China competes for Global South leadership with money and BRI → Debt distress in many developing countries → Climate finance promises unmet by rich nations → India's limited resources compared with China → Divisions within the Global South itself → Wars (Ukraine, West Asia) hitting food and energy prices
-- Solutions: Development partnership: demand-driven projects, grants, capacity building (ITEC) → Share digital public infrastructure and low-cost technology → Push for global governance reform and fair climate finance → South–South trade and local-currency settlement → Health, education, agriculture and disaster cooperation
-- Conclusion: India is a natural voice of the Global South → Its model is partnership, not dependence → A rising India can bridge North and South
+- What is it: The developing countries of Asia, Africa, Latin America and the Pacific → India's roots: fight against colonialism, Bandung (1955), Non-Aligned Movement, G77 → India's role today: a voice for them and a bridge to rich countries → "Vasudhaiva Kutumbakam": One Earth, One Family, One Future
+- Why it matters: Most of the world's people and future growth → Shared problems: debt, climate money, food and energy, access to technology → Need to reform the UN, IMF, World Bank and WTO → Gives India leadership and support → Balances India's ties with the West
+- Current status (Oct 2026): India has held three Voice of Global South Summits since 2023 → African Union became a G20 member under India's presidency (2023) → India chaired BRICS (2026) and hosted the AI Impact Summit (Feb 2026), both focused on the Global South → Fourth India–Africa Forum Summit (May 2026) → India shares digital tools (UPI, Aadhaar, CoWIN) with other countries → India sends help first: vaccines, disaster relief, food and fuel
+- Problems: China competes for leadership with money and the Belt and Road → Many developing countries are deep in debt → Rich countries have not given the climate money they promised → India has fewer resources than China → The Global South itself is divided → Wars (Ukraine, West Asia) raise food and fuel prices
+- Solutions: Development help that partners ask for: grants, training (ITEC) → Share digital public infrastructure and low-cost technology → Push for reform of global bodies and fair climate money → More trade among developing countries, in local currencies → Cooperation in health, education, farming and disasters
+- Conclusion: India is a natural voice of the Global South → Its model is partnership, not dependence → A rising India can bridge the North and the South
+
+### Paragraph
+The Global South means the developing countries of Asia, Africa, Latin America and the Pacific. India has always been one of their leaders. It fought colonial rule, took part in the 1955 Bandung Conference and helped start the Non-Aligned Movement. Today India sees itself as a voice for these countries and a bridge between them and the rich nations. Its guiding idea is "Vasudhaiva Kutumbakam", the world is one family.
+
+The Global South matters because it has most of the world's people and much of its future growth. These countries face the same problems: heavy debt, lack of money to fight climate change, food and fuel shortages and poor access to technology. They also want a fair say in global bodies like the UN and the IMF, which are still run mostly by rich countries. Leading them gives India influence and support.
+
+India has done a lot recently. It has held three Voice of Global South Summits since 2023. During its G20 presidency in 2023, it got the African Union made a permanent member. In 2026 India chaired BRICS, hosted the AI Impact Summit and held the India–Africa Forum Summit, all with a focus on developing countries. India also shares its digital tools, like UPI and Aadhaar, and is often the first to send vaccines, food or disaster relief.
+
+There are challenges. China competes for leadership with big loans and projects, many countries are trapped in debt, rich nations have not delivered promised climate money, and wars have pushed up prices. India cannot match China's money, so it offers a different model: help that partners ask for, training, low-cost technology and respect. By pushing for fair global rules and real partnership, India can truly be the voice of the Global South and a bridge between the North and the South.
+
+### Flowchart
+- What is it: Developing nations → Anti-colonial roots → NAM → One Earth, One Family
+- Why it matters: Majority of people → Debt, climate, food → Reform global bodies → Leadership
+- Current status: 3 VOGSS summits → AU in G20 → BRICS 2026 → IAFS-IV → UPI shared
+- Problems: China's money → Debt → No climate funds → Divisions → War prices
+- Solutions: Demand-driven help → Share DPI → Reform push → South–South trade
+- Conclusion: Natural voice → Partnership → Bridge North–South
 
 ## Iran War and the Strait of Hormuz
-- What is it: US and Israel struck Iran on 28 Feb 2026 → Iran closed the Strait of Hormuz → Hormuz carries about 20% of the world's oil and LNG → Repeated ceasefires and breakdowns since
-- Why it matters: Energy: India imports most of its oil, LPG and gas from the Gulf → Diaspora: about 9 million Indians in the Gulf → Shipping: Indian ships and sailors at risk → Economy: inflation, rupee, current account deficit → Strategic: Chabahar, INSTC, ties with Iran, Israel, the Gulf and the US
-- Current status (Oct 2026): Timeline: two-week ceasefire (Apr), US–Iran MoU (17 Jun), Trump declared the ceasefire over (8 Jul) → Iran–Oman talks on a safe shipping route; Iran–GCC meeting postponed (Sept) → Brent swinging between about $86 and over $107 a barrel → India: LPG crisis, about 90% of LPG from the Middle East, stocks for only 7–10 days at the worst point → Operation Sankalp: Navy escorting Indian ships; emergency LPG buys from the US → Indian sailors killed; ships attacked and seized → India's stand: neutral, calls for dialogue and a peaceful solution
-- Problems: Over-dependence on Gulf energy through one chokepoint → Small strategic reserves; LPG has almost none → Safety of Indian sailors and Gulf diaspora → Chabahar and INSTC stalled → Balancing Iran, Israel, the Gulf and the US → Inflation and pressure on the rupee
-- Solutions: Diversify energy: Russia, US, Africa, Latin America → Bigger strategic petroleum and LPG reserves → Faster shift to renewables, electric mobility, piped gas, biofuels → Naval escorts and evacuation readiness → Quiet diplomacy for de-escalation; support safe passage arrangements → Alternative routes: IMEC, Oman ports
-- Conclusion: The war showed how one chokepoint can shake India's economy → Energy security is national security → India must stay neutral, protect its people and diversify its energy
+- What is it: The US and Israel attacked Iran on 28 Feb 2026 → Iran closed the Strait of Hormuz → About 20% of the world's oil and LNG passes through Hormuz → Ceasefires have been made and broken many times
+- Why it matters: Energy: India gets most of its oil, LPG and gas from the Gulf → People: about 9 million Indians live in the Gulf → Ships: Indian ships and sailors at risk → Economy: prices, the rupee, the trade deficit → Strategy: Chabahar, INSTC, ties with Iran, Israel, the Gulf and the US
+- Current status (Oct 2026): Timeline: two-week ceasefire (Apr) → US–Iran agreement (17 Jun) → Trump said the ceasefire was over (8 Jul) → Iran and Oman are talking about a safe shipping route; an Iran–Gulf meeting was postponed (Sept) → Oil prices swinging between about $86 and over $107 a barrel → India: LPG crisis; about 90% of LPG comes from the Middle East; stocks fell to 7–10 days → Operation Sankalp: Navy escorts Indian ships; emergency LPG bought from the US → India's stand: neutral; calls for talks and peace
+- Problems: Too much dependence on Gulf energy through one narrow strait → Small fuel reserves; almost no LPG reserve → Safety of Indian sailors and Gulf workers → Chabahar and INSTC stuck → Balancing Iran, Israel, the Gulf and the US → Rising prices and a weaker rupee
+- Solutions: Buy energy from many countries: Russia, US, Africa, Latin America → Bigger oil and LPG reserves → Faster shift to solar, electric vehicles, piped gas, biofuels → Navy escorts and evacuation plans → Quiet diplomacy for peace; support safe passage → Other routes: IMEC, Oman ports
+- Conclusion: The war showed how one narrow strait can shake India's economy → Energy security is national security → India must stay neutral, protect its people and spread out its energy sources
+
+### Paragraph
+On 28 February 2026, the United States and Israel attacked Iran. In response, Iran closed the Strait of Hormuz, a narrow sea passage between Iran and Oman. About a fifth of the world's oil and liquefied gas passes through this strait, so its closure shook the whole world. Since then, ceasefires have been agreed and broken several times.
+
+This war matters greatly to India. India gets most of its oil, cooking gas (LPG) and natural gas from the Gulf, and almost all of it passes through Hormuz. About 9 million Indians live and work in the Gulf. Indian ships and sailors sail these waters every day. Higher oil prices also push up prices at home and weaken the rupee.
+
+The impact on India has been heavy. A two-week ceasefire in April and a US–Iran agreement in June did not last, and in July Trump said the ceasefire was over. Iran and Oman are now talking about a safe shipping route. Oil prices have swung between about $86 and over $107 a barrel. India faced a serious LPG shortage, because about 90% of its LPG comes from the Middle East and stocks fell to just 7–10 days. The Navy escorted Indian ships under Operation Sankalp, and India bought emergency LPG from the US. Indian sailors were killed and ships were attacked. India stayed neutral and called for peace.
+
+The lesson is clear: India depends too much on one route for its energy. It must buy oil and gas from many countries, build bigger reserves, especially for LPG, and move faster to solar power, electric vehicles and biofuels. It must protect its people with Navy escorts and evacuation plans, and push quietly for peace. Energy security is national security, and this war has shown why.
+
+### Flowchart
+- What is it: US–Israel strike (28 Feb 2026) → Hormuz closed → 20% of world oil → Broken ceasefires
+- Why it matters: Gulf energy → 9 mn Indians → Ships at risk → Prices, rupee
+- Current status: Apr truce → Jun deal → Jul collapse → Iran–Oman talks → LPG crisis → Op Sankalp
+- Problems: One chokepoint → Small reserves → Sailors' safety → Chabahar stuck
+- Solutions: Many suppliers → Bigger reserves → Renewables → Navy escorts → Peace diplomacy
+- Conclusion: One strait shook India → Energy = national security → Neutral + diversified
 
 ## Gaza Conflict
-- What is it: Hamas attack on Israel on 7 Oct 2023, about 1,200 killed and 250 taken hostage → Israel's military campaign in Gaza; tens of thousands killed, severe humanitarian crisis → Ceasefire under Trump's 20-point plan took effect on 10 Oct 2025 → Plan: hostage release, Board of Peace, an international stabilisation force, reconstruction
-- Why it matters: Humanitarian: one of the worst crises of our time → Regional: spread to Lebanon, Yemen (Houthis), Iran → Economic: Red Sea shipping, oil prices → For India: ties with Israel, Arab states and Palestine; diaspora in West Asia; IMEC → Global: test of international law and the UN
-- Current status (Oct 2026): Ceasefire holding but fragile; peace plan largely stalled → Israel controls about 60% of Gaza; Hamas not disarmed → International force and new administration yet to enter Gaza → Board of Peace proposed a $2.45 bn, 66-project plan to start reconstruction (Sept 2026) → Full rebuilding estimated at over $100 bn over 10 years → India invited to the Board of Peace; India ready to help rebuild Gaza
-- Problems: Fragile ceasefire; no political settlement → Humanitarian crisis: food, health, shelter → Hamas disarmament and Israeli withdrawal unresolved → Two-state solution further away → Regional spillover: Iran war, Red Sea → India's balancing between Israel and the Arab world; domestic criticism
-- Solutions: Sustain the ceasefire; unhindered humanitarian aid → Hostage release, disarmament and phased withdrawal → Reconstruction through the Board of Peace and the UN → Revive talks for a two-state solution → India: humanitarian aid, UNRWA support, reconstruction, quiet diplomacy
-- Conclusion: India condemns terrorism and the loss of civilian lives alike → India supports a sovereign, viable Palestine living side by side with a secure Israel → Lasting peace needs dialogue, not force
+- What is it: Hamas attacked Israel on 7 Oct 2023; about 1,200 killed and 250 taken hostage → Israel's military campaign in Gaza; tens of thousands killed; huge humanitarian crisis → Ceasefire under Trump's 20-point plan began on 10 Oct 2025 → Plan: release hostages, a "Board of Peace", an international force, rebuilding Gaza
+- Why it matters: Humanitarian: one of the worst crises of our time → Region: spread to Lebanon, Yemen (Houthis) and Iran → Economy: Red Sea shipping and oil prices → For India: ties with Israel, Arab countries and Palestine; Indians in West Asia; IMEC corridor → World: a test for international law and the UN
+- Current status (Oct 2026): Ceasefire holding but weak; the peace plan has mostly stalled → Israel controls about 60% of Gaza; Hamas has not given up weapons → The international force and new government have not entered Gaza yet → Board of Peace proposed a $2.45 bn, 66-project plan to start rebuilding (Sept 2026) → Full rebuilding may cost over $100 bn over 10 years → India was invited to the Board of Peace; India is ready to help rebuild
+- Problems: Weak ceasefire; no political solution → Shortage of food, medicine and shelter → Hamas disarmament and Israeli withdrawal not settled → Two-state solution looks further away → Spillover into the Iran war and the Red Sea → India's balance between Israel and the Arab world; criticism at home
+- Solutions: Keep the ceasefire; let aid flow freely → Hostage release, disarmament and step-by-step withdrawal → Rebuild through the Board of Peace and the UN → Restart talks for a two-state solution → India: aid, support to UN relief (UNRWA), help in rebuilding, quiet diplomacy
+- Conclusion: India condemns both terrorism and the killing of civilians → India supports a free Palestine living side by side with a secure Israel → Lasting peace needs dialogue, not force
+
+### Paragraph
+The Gaza conflict began on 7 October 2023, when Hamas attacked Israel, killing about 1,200 people and taking around 250 hostages. Israel then launched a long military campaign in Gaza. Tens of thousands of people were killed, and most of Gaza was destroyed, causing one of the worst humanitarian crises of our time. On 10 October 2025, a ceasefire began under US President Trump's 20-point peace plan, which included releasing hostages, setting up a "Board of Peace", sending an international force and rebuilding Gaza.
+
+This conflict matters far beyond Gaza. It spread to Lebanon, to the Red Sea through Houthi attacks on ships, and it added to tensions with Iran. It disturbed shipping and pushed up oil prices. For India, it is a balancing act: India has strong ties with Israel, but also with Arab countries and a long history of support for Palestine. Millions of Indians live in West Asia, and India's planned IMEC trade corridor passes through the region.
+
+By late 2026 the ceasefire was holding but weak, and the peace plan had mostly stalled. Israel controls about 60% of Gaza, Hamas has not given up its weapons, and the international force has not arrived. In September 2026 the Board of Peace proposed a $2.45 billion plan with 66 projects to begin rebuilding. Full rebuilding could cost over $100 billion over ten years. India has been invited to the Board of Peace and has said it is ready to help rebuild Gaza.
+
+The way forward is to keep the ceasefire, allow food and medicine to flow, settle the hard questions of disarmament and withdrawal, and restart talks for a two-state solution. India's position is balanced: it condemns terrorism and also the killing of civilians, and it supports a free Palestine living in peace next to a secure Israel. Lasting peace can come only through dialogue, not force.
+
+### Flowchart
+- What is it: Hamas attack 7 Oct 2023 → Israel's war → Humanitarian crisis → Ceasefire Oct 2025
+- Why it matters: Human suffering → Red Sea, Iran spillover → Oil → India's balance → IMEC
+- Current status: Weak ceasefire → Israel holds 60% → Hamas armed → $2.45 bn plan → India invited
+- Problems: No political deal → Aid shortage → Disarmament → Two-state fading
+- Solutions: Hold ceasefire → Free aid → Rebuild → Two-state talks → India helps
+- Conclusion: Condemn terror + civilian deaths → Two states → Dialogue, not force
 
 ## Terrorism as a Global Threat
-- What is it: Use of violence against civilians for political or ideological goals → Global groups: ISIS, al-Qaeda and affiliates; regional groups in Africa's Sahel → India has faced cross-border terrorism for decades: LeT, JeM, TRF → No agreed UN definition of terrorism yet
-- Why it matters: Threat to lives, sovereignty and economic growth → Cross-border: safe havens, state sponsorship → New tools: drones, crypto, encrypted apps, online radicalisation → Linked to drugs, arms smuggling and organised crime → India: 26/11, Pulwama, Pahalgam, Red Fort car blast (Nov 2025)
-- Current status (Oct 2026): UN Global Counter-Terrorism Strategy's 9th review adopted with 140 votes; urges finishing India's proposed Comprehensive Convention on International Terrorism (CCIT) → India at UN Counter-Terrorism Week 2026: defended FATF, flagged crowdfunding, prepaid cards and social media for terror finance → India's doctrine after Operation Sindoor: a terror attack is an act of war; no distinction between terrorists and sponsors → US designated TRF a foreign terrorist organisation (2025) → China still blocks some UN listings of Pakistan-based terrorists
-- Problems: Double standards: "good" and "bad" terrorists → State sponsorship from Pakistan → No agreed definition; CCIT stuck since 1996 → Technology outpacing laws → Radicalisation of youth online → Weak coordination between countries
-- Solutions: Adopt the CCIT; no double standards → Choke terror financing: FATF, NMFT ("No Money for Terror") → Intelligence sharing, extradition, joint operations → Counter online radicalisation; de-radicalisation programmes → Strong deterrence: Operation Sindoor-type responses → Community policing, border management, modern police
-- Conclusion: Terrorism is a threat to all humanity → It can be defeated only by global unity and zero tolerance → India's message: talks and terror cannot go together
+- What is it: Using violence against ordinary people to reach political or religious goals → Global groups: ISIS, al-Qaeda and their branches; groups in Africa's Sahel → India has faced cross-border terrorism for decades: LeT, JeM, TRF → The UN still has no agreed definition of terrorism
+- Why it matters: Kills people and harms countries' growth → Cross-border: safe havens and support from states → New tools: drones, crypto, secret apps, online brainwashing → Linked to drugs, arms smuggling and crime → India: 26/11 Mumbai, Pulwama, Pahalgam, Red Fort car blast (Nov 2025)
+- Current status (Oct 2026): UN's counter-terror strategy review adopted with 140 votes; asks countries to finish India's proposed convention against terrorism (CCIT) → At the UN (2026), India backed FATF and warned about crowdfunding, prepaid cards and social media used for terror money → India's rule after Operation Sindoor: a terror attack is an act of war; no difference between terrorists and their sponsors → US named TRF a terrorist organisation (2025) → China still blocks some UN listings of Pakistan-based terrorists
+- Problems: Double standards: "good" and "bad" terrorists → Pakistan sponsors terror → No agreed definition; India's CCIT pending since 1996 → Technology moves faster than laws → Young people radicalised online → Countries don't share information well
+- Solutions: Adopt the CCIT; no double standards → Stop terror money: FATF, "No Money for Terror" → Share intelligence; extradite terrorists; joint operations → Fight online radicalisation; help people leave extremism → Strong deterrence like Operation Sindoor → Better police, border control and community policing
+- Conclusion: Terrorism is a threat to all of humanity → Only global unity and zero tolerance can defeat it → India's message: talks and terror cannot go together
+
+### Paragraph
+Terrorism means using violence against ordinary people to frighten them and reach political or religious goals. Groups like ISIS and al-Qaeda operate across the world, and new groups are spreading in parts of Africa. India has suffered from cross-border terrorism for decades, mostly from groups based in Pakistan such as Lashkar-e-Taiba, Jaish-e-Mohammed and The Resistance Front. Surprisingly, the world still has no agreed legal definition of terrorism.
+
+Terrorism matters because it kills innocent people, creates fear and harms a country's growth. Some countries even give terror groups safe places to live and train. Terrorists now use new tools: drones, cryptocurrency, secret messaging apps and social media to brainwash young people. Terror is also linked to drugs and illegal weapons. India has seen many attacks, from 26/11 in Mumbai to Pulwama, Pahalgam and the Red Fort car blast in 2025.
+
+In 2026 the UN reviewed its global counter-terror strategy, and 140 countries asked for the early adoption of India's proposed Comprehensive Convention on International Terrorism, which India first suggested in 1996. India supported FATF, the global body that tracks terror money, and warned about new ways of funding terror like crowdfunding and prepaid cards. After Operation Sindoor, India made its rule clear: a terror attack will be treated as an act of war, and terrorists and their sponsors will be treated the same. The US named TRF a terrorist group, but China still blocks some UN listings of Pakistan-based terrorists.
+
+The biggest problem is double standards, where some countries treat certain terrorists as "good". The solution is global unity: adopt the CCIT, cut off terror money, share intelligence, extradite terrorists, fight online radicalisation and keep strong deterrence. Terrorism is a threat to all humanity, and as India says, talks and terror cannot go together.
+
+### Flowchart
+- What is it: Violence for goals → ISIS, al-Qaeda → LeT, JeM, TRF → No UN definition
+- Why it matters: Lives lost → State sponsors → Drones, crypto → 26/11, Pahalgam
+- Current status: UN review (140 votes) → CCIT push → FATF → Terror attack = act of war
+- Problems: Double standards → Pakistan → No definition → Online radicalisation
+- Solutions: Adopt CCIT → Stop terror money → Share intel → Deterrence
+- Conclusion: Threat to humanity → Global unity → Talks and terror can't go together
 
 ## Operation Sindoor
-- What is it: India's military response to the Pahalgam terror attack (22 Apr 2025), in which 26 people were killed → 7 May 2025: precision strikes on 9 terror sites in Pakistan and PoK, including JeM's Bahawalpur and LeT's Muridke headquarters → Pakistan retaliated with drones and missiles; India struck Pakistani air bases → Ceasefire understanding on 10 May 2025 after Pakistan's DGMO called
-- Why it matters: New doctrine: a terror attack is an act of war; no nuclear blackmail; no difference between terrorists and their sponsors → Showed jointness and precision of the three services → Indigenous weapons proved: BrahMos, Akash, Akashteer air defence → Non-military pressure: Indus Waters Treaty in abeyance, trade and visas suspended → Global outreach: all-party delegations to 33 countries
-- Current status (Oct 2026): First anniversary marked on 7 May 2026; called a "golden chapter" in India's military history → Lessons: shift from reactive retaliation to anticipatory precision strikes with clear red lines → Push for air defence, drones, counter-drones and long-range strike → Remaining S-400 units being fast-tracked → Momentum for theatre commands and joint planning → Indus Waters Treaty remains in abeyance
-- Problems: Pakistan's continued sponsorship of terror → Information war and disinformation → China's support to Pakistan: weapons, intelligence, diplomatic cover → Risk of escalation between nuclear-armed states → Third-party claims of mediation, which India rejects
-- Solutions: Keep deterrence credible: readiness, precision weapons, intelligence → Jointness and theatre commands → Self-reliance in drones, missiles and air defence → Counter-terror grid in J&K; choke infiltration and finance → Diplomatic pressure: FATF, UN listings, global outreach → Strategic communication to counter disinformation
-- Conclusion: Operation Sindoor marked a new normal in India's response to terror → Precise, measured and decisive → India will respond to terror at a time and place of its choosing
+- What is it: India's military answer to the Pahalgam terror attack (22 Apr 2025), in which 26 people were killed → On 7 May 2025, India struck 9 terror sites in Pakistan and PoK, including JeM's base in Bahawalpur and LeT's base in Muridke → Pakistan fired drones and missiles; India hit Pakistani air bases → Ceasefire on 10 May 2025 after Pakistan's military operations chief (DGMO) called
+- Why it matters: New rule: a terror attack is an act of war; no nuclear blackmail; terrorists and their sponsors are the same → Showed the three services working together with precision → Indian-made weapons worked: BrahMos, Akash, Akashteer air defence → Non-military steps: Indus Waters Treaty on hold, trade and visas stopped → India sent all-party teams of MPs to 33 countries
+- Current status (Oct 2026): First anniversary marked on 7 May 2026; called a "golden chapter" of India's military history → Lesson: India moved from reacting after attacks to precise strikes with clear red lines → Push for air defence, drones, anti-drone systems and long-range missiles → Remaining S-400 units being delivered faster → Momentum for theatre commands (joint commands) → Indus Waters Treaty still on hold
+- Problems: Pakistan still supports terror → Fake news and information war → China helps Pakistan with weapons, intelligence and diplomatic cover → Risk of escalation between nuclear neighbours → Other countries claiming they mediated, which India rejects
+- Solutions: Keep deterrence strong: ready forces, precise weapons, good intelligence → Joint working and theatre commands → Make drones, missiles and air defence at home → Strong counter-terror grid in J&K; stop infiltration and terror money → Pressure through FATF, UN listings and world outreach → Fight disinformation with clear communication
+- Conclusion: Operation Sindoor set a new normal in how India answers terror → Precise, measured and decisive → India will respond at a time and place of its choosing
+
+### Paragraph
+On 22 April 2025, terrorists attacked tourists at Pahalgam in Jammu and Kashmir and killed 26 people. India answered with Operation Sindoor. On the night of 7 May 2025, India's armed forces struck nine terror sites in Pakistan and Pakistan-occupied Kashmir, including the headquarters of Jaish-e-Mohammed in Bahawalpur and Lashkar-e-Taiba in Muridke. Pakistan then fired drones and missiles at India, and India hit back at Pakistani air bases. On 10 May, after Pakistan's military operations chief called his Indian counterpart, both sides agreed to stop firing.
+
+Operation Sindoor matters because it set a new rule for India. Any terror attack will now be treated as an act of war, India will not be stopped by nuclear threats, and terrorists and the countries that support them will be treated the same. The operation showed the Army, Navy and Air Force working together with great precision. Indian-made weapons like BrahMos, Akash and the Akashteer air defence system worked well. India also used non-military steps, such as putting the Indus Waters Treaty on hold and stopping trade and visas, and sent teams of MPs to 33 countries to explain its position.
+
+On 7 May 2026, India marked the first anniversary of the operation. The main lesson is that India has moved from simply reacting after attacks to precise strikes with clear red lines. Since then India has focused on air defence, drones, anti-drone systems and long-range missiles, is speeding up delivery of S-400 units and is moving towards theatre commands.
+
+Challenges remain. Pakistan still supports terror, China helps Pakistan, and fake news spreads during every crisis. India must keep its forces ready, make more weapons at home, strengthen its counter-terror grid in Jammu and Kashmir and keep up diplomatic pressure. Operation Sindoor set a new normal: precise, measured and decisive. India will respond to terror at a time and place of its choosing.
+
+### Flowchart
+- What is it: Pahalgam (26 killed) → 7 May 2025 strikes → 9 terror sites → Air bases hit → 10 May ceasefire
+- Why it matters: Terror = act of war → No nuclear blackmail → Jointness → BrahMos, Akash → IWT on hold
+- Current status: 1st anniversary → Precise strikes doctrine → Air defence, drones → S-400 faster
+- Problems: Pak terror → China help → Fake news → Escalation risk
+- Solutions: Strong deterrence → Theatre commands → Make at home → J&K grid → Global pressure
+- Conclusion: New normal → Precise, decisive → Our time and place
 
 ## Article 370
 - What is it: Temporary provision giving Jammu and Kashmir special status, with its own constitution and flag → Abrogated on 5 Aug 2019; Article 35A ended too → J&K Reorganisation Act: two Union Territories, J&K (with legislature) and Ladakh → Supreme Court upheld the abrogation (Dec 2023); ordered elections and statehood "at the earliest"

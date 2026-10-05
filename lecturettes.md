@@ -1374,36 +1374,104 @@ IORA has weaknesses. It has a small office and budget, its members are very diff
 - Conclusion: Ocean community → Active chairship → Open ocean for all
 
 ## Pax Silica
-- What is it: US-led coalition launched in Dec 2025 for secure supply chains in semiconductors, critical minerals and AI → Members include the US, Japan, South Korea, Australia, Singapore, UK, Israel, UAE, Qatar, Greece → India joined on 20 Feb 2026 at the AI Impact Summit, New Delhi → Aim: reduce coercive dependence on China
-- Why it matters: Chips and critical minerals are the oil of the 21st century → China dominates rare earths and their processing; uses export curbs as leverage → For India: investment in chips and minerals; place in trusted supply chains → Boosts India Semiconductor Mission and National Critical Mineral Mission → Technology partnership with the US and its allies
-- Current status (Oct 2026): India a full member since Feb 2026 → India's chip progress: Micron, Tata, Kaynes and CG Semi units in production; 12 projects approved → Critical minerals: overseas mines (KABIL), rare earth magnet scheme → India–US ties strained by tariffs, but tech cooperation continues → Coalition working on minerals, chips, AI and energy supply chains
-- Problems: India–US trade and political strains → Risk of Chinese retaliation (rare earth curbs) → India's chip industry still young → Strategic autonomy: joining blocs vs independence → Coalition still taking shape; rules unclear
-- Solutions: Use the coalition for investment and technology, not alignment → Build domestic capacity: fabs, mineral processing, design talent → Diversify mineral sources: Australia, Africa, Latin America → Balance with other partnerships (EU, Japan) → Recycling and alternatives to rare earths
-- Conclusion: Pax Silica is about trusted technology supply chains → India joins for capability, keeping its strategic autonomy → Self-reliance in chips and minerals is key to Viksit Bharat
+- What is it: A US-led group started in Dec 2025 to build safe supply chains for computer chips, critical minerals and AI → Members include the US, Japan, South Korea, Australia, Singapore, UK, Israel, UAE, Qatar and Greece → India joined on 20 Feb 2026 at the AI Impact Summit in New Delhi → Aim: reduce dangerous dependence on China
+- Why it matters: Chips and critical minerals are the "oil" of the 21st century → China controls most rare earths and their processing, and uses export limits as pressure → For India: investment in chips and minerals; a place in trusted supply chains → Supports the India Semiconductor Mission and National Critical Mineral Mission → Technology partnership with the US and its allies
+- Current status (Oct 2026): India a full member since Feb 2026 → India's chip progress: Micron, Tata, Kaynes and CG Semi units producing; 12 projects approved → Critical minerals: buying mines abroad (KABIL); scheme for rare earth magnets → India–US ties strained by tariffs, but technology cooperation continues → The group is working on minerals, chips, AI and energy supply chains
+- Problems: India–US trade and political strains → Risk that China hits back (for example, limiting rare earth exports) → India's chip industry is still young → Strategic autonomy: joining groups vs staying independent → The group is new and its rules are unclear
+- Solutions: Use the group for investment and technology, not to take sides → Build capacity at home: chip factories, mineral processing, design talent → Get minerals from many places: Australia, Africa, Latin America → Balance with other partners (EU, Japan) → Recycling and alternatives to rare earths
+- Conclusion: Pax Silica is about trusted technology supply chains → India joined for capability while keeping its strategic autonomy → Self-reliance in chips and minerals is key to Viksit Bharat
+
+### Paragraph
+Pax Silica is a group led by the United States, started in December 2025. Its goal is to build safe and trusted supply chains for computer chips, critical minerals and artificial intelligence. Members include Japan, South Korea, Australia, Singapore, the UK, Israel, the UAE, Qatar and Greece. India formally joined on 20 February 2026, during the AI Impact Summit in New Delhi. The main aim is to reduce dangerous dependence on China.
+
+Pax Silica matters because chips and critical minerals have become as important today as oil was in the last century. Phones, cars, missiles, satellites and AI systems all need them. China controls most of the world's rare earth minerals and their processing, and it has used export limits to pressure other countries. For India, joining this group means more investment in chip-making and mining, and a place in trusted supply chains with technology partners.
+
+India's own progress supports this. In 2026, chip units run by Micron, Tata, Kaynes and CG Semi began production, and 12 chip projects have been approved. India is also buying mines abroad through its company KABIL and has a scheme to make rare earth magnets at home. Even though India–US relations have been strained by tariffs, cooperation on technology has continued, and Pax Silica is working on minerals, chips, AI and energy.
+
+There are risks. India–US ties are tense, China might hit back by limiting exports of rare earths, India's chip industry is still young, and the group's rules are not yet clear. India must also protect its strategic autonomy. The best approach is to use Pax Silica to gain investment and technology, not to take sides, while building chip factories, mineral processing and design talent at home, sourcing minerals from many countries and working with other partners like the EU and Japan. Self-reliance in chips and minerals is key to Viksit Bharat.
+
+### Flowchart
+- What is it: US-led (Dec 2025) → Chips, minerals, AI → India joined (Feb 2026) → Reduce China dependence
+- Why it matters: 21st-century oil → China's rare earth grip → Investment → Chip Mission
+- Current status: Full member → Chips made in India → 12 projects → Minerals abroad
+- Problems: India–US strain → China may retaliate → Young industry → Autonomy
+- Solutions: Tech, not sides → Build at home → Many mineral sources → Other partners
+- Conclusion: Trusted supply chains → Capability + autonomy → Key to Viksit Bharat
 
 ## WTO
-- What is it: World Trade Organization, set up in 1995 (successor to GATT, 1947) → 166 members; works by consensus → Rules on goods, services, IPR (TRIPS), agriculture; dispute settlement → India a founding member
-- Why it matters: Rules-based, non-discriminatory global trade (MFN) → Protects smaller economies from unfair trade practices → Dispute resolution instead of trade wars → For India: food security, farmers, fisheries, services, generic medicines → Voice of developing countries
-- Current status (Oct 2026): 14th Ministerial Conference, Yaoundé, Cameroon (Mar 2026): continuity, few breakthroughs → India pushed for a permanent solution on public stockholding for food security; US and EU prefer the temporary peace clause → India opposed plurilateral deals such as the Investment Facilitation for Development pact → Appellate Body still not working since 2019 → US tariffs and unilateral trade deals weaken WTO rules
-- Problems: Dispute settlement paralysed → Outdated farm subsidy rules (1986–88 prices) → Rich countries' farm subsidies and push for plurilaterals → Unilateral tariffs and trade wars → Little progress on e-commerce, fisheries, development
-- Solutions: Restore the Appellate Body → Permanent solution on food stockholding → Keep consensus and special treatment for developing countries → Reform with fairness: update rules for the digital and green economy → India to lead a Global South coalition
-- Conclusion: A weak WTO hurts developing countries most → India supports a reformed, fair and rules-based trading system → Trade must work for development, not just for the powerful
+- What is it: World Trade Organization, set up in 1995 (after GATT, 1947) → 166 members; decisions by agreement of all → Rules on goods, services, intellectual property (TRIPS) and farming; settles trade disputes → India is a founding member
+- Why it matters: Fair, rule-based world trade; equal treatment for all members → Protects smaller economies from unfair trade → Settles disputes instead of trade wars → For India: food security, farmers, fishermen, services, cheap generic medicines → Voice of developing countries
+- Current status (Oct 2026): 14th Ministerial Conference in Yaoundé, Cameroon (Mar 2026): few breakthroughs → India pushed for a permanent solution on stocking food grains for the poor; the US and EU prefer a temporary "peace clause" → India opposed deals made by small groups of members (plurilaterals) like the investment facilitation pact → The WTO's appeals court has not worked since 2019 → US tariffs and one-to-one trade deals weaken WTO rules
+- Problems: Dispute settlement is stuck → Old farm subsidy rules based on 1986–88 prices → Rich countries' big farm subsidies; push for small-group deals → Tariffs and trade wars by big powers → Little progress on e-commerce, fisheries and development
+- Solutions: Restore the appeals court → A permanent solution for food stockholding → Keep decisions by agreement and special treatment for developing countries → Fair reform: update rules for the digital and green economy → India to lead a group of developing countries
+- Conclusion: A weak WTO hurts developing countries the most → India supports a reformed, fair and rule-based trading system → Trade must help development, not just the powerful
+
+### Paragraph
+The World Trade Organization, or WTO, was set up in 1995, replacing the older GATT agreement of 1947. It has 166 members, and decisions are taken only when all agree. The WTO makes rules on trade in goods, services, intellectual property and farming, and it settles trade disputes between countries. India is a founding member.
+
+The WTO matters because it keeps world trade fair and predictable. Its basic rule is that members should treat each other equally. Small and developing countries are protected from being bullied by big powers, and disputes are settled through a legal process instead of trade wars. For India, the WTO is important for protecting its farmers and fishermen, its system of buying food grains to feed the poor, its services exports and its cheap generic medicines.
+
+The WTO is in trouble. At its 14th Ministerial Conference in Yaoundé, Cameroon, in March 2026, there were few breakthroughs. India pushed for a permanent solution that would allow it to keep buying and storing food grains for the poor, but the US and the EU preferred a temporary "peace clause". India also opposed deals made by small groups of countries, which could create a two-tier system. The WTO's appeals court has not worked since 2019, because the US blocked new judges. Meanwhile, US tariffs and one-to-one trade deals are weakening WTO rules.
+
+The main problems are the stuck dispute system, outdated farm subsidy rules based on 1986–88 prices, rich countries' huge farm subsidies, and trade wars. The way forward is to restore the appeals court, find a permanent solution for food stockholding, keep decisions based on agreement with special treatment for developing countries, and update the rules for the digital and green economy. India can lead developing countries in this effort. A weak WTO hurts developing countries the most, and trade must help development, not just the powerful.
+
+### Flowchart
+- What is it: 1995 → After GATT → 166 members → Trade rules + disputes
+- Why it matters: Fair trade → Protects small → Food security → Generic medicines
+- Current status: MC14 Yaoundé (Mar 2026) → Food stock fight → Against plurilaterals → Appeals court dead
+- Problems: Disputes stuck → Old farm rules → Rich subsidies → Trade wars
+- Solutions: Restore appeals court → Permanent food solution → Consensus → Fair reform
+- Conclusion: Weak WTO hurts poor → Fair rules → Trade for development
 
 ## IMF
-- What is it: International Monetary Fund, created at Bretton Woods (1944); 191 members → Roles: global financial stability, surveillance, loans in crises, technical help → Voting by quota; the US has an effective veto → India a founding member; about 2.75% quota share
-- Why it matters: Lender of last resort in economic crises (Sri Lanka, Pakistan) → Watches global risks: debt, inflation, currencies → SDRs add to countries' reserves → Its growth forecasts shape investor views → Developing countries want a bigger voice
-- Current status (Oct 2026): IMF calls India the fastest-growing major economy; raised its FY26 forecast to 7.3% → Quota review: 50% increase agreed without changing shares; realignment stuck → India objected to IMF loans to Pakistan during Operation Sindoor (2025) → Iran war and oil shocks raise risks for importers → Debt distress in many developing countries
-- Problems: Under-representation of emerging economies like India and China → US veto and Western leadership tradition → Strict loan conditions hurt the poor → Loans to states that sponsor terrorism → Slow response to the debt crisis in the Global South
-- Solutions: Quota reform to reflect today's economy → Fairer, faster debt restructuring (Common Framework) → Lighter conditions; protect social spending → Stronger checks on misuse of IMF money → More voice for the Global South in leadership
-- Conclusion: The IMF remains central to global financial stability → It must reform to stay legitimate → India seeks a fair voice matching its economic weight
+- What is it: International Monetary Fund, created at Bretton Woods (1944); 191 members → Jobs: keep the world financial system stable, watch economies, lend in crises, give technical help → Voting power depends on each country's quota; the US has a veto → India is a founding member with about 2.75% of quota
+- Why it matters: Lender of last resort in a crisis (Sri Lanka, Pakistan) → Warns about global risks: debt, inflation, currencies → Its special drawing rights (SDRs) add to countries' reserves → Its forecasts shape how investors see countries → Developing countries want a bigger voice
+- Current status (Oct 2026): IMF calls India the fastest-growing major economy; raised its forecast for 2025–26 to 7.3% → Quota review: a 50% rise agreed, but voting shares not changed → India objected to IMF loans to Pakistan during Operation Sindoor (2025) → The Iran war and oil shocks raise risks for importers → Many developing countries are in debt trouble
+- Problems: Emerging economies like India and China have too little say → US veto; Western leaders by tradition → Strict loan conditions hurt the poor → Loans to countries that support terrorism → Slow help on the debt crisis in the Global South
+- Solutions: Change quotas to match today's economies → Fairer, faster debt relief → Lighter conditions; protect spending on the poor → Stronger checks on misuse of IMF money → More voice for the Global South in leadership
+- Conclusion: The IMF remains central to world financial stability → It must reform to stay trusted → India wants a fair voice matching its economic weight
+
+### Paragraph
+The International Monetary Fund, or IMF, was created at the Bretton Woods conference in 1944, along with the World Bank. It has 191 members. Its main jobs are to keep the world's financial system stable, keep watch on countries' economies, lend money to countries in crisis and give technical advice. A country's voting power depends on its quota, which is roughly its share of money in the IMF. The United States has the biggest share and an effective veto. India is a founding member with about 2.75% of the quota.
+
+The IMF matters because it is the lender of last resort. When a country runs out of foreign money, as Sri Lanka and Pakistan did, the IMF steps in with loans. It also warns about global risks like debt, inflation and currency crises, and its growth forecasts influence how investors see a country. It can create special drawing rights, a kind of reserve money, to help countries in hard times.
+
+In 2026 the IMF called India the fastest-growing major economy and raised its growth forecast for 2025–26 to 7.3%. Members agreed to raise quotas by 50%, but they did not change the voting shares, so emerging economies like India still have too little say. In 2025, during Operation Sindoor, India objected to the IMF giving loans to Pakistan, arguing that the money could be misused for terror. The Iran war and high oil prices have increased risks for oil-importing countries, and many developing countries are deep in debt.
+
+The IMF's problems are that it does not reflect today's world economy, the US has a veto, its loan conditions often hurt the poor, and debt relief for developing countries is slow. The way forward is to change quotas to match today's economies, provide faster and fairer debt relief, soften harsh conditions, check misuse of loans and give the Global South a bigger voice. The IMF remains central to world financial stability, but it must reform to stay trusted.
+
+### Flowchart
+- What is it: Bretton Woods 1944 → 191 members → Crisis lender → Quota votes → India 2.75%
+- Why it matters: Lender of last resort → Risk warnings → SDRs → Investor signals
+- Current status: India fastest-growing → Quota up, shares same → India objected to Pak loan
+- Problems: Low voice for India → US veto → Harsh conditions → Terror-state loans
+- Solutions: Quota reform → Debt relief → Softer conditions → Global South voice
+- Conclusion: Central to stability → Must reform → Fair voice for India
 
 ## OPEC
-- What is it: Organization of the Petroleum Exporting Countries, set up in 1960 (Baghdad); headquarters in Vienna → OPEC+ (since 2016) adds Russia and other producers → Controls a large share of world oil output and reserves → Sets production quotas to influence prices
-- Why it matters: Oil prices drive inflation, growth and the rupee → India is the third largest oil consumer and imports about 85–88% of its crude → Gulf OPEC states host about 9 million Indians → Energy security is national security → Petrodollar and global finance
-- Current status (Oct 2026): UAE left OPEC and OPEC+ on 1 May 2026 after nearly six decades → Iran war and the Hormuz closure disrupt supplies more than OPEC decisions → OPEC+ kept output unchanged for October; focus on 2027 quotas → Brent swinging between about $86 and over $107 a barrel → India buying more from Russia, the US and others
-- Problems: Price shocks from war and cartel decisions → India's heavy import dependence → Hormuz chokepoint risk → Small strategic reserves → Rupee pressure and inflation
-- Solutions: Diversify suppliers: Russia, US, Africa, Latin America → Expand strategic petroleum reserves → Raise domestic exploration and production → Ethanol blending, EVs, green hydrogen, renewables → Long-term contracts and buyers' cooperation (with China, Japan, Korea)
-- Conclusion: OPEC's decisions affect every Indian household → Energy security means less dependence on any one source → A clean energy transition is India's long-term answer
+- What is it: Organization of the Petroleum Exporting Countries, set up in 1960 in Baghdad; office in Vienna → OPEC+ (since 2016) adds Russia and other producers → Controls a large share of the world's oil production and reserves → Sets production limits to influence oil prices
+- Why it matters: Oil prices affect inflation, growth and the rupee → India is the world's third biggest oil user and imports about 85–88% of its crude → Gulf OPEC countries are home to about 9 million Indians → Energy security is national security → Oil money shapes world finance
+- Current status (Oct 2026): The UAE left OPEC and OPEC+ on 1 May 2026, after nearly 60 years → The Iran war and Hormuz closure affect supply more than OPEC decisions → OPEC+ kept output unchanged for October; now talking about 2027 limits → Brent oil swinging between about $86 and over $107 a barrel → India buying more from Russia, the US and others
+- Problems: Price shocks from war and OPEC decisions → India's heavy dependence on imported oil → Risk at the Hormuz chokepoint → Small strategic oil reserves → Pressure on the rupee and rising prices
+- Solutions: Buy from many suppliers: Russia, US, Africa, Latin America → Bigger strategic oil reserves → More oil and gas exploration at home → Ethanol blending, electric vehicles, green hydrogen, renewables → Long-term deals; cooperate with other big buyers (China, Japan, Korea)
+- Conclusion: OPEC's decisions affect every Indian household → Energy security means not depending on any one source → Clean energy is India's long-term answer
+
+### Paragraph
+OPEC, the Organization of the Petroleum Exporting Countries, was set up in 1960 in Baghdad by major oil-producing nations, and its office is in Vienna. In 2016 it formed a wider group called OPEC+ by adding Russia and other producers. Together they control a big share of the world's oil production and reserves. By deciding how much oil to produce, OPEC can push prices up or down.
+
+OPEC matters a great deal to India. India is the world's third largest oil consumer and imports about 85–88% of its crude oil. When oil prices rise, petrol, diesel, transport and food all become costlier, the rupee weakens and the government's budget is squeezed. Gulf OPEC countries are also home to about 9 million Indians who send money home. That is why energy security is part of national security.
+
+The oil world changed sharply in 2026. The Iran war and the closure of the Strait of Hormuz disrupted supplies more than any OPEC decision could. On 1 May 2026 the UAE left OPEC and OPEC+ after nearly 60 years, saying it wanted the freedom to respond to market shortages on its own. OPEC+ kept its output unchanged for October and is now discussing limits for 2027. Oil prices have swung between about $86 and more than $107 a barrel. India has been buying more oil from Russia, the US and other countries.
+
+India's problems are its heavy dependence on imported oil, the risk at the Hormuz chokepoint, small strategic reserves and the effect of oil shocks on prices and the rupee. The answer is to buy from many suppliers, build bigger reserves, explore more oil and gas at home, and shift faster to ethanol blending, electric vehicles, green hydrogen and renewable energy. India can also cooperate with other big buyers like Japan and Korea. OPEC's decisions affect every Indian household, and clean energy is India's long-term answer.
+
+### Flowchart
+- What is it: 1960 Baghdad → Vienna office → OPEC+ 2016 → Sets output
+- Why it matters: Oil prices → 85–88% imported → 9 mn Indians in Gulf → Energy = security
+- Current status: UAE left (May 2026) → Iran war bigger than OPEC → Output unchanged → $86–107
+- Problems: Price shocks → Import dependence → Hormuz risk → Small reserves
+- Solutions: Many suppliers → Bigger reserves → Home exploration → Ethanol, EVs, green H2
+- Conclusion: Affects every home → No single source → Clean energy answer
 
 ## Belt and Road Initiative (BRI)
 - What is it: China's global infrastructure plan launched by Xi Jinping in 2013 → Land "Belt" and maritime "Road"; 150+ countries; over $1 trillion → Ports, railways, roads, power plants, digital networks → Flagship: China–Pakistan Economic Corridor (CPEC)

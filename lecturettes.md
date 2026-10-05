@@ -374,44 +374,129 @@ BRICS has problems. China is very dominant, and India and China are rivals. Some
 - Conclusion: Multipolar world → Shape results → India as bridge
 
 ## SCO
-- What is it: Shanghai Cooperation Organisation, set up in 2001 → Members: China, Russia, four Central Asian states, India and Pakistan (2017), Iran (2023), Belarus (2024) → Focus: security, counter-terrorism, connectivity, trade → Regional Anti-Terrorist Structure (RATS) in Tashkent
-- Why it matters: Security: terrorism, extremism, drugs; Afghanistan → Connectivity and energy links with Central Asia (Chabahar, INSTC) → Platform where India meets China, Russia and Pakistan → Eurasian balance alongside India's Western partnerships → India's SECURE vision for the region
-- Current status (Oct 2026): 26th SCO Summit, Bishkek (31 Aug–1 Sep 2026), SCO's 25th anniversary → Modi attended; Bishkek Declaration signed by all members → India's pillars: Security, Connectivity, Opportunity → Modi called for dismantling the terror ecosystem without double standards → India to host the first SCO Civilisation Dialogue Forum
-- Problems: China–Russia dominance → Pakistan's sponsorship of terrorism; India refused to sign a 2025 defence ministers' statement that left out Pahalgam → India opposes China's BRI (CPEC through PoK) → Members at odds with the West; weak implementation → Consensus rule blocks strong action
-- Solutions: Push for zero tolerance on terrorism and no double standards → Promote connectivity that respects sovereignty (Chabahar, INSTC) → Expand cooperation in trade, digital, startups, traditional medicine, culture → Use SCO to engage Central Asia directly → Protect strategic autonomy within the group
-- Conclusion: SCO is India's gateway to Eurasia and Central Asia → India engages to protect its security interests and shape the agenda → Terrorism must be fought without double standards
+- What is it: Shanghai Cooperation Organisation, set up in 2001 → Members: China, Russia, four Central Asian countries, India and Pakistan (2017), Iran (2023), Belarus (2024) → Focus: security, fighting terrorism, connectivity, trade → Anti-terror body (RATS) based in Tashkent
+- Why it matters: Security: terrorism, extremism, drugs; Afghanistan → Links and energy with Central Asia (Chabahar, INSTC) → One forum where India meets China, Russia and Pakistan → Balances India's Western partnerships → India's SECURE vision for the region
+- Current status (Oct 2026): 26th SCO summit in Bishkek, Kyrgyzstan (31 Aug–1 Sep 2026); SCO's 25th anniversary → Modi attended; all members signed the Bishkek Declaration → India's three pillars: Security, Connectivity, Opportunity → Modi: destroy the terror network, no double standards → India will host the first SCO Civilisation Dialogue Forum
+- Problems: China and Russia dominate → Pakistan backs terrorism; in 2025 India refused to sign a defence ministers' statement that left out Pahalgam → India opposes China's BRI (CPEC goes through PoK) → Several members are against the West; weak follow-through → Every decision needs everyone's agreement
+- Solutions: Push zero tolerance for terror, no double standards → Promote connectivity that respects sovereignty (Chabahar, INSTC) → More cooperation in trade, digital, startups, traditional medicine, culture → Use the SCO to reach Central Asia directly → Keep India's strategic autonomy
+- Conclusion: The SCO is India's gateway to Eurasia and Central Asia → India takes part to protect its security and shape the agenda → Terrorism must be fought without double standards
+
+### Paragraph
+The Shanghai Cooperation Organisation, or SCO, was set up in 2001. Its members are China, Russia, four Central Asian countries, India and Pakistan (both joined in 2017), Iran and Belarus. The SCO mainly works on security and the fight against terrorism, but also on connectivity and trade. It has an anti-terror body called RATS in Tashkent.
+
+The SCO matters to India for several reasons. It is a forum to fight terrorism, extremism and drug trafficking, especially from Afghanistan. It helps India build links with Central Asia, a region rich in energy. It is also one of the few places where India sits at the same table with China, Russia and Pakistan. And it helps India balance its close ties with Western countries.
+
+In 2026 the SCO summit was held in Bishkek, Kyrgyzstan, marking the group's 25th anniversary. Prime Minister Modi attended and signed the Bishkek Declaration. He presented India's three pillars of Security, Connectivity and Opportunity, and called for destroying the terror network without double standards. India will host the first SCO Civilisation Dialogue Forum.
+
+But India faces challenges in the SCO. China and Russia dominate it. Pakistan supports terrorism, and in 2025 India refused to sign a statement that left out the Pahalgam attack. India also opposes China's Belt and Road project because part of it passes through Pakistan-occupied Kashmir. Since every decision needs everyone's agreement, strong action is hard. India's approach is to push for zero tolerance on terror, promote connectivity that respects sovereignty, increase cooperation in trade, culture and technology, and use the SCO to reach Central Asia. For India, the SCO is a gateway to Eurasia, used carefully to protect its own interests.
+
+### Flowchart
+- What is it: 2001 → China, Russia, Central Asia → India, Pak 2017 → Anti-terror RATS
+- Why it matters: Fight terror → Central Asia links → Meet China, Pak → Balance
+- Current status: Bishkek summit → 25 years → Security, Connectivity, Opportunity → No double standards
+- Problems: China dominates → Pak terror → Oppose BRI → Consensus rule
+- Solutions: Zero tolerance → Sovereign connectivity → Trade, culture → Strategic autonomy
+- Conclusion: Gateway to Eurasia → Protect interests → No double standards
 
 ## India–EU Free Trade Agreement
-- What is it: Free trade deal between India and the 27-nation EU → Talks began in 2007, stalled in 2013, relaunched in 2022 → Concluded on 27 Jan 2026, called the "mother of all deals" → Along with an investment protection pact and a GI agreement
-- Why it matters: EU is one of India's largest trading partners → Covers 97% of tariff lines and 99.5% of India's export value → Boost to labour-intensive exports: textiles, leather, gems, engineering → Investment, technology and supply-chain diversification away from China → Mobility for skilled workers, students and researchers
-- Current status (Oct 2026): Legal scrubbing under way → To be signed on 16 Dec 2026 → Entry into force expected early 2027 → About 93% of Indian exports to get duty-free access → Tariff cuts for EU autos, wines and spirits; sensitive farm and dairy sectors protected → CBAM stays; India gets an assurance of any future CBAM flexibility given to others
-- Problems: CBAM: carbon border tax on steel, aluminium and cement → EU Deforestation Regulation and other green rules → Strict standards and non-tariff barriers → Ratification by the European Parliament → Sensitive sectors: autos, dairy, agriculture → Labour, sustainability and data rules
-- Solutions: Ratify and implement quickly; prepare MSMEs to use it → Green transition: carbon market, low-carbon steel → Help exporters meet EU standards → Use the Trade and Technology Council for tech and supply chains → Keep negotiating CBAM relief
-- Conclusion: A landmark deal between two of the world's largest economies → Opens a big market for "Make in India" → Its success depends on implementation and meeting green standards
+- What is it: A free trade deal between India and the 27 countries of the European Union → Talks began in 2007, stopped in 2013, restarted in 2022 → Talks finished on 27 Jan 2026; called the "mother of all deals" → Comes with an investment protection deal and a GI (geographical indication) deal
+- Why it matters: The EU is one of India's biggest trade partners → Covers 97% of products and 99.5% of India's export value → Boost to job-heavy exports: textiles, leather, gems, engineering goods → Investment and new supply chains away from China → Easier movement for skilled workers, students and researchers
+- Current status (Oct 2026): Legal checking of the text is going on → To be signed on 16 Dec 2026 → Expected to come into force in early 2027 → About 93% of Indian exports will enter the EU without duty → EU cars, wines and spirits get lower duties in India; farm and dairy protected → EU's carbon border tax (CBAM) stays, but India gets any relief given to others in future
+- Problems: CBAM: extra tax on carbon-heavy goods like steel, aluminium and cement → EU's strict green rules (e.g. on deforestation) → Tough standards and non-tariff barriers → European Parliament must approve it → Sensitive sectors: cars, dairy, farming → Labour and data rules
+- Solutions: Sign and implement quickly; help small firms (MSMEs) use it → Go green: carbon market, low-carbon steel → Help exporters meet EU standards → Use the India–EU Trade and Technology Council → Keep asking for relief on CBAM
+- Conclusion: A landmark deal between two of the world's biggest economies → Opens a huge market for Make in India → Its success depends on implementation and meeting green rules
+
+### Paragraph
+The India–EU Free Trade Agreement is a trade deal between India and the 27 countries of the European Union. Talks started in 2007 but stopped in 2013 because the two sides could not agree. They restarted in 2022 and were finally completed on 27 January 2026. Leaders called it the "mother of all deals". Along with it come a deal to protect investments and one to protect special local products, called GI products.
+
+The deal matters because the EU is one of India's largest trading partners. It covers 97% of products and 99.5% of the value of India's exports. Indian goods that create many jobs, such as clothes, leather, gems and engineering goods, will sell more easily in Europe. European companies are also expected to invest more in India as they move supply chains away from China. The deal also makes it easier for skilled workers and students to move.
+
+The text is now being checked by lawyers. The deal is to be signed on 16 December 2026 and should come into force in early 2027. About 93% of Indian exports will enter the EU without any duty. India will lower duties on European cars, wines and spirits, but has protected farming and dairy. One problem remains: the EU's carbon border tax, called CBAM, which adds a cost to carbon-heavy goods like steel and aluminium. India got a promise that any future relief given to others will also apply to India.
+
+To gain fully, India must implement the deal quickly, help small businesses use it, and help exporters meet Europe's strict quality and green standards. Indian industry, especially steel, must also move towards cleaner production. If done well, this deal will open a huge market for Make in India and create many jobs.
+
+### Flowchart
+- What is it: India + 27 EU nations → Talks 2007 → Concluded Jan 2026 → "Mother of all deals"
+- Why it matters: Big partner → 99.5% of exports covered → Textiles, leather jobs → China+1
+- Current status: Legal check → Signing 16 Dec 2026 → In force 2027 → 93% duty-free → CBAM stays
+- Problems: CBAM tax → Green rules → Standards → Ratification
+- Solutions: Implement fast → Help MSMEs → Go green → Meet standards
+- Conclusion: Landmark deal → Market for Make in India → Implementation key
 
 ## India–France Relations
 - What is it: India's first strategic partnership (1998) → France stood by India after the 1998 nuclear tests → Pillars: defence, nuclear energy, space, Indo-Pacific → Horizon 2047 roadmap (2023) for the next 25 years
-- Why it matters: Defence: Rafale, Scorpene submarines, jet engines; a reliable supplier without conditions → Strategic: strategic autonomy shared by both; France a resident Indo-Pacific power (Réunion) → Nuclear and space: Jaitapur, CNES–ISRO cooperation → Climate: co-founded the International Solar Alliance (2015) → UN: France backs India's permanent UNSC seat
-- Current status (Oct 2026): Macron in India (Feb 2026) for the AI Impact Summit; India–France Year of Innovation 2026 launched → DAC cleared 114 Rafale fighters, 90 to be made in India (about €30 bn, potential biggest deal) → 26 Rafale-M for the Navy signed (2025); three more Scorpene submarines under talks → Safran and DRDO to co-develop a 110 kN engine for AMCA → Talks on India joining the French-led sixth-generation fighter (FCAS) → UPI accepted in France
-- Problems: Slow, costly defence deals; technology transfer issues → Jaitapur nuclear project long delayed → Trade still modest (about $15 bn) → France's own priorities in Europe and Ukraine → Competition from other suppliers
-- Solutions: Move from buying to co-development: AMCA engine, Rafale production in India → Speed up Jaitapur and small modular reactor cooperation → Expand trade, investment, startups, AI and space → Joint Indo-Pacific work: patrols, Varuna, Shakti and Garuda exercises → More student and people-to-people links
-- Conclusion: France is India's most consistent Western partner → Ties rest on shared strategic autonomy → From buyer and seller to co-developers of the future
+- Why it matters: Defence: Rafale jets, Scorpene submarines, jet engines; a supplier with no strings attached → Strategy: both value independence; France has territory in the Indian Ocean (Réunion) → Nuclear and space cooperation → Climate: together started the International Solar Alliance (2015) → France supports India's permanent UN Security Council seat
+- Current status (Oct 2026): Macron came to India (Feb 2026) for the AI Impact Summit; India–France Year of Innovation 2026 launched → Defence council cleared 114 Rafale jets, 90 to be made in India (about €30 bn) → 26 Rafale-M jets for the Navy ordered (2025); talks on three more Scorpene submarines → Safran and DRDO to build a jet engine for India's future fighter (AMCA) → Talks on India joining France's next-generation fighter project → UPI works in France
+- Problems: Defence deals are slow and costly; technology transfer issues → Jaitapur nuclear plant delayed for years → Trade still small (about $15 bn) → France busy with Europe and Ukraine → Competition from other suppliers
+- Solutions: Move from buying to making together: AMCA engine, Rafale made in India → Speed up Jaitapur and small nuclear reactors → More trade, investment, startups, AI and space → Joint work in the Indo-Pacific: patrols and exercises (Varuna, Shakti, Garuda) → More students and cultural exchange
+- Conclusion: France is India's most steady Western partner → Both believe in strategic independence → From buyer and seller to co-developers
+
+### Paragraph
+France was India's first strategic partner, in 1998. That same year, when many Western countries criticised India's nuclear tests, France stood by India. Since then, France has been one of India's most reliable friends. The two countries work together in defence, nuclear energy, space and the Indo-Pacific, and in 2023 they adopted the Horizon 2047 roadmap to plan the next 25 years.
+
+France matters because it supplies advanced weapons without political conditions. India's Rafale fighter jets and Scorpene submarines come from France. Both countries value strategic independence and do not want to depend on any one superpower. France also has territory in the Indian Ocean, so it is a natural partner there. Together they started the International Solar Alliance in 2015, and France supports India's claim to a permanent seat on the UN Security Council.
+
+In February 2026 President Macron visited India for the AI Impact Summit, and the two launched the India–France Year of Innovation. India's Defence Acquisition Council cleared the purchase of 114 Rafale jets, with 90 to be made in India, which could be India's biggest defence deal ever. The Navy has ordered 26 Rafale-M jets. The French company Safran and DRDO will develop a jet engine for India's future stealth fighter. Even UPI now works in France.
+
+Some problems remain. Defence deals take a long time, the Jaitapur nuclear plant has been delayed for years, and trade is still small at about $15 billion. The solution is to move from simply buying French weapons to designing and making them together in India, to speed up nuclear projects, and to increase trade, startups and student exchanges. France is India's most steady Western partner, and the relationship is moving from buyer and seller to co-developers.
+
+### Flowchart
+- What is it: First strategic partner 1998 → Backed nuclear tests → Horizon 2047
+- Why it matters: Rafale, Scorpene → No strings → Indian Ocean → Solar Alliance → UNSC support
+- Current status: Macron AI Summit → 114 Rafale (90 in India) → Rafale-M → AMCA engine → UPI in France
+- Problems: Slow deals → Jaitapur delay → Small trade
+- Solutions: Make together → Nuclear push → Trade, startups → Indo-Pacific exercises
+- Conclusion: Steady friend → Shared independence → Co-developers
 
 ## India–Africa Relations
-- What is it: Ties of colonial struggle, Gandhi in South Africa, the Non-Aligned Movement → 54 countries; about 3 million Indian diaspora → India–Africa Forum Summits: 2008, 2011, 2015, 2026 → Kampala Principles (2018) guide India's Africa policy
-- Why it matters: Economic: trade about $100 bn; India among Africa's top trade partners and investors → Resources: oil, critical minerals, farmland → Strategic: Indian Ocean security; balancing China → Global South: India got the African Union into the G20 (2023) → Diplomatic: support at the UN; peacekeeping
-- Current status (Oct 2026): Fourth India–Africa Forum Summit, New Delhi (May 2026), with the African Union → Theme: IA SPIRIT (Innovation, Resilience, Inclusive Transformation) → Over $12 bn in lines of credit to 43 countries so far → 42,000+ African students studied in India; ITEC training → AIKEYME naval exercise (2025) with African navies → 46 Indian missions across Africa
-- Problems: China's far larger trade, loans and projects → Slow delivery of Indian projects → Piracy, terrorism and instability (Sahel, Horn of Africa) → Debt distress in many African states → Low awareness and connectivity; few direct flights
-- Solutions: Faster, demand-driven projects; capacity building over loans → Digital public infrastructure: UPI, Aadhaar-type systems → Health, pharma, agriculture, education → Maritime security and blue economy partnership → Peacekeeping, defence training, counter-terrorism → Trade facilitation and direct connectivity
-- Conclusion: Africa is India's partner in the Global South → India's model is partnership, not exploitation → The 21st century can belong to India and Africa together
+- What is it: Ties from the fight against colonialism; Gandhi's work in South Africa; Non-Aligned Movement → 54 countries; about 3 million people of Indian origin → India–Africa Forum Summits: 2008, 2011, 2015, 2026 → Kampala Principles (2018) guide India's Africa policy
+- Why it matters: Economy: trade about $100 bn; India among Africa's top trade partners and investors → Resources: oil, critical minerals, farmland → Strategy: Indian Ocean security; balance China → Global South: India got the African Union into the G20 (2023) → Diplomacy: votes at the UN; Indian peacekeepers in Africa
+- Current status (Oct 2026): Fourth India–Africa Forum Summit in New Delhi (May 2026), with the African Union → Theme: IA SPIRIT (Innovation, Resilience, Inclusive Transformation) → India has given over $12 bn in credit to 43 African countries → 42,000+ African students studied in India; training under ITEC → Joint naval exercise AIKEYME (2025) with African navies → 46 Indian embassies across Africa
+- Problems: China has much bigger trade, loans and projects → Indian projects are slow → Piracy, terrorism and conflict (Sahel, Horn of Africa) → Many African countries in debt → Few direct flights; low awareness
+- Solutions: Faster projects that Africans ask for; training more than loans → Share digital tools like UPI and Aadhaar → Health, medicines, farming, education → Sea security and blue economy → Peacekeeping, defence training, counter-terrorism → Easier trade and more flights
+- Conclusion: Africa is India's partner in the Global South → India's model is partnership, not exploitation → The future can belong to India and Africa together
+
+### Paragraph
+India and Africa share a long history. Both fought against colonial rule, and Mahatma Gandhi began his struggle in South Africa. Both were leaders of the Non-Aligned Movement. Africa has 54 countries and about 3 million people of Indian origin. India has held four India–Africa Forum Summits, in 2008, 2011, 2015 and 2026, and follows the Kampala Principles of 2018, which say India's help should be based on what Africa needs.
+
+Africa matters to India for trade, resources and strategy. Trade is about $100 billion, and India is one of Africa's biggest partners. Africa has oil, critical minerals and farmland. Many African countries are on the Indian Ocean, so they matter for sea security. Africa also supports India at the UN, and India has proudly helped the African Union become a member of the G20 in 2023.
+
+In May 2026 India hosted the fourth India–Africa Forum Summit in New Delhi with the African Union, under the theme IA SPIRIT. India has given more than $12 billion in credit to 43 African countries for roads, power, water and other projects. Over 42,000 African students have studied in India, and many officials have been trained under ITEC. India's Navy has held joint exercises with African navies, and India now has 46 embassies in Africa.
+
+The biggest challenge is China, which has much more trade and money in Africa. Indian projects are also often slow, and piracy, terrorism and debt are problems. India's strength is a different model: partnership, not exploitation. India should deliver projects faster, focus on training and skills, share digital tools like UPI, help in health, farming and education, and work with Africa on sea security and peacekeeping. Together, India and Africa can shape the future of the Global South.
+
+### Flowchart
+- What is it: Anti-colonial ties → Gandhi → 54 countries → 4 summits → Kampala Principles
+- Why it matters: $100 bn trade → Minerals → Indian Ocean → AU in G20
+- Current status: IAFS-IV Delhi (May 2026) → IA SPIRIT → $12 bn credit → 42,000 students
+- Problems: China's scale → Slow projects → Piracy, terror → Debt
+- Solutions: Faster projects → Skills, DPI → Health, farming → Sea security
+- Conclusion: Global South partner → Partnership, not exploitation → Shared future
 
 ## India and the Indian Ocean Region
-- What is it: The only ocean named after a country; India sits at its centre → 7,500+ km coastline, 1,382 islands, 2 mn sq km EEZ → About 95% of India's trade by volume and most oil imports move by sea → Policy: SAGAR (2015), upgraded to MAHASAGAR (Mar 2025)
-- Why it matters: Sea lanes and chokepoints: Hormuz, Bab-el-Mandeb, Malacca → Energy security: Gulf oil and gas → Security: piracy, terrorism, smuggling, illegal fishing → Strategic: China's growing presence ("String of Pearls") → Blue economy: fisheries, seabed minerals, ports
-- Current status (Oct 2026): International Fleet Review and MILAN 2026, Visakhapatnam (Feb 2026): 74 countries took part → Operation Sankalp: Navy escorting Indian ships in the Gulf during the Iran war → Navy tracks every Chinese warship and research vessel entering the IOR → IFC-IOR, Gurugram: hub for maritime domain awareness; Quad IPMDA run from there → Partnerships: Colombo Security Conclave, Agalega (Mauritius) facilities, Duqm (Oman), IONS → India as first responder: disaster relief, anti-piracy, evacuations
-- Problems: China: Djibouti base, Gwadar, Hambantota, Kyaukphyu; research and survey ships → Hormuz and Red Sea disruption; energy shocks → Piracy off Somalia; Houthi attacks → Small island states caught in debt and great-power rivalry → Navy short of ships and submarines for a vast area → Climate change and rising seas
-- Solutions: Blue-water Navy: more ships, submarines, carriers, maritime patrol aircraft → MAHASAGAR: capacity building, hydrography, coastal radars for neighbours → Maritime domain awareness through IFC-IOR and white-shipping agreements → Ports and connectivity: Sagarmala, Great Nicobar, Chabahar → Strengthen IORA, IONS, Colombo Security Conclave → Blue economy and disaster response cooperation
-- Conclusion: India's security and prosperity are tied to the Indian Ocean → India aims to be the region's net security provider and first responder → A free, open and secure Indian Ocean is India's core interest
+- What is it: The only ocean named after a country; India sits at its centre → 7,500+ km coastline, 1,382 islands, a large sea zone (EEZ) of about 2 million sq km → About 95% of India's trade by volume and most oil imports come by sea → Policy: SAGAR (2015), expanded to MAHASAGAR (2025)
+- Why it matters: Sea routes and narrow passages (chokepoints): Hormuz, Bab-el-Mandeb, Malacca → Energy: oil and gas from the Gulf → Security: piracy, terrorism, smuggling, illegal fishing → Strategy: China's growing presence ("String of Pearls") → Blue economy: fish, seabed minerals, ports
+- Current status (Oct 2026): International Fleet Review and MILAN 2026 at Visakhapatnam (Feb 2026); 74 countries took part → Operation Sankalp: Navy escorting Indian ships in the Gulf during the Iran war → Navy watches every Chinese warship and research ship entering the region → Information Fusion Centre in Gurugram tracks ships; Quad's IPMDA works from there → Partners: Colombo Security Conclave, Agalega (Mauritius), Duqm (Oman) → India as first responder in disasters and piracy
+- Problems: China's bases and ports: Djibouti, Gwadar, Hambantota, Kyaukphyu; research ships → Trouble in Hormuz and the Red Sea; energy shocks → Somali piracy; Houthi attacks → Small island states in debt and caught between big powers → Navy short of ships and submarines for such a big area → Climate change and rising seas
+- Solutions: Blue water Navy: more ships, submarines, carriers, patrol aircraft → MAHASAGAR: help neighbours with training, radars and sea mapping → Better knowledge of what moves at sea → Ports and links: Sagarmala, Great Nicobar, Chabahar → Stronger regional groups: IORA, IONS, Colombo Security Conclave → Blue economy and disaster cooperation
+- Conclusion: India's security and wealth are tied to the Indian Ocean → India aims to be the region's main security provider and first responder → A free, open and safe Indian Ocean is India's core interest
+
+### Paragraph
+The Indian Ocean is the only ocean in the world named after a country, and India sits right at its centre. India has a coastline of more than 7,500 km, over 1,300 islands and a huge sea zone. About 95% of India's trade by volume and most of its oil come by sea. That is why India's policy for this region, first called SAGAR in 2015 and expanded to MAHASAGAR in 2025, is so important.
+
+The Indian Ocean matters because the world's busiest sea routes pass through it, including narrow points like the Strait of Hormuz, the Bab-el-Mandeb and the Strait of Malacca. Any trouble there hits India's energy supply and trade. The region also faces piracy, terrorism, smuggling and illegal fishing. At the same time, China is building ports and bases around India, sometimes called a "String of Pearls", and its research ships often enter the region.
+
+India is responding strongly. In February 2026 it hosted the International Fleet Review and the MILAN exercise at Visakhapatnam, with 74 countries taking part. During the Iran war, the Navy escorted Indian ships under Operation Sankalp. The Navy now tracks every Chinese ship entering the region, and the Information Fusion Centre in Gurugram shares shipping data with partners. India works with neighbours through the Colombo Security Conclave and has built facilities in places like Agalega in Mauritius. India is often the first to help in disasters.
+
+Still, there are challenges: China's growing bases, unrest in Hormuz and the Red Sea, piracy, small island states caught in debt, and a Navy that needs more ships and submarines. India should build a strong blue water Navy, help neighbours with training and radars, improve sea tracking, build ports and strengthen regional groups like IORA. A free, open and safe Indian Ocean is at the heart of India's security and prosperity.
+
+### Flowchart
+- What is it: Named after India → 7,500 km coast → 95% trade by sea → SAGAR to MAHASAGAR
+- Why it matters: Chokepoints → Energy → Piracy → China's pearls → Blue economy
+- Current status: Fleet Review, MILAN (74 nations) → Op Sankalp → Track Chinese ships → IFC-IOR
+- Problems: Chinese bases → Hormuz, Red Sea → Piracy → Small Navy → Climate
+- Solutions: Blue water Navy → Help neighbours → Sea tracking → Ports → IORA, CSC
+- Conclusion: Security tied to sea → First responder → Free, open ocean
 
 ## India and the Global South
 - What is it: Developing countries of Asia, Africa, Latin America and the Pacific → India's roots: anti-colonial struggle, Bandung (1955), Non-Aligned Movement, G77 → India's role today: voice and bridge between the developed and developing world → "Vasudhaiva Kutumbakam": One Earth, One Family, One Future

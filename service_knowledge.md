@@ -2028,3 +2028,170 @@
 - Which emerging technology will have the greatest impact on warfare?
 - If all digital systems fail, what should a military still be able to do?
 - If you become a Lieutenant, how will you prepare for the future battlefield?
+
+## Phase 12 – Small Arms & Rifles
+- What is the difference between bolt-action, semi-automatic and automatic weapons?
+- What are the 5.45×39, 5.56×45, 7.62×39 and 7.62×51 rounds?
+- What do the two numbers in a cartridge designation such as 7.62×39 mean?
+- Why do different calibres exist?
+- How does calibre affect recoil, range, weight, penetration and controllability?
+- What is the AK series of rifles, and how has it evolved?
+- What is the Tavor?
+- What are the advantages and disadvantages of the bullpup layout?
+- What is a stock?
+- What is the difference between rate of fire and cyclic rate?
+- Why did India move away from INSAS?
+
+## Phase 12 – Machine Guns
+- What is the difference between rifle-calibre and heavy machine guns?
+- What are the 5.56 mm LMG, 7.62 mm LMG, 7.62 mm MMG and 12.7 mm HMG, and what is the role of each?
+- What is the difference between belt-fed and magazine-fed machine guns?
+- How are machine guns employed at section, platoon and company level?
+
+## Phase 12 – Grenades & Launchers
+- What is an illumination grenade?
+- What is a practice grenade?
+- What is a 40 mm grenade launcher, and what is an automatic grenade launcher?
+- What is the difference between a rocket, a recoilless weapon and a missile?
+
+## Phase 12 – Anti-Tank Weapons
+- What is an RPG?
+- What is a Javelin-type fire-and-forget system?
+- What is a HEAT warhead?
+- What is an active protection system?
+- Why do tanks need protection against modern anti-tank weapons?
+
+## Phase 12 – Mortars, Artillery & Calibre
+- Why does mortar calibre matter, and where does a 60 mm mortar fit?
+- What is the difference between towed and self-propelled artillery?
+- What are 105 mm and 155 mm guns, and where are they used?
+- What does the number in a gun's calibre, such as 105 mm or 155 mm, refer to?
+- What do 155 mm/39 calibre and 155 mm/52 calibre mean?
+- What is the calibre of Dhanush, Sharang, M777, K9 Vajra, ATAGS and Pinaka?
+
+## Phase 12 – Tank Fundamentals
+- What are light, medium and heavy tanks?
+- What is the difference between a tank, an IFV and an APC?
+- What is an armoured fighting vehicle?
+- What is the difference between tracked and wheeled vehicles?
+
+## Phase 12 – Tank Anatomy
+- What are the hull and the turret?
+- What are the coaxial machine gun and the commander's machine gun?
+- What do a tank's engine, transmission, tracks and suspension do?
+- What is a laser range finder?
+- What is NBC protection?
+
+## Phase 12 – Tank Characteristics
+- How are firepower, protection and mobility balanced in tank design?
+- What is power-to-weight ratio, and why does engine power matter?
+- What is ground pressure?
+- What is the main gun calibre of the T-72, T-90 and Arjun?
+- What are the main types of tank ammunition?
+- What is the effective range of a tank gun?
+- What is the crew composition of a tank?
+- How does turret design differ between tanks, such as an autoloader versus a manual loader?
+
+## Phase 12 – Indian Tanks & Comparison
+- What is the light tank Zorawar, and why does India need it?
+- Which future armoured platforms is India developing?
+- What is the difference between the T-72 and the T-90?
+- How do Russian and Indian tank design philosophies differ?
+- Why does India operate different tank families?
+
+## Phase 12 – Armoured Corps
+- What is a squadron, and who commands it?
+- What is a troop in an armoured regiment?
+- What are the roles of the tank commander, gunner, loader and driver?
+- What is the difference between the Armoured Corps and Mechanised Infantry, and between a tank regiment and a mechanised infantry battalion?
+- What is armoured reconnaissance?
+- How are Armoured Corps personnel trained?
+- What physical and technical demands does the Armoured Corps place on its people?
+- What is the life of an Armoured Corps officer like?
+- What qualities does an Armoured Corps officer need?
+
+## Phase 12 – 17 Poona Horse
+- What is the full name of 17 Poona Horse, and why is it called that?
+- When and where was it raised?
+- What is its history?
+- What are its regimental traditions and ethos?
+- In which major wars and operations has it fought?
+- What are its battle honours?
+- Which gallantry awards has it won?
+- Who are its famous personalities?
+- Which tanks has it operated over the years?
+- What is its present role?
+- Why do you want 17 Poona Horse?
+- Why not another armoured regiment?
+- What would you do if you were allotted another regiment?
+- What attracts you to the Armoured Corps?
+- Why Armour as your second choice after Infantry?
+
+## Phase 12 – Kumaon Regiment
+- What is the history of the Kumaon Regiment?
+- When was it raised, and how has it evolved?
+- Where is its Regimental Centre?
+- What is its motto?
+- What is its insignia?
+- What is its war cry?
+- What are its regimental traditions?
+- Which major battles and wars has it fought in?
+- What are its battle honours?
+- Who are its famous soldiers and officers?
+- Which gallantry awards has it won?
+- Which Param Vir Chakra recipients belong to the Kumaon Regiment?
+- Which are its important battalions?
+- What are the Kumaon Scouts, and how are they related to the regiment?
+- Which important post-independence operations has it taken part in?
+- What are its major achievements and contribution to the Indian Army?
+
+## Phase 12 – Battle of Rezang La
+- What was the Battle of Rezang La?
+- Where is Rezang La?
+- When was the battle fought, and in which war?
+- Which battalion and company fought there?
+- What happened during the battle?
+- Why was the position important?
+- What was the geographical environment like?
+- What challenges did the soldiers face?
+- What was the outcome?
+- Why is Rezang La historically significant?
+- What does Rezang La teach about leadership?
+- What does it teach about courage?
+- What does it teach about unit cohesion?
+- What does it teach about duty?
+- Why does Rezang La inspire you personally?
+- What exactly about Rezang La made you choose Kumaon?
+- If you admire Rezang La, why not choose the Ladakh Scouts?
+
+## Phase 12 – Regimental System
+- Why does the Indian Army have regiments?
+- What is the difference between an infantry regiment and an armoured regiment?
+- What is a war cry?
+- What are battle honours?
+- What are Colours?
+- What is regimental insignia?
+- What is affiliation?
+- Why do soldiers stay connected to their regiment throughout their careers?
+
+## Phase 12 – Your Choice of Service
+- Why Kumaon?
+- Why Kumaon rather than another infantry regiment?
+- Why Infantry?
+- Why Infantry rather than the Armoured Corps?
+- Why tanks?
+- Why did you put Kumaon first?
+- What is your third choice, and why?
+- If you don't get Kumaon, what will you do?
+- If you don't get Armour, what will you do?
+- Would you accept any Arm or Service the Army allots you?
+- Are you choosing based on history or on a real understanding of the job?
+- What is the difference between an Infantry officer and an Armoured Corps officer?
+- Which lifestyle and environment would you prefer?
+- Which needs more leadership: Infantry or Armour?
+- Which needs more technical knowledge?
+- Which would you choose if both were offered?
+- What if you are allotted Signals?
+- What if you are allotted Engineers?
+- Will you be disappointed if you don't get your choice?
+- Are you joining the Army for the regiment or for the profession of soldiering?

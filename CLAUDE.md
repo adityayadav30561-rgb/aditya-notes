@@ -32,3 +32,7 @@ Plain text only, with no bold or sub-bullets.
 ## Bulk answering helpers
 - `python3 build/number.py <source.md> [from] [to]` prints questions with their sheet numbers.
 - Answers can be written as `N|answer` lines in `answers/*.txt` and merged with `python3 build/merge_answers.py <source.md> <answer files...>`. The source `.md` stays the source of truth.
+
+## SRT master sheet
+`srt_guide.md` → `SSB_SRT_Guide.docx`: a two-page, two-column summary of the user's SRT method (rules, thinking process and model responses). Build it with `node build/srt.js`. Keep it at 2 pages when editing: shorten wording rather than dropping points.
+Source format: `# Title`, `> tagline`, `## Section`, `- bullet` (`**bold**` allowed), `| Group |` for a shaded table group row, and `| Situation | Response` for a table row.

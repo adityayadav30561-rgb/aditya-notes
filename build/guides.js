@@ -1,8 +1,8 @@
-// Builds the SRT master sheet (SSB_SRT_Guide.docx) from srt_guide.md as a
-// two-page, two-column printout.
+// Builds the two-page, two-column master sheets listed in GUIDES (SRT, TAT)
+// from their Markdown sources.
 // Source format: "# Title", "> tagline", "## Section", "- bullet" (with **bold**),
 // "| Group |" for a shaded table group row and "| Situation | Response" for a row.
-// Usage: node build/srt.js
+// Usage: node build/guides.js
 const fs = require("fs");
 const path = require("path");
 const {
@@ -11,7 +11,10 @@ const {
 } = require("docx");
 
 const ROOT = path.join(__dirname, "..");
-const SRC = "srt_guide.md", OUT = "SSB_SRT_Guide.docx";
+const GUIDES = [
+  { src: "srt_guide.md", out: "SSB_SRT_Guide.docx" },
+  { src: "tat_guide.md", out: "SSB_TAT_Guide.docx" },
+];
 
 const FONT = "Calibri";
 const NAVY = "1F3864";
@@ -37,7 +40,8 @@ const cell = (w, children, fill, span) => new TableCell({
   children: [new Paragraph({ spacing: { before: 0, after: 0 }, children })],
 });
 
-function build() {
+function build({ src, out }) {
+  let title = "";
   const children = [];
   let rows = null;
   const flush = () => {
@@ -46,7 +50,7 @@ function build() {
     rows = null;
   };
 
-  for (const raw of fs.readFileSync(path.join(ROOT, SRC), "utf8").split(/\r?\n/)) {
+  for (const raw of fs.readFileSync(path.join(ROOT, src), "utf8").split(/\r?\n/)) {
     const l = raw.trimEnd();
     if (l.startsWith("| ")) {
       rows = rows || [];
@@ -62,6 +66,7 @@ function build() {
     }
     flush();
     if (l.startsWith("# ")) {
+      title = l.slice(2);
       children.push(new Paragraph({
         spacing: { after: 20 },
         border: { bottom: { style: BorderStyle.SINGLE, size: 8, color: NAVY, space: 1 } },
@@ -87,7 +92,7 @@ function build() {
   flush();
 
   const doc = new Document({
-    title: "SSB SRT – Master Sheet",
+    title,
     styles: { default: { document: { run: { font: FONT, size: SIZE } } } },
     numbering: { config: [{ reference: "dot", levels: [{ level: 0, format: LevelFormat.BULLET, text: "•",
       alignment: AlignmentType.LEFT, style: { paragraph: { indent: { left: 140, hanging: 110 } } } }] }] },
@@ -104,9 +109,9 @@ function build() {
   });
 
   return Packer.toBuffer(doc).then((buf) => {
-    fs.writeFileSync(path.join(ROOT, OUT), buf);
-    console.log(`Wrote ${OUT}`);
+    fs.writeFileSync(path.join(ROOT, out), buf);
+    console.log(`Wrote ${out}`);
   });
 }
 
-build();
+(async () => { for (const g of GUIDES) await build(g); })();

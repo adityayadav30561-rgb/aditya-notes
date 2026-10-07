@@ -33,6 +33,13 @@ Plain text only, with no bold or sub-bullets.
 - `python3 build/number.py <source.md> [from] [to]` prints questions with their sheet numbers.
 - Answers can be written as `N|answer` lines in `answers/*.txt` and merged with `python3 build/merge_answers.py <source.md> <answer files...>`. The source `.md` stays the source of truth.
 
-## SRT master sheet
-`srt_guide.md` → `SSB_SRT_Guide.docx`: a two-page, two-column summary of the user's SRT method (rules, thinking process and model responses). Build it with `node build/srt.js`. Keep it at 2 pages when editing: shorten wording rather than dropping points.
+## Psych master sheets (SRT, TAT)
+Two-page, two-column summaries of the user's own method for each psych test:
+
+| Test | Source | Output |
+|---|---|---|
+| SRT | `srt_guide.md` | `SSB_SRT_Guide.docx` |
+| TAT | `tat_guide.md` | `SSB_TAT_Guide.docx` |
+
+Build them with `node build/guides.js` (add any new guide to its `GUIDES` list). Keep each one at 2 pages when editing: shorten wording rather than dropping points.
 Source format: `# Title`, `> tagline`, `## Section`, `- bullet` (`**bold**` allowed), `| Group |` for a shaded table group row, and `| Situation | Response` for a table row.

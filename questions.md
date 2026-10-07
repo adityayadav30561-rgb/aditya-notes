@@ -1601,3 +1601,81 @@
 - What was your biggest achievement apart from winning?
 - Why didn't you pursue powerlifting professionally?
 - Would you choose powerlifting over another sport?
+
+## PIQ 19 – Athletics
+- Why did you choose athletics?
+- When did you start athletics?
+- Which events did you take part in?
+- Why did you choose 400m and 800m?
+- Which was your strongest event, and what was your best performance?
+- What is the difference between a sprint and a middle-distance race?
+- What is the difference between 400m and 800m?
+- How many laps is 400m on a standard track, and how many is 800m?
+- What are the basic rules of track races?
+- What is a false start?
+- Why is a warm-up important before a race?
+
+## PIQ 19 – Athletics: Your Competition
+- How were you selected to represent your school?
+- In which district did you compete, and where was the competition held?
+- How many schools took part?
+- What exactly does "district level" mean?
+- Was it an official competition, and who organised it?
+- Did you win 400m and 800m at school level or at district level?
+- What was your position at district level?
+- Did you qualify for the next level? If not, why didn't you go further?
+
+## PIQ 19 – Athletics: Your Performance
+- What was your 400m timing?
+- What was your 800m timing?
+- What was your personal best?
+- How many competitors were in your race?
+- What was your biggest competition?
+- Have you ever lost a race? What caused it?
+- What did you learn from that loss?
+
+## PIQ 19 – Athletics: Training
+- How did you train for these races?
+- How many days a week did you practise?
+- Did you have a coach?
+- Which exercises did you do?
+- How did you improve your speed and endurance?
+- How important were diet and sleep?
+- Did you do strength training?
+- How did you balance athletics with studies?
+- Did you ever get injured?
+
+## PIQ 19 – Athletics: 400m vs 800m
+- Which is harder for you, 400m or 800m, and why?
+- How does your strategy differ between the two, and why can't you use the same one?
+- Do you start fast or build up speed gradually?
+- How important is pacing in the 800m?
+- What happens if you start too fast or too slowly?
+- How do you keep your speed when you get tired?
+
+## PIQ 19 – Athletics: Pressure Situations
+- What would you do if you were nervous before a race?
+- What if your competitor was much faster than you?
+- What if you performed badly despite good preparation?
+- What if you were leading but became exhausted near the finish?
+- What if you got injured during the race?
+- What if your coach's strategy didn't work?
+- What if you lost a race by a very small margin?
+- How do you handle disappointment?
+
+## PIQ 19 – Athletics: Personal
+- What did athletics teach you?
+- How did athletics change you, and which qualities did you develop?
+- Did athletics improve your discipline and confidence?
+- Why did you stop competitive athletics?
+- Did you keep running after 2018?
+- Would you take part in athletics again?
+
+## PIQ 19 – Athletics: Officer Link
+- How will athletics help you as an Army officer?
+- What matters more in athletics: individual ability or discipline?
+- What did competition teach you about handling pressure?
+- How does sportsmanship apply to military life?
+- What is the relationship between physical fitness and leadership?
+- What did you learn about winning and losing?
+- How would you motivate a teammate who is losing confidence?

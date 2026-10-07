@@ -1,6 +1,6 @@
 # SSB Interview Question Sheets
 
-Aditya's SSB interview question lists. The user pastes a ChatGPT response, and we filter it down to **questions only**. The user fills in the answers later.
+Aditya's SSB interview question lists. The user pastes a ChatGPT response, and we filter it down to **questions only**. Each question also carries a short model answer (see below); where only the user knows the facts, the answer says "(Fill.)".
 
 There are two sheets. Each one has its own source file and output file:
 
@@ -17,13 +17,18 @@ There are two sheets. Each one has its own source file and output file:
    - Turn implied questions into clear, plain questions.
    - Keep the wording short and natural, the way an Interviewing Officer (IO) would ask.
 4. Add them to the source file under a fitting `## Section`. Use an existing section if one fits; otherwise add a new section.
-5. Run `node build/build.js` (if `require('docx')` fails, run `npm install` first). It rebuilds both sheets. Each one is a single compact table (# · Question · Answer), with a shaded row for each section and an empty Answer column to fill in.
-6. Commit the source file and the rebuilt `.docx` together, push, and send the user the updated `.docx`.
+5. Add a short answer to each new question after ` :: ` (written for a compact printout). Use the user's known PIQ facts, a general model answer for opinion questions, "(Fill.)" or "(Fill: hint)" where only the user knows, and "(verify)" for facts that change often.
+6. Run `node build/build.js` (if `require('docx')` fails, run `npm install` first). It rebuilds both sheets. Each one is a single compact table (# · Question · Answer), with a shaded row for each section. It is laid out for printing at 7 pt.
+7. Commit the source file and the rebuilt `.docx` together, push, and send the user the updated `.docx`.
 
 ## Source file format
 ```
 ## Section name
-- Question one?
-- Question two?
+- Question one? :: Short answer.
+- Question two? :: (Fill.)
 ```
-Plain text only, with no bold, answers or sub-bullets.
+Plain text only, with no bold or sub-bullets.
+
+## Bulk answering helpers
+- `python3 build/number.py <source.md> [from] [to]` prints questions with their sheet numbers.
+- Answers can be written as `N|answer` lines in `answers/*.txt` and merged with `python3 build/merge_answers.py <source.md> <answer files...>`. The source `.md` stays the source of truth.

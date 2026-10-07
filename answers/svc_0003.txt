@@ -1,0 +1,280 @@
+521|Troops who physically assault and clear the objective.
+522|Close with and clear the enemy from the objective.
+523|Securing the captured objective against counter-attack – digging in, siting weapons.
+524|Re-organising men, ammo, casualties and command after capture.
+525|Attack is the whole operation; assault is its final phase.
+526|Exploit success or deal with setbacks.
+527|A small detachment sent out for recce or combat.
+528|Gain information, dominate ground, harass or destroy enemy, protect own position.
+529|Gathers information while avoiding contact.
+530|Fights enemy – raids, ambushes.
+531|Recce avoids contact; combat patrol seeks it.
+532|A small patrol posted in front to watch and give warning.
+533|Combat patrol strong enough to fight.
+534|Night patrols use darkness for stealth but are harder to navigate.
+535|The leader of a patrol.
+536|Written/oral report after return – route, enemy seen, terrain, timings, casualties.
+537|To avoid detection, reach the right place and report back.
+538|Act per orders: recce patrol avoids contact and breaks off; combat patrol engages.
+539|Task, enemy, terrain, weather, strength, routes, timings, comms, support.
+540|Recce party prepares for a move or plan; patrol is a tactical activity.
+541|Know my men, my duties and the unit.
+542|Talking to them, checking records, training with them.
+543|Listen, ask, observe and respect their experience.
+544|By competence, fairness and personal example.
+545|Learn from him and use his skills, while I lead and decide.
+546|Talk privately, understand reason, set standards; formal action if needed.
+547|Correct in private, explain why, show the right way.
+548|Recognise work, set goals, care for welfare, lead by example.
+549|Be fair, consistent and explain rules.
+550|Hear both sides, resolve fairly and quickly.
+551|Counsel, then formal action through the chain of command.
+552|Appreciate and recommend for recognition.
+553|Brief task, check equipment, rehearse, ensure administration.
+554|Briefing: aim, plan, roles. Debriefing: what went well, what to improve.
+555|Immediately, accurately and in full.
+556|Follow the plan, use alternate means (runner, visual signals), stay on mission.
+557|Use alternate means, send a search party, report.
+558|Seek clarification respectfully.
+559|Admit it, correct it and learn.
+560|Training, leadership, discipline, morale and cohesion.
+561|Fitness, courage, leadership, decision-making, care for men.
+562|Both – fitness to endure, mental ability to decide.
+563|To understand their needs and look after them.
+564|Command is legal authority; leadership is inspiring people to follow.
+565|Discipline is the habit of following rules; punishment corrects breaches.
+566|Mission comes first, but plan well to keep losses low and care for men.
+567|Explain the importance, plan carefully, lead from the front.
+568|Rest them if possible; if the mission requires, motivate and share hardship.
+569|First aid, evacuate, inform and investigate.
+570|Grieve but stay focused; support the family and the men.
+571|Mission always comes first, but the men always come before the officer.
+572|Officer makes the plan and leads; JCO advises with experience; NCO carries it out.
+573|Leaders must show courage to inspire courage.
+574|Yes, after OTA training – I'd learn from my JCOs and lead by example.
+575|An officer holding the President's commission – authority to command.
+576|Posted to his unit; joins as a Lieutenant.
+577|Introduced to the CO, gets orientation, joins a company.
+578|First posting after commissioning.
+579|Platoon commander and learning his job.
+580|Familiarising a new officer with the unit.
+581|History, traditions, people, roles, equipment.
+582|Terrain, threats, local population.
+583|Builds pride and identity.
+584|Spirit of pride and loyalty in a group.
+585|Morale is individual spirit; esprit de corps is group pride.
+586|Yes – e.g. adjutant's assistant, signals officer, quartermaster's assistant.
+587|Command = leading troops; staff = planning/admin at HQ.
+588|They plan and coordinate operations.
+589|Command over his platoon; responsible for their training, welfare and discipline.
+590|Being answerable for your decisions and results.
+591|Responsibility can be delegated; accountability can't.
+592|PT, parade, training, office work, games, welfare, study.
+593|Morning fitness training.
+594|Inspection and assembly in the morning.
+595|Time for paperwork and administration.
+596|Checking presence of men in the evening.
+597|Games, mess life, duties – welfare continues.
+598|Longer hours, more responsibility, constant readiness.
+599|PT, games, running.
+600|Reading, courses, study.
+601|Plan time, prioritise.
+602|Peace: regular routine, family; field: training and readiness away from family.
+603|Field: training in the field; operational deployment: real threat.
+604|Separation, hardship, transfers, risk.
+605|From Coy Cdr; issues orders to sections.
+606|By reports and briefings.
+607|By observation and tests.
+608|By regular checks.
+609|Influencing others to achieve a goal; military leadership does so under hardship and danger.
+610|The authority to direct forces.
+611|Ability to affect others' behaviour.
+612|Doing what you ask others to do; it builds trust.
+613|No – respect is earned.
+614|Obedience follows orders; commitment comes from belief.
+615|Listen, consider, then decide.
+616|Take it positively.
+617|Making timely decisions – vital in battle.
+618|Moral courage: standing for what's right; physical courage: facing danger.
+619|Honesty in duty; trust depends on it.
+620|Respecting others and admitting mistakes.
+621|Lies, unfairness, cowardice; rebuild by honesty and consistency.
+622|Managing soldiers' needs and morale; it keeps the unit effective.
+623|Talking to them, observing, JCO feedback.
+624|Help with welfare funds, advice, family support.
+625|Talk, find reason, motivate.
+626|Treat all equally, use clear criteria.
+627|Understand problems, but uphold standards.
+628|Looking after soldiers' needs – contented men fight better.
+629|It shows care and reveals problems.
+630|Respect them and correct in private.
+631|Shared training, sports, fairness.
+632|Junior Commissioned Officer – senior soldiers promoted from ranks.
+633|Naib Subedar, Subedar, Subedar Major (Naib Risaldar/Risaldar/Risaldar Major in cavalry).
+634|Non-Commissioned Officer – soldiers in leadership roles.
+635|Lance Naik, Naik, Havildar (Lance Dafadar, Dafadar in cavalry).
+636|Link between officers and men; experience and supervision.
+637|Directly supervises and leads soldiers.
+638|Mutual respect and trust – they make the unit work.
+639|Discuss privately, take decision.
+640|Plan of training activities.
+641|Observe, find cause, retrain.
+642|Review after training/operation – what went right and wrong.
+643|It helps improve.
+644|To prevent accidents.
+645|Stop it immediately and correct.
+646|Managing personnel and resources – it sustains operations.
+647|Records, leave, pay, promotions.
+648|Planning leave fairly.
+649|Records – they affect pay, career and accountability.
+650|Keeping track of supplies.
+651|Recording equipment issue and returns.
+652|Recording issue and use of ammo.
+653|Keeping vehicles serviceable and accounted.
+654|Allocating living space.
+655|Using resources efficiently.
+656|It's public money.
+657|Inquiry and recovery/action.
+658|Checks of standards and accounts – they ensure accountability.
+659|Prompt obedience to orders and rules.
+660|Breaking rules or orders.
+661|Minor: correction or summary punishment; serious: formal action.
+662|Lawful order is legal; unlawful order breaks law.
+663|Not obey and report.
+664|For discipline and success.
+665|Laws applying to the Armed Forces.
+666|Army Act 1950 – law governing the Army.
+667|Military court that tries service personnel.
+668|Administrative: non-punitive action; disciplinary: punishment.
+669|Yes, within powers under the Army Act.
+670|Fair hearing and process.
+671|Consistency ensures fairness.
+672|Builds habits; in operations it saves lives.
+673|Mutual respect and trust.
+674|Friendly but professional.
+675|Approachable: open to men; over-familiar: losing authority.
+676|Be accessible but keep standards.
+677|It builds trust.
+678|Analysing the task given.
+679|Logical process to decide the best course of action (aim, factors, courses, plan).
+680|Formal order for an operation.
+681|Plan to accomplish a task.
+682|Plan for possible changes – helps adapt.
+683|Task, enemy, terrain, own forces, time.
+684|Knowing what's going on around you.
+685|Keeps commanders informed.
+686|Information is raw data; intelligence is analysed information.
+687|Adapt and inform higher HQ.
+688|For control and safety.
+689|Saves lives and morale.
+690|Report, debrief, reorganise.
+691|Avoid repeating mistakes.
+692|Lieutenant, Captain, Major, Lieutenant Colonel, Colonel, Brigadier, Major General, Lieutenant General, General (Field Marshal honorary).
+693|Lt → Capt (2 yrs) → Maj (6 yrs) → Lt Col (13 yrs) → Col (selection) …
+694|From platoon to company to battalion and beyond.
+695|Courses like YO, JC, DSSC, HC – they develop skills.
+696|Warfare evolves constantly.
+697|It builds judgment.
+698|Courses, experience and study.
+699|Counsel him and apply rules fairly.
+700|Listen and adjust if he is right.
+701|Correct and counsel; stress honesty.
+702|Get it maintained immediately and report.
+703|Explain, then take disciplinary action.
+704|Report through the proper channel.
+705|Discuss respectfully; credit my men.
+706|Recommend recognition.
+707|I need to be firmer – affection must not replace discipline.
+708|Seek more information, plan with assumptions.
+709|Correct it quickly.
+710|Explain the facts politely.
+711|Adopt it and credit him.
+712|Give credit to the soldier.
+713|Seek feedback and improve.
+714|SSC fits my age and qualifications; (fill reason).
+715|Officers lead and take decisions – I want that responsibility.
+716|Leadership, adventure, discipline and service.
+717|Leading, training and caring for men, and accomplishing missions.
+718|Separation from family and tough conditions.
+719|Yes.
+720|Yes.
+721|Integrity, courage, leadership, decision-making, discipline.
+722|(Fill.) e.g. discipline, determination.
+723|(Fill.) e.g. public speaking.
+724|Competence and reliability.
+725|Respect and leadership.
+726|Discipline and commitment.
+727|Inspiring people to achieve a goal.
+728|Being accountable.
+729|Following rules even when no one is watching.
+730|Being honest.
+731|Doing right in fear.
+732|Putting duty above personal interest.
+733|Honesty, competence, commitment.
+734|Skills of fighting in the field.
+735|Care and correct use of equipment.
+736|Ready for battle and to carry out operations.
+737|Recognising and identifying friend or foe.
+738|Night movement needs silence and careful navigation; it's harder to see.
+739|Avoiding noise.
+740|Avoiding light.
+741|Avoiding leaving tracks.
+742|Studying terrain for tactical use.
+743|High ground: elevated; low ground: lower areas.
+744|Approach in enemy view.
+745|Good observation, fields of fire, cover and concealment.
+746|Use natural cover, avoid shine, shape, shadow, silhouette, movement.
+747|Use cover, move slowly, stay low.
+748|They blend naturally.
+749|They give away position.
+750|Constant camouflage – vital for survival.
+751|Enemy, terrain, routes, cover.
+752|A landmark used to indicate targets.
+753|A line used as a reference.
+754|Size, Activity, Location, Unit, Time, Equipment (SALUTE).
+755|Soldier on guard duty; watch, challenge, alert.
+756|Place of duty for a sentry.
+757|Asking an approaching person to identify.
+758|Level of readiness.
+759|It protects the unit – lapses are deadly.
+760|Anything unusual.
+761|Enemy often moves at night.
+762|Boundary of a position; its protection.
+763|Rotate posts covering all directions.
+764|A small handgun – e.g. Glock.
+765|Weapon designed to destroy tanks.
+766|Assault rifle: personal weapon; LMG: section fire support; MMG: sustained fire.
+767|Precision long-range fire.
+768|Grenades: close combat; anti-tank: destroy armour.
+769|Target, range, terrain.
+770|Effective range: accurate hits; maximum: farthest travel.
+771|Rounds fired per minute.
+772|Accuracy: closeness to target; precision: consistency.
+773|Ability to stop a target.
+774|Rounds fired; ball, tracer, armour-piercing, blank.
+775|Treat as loaded, point safe, finger off trigger, know target.
+776|To prevent accidents.
+777|Pointing the muzzle safely.
+778|Finger off trigger until ready to fire.
+779|To avoid hurting others.
+780|Accidents.
+781|Device preventing firing.
+782|Holds cartridges.
+783|Part of barrel where the cartridge sits.
+784|Parts that fire the weapon.
+785|Stoppage: temporary halt; malfunction: mechanical failure.
+786|Quick drill to clear a stoppage.
+787|Reliability and life of weapon.
+788|Checking weapons – ensures readiness.
+789|By orders, signals and example.
+790|By orders, radio and positioning.
+791|Mutual support.
+792|Handling emergencies.
+793|Each completes a part of the larger task.
+794|Platoon task is affected.
+795|To command effectively.
+796|Cover, concealment, control and security.
+797|Arrangement of soldiers while moving – for control and security.
+798|Terrain, enemy, visibility.
+799|Movement: going from place to place; manoeuvre: movement to gain advantage over the enemy.
+800|Tactical: in enemy threat; administrative: no threat.

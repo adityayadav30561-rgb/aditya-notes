@@ -1,0 +1,280 @@
+801|Interval = side-to-side gap; distance = front-to-back gap – avoid bunching, keep control.
+802|They decide speed, formation, routes and caution.
+803|One group fires to suppress while another moves – it lets troops close with the enemy safely.
+804|Fire keeps enemy heads down; movement gains ground.
+805|Manoeuvre element moves; support element gives fire.
+806|One group fires, the other bounds forward, alternately.
+807|Assigns sections to fire or move, with signals and control.
+808|Covering fire protects a move; suppressive fire stops the enemy from firing back.
+809|Casualties and failure.
+810|Radio, line, runner, visual signals, satellite/data.
+811|Standard rules and words for radio messages.
+812|Code identifying a radio station or person.
+813|Group of radio stations on one frequency.
+814|Following correct procedure and keeping messages short.
+815|Reduces transmission time and interception risk.
+816|Verifying the identity of a station.
+817|Plan of frequencies, call signs and alternates.
+818|Runners, visual/sound signals, line – backup prevents loss of control.
+819|To avoid confusion; clear, concise, complete and timely.
+820|Map showing terrain features and grid for military use (Survey of India).
+821|Reference to locate a point using grid lines.
+822|Four-figure: a 1 km square; six-figure: within 100 m.
+823|Contour line joins points of equal height; contour interval is the height difference between lines.
+824|Angle measured clockwise from north.
+825|Practically the same – angle from north (azimuth is the term often used in navigation).
+826|Magnetic bearing is from magnetic north; grid bearing from grid north.
+827|Angle between true/grid north and magnetic north.
+828|Taking bearings on the ground.
+829|Navigating using known speed, direction and time.
+830|Navigating by matching map features with ground.
+831|Deliberately aiming to one side of a target to know which way to turn.
+832|Route plan with bearings, distances and timings.
+833|Visibility is low, so mistakes are easy.
+834|Stop, use map/compass, fix position, inform and continue.
+835|Weapons, ammo, radio, map, compass, NVDs, first aid, water, rations.
+836|Follow the plan, use alternate means, return as scheduled.
+837|Return safely and report – debrief on findings.
+838|Positions protecting each other by fire – strengthens defence.
+839|Planned artillery and mortar fire to break enemy attacks.
+840|Line from which an attack starts.
+841|Task, enemy, terrain, own forces, time, fire support, logistics.
+842|Task, resources, time, risks.
+843|What the commander wants to achieve – lets subordinates act correctly if plans change.
+844|Adapt in line with the commander's intent.
+845|Continue on intent, try to re-establish contact.
+846|First aid, evacuate, continue the mission.
+847|Conserve, redistribute, ask for resupply.
+848|Use alternatives, report.
+849|Daily cleaning, inspections, checks.
+850|Daily PT, runs, sports, tests.
+851|Brief, check night vision and equipment, rehearse.
+852|By exercises, observation, tests.
+853|Radio drills, signals, alternate plans.
+854|Regular map-reading exercises.
+855|Warn, retrain, then disciplinary action.
+856|Find cause, retrain, support.
+857|Appreciate and use them to help others.
+858|Plan quickly, use experienced men, rehearse what's possible.
+859|Officers, JCOs, Other Ranks (NCOs and soldiers).
+860|Personnel below JCO rank – NCOs and Sepoys.
+861|Rank is the level; designation describes the job.
+862|Rank gives status; appointment gives authority.
+863|A specific job/post; the person holding it.
+864|Yes.
+865|Yes.
+866|Yes, if appointed as commander.
+867|Rank and appointment.
+868|General.
+869|Captain is senior, more experienced.
+870|Rarely, temporarily.
+871|Platoon commander, company 2IC, Adjutant, staff officer.
+872|Yes, sometimes.
+873|Trains men, does admin, leads in ops.
+874|Major is senior and commands a company.
+875|Company commander, staff officer.
+876|Leading a company.
+877|Plans company operations, admin.
+878|Lt Col is battalion 2IC/CO; Major commands a company.
+879|Staff: planning at HQ; command: leading troops.
+880|Commanding Officer, staff officer at higher HQ.
+881|Yes – Colonel is the normal CO rank.
+882|Staff officer.
+883|Supporting regimental affairs.
+884|Brigade commander or staff officer.
+885|Brigade commander leads several battalions.
+886|Maj Gen commands a division (GOC).
+887|Division is larger, commanded by a Maj Gen; Brigade by a Brigadier.
+888|Lt Gen commands a corps or a command.
+889|Vice Chief, Deputy Chief, DGs at Army HQ, Commandants.
+890|COAS – professional head of the Army; commands and administers it.
+891|COAS directs the Army Commanders.
+892|Peace: training, administration, modernisation. War: directing operations, advising govt.
+893|COAS heads the Army; the CDS heads the Department of Military Affairs and is principal military adviser to the Raksha Mantri – Gen N.S. Raja Subramani (verify).
+894|COAS is the military head; Defence Secretary is the senior civil servant of the MoD (Rajesh Kumar Singh).
+895|Naib Subedar and Subedar are JCO ranks – platoon commanders, supervisors.
+896|JCOs supervise NCOs.
+897|Maintain discipline, train troops, care for welfare.
+898|NCO ranks – lead sections and teams.
+899|They lead sections directly.
+900|Havildar is an NCO; Naib Subedar is a JCO.
+901|Through leadership at small-unit level.
+902|Basic soldier.
+903|NCO leads; Sepoy follows orders.
+904|By service, courses and merit.
+905|Leadership and responsibility.
+906|It brings skill and judgment.
+907|To do the job effectively.
+908|Senior soldier/NCO (Lance Naik).
+909|Avoids confusion.
+910|Confusion; only in emergencies.
+911|One commander for each task – it avoids confusion.
+912|No.
+913|No.
+914|No.
+915|No.
+916|No.
+917|Yes.
+918|Yes, by appointment – rare.
+919|Yes.
+920|Appointment and seniority.
+921|Appointment determines authority.
+922|By insignia on the shoulder or chest.
+923|Two stars.
+924|Three stars.
+925|National emblem (Ashoka lions).
+926|National emblem and one star.
+927|National emblem and two stars.
+928|National emblem and three stars in a triangle.
+929|Star over crossed sword and baton.
+930|National emblem over crossed sword and baton.
+931|National emblem over a star, over crossed sword and baton.
+932|JCO insignia have a red-yellow stripe under the stars/emblem.
+933|Seniority.
+934|Authority of the state (Ashoka lions).
+935|Sub Lt, Lt, Lt Cdr, Cdr, Captain, Commodore, Rear Admiral, Vice Admiral, Admiral.
+936|Flying Officer, Flight Lt, Sqn Ldr, Wing Cdr, Group Capt, Air Commodore, Air Vice Marshal, Air Marshal, Air Chief Marshal.
+937|Lieutenant.
+938|Captain.
+939|Major.
+940|Lieutenant Colonel.
+941|Lieutenant.
+942|Captain.
+943|Major.
+944|For command and protocol across services.
+945|Report to the next superior.
+946|Use the senior NCO.
+947|Yes, but normally through the chain.
+948|Yes.
+949|Authority comes from rank; influence comes from respect.
+950|Equipment designed to cause harm or defend.
+951|Small arms, artillery, missiles, tanks, air defence, drones.
+952|Small arms = personal weapons; firearms = guns using explosive charges.
+953|Full-power rifle (7.62×51) – longer range.
+954|Automatic weapon firing pistol rounds.
+955|Smoothbore weapon firing shells.
+956|Self-propelled guided weapon.
+957|Guided: steered to target; unguided: not.
+958|Weapon guided precisely to target.
+959|Assault rifle: intermediate round; battle rifle: full-power round.
+960|LMG gives sustained fire.
+961|Sniper rifle is more accurate at long range.
+962|Bullpup has action behind trigger, shorter length.
+963|Tube for the bullet.
+964|Front end of the barrel.
+965|Housing of the operating parts.
+966|Part that chambers and locks the round.
+967|Aiming device; optical sight magnifies.
+968|Sights projecting a dot/reticle.
+969|Detects heat signatures.
+970|NV amplifies light; thermal detects heat.
+971|Diameter of the bore.
+972|Bullet diameter in mm.
+973|Calibre is bore size; cartridge is the full round.
+974|Speed of the bullet at the muzzle.
+975|Backward push when fired.
+976|Weapon, shooter, ammunition, weather.
+977|AK-203, SIG-716, INSAS (being replaced).
+978|Indian Small Arms System by ARDE – indigenous standard rifle.
+979|Inducted from 1998; used in Kargil; now being phased out.
+980|7.62×39 rifle made at Korwa, Amethi (UP) by Indo-Russian JV – Make in India.
+981|7.62×51 battle rifle from the US, for frontline troops.
+982|AK-203: 7.62×39, lighter; SIG716: 7.62×51, more powerful.
+983|Improved INSAS – limited use.
+984|US 5.56 mm carbine (some SF use similar carbines).
+985|Close-quarter battle.
+986|SF use specialised weapons and optics.
+987|Different roles.
+988|Reliability, accuracy, weight, cost.
+989|Large calibre (12.7 mm) machine gun.
+990|Against light vehicles, aircraft, infantry.
+991|Operate and supply the gun.
+992|Two-legged and three-legged supports.
+993|They're heavy.
+994|Continuous fire over long periods.
+995|Fire close to the ground.
+996|Fire from above.
+997|Fire along the length of the enemy line.
+998|Defence: stop attacks; attack: support assault.
+999|Marksman supports a section; sniper operates independently at longer range.
+1000|Patience, accuracy, concealment – waiting is key.
+1001|To survive.
+1002|Magnifying sight.
+1003|Calculating bullet path.
+1004|Gravity, wind, distance.
+1005|Adjusting for wind.
+1006|Ability to locate and neutralise snipers.
+1007|Fragmentation, smoke, stun, illumination.
+1008|Fragmentation: kills; smoke: concealment; stun: disorient.
+1009|Weapon that fires grenades.
+1010|Launcher fixed under a rifle.
+1011|Handle carefully, follow throwing drills.
+1012|Material releasing energy rapidly.
+1013|Homemade bomb.
+1014|AP mines target people; AT mines target vehicles.
+1015|To defeat tanks.
+1016|Rocket is unguided; ATGM is guided.
+1017|Light anti-tank gun without recoil – e.g. Carl Gustaf.
+1018|DRDO fire-and-forget ATGM (≈4 km), on NAMICA carrier.
+1019|Helicopter-launched Nag (≈7 km).
+1020|DRDO Man-Portable ATGM – fire-and-forget, top-attack.
+1021|84 mm recoilless multi-role weapon.
+1022|Two charges to defeat reactive armour.
+1023|Armour exploding outward to defeat projectiles.
+1024|Tandem warheads.
+1025|Missile hitting the tank from above – weakest armour.
+1026|Man-portable: carried; vehicle-mounted: mounted.
+1027|Defence: stop tanks; attack: destroy bunkers/vehicles.
+1028|High-angle fire behind cover – supporting infantry.
+1029|51 mm, 81 mm, 120 mm.
+1030|51 mm: platoon; 81 mm: battalion; 120 mm: heavy support.
+1031|Mortar sub-units.
+1032|Fire above 45° – drops onto targets behind cover.
+1033|Gun on its own tracked/wheeled chassis.
+1034|Request and execution of fire on a target.
+1035|Guided shells for accuracy.
+1036|155 mm/45-calibre towed howitzer – upgraded Bofors design by AWEIL (Jabalpur); ≈38 km.
+1037|130 mm M-46 gun upgunned to 155 mm/45 calibre; ≈36–39 km.
+1038|Advanced Towed Artillery Gun System – 155 mm/52 calibre by DRDO with Bharat Forge/Tata; 45+ km; 307 ordered (2025).
+1039|US 155 mm ultralight howitzer (≈4 t) – can be lifted by Chinook, good for mountains.
+1040|155 mm/52 SP tracked gun built by L&T (Korean K9 design); 200 total ordered.
+1041|DRDO multi-barrel rocket launcher (12 rockets in 44 s; 38–75+ km); named after Shiva's bow.
+1042|Fires salvoes of rockets for area saturation rather than individual shells.
+1043|Hull, turret, gun, engine, tracks, fire control.
+1044|Armour protecting the crew.
+1045|Layers of different materials.
+1046|Main: big gun; secondary: machine guns.
+1047|System to calculate and aim.
+1048|Commander finds next target while gunner engages current one.
+1049|Gun stays on target while moving.
+1050|Russian MBT made at HVF Avadi – 125 mm gun, fires missiles.
+1051|Older Soviet MBT (Ajeya) – main tank fleet.
+1052|Indigenous DRDO MBT (120 mm rifled gun); Mk1A has 72 improvements, 118 ordered.
+1053|T-90 lighter, Russian; Arjun heavier, Indian, better armour.
+1054|Infantry combat vehicle (Sarath) – carries infantry, ATGM.
+1055|Future Infantry Combat Vehicle – indigenous BMP replacement.
+1056|To survive and keep pace with tanks.
+1057|Ability to cross water.
+1058|Short range (<15 km) and medium range (≈30–70 km).
+1059|Finding, following and destroying the target.
+1060|DRDO medium-range SAM (≈25 km; NG ≈70+ km) – used in Op Sindoor.
+1061|Quick Reaction SAM – mobile, ≈30 km (named Anant Shastra).
+1062|Man-portable SAMs – e.g. Igla-S.
+1063|Destroy them before attack.
+1064|Multiple layers of AD at different ranges.
+1065|Radio waves reflected from objects to detect them.
+1066|Active radar transmits; passive only listens.
+1067|Maximum detection distance.
+1068|How detectable an object is.
+1069|Radar detecting ground movement.
+1070|Cameras/thermal sensors.
+1071|Early warning.
+1072|Detect enemy movement.
+1073|Drone/UAV = the aircraft; UAS = the whole system including control.
+1074|Recce, strike, logistics.
+1075|Intelligence, Surveillance and Reconnaissance.
+1076|Recce, target acquisition, fire correction.
+1077|Drone that loiters and dives onto the target ("kamikaze"); a drone returns, it doesn't.
+1078|System countering drones – drones are now widespread.
+1079|Jamming, spoofing, shooting, lasers.
+1080|EW jams; radar and EO detect.

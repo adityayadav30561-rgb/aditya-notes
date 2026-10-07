@@ -1,0 +1,260 @@
+261|Builds and maintains roads, bridges, buildings (MES), Border Roads (BRO), disaster relief and training.
+262|Provides communication and information systems for command and control.
+263|Commanders can't control forces, coordinate fire or get information without them.
+264|Radio, satellite, line and data networks, electronic warfare, cyber security, network management.
+265|Exchange of information within the forces for command and control.
+266|Communication at battlefield level – radios between units and sub-units.
+267|A unit of Signals providing communication to a formation.
+268|A Brigade Signal Company provides links between brigade HQ, battalions and higher HQ.
+269|Signal detachments and radio equipment; the battalion's own signal platoon runs internal comms.
+270|Loss of control, confusion, delayed fire support, risk of fratricide.
+271|Encrypted communication that the enemy can't intercept or understand.
+272|Communication = passing information; information systems = processing, storing and sharing data (C4I).
+273|Links sensors, shooters and commanders into one network for faster decisions.
+274|Satellite links, secure data networks, software-defined radios, AI, drones; but more cyber/EW risk.
+275|Signals defends networks against cyber attacks; Defence Cyber Agency at the tri-service level.
+276|Protects ground forces and vital assets from enemy air threats.
+277|Field forces move and need dedicated, mobile protection under their own control.
+278|All measures to destroy or reduce the effectiveness of enemy air attacks.
+279|Aircraft, helicopters, drones, cruise missiles, rockets.
+280|IAF defends airspace at large and vital areas; Army AD protects field formations and vital points in the battle zone.
+281|AD guns (L-70, ZU-23, Shilka), SAMs (Akash, MRSAM, Igla-S, OSA-AK), counter-drone systems.
+282|Missile fired from the ground to destroy aircraft or missiles (e.g. Akash).
+283|Short-range man-portable or mobile systems (up to about 6–8 km) – e.g. Igla-S, VSHORADS.
+284|Detect, track and help engage targets.
+285|Aircraft is manned/reusable and can manoeuvre; a missile is faster, smaller, one-way.
+286|Covers troops and key assets like bridges, HQs and logistics bases.
+287|Through integrated air defence systems (IACCS / Akashteer) and agreed rules.
+288|Detect, jam and shoot down drones; very important after Operation Sindoor (May 2025).
+289|Gives the Army its own helicopter support – recce, observation, casualty evac, logistics, attack.
+290|Army Aviation supports ground forces directly with helicopters; IAF runs combat aircraft and airspace.
+291|ALH Dhruv, Rudra (armed ALH), Cheetah, Chetak, LCH Prachand, Apache AH-64E.
+292|Recce, fire support, air mobility, logistics, casevac.
+293|Gathering information about the enemy and terrain from the air.
+294|Firepower, observation, quick movement of troops and supplies.
+295|Insertion and extraction of teams, fire support.
+296|Moving wounded soldiers to medical facilities.
+297|Moving troops quickly by helicopters within the battle area.
+298|Supplies and casevac at Siachen and high posts; Cheetah/Dhruv operate there.
+299|Surveillance, target acquisition, strikes, logistics (Heron, loitering munitions).
+300|Supplies rations, fuel, transport and supply chain management.
+301|"An army marches on its stomach" – no food, fuel and ammo means no fighting.
+302|Rations, POL (fuel), transport, supplies, air dispatch.
+303|Moving troops, equipment and supplies by road, rail and air.
+304|Keeps troops supplied forward.
+305|Animal transport, air dropping, porters, stocking posts in advance.
+306|Vehicles, tanks, generators and aircraft run on fuel.
+307|Keeps soldiers fit, healthy and in good morale.
+308|Operations are limited by what can be supplied.
+309|Troops run short of food, fuel and ammunition, and the operation fails.
+310|Supplies and manages stores – ammunition, clothing, equipment and spares.
+311|Ammunition, weapons stores, clothing, general stores, spares.
+312|Tracking and managing stocks of military stores.
+313|AOC handles ammunition, clothing and stores; ASC handles rations, fuel and transport.
+314|Issues ammunition, clothing, equipment and spares.
+315|Safety, correct availability, preventing waste or shortages.
+316|Equips units quickly with stores and ammunition.
+317|Shortages can stop operations.
+318|Maintains, repairs and recovers equipment.
+319|Vehicles, tanks, weapons, radars, electronics, aircraft (some).
+320|Recovering damaged/broken equipment from the field.
+321|Maintenance prevents faults; repair fixes them.
+322|Unserviceable equipment means lost fighting capacity.
+323|Repairs, recovery, spares, field workshops.
+324|Repairs weapons, vehicles and radios.
+325|Combat capability is reduced until repaired or replaced.
+326|Maintains high-tech systems like drones, radars and electronics.
+327|Collects and analyses information, counter-intelligence and security.
+328|Information about the enemy, terrain and weather that helps commanders.
+329|To plan correctly and avoid surprises.
+330|HUMINT, SIGINT, IMINT, OSINT, ELINT.
+331|Information about the enemy in the battle zone.
+332|Actively gathering information about the enemy or terrain.
+333|Continuous watch over an area.
+334|Recce is a specific mission; surveillance is continuous monitoring.
+335|Enables decisions on where, when and how to act.
+336|Satellites, drones, AI analysis, electronic sensing.
+337|MI is for the Army's operational needs; civilian agencies (IB, RAW) handle national security.
+338|Provides healthcare to soldiers and families, in peace and war.
+339|Casualty evacuation from the field through a chain of medical units.
+340|Treatment and evacuation of the wounded on the battlefield.
+341|Health and fitness of the unit and first-line treatment.
+342|First aid is immediate life-saving care; advanced care is surgery and specialist treatment.
+343|Saves lives and maintains strength.
+344|Treat soldiers, families and veterans; e.g. Army Hospital (R&R), Delhi.
+345|Self/buddy aid → RMO → field ambulance → field hospital → base hospital (golden hour).
+346|Dental care for soldiers and families.
+347|Dental problems can make a soldier unfit for duty.
+348|Check-ups, treatment, surgery, dental fitness.
+349|Prevents loss of manpower due to dental issues.
+350|Breeds, trains and cares for Army animals.
+351|Animals carry loads in mountains and dogs help in operations.
+352|Mules, horses, dogs, camels.
+353|Mules carry loads where vehicles can't go.
+354|Keeps animals fit and trained, supporting logistics and operations.
+355|Maintains discipline, law and order and traffic control in the Army.
+356|Enforcing discipline, traffic, security, investigations, handling prisoners.
+357|MP deals with military personnel and areas; civil police deal with civilians.
+358|Organising convoys and movement in military areas.
+359|Controls traffic and movement of forces.
+360|Enforces rules, prevents crime, provides security.
+361|Educates soldiers, runs language/education courses and libraries.
+362|Trains instructors in physical training.
+363|Legal adviser to the Army; courts-martial.
+364|Nursing care in military hospitals – all women officers.
+365|Guards defence installations.
+366|Delivers mail to soldiers, even at remote posts.
+367|They provide food, health, pay, equipment and mail so units can fight.
+368|It needs fire support, communications, engineering and logistics.
+369|Artillery, Engineers, Signals, Air Defence, Aviation, ASC, AOC, EME, AMC.
+370|Weakness in that function – e.g. no artillery means a costly attack.
+371|Threats are complex; combining strengths of all is more effective.
+372|Combined arms = different arms of one service; joint = two or more services together.
+373|Infantry – I want to lead men directly on the ground (fill your choice).
+374|Infantry fights on foot and holds ground; Armoured Corps fights with tanks for shock action.
+375|Artillery attacks ground targets; Air Defence protects against air threats.
+376|Engineers build/destroy (mobility, counter-mobility); EME maintains and repairs equipment.
+377|Signals provides communication; Intelligence gathers and analyses information.
+378|Artillery and Engineers (and Armour in plains).
+379|ASC, AOC, EME, AMC.
+380|Artillery, Engineers, Signals, ASC, EME, AMC.
+381|Enough to coordinate and use them well.
+382|No operation works without supplies.
+383|Different arms must work together smoothly.
+384|Very important – precision, surveillance, communication.
+385|They added surveillance and precision; traditional arms still matter but must adapt.
+386|The ability of a unit to fight and accomplish its mission.
+387|Arms (combat, combat support) and Services (logistics, admin), with examples.
+388|Rifle companies, support company and HQ company.
+389|CO, 2IC, Adjutant, QM, SM, signal and admin elements.
+390|Medical officer of the battalion.
+391|Senior-most JCO; adviser to the CO on the men's welfare and discipline.
+392|Close working relationship; the SM is the CO's link to the men.
+393|Assists the Adjutant on discipline and drill.
+394|Officer: commissioned by the President. JCO: senior soldiers commissioned as Naib Subedar–Subedar Major. NCO: Lance Naik–Havildar.
+395|About 800–900.
+396|No – depends on role, terrain and sanctioned strength.
+397|CO commands; 2IC assists and runs admin.
+398|Adjutant: discipline and personnel; QM: logistics.
+399|Responsibility for the actions and results of one's command.
+400|Ensuring pay, welfare, supplies and records.
+401|Planning and conducting operations.
+402|Plans, controls and coordinates the battle.
+403|Radio, reports, liaison and runners.
+404|Orders groups, written orders, radio.
+405|The CO's instructions to the unit.
+406|Explanation of a task before it starts.
+407|Review of a task after it's done.
+408|Regular report on the current situation.
+409|Daily timetable of a unit.
+410|It builds skill and readiness.
+411|It ensures reliability and order.
+412|It sustains the will to fight.
+413|Bond between soldiers that makes them fight for each other.
+414|Pride in one's regiment and its history.
+415|Gives identity, pride and motivation to fight.
+416|Senior NCO in a company – discipline and administration.
+417|About 100–120; depends on role and vacancies.
+418|Coy Cdr guides and supervises; Pl Cdrs execute.
+419|A task given to a company, like capturing an objective.
+420|Uncommitted part of a company kept for emergencies.
+421|Rifle company fights; support company provides heavy weapons.
+422|The Platoon Havildar (and a JCO if present).
+423|Close and complementary: officer leads, havildar supports.
+424|Welfare, leave, documents, equipment.
+425|Their strengths, weapon capabilities, terrain and the mission.
+426|Clear communication ensures everyone knows what to do.
+427|Situations change quickly in battle.
+428|In peace: training and admin. In operations: lives and the mission.
+429|Stay calm, take control, act decisively.
+430|To assign tasks well and develop men.
+431|Being fair, caring, competent and leading by example.
+432|By hard work, humility, competence and caring.
+433|Arrogance, not listening, favouritism, poor planning.
+434|Assists and takes over if the commander is down.
+435|Two – for fire and movement.
+436|Carries ammunition and helps the LMG gunner.
+437|Trains and checks his men.
+438|From the Platoon Commander, by orders.
+439|By reports, radio and runners.
+440|Good leadership, training and teamwork.
+441|Fight, carry out orders, look after weapon and buddy.
+442|Discipline, courage, fitness, loyalty.
+443|Firing only when ordered and conserving ammunition.
+444|Handling weapons safely and correctly.
+445|Following rules in the field.
+446|Soldiers in pairs looking after each other.
+447|No soldier fights alone.
+448|Infantry moves on foot carrying loads.
+449|To handle stress and fear.
+450|A dirty weapon can fail.
+451|To navigate and locate the enemy.
+452|Personal weapons, support weapons, anti-tank weapons, grenades.
+453|Selective-fire rifle using intermediate cartridge – AK-203.
+454|Shorter rifle for close combat.
+455|Squad-level automatic weapon – e.g. Negev.
+456|Heavier machine gun, sustained fire – mounted.
+457|Precision long-range rifle.
+458|Small hand-thrown explosive.
+459|Shoulder-fired launcher – e.g. Carl Gustaf.
+460|Guided missile to destroy tanks – e.g. Spike, MPATGM, Milan.
+461|High-angle indirect weapon at battalion/company level.
+462|Rifle fires individually; machine gun gives sustained automatic fire.
+463|LMG is lighter, at section level; MMG is heavier, mounted.
+464|Carbine is shorter and lighter.
+465|Rifles, LMG, grenades, rocket launcher.
+466|Role and appointment.
+467|Different targets and ranges.
+468|Supports infantry fire and movement.
+469|Personal: one soldier; crew-served: team operates it.
+470|Individual: personal skills; collective: team/unit.
+471|Exposing troops to battle-like conditions with live firing.
+472|Practised standard reaction to situations.
+473|Exercise in the field to practise tactics.
+474|Exercise practising tactics and planning.
+475|Firing weapons at a range to improve accuracy.
+476|Exercises for fitness.
+477|Building stamina.
+478|Learning to handle and fire weapons.
+479|Learning to use maps and compass.
+480|Skills of moving, hiding and observing.
+481|Finding one's way in terrain.
+482|Learning radio and signals.
+483|Training in darkness.
+484|Results in tests, exercises, discipline and morale.
+485|Skills to live and fight in the field: camouflage, concealment, observation, movement, judging distance.
+486|Making yourself or equipment blend into surroundings.
+487|Hiding from view.
+488|Camouflage disguises; concealment hides.
+489|Seeing and noticing enemy and terrain.
+490|Approaching a target unseen.
+491|Estimating distances without instruments.
+492|Pointing out targets clearly.
+493|Controlling fire to be effective.
+494|Moving from one cover to the next.
+495|Place from where a soldier fires.
+496|Route hidden from enemy view.
+497|Ground hidden from an observer's view.
+498|Route enemy is most likely to use.
+499|Position chosen for a tactical advantage.
+500|Post to listen for the enemy, especially at night.
+501|Post for watching the enemy.
+502|OP observes; LP listens (often at night).
+503|An operation to stop and defeat an enemy attack.
+504|Depth, mutual support, all-round defence, concealment, reserves, obstacles.
+505|Position prepared to stop an attack.
+506|Arrangement of troops, weapons and obstacles in defence.
+507|Anything that stops or slows enemy.
+508|Ditch or obstacles that stop tanks.
+509|Force held back for later use.
+510|Attack to retake lost ground.
+511|Holding ground.
+512|Provides communication.
+513|Enemy is worn down layer by layer.
+514|Defence facing all directions.
+515|Defended locality is a self-contained position; defensive position is general.
+516|Operation to attack and defeat the enemy.
+517|Destroy the enemy, capture ground, seize initiative.
+518|Final part of an attack, closing with the enemy.
+519|The target to capture.
+520|Place where the attackers form up before an attack.

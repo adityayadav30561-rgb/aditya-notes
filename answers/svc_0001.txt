@@ -1,0 +1,260 @@
+1|Defend India's territorial integrity against external aggression and internal threats; aid civil authority (disaster relief, law and order when asked).
+2|The President of India (Smt Droupadi Murmu).
+3|Chief of the Army Staff (COAS) – Gen Dhiraj Seth (verify).
+4|General (four-star).
+5|New Delhi (South Block / new Thal Sena Bhawan, Delhi Cantt).
+6|Army HQ → Commands → Corps → Divisions → Brigades → Battalions/Regiments → Companies → Platoons → Sections.
+7|Formation = grouping of units under a HQ (Brigade and above). Unit = self-contained basic body like a Battalion/Regiment, commanded by a Colonel.
+8|Arms do the fighting (Infantry, Armour, Artillery etc.); Services support and sustain them (ASC, AMC, EME, AOC etc.).
+9|Combat arms close with the enemy (Infantry, Armoured, Mech Inf); combat support arms help them fight (Artillery, Engineers, Signals, Army Air Defence, Army Aviation, Intelligence); services provide logistics and admin.
+10|President → Raksha Mantri/Govt → COAS → Army Commander → Corps Cdr → GOC Div → Bde Cdr → CO → Coy Cdr → Pl Cdr → Section Cdr.
+11|Command = legal authority and responsibility to direct forces; control = directing and coordinating the forces' actions to carry out the plan.
+12|Operational: plans, policy, strategy, deployment. Administrative: personnel, training, logistics, procurement, budget, welfare.
+13|Seven: Northern (Udhampur), Western (Chandimandir), South Western (Jaipur), Southern (Pune), Central (Lucknow), Eastern (Kolkata), Army Training Command – ARTRAC (Shimla).
+14|Six: Northern, Western, South Western, Southern, Central, Eastern. (Central is mainly a static/admin command with the central sector of the LAC.)
+15|Army Training Command (ARTRAC), Shimla.
+16|Northern: J&K and Ladakh. Western: Punjab, Himachal, parts of Haryana/J&K border. South Western: Rajasthan. Southern: Gujarat, Maharashtra and southern states. Central: UP, MP, Uttarakhand, Bihar etc. Eastern: Sikkim, NE states, West Bengal.
+17|General Officer Commanding-in-Chief (GOC-in-C), the Army Commander.
+18|Lieutenant General.
+19|Command is the highest field HQ covering a whole region with several corps; a Corps is a fighting formation of 2–3 divisions under a Command.
+20|Northern Command (J&K/Ladakh); Central (Uttarakhand/Himachal sector) and Eastern for the eastern LAC.
+21|Western Command (with South Western).
+22|Eastern Command, Kolkata.
+23|Largest by area; covers the south, Gujarat and Maharashtra; looks after desert/coastal sectors; oldest command (est. 1895); HQ Pune.
+24|Static/admin command for the central heartland; responsible for the central sector of the LAC (Uttarakhand–Himachal).
+25|Formulates training doctrine and concepts; runs category A training establishments; HQ Shimla.
+26|Borders are long and different in terrain and threat; regional commands give focused, faster command and control.
+27|Yes – they are reorganised as threats change (e.g. South Western Command created in 2005).
+28|Operational commands plan and fight wars in their sector; ARTRAC deals with doctrine, training and schools.
+29|A corps is a field formation of 2–3 divisions with supporting arms; there are 14 corps in the Indian Army.
+30|Between a Command and a Division.
+31|General Officer Commanding (GOC) of the Corps.
+32|Lieutenant General.
+33|Usually 2–3 divisions (plus independent brigades).
+34|No – it depends on role and terrain (strike, holding, mountain).
+35|The headquarters that plans and controls the corps' operations.
+36|A Corps has several divisions under a Lt Gen; a Division has 3–4 brigades under a Maj Gen.
+37|An offensive corps built around armour and mechanised forces to strike deep into enemy territory (e.g. 1, 2, 21 Corps).
+38|A defensive corps that holds the border and absorbs enemy attacks.
+39|Strike = offensive, armour-heavy, mobile; Holding = defensive, infantry-heavy, stays at the border.
+40|Forces kept uncommitted at corps level to react to a crisis or exploit success.
+41|Plans and conducts the battle in its sector, allotting divisions and supporting arms.
+42|Units held directly under Corps HQ: artillery, engineers, signals, air defence, aviation, logistics.
+43|For combined-arms fighting – fire support, mobility, communication and protection.
+44|A major tactical formation of 3–4 brigades with supporting arms – about 15,000–18,000 troops.
+45|Between Corps and Brigade.
+46|General Officer Commanding (GOC) of the Division.
+47|Major General.
+48|Three (sometimes four).
+49|No – Infantry, Mountain, Armoured and Artillery divisions differ.
+50|The HQ that commands and controls the division.
+51|Infantry, Mountain, Armoured, Mechanised (RAPID) and Artillery divisions.
+52|Built around infantry brigades, suited for plains/holding operations.
+53|Infantry division trained and equipped for high-altitude/mountain warfare, with lighter equipment and mules/porters.
+54|Built around armoured brigades of tanks and mech infantry for offensive operations.
+55|A formation of artillery brigades providing concentrated fire support to a Corps.
+56|Mountain divisions are lighter, more mobile on foot, trained for high altitude; infantry divisions operate in plains.
+57|Fights the battle in its area by controlling brigades and fire support.
+58|Units directly under Division HQ – artillery, engineers, signals, air defence etc.
+59|A formation of usually three battalions plus support – about 3,000–3,500 soldiers.
+60|Between Division and Battalion.
+61|Brigade Commander.
+62|Brigadier.
+63|Three.
+64|Yes – it can have mixed battalions, especially in independent brigades.
+65|The HQ that commands the brigade.
+66|An independent brigade has its own supporting arms and is not part of a division; a regular brigade is under a division.
+67|Fights the battle in its sector with its battalions, supported by artillery and engineers.
+68|Artillery, engineers, signals, air defence, logistics, medical.
+69|A Brigade with its own supporting arms and services to fight independently. (New: Rudra all-arms brigades, 2025.)
+70|No – independent brigades exist.
+71|The basic fighting unit of infantry – about 800–900 soldiers, 4 rifle companies and HQ.
+72|Below Brigade, above Company.
+73|Commanding Officer (CO).
+74|Colonel.
+75|Four rifle companies plus HQ/support elements.
+76|The CO's HQ – 2IC, Adjutant, QM, Subedar Major, signal and admin elements.
+77|Bn HQ, HQ company (support platoons – mortar, anti-tank, signal, pioneer etc.), and four rifle companies.
+78|Commands, trains, disciplines and looks after the welfare of the whole battalion.
+79|Deputy to the CO; looks after administration and takes over when the CO is away.
+80|Staff officer for discipline, ceremonial, personnel and the CO's orders.
+81|Responsible for rations, clothing, equipment, ammunition and stores.
+82|CO (Colonel) commands the battalion (~800); a Coy Cdr (Major) commands a company (~120).
+83|Captures or holds ground; fights at the tactical level within the brigade plan.
+84|Mortars, anti-tank, MMG, signals, pioneers, Ghatak platoon, medical (RMO).
+85|Battalion is infantry's unit; in other arms (Armour, Artillery, Engineers) the equivalent unit is called a Regiment. In Infantry, "Regiment" also means the parent group of battalions (e.g. Kumaon Regiment).
+86|Tradition: cavalry/artillery units are called regiments; infantry battalions belong to an infantry regiment.
+87|A sub-unit of a battalion – 3 platoons plus HQ, about 100–120 men.
+88|Below Battalion, above Platoon.
+89|Company Commander.
+90|Major.
+91|Three.
+92|Company Commander, 2IC, Company Havildar Major (CHM), CQMH, signallers and runners.
+93|Leads, trains and administers the company and fights it in battle.
+94|Assists the Company Commander and takes over in his absence.
+95|A Company is a sub-unit (~120) under a Major; a Battalion is the unit (~800) under a Colonel.
+96|Infantry company with three rifle platoons – the basic fighting company.
+97|Company with heavier weapons – mortars, anti-tank, MMG – supporting the rifle companies.
+98|Yes, for a limited task with support (e.g. a post, patrol base).
+99|A company detached to operate on its own (e.g. a post or special task).
+100|Mortars, MMG, rocket launchers/ATGM, sniper, radios.
+101|A sub-unit of a company – 3 sections plus HQ, about 30–35 men.
+102|Below Company, above Section.
+103|Platoon Commander.
+104|Lieutenant/Captain or a JCO (Subedar/Naib Subedar).
+105|Three.
+106|Platoon Commander, Platoon Havildar, radio operator and runner.
+107|Leads, trains and looks after his men; executes the company's tasks.
+108|Senior NCO – assists the officer with discipline, administration and the men's welfare.
+109|Pl Cdr leads ~30 men (Lt); Coy Cdr leads ~120 men (Maj).
+110|Fitness, weapon handling, firing, field craft, discipline, welfare.
+111|Plan, lead, keep men safe, accomplish the mission, report.
+112|Attacks, defends, patrols, ambushes, holds a post within the company plan.
+113|Yes, for small tasks such as patrols, ambushes or a post.
+114|About 30–35 soldiers.
+115|It is where he first leads men directly and learns leadership on the ground.
+116|Smallest sub-unit of infantry – about 10 soldiers.
+117|Below Platoon.
+118|Section Commander.
+119|Havildar or Naik.
+120|About 10.
+121|Leads the section, controls fire and movement, looks after his men.
+122|INSAS/AK-203/SIG-716 rifles, LMG, grenades, under-barrel grenade launcher.
+123|Three sections make a platoon.
+124|The Section.
+125|A small group (4–5 men) in a section working together in fire and movement.
+126|Usually two groups: rifle group and LMG/fire-support group.
+127|Basic infantry soldier – fights with his rifle, carries out section tasks.
+128|Provides sustained covering fire for the section.
+129|Leads, gives fire control orders, keeps the section together, completes the task.
+130|Army HQ → Command (Lt Gen) → Corps (Lt Gen) → Division (Maj Gen) → Brigade (Brig) → Battalion (Col) → Company (Maj) → Platoon (Lt/Capt/JCO) → Section (Hav/Naik).
+131|Formations: Command, Corps, Division, Brigade. Unit: Battalion/Regiment. Sub-units: Company, Platoon, Section.
+132|Platoon (or troop).
+133|Platoon/company 2IC; sometimes a company.
+134|Company.
+135|Second-in-command of a battalion (CO in some cases).
+136|Battalion/Regiment (as CO).
+137|Brigade.
+138|Division.
+139|Corps or Command.
+140|Rank shows seniority; appointment is the job held; command is the authority that comes with the appointment.
+141|Yes – e.g. a Major can be acting CO; a Colonel can hold a staff appointment.
+142|Company Commander.
+143|Commanding Officer.
+144|Brigade Commander.
+145|Commanding = leading in training and operations; administering = looking after pay, leave, welfare, discipline and logistics.
+146|Clear responsibility, quick decisions, discipline and coordination in war.
+147|A platoon of about 30 soldiers (with a JCO and NCOs).
+148|About 30–35.
+149|Platoon Havildar / Section Commanders (JCO if attached).
+150|PT, training, weapon practice, checking turnout, welfare, admin, duties assigned by the Coy Cdr.
+151|Fairness, care, competence, courage and leading by example.
+152|Experience, guidance, discipline and link with the men.
+153|Supervision of the men, discipline, setting standards.
+154|Fair and consistent rules, personal example, reward and punishment.
+155|Care for welfare, sports, recognition, communication and leading by example.
+156|Fitness, weapon handling, field craft, drills, tactical exercises, gradually increasing difficulty.
+157|Find the reason, give extra training and support; if no improvement, take formal action.
+158|Listen to his experience; discuss privately; take the final decision and own it.
+159|Talk to him, help solve it (leave, welfare, help with family); keep him productive.
+160|Competence, fairness, care for men, courage, integrity, leading by example.
+161|They have years of experience and know the men and the terrain; they guide young officers.
+162|Men follow willingly into danger only if they trust their leader.
+163|Authority is the power given by rank; leadership is the ability to make people willingly follow you.
+164|The officer leads in person, shares hardships and goes first into danger.
+165|Analyse, take responsibility, correct mistakes, retrain and try again.
+166|Appreciate and reward them publicly, and keep standards high.
+167|Their welfare and safety while accomplishing the mission – "the safety, honour and welfare of the men you command come next" (Chetwode motto).
+168|I want to lead soldiers, take responsibility and make decisions – an officer's role.
+169|My age (23, graduate) fits SSC; OTA's 49-week course; 10-year commitment with option for Permanent Commission.
+170|I want a field career, leading men on the ground; my fitness and leadership suit the Army.
+171|Fighting component – Infantry, Armoured Corps, Mech Infantry, Artillery, Engineers, Signals, Army Air Defence, Army Aviation, Intelligence Corps.
+172|Supports and sustains the arms – ASC, AMC, EME, AOC, Army Postal Service, JAG, AEC, RVC, Military Police, Pioneer Corps etc.
+173|Infantry, Armoured Corps, Mechanised Infantry.
+174|Artillery, Engineers, Signals, Army Air Defence, Army Aviation, Intelligence Corps.
+175|ASC, AOC, EME, AMC, ADC, Military Nursing Service, APS, JAG, AEC, RVC, Corps of Military Police, Pioneer Corps, DSC.
+176|Infantry.
+177|Modern war needs combined arms – fighting, fire support, communication and logistics.
+178|Through combined-arms planning: artillery fires, engineers clear paths, infantry and armour assault, signals link everyone, services sustain.
+179|He can give preference, but allotment depends on vacancies and merit.
+180|Merit (order of merit at academy), preference, medical category, vacancies, qualifications.
+181|Close with and destroy the enemy, capture and hold ground.
+182|It is the primary arm that captures and holds ground; all others support it ("Queen of Battle").
+183|Attack, defend, patrol, ambush, raid, counter-insurgency.
+184|Offensive: attacking to capture ground. Defensive: holding positions against attack.
+185|All terrain – especially mountains, jungle, built-up areas.
+186|Madras, Rajputana Rifles, Rajput, Jat, Sikh, Punjab, Dogra, Garhwal Rifles, Kumaon, Maratha LI, Sikh LI, Bihar, Grenadiers, JAK Rifles, JAK LI, Mahar, Assam, Naga, Ladakh Scouts, Gorkha Rifles (1, 3, 4, 5, 8, 9, 11 GR), Parachute Regiment, Brigade of the Guards, Sikkim Scouts, Arunachal Scouts.
+187|Training and administrative home of a regiment – recruits are trained there (e.g. Kumaon Regimental Centre, Ranikhet).
+188|One of the brigade's three fighting units.
+189|Rifles (AK-203, SIG-716, INSAS), LMG, carbines, sniper rifles, mortars, ATGMs, grenades.
+190|Only infantry can hold ground and fight in mountains, cities and among people.
+191|Clears buildings, holds key points, protects civilians.
+192|Holds heights and passes, fights on foot in high altitude.
+193|Cordon and search, patrols, intelligence-based operations, winning hearts and minds.
+194|Mobile shock action and firepower – destroying enemy and capturing ground.
+195|The Main Battle Tank.
+196|A unit of tanks (about 45 tanks) commanded by a Colonel.
+197|Three sabre squadrons (each with troops of 3 tanks) plus HQ squadron.
+198|Commanding Officer (Colonel).
+199|Firepower, protection and mobility – shock action.
+200|Tank: heavy armour and a big gun to destroy enemy; ICV: carries infantry into battle with lighter armour.
+201|A heavily armoured tank combining firepower, mobility and protection – T-90, T-72, Arjun.
+202|T-72 (Ajeya), T-90 (Bhishma), Arjun Mk1/Mk1A; Zorawar light tank under induction.
+203|Breakthrough, deep strikes, exploitation.
+204|Counter-attacks and blocking enemy armour.
+205|Heavy, need fuel and maintenance, vulnerable in mountains, cities and to ATGMs/drones.
+206|Mountains, marshes, forests and urban areas restrict movement.
+207|A formation of three armoured regiments with mechanised infantry.
+208|Infantry protects tanks from close threats; tanks give firepower to infantry.
+209|Infantry, armour, artillery, engineers and air working together.
+210|Speed lets them strike deep, surprise and exploit success.
+211|Infantry mounted in armoured vehicles (BMP) to move and fight alongside tanks.
+212|To keep pace with tanks and survive on a modern battlefield.
+213|Mech Inf moves in armoured vehicles; conventional infantry moves on foot or trucks.
+214|BMP-1, BMP-2 (Sarath), NAMICA (anti-tank), WhAP.
+215|Armoured vehicle carrying infantry with its own weapons – e.g. BMP-2.
+216|Fights alongside tanks, protects them, clears positions.
+217|Clears infantry and anti-tank threats, holds captured ground.
+218|Protected mobility, firepower, speed.
+219|Fuel, maintenance and vulnerability to anti-tank weapons; limited in mountains.
+220|APC = armoured transport; IFV = armed fighting vehicle that can fight with its troops.
+221|Assaults with tanks and holds ground gained.
+222|Provides fire support to destroy, neutralise or suppress the enemy.
+223|It delivers most of the firepower on the battlefield ("God of War").
+224|Destroy enemy positions, support attacks, counter-bombardment, deny areas.
+225|Guns and howitzers that support ground forces in battle.
+226|Long-barrelled weapon firing at high velocity, flatter trajectory.
+227|Shorter barrel, fires at higher angles – can hit targets behind hills.
+228|Launches unguided/guided rockets in salvoes – e.g. Pinaka, Smerch.
+229|Gun: flat trajectory, high velocity. Howitzer: high angle. Rocket system: salvo fire, area saturation.
+230|Artillery unit of three batteries (usually 18 guns) under a Colonel.
+231|Destroys and suppresses enemy before and during the infantry attack.
+232|Suppresses anti-tank weapons and supports armour advance.
+233|Firing at a target not visible to the gun, with observers directing it.
+234|Firing at a target directly visible to the gunner.
+235|Destroying enemy artillery.
+236|Fire provided to assist manoeuvring troops.
+237|Plan of artillery targets and timings for an operation.
+238|Position from which an observer watches the target and directs fire.
+239|Artillery officer who joins infantry/armour and directs fire.
+240|Preparatory bombardment, suppression, support to assault.
+241|Breaks up enemy attacks, counter-bombardment, defensive fire.
+242|Bofors FH-77B, K9 Vajra, Dhanush, M777, ATAGS, Pinaka, Smerch, BrahMos, Pralay (inducting).
+243|Mortars are light, short-range, high-angle infantry weapons; artillery is heavier, longer range.
+244|Battalion/company level.
+245|To hit the right target first time, saving ammo and avoiding friendly losses.
+246|Help own forces move, stop enemy movement, and build infrastructure.
+247|Bridging, mine laying/clearing, demolitions, obstacles, field fortifications, roads, water supply.
+248|Engineering in battle – mobility, counter-mobility, survivability.
+249|Breach minefields and obstacles, bridge rivers, open routes.
+250|Lay mines, build obstacles and bunkers.
+251|An area with mines laid to stop or slow the enemy.
+252|To delay and channel enemy, protect positions.
+253|Detecting and removing mines to open safe lanes.
+254|Build bridges, ferry troops, secure crossings.
+255|Laying a bridge, often by bridge-laying tank, so forces can cross.
+256|Ditches, mines, wire, anti-tank obstacles.
+257|Rescue, bridges, roads, clearing debris.
+258|Combat engineering is done under fire for war; civil engineering builds peacetime infrastructure.
+259|Engineer unit under a Colonel.
+260|Mobility (clearing routes), counter-mobility, protection.

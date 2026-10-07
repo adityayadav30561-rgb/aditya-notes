@@ -1,0 +1,386 @@
+1641|Faster decisions beat the enemy; AI and networks speed it, but overload is a risk.
+1642|Observe–Orient–Decide–Act (John Boyd) – cycling faster than the enemy wins.
+1643|Machines (UGVs) doing tasks like EOD, recce, carrying loads.
+1644|They take on dangerous tasks.
+1645|Limited judgment, terrain, power, cost – can't replace human decisions.
+1646|Carry loads, watch areas, defuse bombs.
+1647|Humans and machines working together – combines strengths.
+1648|Failure can be fatal.
+1649|It should have fail-safe modes.
+1650|Soldiers become supervisors of machines.
+1651|Precision hits specific targets; area-effect covers an area – less collateral damage.
+1652|Longer range, guided shells, self-propelled guns, drones.
+1653|To hit the enemy deep.
+1654|Rockets with guidance (e.g. guided Pinaka).
+1655|Ballistic: arcs up and falls (Agni); cruise: flies low and level under power (BrahMos).
+1656|Missile launched from ground to ground target.
+1657|System to intercept missiles.
+1658|Needs accurate target data.
+1659|To avoid hitting wrong targets.
+1660|For maximum effect.
+1661|Drones, AI, speed, information, multi-domain.
+1662|Land, sea, air, cyber, space.
+1663|More precision, speed and surveillance.
+1664|It drives decisions.
+1665|Judgment and morale.
+1666|Adaptability, tech-savvy, leadership.
+1667|Change is fast.
+1668|Courage, morale, leadership.
+1669|Information flows faster; could flatten hierarchy.
+1670|Moral principles in war – technology raises new dilemmas.
+1671|The human commander – no.
+1672|Someone must answer for outcomes.
+1673|Privacy, civilian harm.
+1674|Verify before acting – systems can be wrong.
+1675|Precision can reduce harm.
+1676|Prevents misuse.
+1677|Reading, courses, interest.
+1678|Show practical benefits.
+1679|Explain and train patiently.
+1680|Step by step, hands-on.
+1681|Report and adapt procedures.
+1682|Both are needed.
+1683|Explain the change and involve them.
+1684|Lead by example.
+1685|(Fill.) e.g. drones and counter-drone systems / AI.
+1686|Understand digital systems, cybersecurity, data, drones.
+1687|Field experience needed.
+1688|Battles are fought on the ground.
+1689|Use technology as a tool, not a substitute.
+1690|Threats change; numbers alone don't win.
+1691|Both; technology multiplies manpower.
+1692|No.
+1693|No – AI can assist, not lead.
+1694|Cost, bureaucracy, change.
+1695|Advantage: synergy; challenge: different cultures.
+1696|I want to lead soldiers and serve – an officer combines both.
+1697|(Fill.) e.g. AI and drones.
+1698|Fight with basic skills.
+1699|Learn technology and keep fundamentals.
+1700|Bolt: manual reload each shot; semi-auto: one shot per pull; automatic: continuous fire.
+1701|5.45×39 (AK-74); 5.56×45 (NATO, INSAS); 7.62×39 (AK-47/AK-203); 7.62×51 (NATO, SIG716).
+1702|Bullet diameter × case length, in mm.
+1703|For different ranges and roles.
+1704|Bigger calibre: more recoil, range, weight and penetration; less control.
+1705|Kalashnikov family – AK-47 (1947) → AKM → AK-74 → AK-200 series (AK-203).
+1706|Israeli bullpup rifle used by Indian SF.
+1707|Shorter length; awkward handling, harder reload.
+1708|Butt part held against the shoulder.
+1709|Practical rate allows for reloading; cyclic is the mechanical maximum.
+1710|Reliability issues, jamming, 5.56 mm considered less effective.
+1711|Rifle-calibre: 5.56/7.62 mm; HMG: 12.7 mm or more.
+1712|5.56 LMG: section support; 7.62 LMG: heavier support; 7.62 MMG: sustained fire; 12.7 HMG: vehicles and aircraft.
+1713|Belt-fed: continuous fire; magazine-fed: limited.
+1714|Section: LMG; platoon/company: MMG.
+1715|Grenade that lights up an area.
+1716|Inert grenade for training.
+1717|Launcher firing 40 mm grenades; AGL fires them automatically.
+1718|Rocket: self-propelled unguided; recoilless: gun with no recoil; missile: guided.
+1719|Rocket-propelled grenade launcher (Soviet).
+1720|Missile that guides itself after launch.
+1721|High-explosive anti-tank – shaped charge forms a jet that pierces armour.
+1722|System that detects and destroys incoming missiles before they hit.
+1723|Modern weapons can penetrate armour.
+1724|Bigger calibre: more power and range; 60 mm is a light company mortar.
+1725|Towed: pulled by vehicle; SP: moves by itself.
+1726|105 mm: lighter (Indian Field Gun); 155 mm: standard heavy.
+1727|Bore diameter.
+1728|Barrel length is 39 or 52 times the calibre – longer barrel gives more range.
+1729|Dhanush, Sharang, M777, K9, ATAGS: 155 mm; Pinaka: 214 mm rockets.
+1730|Classified by weight: light (<25 t), medium, heavy.
+1731|Tank: big gun; IFV: carries and fights; APC: transports.
+1732|Armoured military vehicle for combat.
+1733|Tracked: better off-road; wheeled: faster on roads.
+1734|Hull: body; turret: rotating gun mount.
+1735|Coaxial gun is mounted alongside the main gun; commander's gun is on top.
+1736|Engine powers; transmission transfers power; tracks and suspension move the tank.
+1737|Measures distance to target by laser.
+1738|Protection against nuclear, biological and chemical threats.
+1739|Trade-offs – more armour means more weight.
+1740|Power per tonne – more means better mobility.
+1741|Weight per area of ground contact.
+1742|T-72 and T-90: 125 mm smoothbore; Arjun: 120 mm rifled.
+1743|APFSDS, HEAT, HE, missile.
+1744|About 2–4 km.
+1745|T-72/T-90: 3 (commander, gunner, driver); Arjun: 4 (plus loader).
+1746|Autoloader (Russian) saves crew and space; manual loader (Arjun) adds a crew member.
+1747|Indigenous light tank (~25 t) by DRDO and L&T for high-altitude areas like Ladakh.
+1748|FRCV (Future Ready Combat Vehicle), FICV, Zorawar.
+1749|T-90 is newer – better fire control, armour, missile firing.
+1750|Russian: lighter, compact; Indian (Arjun): heavier, more protection.
+1751|Different needs and history.
+1752|Sub-unit of an armoured regiment, under a Major.
+1753|Group of three tanks under a junior officer.
+1754|Commander leads; gunner fires; loader loads; driver drives.
+1755|Armour fights with tanks; Mech Inf carries infantry in BMPs.
+1756|Recce using armoured vehicles.
+1757|At Armoured Corps Centre & School, Ahmednagar.
+1758|Fitness, technical skills, endurance.
+1759|Busy, technical, team-based.
+1760|Decisiveness, technical knowledge, aggression.
+1761|17th Horse (Poona Horse); honour title "Fakhr-e-Hind" (Pride of India); name from its origin in Poona.
+1762|1817 (Poona Auxiliary Horse); amalgamated in 1921 with the 33rd Light Cavalry.
+1763|Fought in Persia, Afghanistan, World Wars, 1965 and 1971.
+1764|Courage, pride, horse traditions.
+1765|World Wars I and II, 1965, 1971.
+1766|Phillora, Chawinda, Basantar River, Kooshab etc.
+1767|Two PVCs – Lt Col A.B. Tarapore (1965) and 2/Lt Arun Khetarpal (1971).
+1768|Lt Col A.B. Tarapore, 2/Lt Arun Khetarpal (tank "Famagusta").
+1769|Shermans, Centurions, Vijayanta, T-72, T-90 (verify).
+1770|Armoured regiment.
+1771|(Fill.) e.g. inspired by Tarapore and Khetarpal's courage.
+1772|(Fill.)
+1773|Accept and serve proudly.
+1774|Firepower, speed, technology.
+1775|(Fill.)
+1776|Origins in the Hyderabad Contingent (18th century); became 19th Hyderabad Regiment, renamed Kumaon Regiment in 1945.
+1777|Raised 1788 (Hyderabad Contingent); renamed in 1945; expanded after independence.
+1778|Ranikhet, Uttarakhand.
+1779|"Parakramo Vijayate" (Valour Triumphs).
+1780|A demi-rampant lion holding a cross.
+1781|"Kalika Mata Ki Jai", "Bajrang Bali Ki Jai", "Dada Kishan Ki Jai".
+1782|Strong traditions of Kumaonis and Ahirs.
+1783|World Wars, 1947 (Badgam), 1962 (Rezang La), 1965, 1971, Kargil.
+1784|Badgam, Rezang La etc.
+1785|Major Somnath Sharma (first PVC); three Army Chiefs – Gen S.M. Shrinagesh, Gen K.S. Thimayya, Gen T.N. Raina.
+1786|Two PVCs, Ashoka Chakras, many MVCs and VrCs.
+1787|Major Somnath Sharma (4 Kumaon, Badgam, 1947) – the regiment has two PVCs.
+1788|4 Kumaon, 13 Kumaon (Rezang La) and others.
+1789|Kumaon Scouts – high-altitude unit affiliated with the regiment.
+1790|1947, 1962, 1965, 1971, Siachen, Kargil, CI operations.
+1791|Bravery, leadership, high-altitude expertise.
+1792|Last-stand defence by C Company, 13 Kumaon, against China in 1962.
+1793|Ladakh, near Chushul (~16,000 ft).
+1794|18 November 1962, Sino-Indian War.
+1795|C Company, 13 Kumaon (mostly Ahir soldiers from Haryana).
+1796|About 120 men fought to the last; 114 were killed; heavy Chinese casualties.
+1797|It protected Chushul and its airfield.
+1798|High altitude, freezing cold.
+1799|Cold, low oxygen, outnumbered, little artillery support.
+1800|Post fell, but heavy losses were inflicted and Chushul was saved.
+1801|Symbol of courage and sacrifice ("Rezang La" honour, Ahir pride).
+1802|Leaders stand with their men.
+1803|Fight despite odds.
+1804|Unity until the end.
+1805|Duty above life.
+1806|(Fill.) e.g. Ahir (Yadav) soldiers' courage – my community's pride.
+1807|(Fill.)
+1808|(Fill.)
+1809|For identity, tradition and cohesion.
+1810|Infantry regiment is a group of battalions; armoured regiment is a single unit.
+1811|Battle shout to motivate.
+1812|Recognition for battles fought.
+1813|Regimental flags.
+1814|Regiment's emblem.
+1815|Link to a regiment.
+1816|Loyalty and pride.
+1817|(Fill.)
+1818|(Fill.)
+1819|(Fill.) e.g. leading men directly on the ground.
+1820|(Fill.)
+1821|(Fill.)
+1822|(Fill.)
+1823|(Fill.)
+1824|Serve wherever allotted.
+1825|Serve wherever allotted.
+1826|Yes.
+1827|Both – history inspires, but I understand the job.
+1828|Infantry leads men on foot; Armour leads tank crews.
+1829|(Fill.)
+1830|Both need leadership.
+1831|Armour.
+1832|(Fill.)
+1833|Accept and do my best.
+1834|Accept and do my best.
+1835|A little, but I'll serve fully.
+1836|For soldiering.
+1837|More workers (51 lakh+) come under mandatory PF – better social security; first revision since 2014.
+1838|₹1.86 lakh crore transmission scheme to carry up to 135 GW of renewable power, with 50 GWh battery storage.
+1839|National apex body (approved 6 Oct 2026) for integrated planning of transport and logistics.
+1840|Government commitment of ₹10,000 crore to give equity investment to SMEs, focusing on manufacturing.
+1841|MSP is the price at which govt buys crops – protects farmers from price falls.
+1842|India chaired BRICS in 2026; hosted the 18th summit (New Delhi, 12–13 Sept) with Putin and Xi – India's global role.
+1843|Xi's first visit since Covid – stabilising ties after the 2020 Galwan clash.
+1844|Reaffirmed the India–US Comprehensive Global Strategic Partnership – trade, defence, energy, critical tech; trade deal talks still on.
+1845|Trade truce extended to 10 Jan 2027 – affects global trade, tariffs and supply chains for India.
+1846|UN biodiversity conference (19–30 Oct 2026) reviewing the Kunming–Montreal framework (30×30 target).
+1847|Disrupted after US–Iran conflict; oil ~$100/bbl; shipping attacks – India imports most oil, so prices and inflation rise.
+1848|June MoU collapsed; talks on a phased deal continue; Iran wants blockade/sanctions lifted.
+1849|Türkiye and UN arranging Black Sea shipping truce talks; Putin rejected halting long-range strikes; US reviving trilateral talks.
+1850|Mid-Sept: an Indian destroyer and a Pakistani patrol vessel collided in the Arabian Sea – first direct confrontation since May 2025; both protested.
+1851|India rejects it – says the treaty is in abeyance due to cross-border terrorism and doesn't recognise the court.
+1852|Inflation (4.82%) and high oil prices; first hike in ~4 years under Gov Sanjay Malhotra (5.25% → 5.50%).
+1853|Raising rates cautiously, step by step, based on data.
+1854|Services (10%), investment (GFCF +11.9%), consumption.
+1855|MoSPI shifted base year from 2011-12 to 2022-23 to reflect the current economy.
+1856|Higher import bill, fuel inflation, weaker rupee.
+1857|Second phase of chip mission – $13.5 bn over 12 years (announced 17 Sept 2026).
+1858|Chips run everything incl. defence; India imports ~90%.
+1859|G1 uncrewed flight expected late 2026; crewed flight in 2027.
+1860|Karl Deisseroth, Peter Hegemann, Georg Nagel – optogenetics: using light to control nerve cells.
+1861|Francis Halzen – IceCube: neutrino detector buried in Antarctic ice.
+1862|India–UAE, 3rd edition, Chaubatia (Uttarakhand), 5–18 Oct 2026 – mountain warfare; Bhairav battalion.
+1863|India–Mongolia; 18th edition at Pithoragarh, 20 Sept–3 Oct 2026.
+1864|India–US Army exercise; 22nd edition at Auli and Mahajan; drones, robotic dogs.
+1865|India–Kazakhstan; Oskemen, 28 Sept–11 Oct 2026 – counter-terrorism.
+1866|India–France naval exercise; 24th edition off Toulon (France), Sept 2026 – INS Trishul.
+1867|~₹1.10 lakh crore AoNs – CBRN recce vehicles, HMVs, mine layers, ALHs, trawl tanks, Sarvatra bridges, jammers.
+1868|AoN is an in-principle approval to start procurement; a contract is the final purchase deal.
+1869|Boost to Atmanirbhar Bharat and local industry.
+1870|AoN Feb 2026; Dassault bid Aug 2026; decision expected by year-end/FY-end.
+1871|Precision-guided glide bombs to destroy runways; 160 ordered for ₹811 crore.
+1872|Nuclear-capable IRBM (~4,000 km) by SFC and DRDO – test on 6 Aug 2026.
+1873|Multiple Independently targetable Re-entry Vehicles – one missile hits several targets.
+1874|Multiple interceptor layers at different altitudes – three consecutive tests (June 2026).
+1875|Supersonic combustion ramjet engine; 1,200 s ground test (May 2026) – key for hypersonic missiles.
+1876|Third test range – to decongest Odisha and allow longer-range tests.
+1877|Delayed by engine supply and radar/weapons integration; induction expected soon.
+1878|No engines, no aircraft.
+1879|About 30 squadrons against 42.5 – a gap for two-front threats.
+1880|Tactical transport; built by Tata–Airbus at Vadodara – first private-sector military aircraft production.
+1881|HAL basic trainer – indigenous pilot training.
+1882|18 – largest single-year fleet addition, over 75% indigenous.
+1883|Samarthak: multipurpose vessel (L&T); Mangrol: ASW shallow water craft.
+1884|Second Nistar-class diving support vessel – supports diving and submarine rescue.
+1885|ASW shallow water craft – anti-submarine warfare near the coast.
+1886|Self-reliance and jobs.
+1887|Gen Dhiraj Seth, 31st COAS, since 30 June 2026.
+1888|Gen N.S. Raja Subramani, since 31 May 2026.
+1889|Adm Krishna Swaminathan, 27th CNS, since 31 May 2026.
+1890|ACM Amar Preet Singh, since 30 Sept 2024.
+1891|Rajesh Kumar Singh.
+1892|16–17 Sept: joint op near Brattal, Majalta (Udhampur) led by White Knight Corps – two JeM terrorists killed.
+1893|Udhampur op; Budgam (4 Sept, one killed); Operation Sheruwali (since May).
+1894|White Knight: XVI Corps, Nagrota; Chinar: XV Corps, Srinagar.
+1895|Fragile ceasefire since 10 May 2025; tension elsewhere (sea, IB, Indus Waters).
+1896|7 May 2025 strikes on 9 terror sites in Pakistan/PoK after the Pahalgam attack (22 April 2025); ceasefire 10 May; since then IWT in abeyance, Attari closed, trade near zero.
+1897|1 April 1895 (unified British Indian Army); Indian Army after 1947.
+1898|"Service Before Self".
+1899|About 12 lakh active – one of the world's largest standing armies.
+1900|15 January – Gen K.M. Cariappa took over as first Indian C-in-C in 1949.
+1901|Navy Day 4 Dec (Op Trident 1971); Air Force Day 8 Oct (IAF formed 1932).
+1902|14 Corps, about 40 divisions.
+1903|Strike: offensive (I, II, XXI); Pivot: both defence and offence; Mountain Strike: XVII Corps vs China.
+1904|Mountain Strike Corps raised 2013 (HQ Panagarh) for offensive capability against China.
+1905|Reorganised Army Plains Infantry Division – mechanised infantry division.
+1906|Brigade-sized self-contained groups of all arms for quick offensive operations.
+1907|Limited-war doctrine (2004) for quick strikes by integrated groups before the enemy can react.
+1908|Commando platoon in each infantry battalion.
+1909|50 (Independent) Parachute Brigade, Agra.
+1910|XIV: Leh; XV: Srinagar; XVI: Nagrota.
+1911|East India Company raised armies in its three presidencies; unified in 1895.
+1912|Sepoys revolted (Mangal Pandey, Meerut) – first war of independence.
+1913|Over 1 million in WWI and 2.5 million in WWII – largest volunteer army.
+1914|INA under Netaji Subhas Chandra Bose; Rani of Jhansi Regiment – women's unit (Capt Lakshmi Sahgal).
+1915|Split roughly 2:1 between India and Pakistan.
+1916|Pakistani raiders invaded; Maharaja acceded; Indian troops flown to Srinagar; ceasefire 1 Jan 1949.
+1917|Chinese attack in Ladakh and NEFA; India lost; lessons: preparedness, intelligence, infrastructure.
+1918|Pakistan's Op Gibraltar in Kashmir; India counter-attacked; Tashkent Agreement (1966).
+1919|Gibraltar: infiltration into J&K; Grand Slam: attack on Akhnoor.
+1920|India repulsed Chinese attacks in Sikkim (1967).
+1921|Pakistani crackdown in East Pakistan; India won in 13 days; Bangladesh created; 93,000 POWs (16 Dec – Vijay Diwas).
+1922|Navy missile attacks on Karachi port (4 Dec – Navy Day).
+1923|1971 war: IV Corps operations in East Pakistan, including the Meghna Heli Bridge (troops flown across the Meghna by helicopter).
+1924|Capt Vikram Batra, Lt Manoj Pandey, Gdr Yogendra Singh Yadav, Rfn Sanjay Kumar (all PVC).
+1925|1984 operation to remove militants from the Golden Temple.
+1926|1986–87 large Army exercise in Rajasthan.
+1927|Navy deployment during Kargil 1999.
+1928|1986 and 1988 operations to clear the Golden Temple of militants.
+1929|NSG operation against 26/11 Mumbai attackers (2008).
+1930|2005 Army exercise in Punjab (Nakodar) to test the new doctrine of quick strikes by brigade groups.
+1931|Paramilitary offensive against Naxals (2009).
+1932|Response to the Jan 2016 Pathankot Air Force Station attack (NSG's Op Dhangu Suraksha); six terrorists killed.
+1933|Rakshak: CI in J&K; Hifazat: CI in Manipur; Rhino: CI in Assam; All Out: J&K anti-terror (2017).
+1934|29 Sept 2016 – strikes on launch pads across the LoC after the Uri attack.
+1935|26 Feb 2019 – IAF strike on JeM camp at Balakot after the Pulwama attack.
+1936|Param Vir Chakra, Maha Vir Chakra, Vir Chakra.
+1937|Ashoka Chakra, Kirti Chakra, Shaurya Chakra.
+1938|Highest wartime gallantry award – Maj Somnath Sharma, Capt Vikram Batra, 2/Lt Arun Khetarpal, Hav Abdul Hamid.
+1939|Second-highest – e.g. Col Santosh Babu (Galwan 2020).
+1940|Third-highest wartime award.
+1941|Highest peacetime award – Maj Mohit Sharma, L/Nk Nazir Ahmad Wani, Maj Sandeep Unnikrishnan.
+1942|Second- and third-highest peacetime awards.
+1943|Award for gallantry or distinguished duty in the Army.
+1944|Wartime distinguished service awards.
+1945|Peacetime distinguished service awards.
+1946|Gallantry: bravery; service: distinguished duty.
+1947|1888 – Indian Military Nursing Service; Army Medical Corps.
+1948|1992 (Women Special Entry Scheme).
+1949|Babita Puniya judgment – PC for women officers.
+1950|Commanders (Colonel), pilots, engineers, signals, NDA cadets.
+1951|Combat roles, infrastructure, career balance.
+1952|Short-term recruitment scheme for soldiers – launched June 2022.
+1953|Soldiers recruited under Agnipath – serve 4 years.
+1954|25% retained as regulars; rest exit with Seva Nidhi.
+1955|About ₹11.71 lakh tax-free lump sum.
+1956|Benefits: younger, tech-savvy force; criticisms: short service, training time, job security.
+1957|"Sarvatra Izzat-o-Iqbal" (Everywhere with honour and glory).
+1958|"Sarvatra" (Everywhere).
+1959|"Teevra Chaukas" (Swift and Secure).
+1960|"Akashe Shatrun Jahi" (Kill the enemy in the sky).
+1961|"Swift and Sure".
+1962|"Sarve Santu Niramaya" (Let all be free from disease).
+1963|AOC: "Shastra Se Shakti"; EME: "Karam Hi Dharam".
+1964|CI force raised 1990 – motto "Dridhta aur Veerta".
+1965|Citizen soldiers' force (1949) – "Savdhani va Shoorta".
+1966|Provides labour for engineering and logistics.
+1967|Cell to monitor human rights compliance (2019).
+1968|Signals Technology Evaluation and Adaptation Group (2024) – Corps of Signals unit for 5G/6G, AI, quantum and other future comms tech.
+1969|1979 – to give infantry protected mobility with armour.
+1970|Fires 30 mm grenades; range ~1.7 km.
+1971|HHTI: handheld thermal camera; BFSR: radar for ground surveillance.
+1972|Bridge-laying tank on Vijayanta chassis.
+1973|ARDE rifle with interchangeable barrels for multiple calibres.
+1974|Prithvi: SRBM (150–350 km); Agni-V: ICBM 5,000+ km (MIRV); Agni-VI: in development.
+1975|Indo-Russian supersonic cruise missile (Mach 2.8+) – used in Op Sindoor; exported to the Philippines.
+1976|Subsonic long-range cruise missile (~1,000 km).
+1977|DRDO tactical ballistic missile (~200 km) – under development.
+1978|Russian long-range SAM (400 km) – "Sudarshan Chakra"; used in Op Sindoor.
+1979|PAD: exo-atmospheric (outside atmosphere); AAD: endo-atmospheric (inside).
+1980|Ability to launch nuclear weapons from land (Agni), air (fighters) and sea (INS Arihant).
+1981|1999 plan to standardise artillery to 155 mm.
+1982|About 1,400 hp; ~70 km/h on road.
+1983|Dehradun.
+1984|Chennai and Gaya (Bihar).
+1985|Khadakwasla, Pune – tri-service academy.
+1986|Mhow (MP).
+1987|Devlali (Nashik).
+1988|Pune (Dapodi).
+1989|Mhow.
+1990|Gulmarg (J&K).
+1991|Vairengte (Mizoram).
+1992|Wellington (Tamil Nadu).
+1993|NDC: New Delhi; CDM: Secunderabad.
+1994|IDSA: Manohar Parrikar Institute for Defence Studies and Analyses (Delhi); DIPR: Defence Institute of Psychological Research (DRDO, designs SSB tests); DIHAR: Defence Institute of High Altitude Research (Leh).
+1995|INDRA (tri-service).
+1996|Yudh Abhyas, Vajra Prahar, Cope India, Malabar, Tiger Triumph.
+1997|Shakti (Army), Varuna (Navy), Garuda (AF).
+1998|Ajeya Warrior (Army), Konkan (Navy), Indradhanush (AF).
+1999|Dharma Guardian (Army), JIMEX (Navy), Veer Guardian (AF).
+2000|Sri Lanka: Mitra Shakti; Nepal: Surya Kiran; Bangladesh: Sampriti; Maldives: Ekuverin.
+2001|Indonesia: Garuda Shakti; Malaysia: Harimau Shakti; Thailand: Maitree; Singapore: Bold Kurukshetra/SIMBEX; Vietnam: VINBAX.
+2002|Kazakhstan: KAZIND; Kyrgyzstan: Khanjar; Uzbekistan: Dustlik; Mongolia: Nomadic Elephant.
+2003|Oman: Al Najah; UAE: Desert Cyclone/Mountain Guardian; Seychelles: Lamitiye.
+2004|Malabar: Quad naval exercise (India, US, Japan, Australia); Milan: multilateral naval exercise hosted by India (Visakhapatnam).
+2005|Su-30MKI, Rafale, Mirage 2000, MiG-29, Tejas, Jaguar.
+2006|Twin-engine multirole fighter built by HAL under licence – IAF backbone.
+2007|French multirole fighter; Rafale M is the naval version (26 ordered for carriers).
+2008|Retired on 26 Sept 2025 at Chandigarh after 62 years.
+2009|Netra: DRDO AEW&C on Embraer jet; A-50 Phalcon: Israeli radar on Il-76.
+2010|C-17 (heavy), C-130J (special ops), Il-76 (heavy), An-32 (medium); C295 joining.
+2011|Air-to-air refuelling.
+2012|PC-7 (basic), Kiran (intermediate), Hawk (advanced), HTT-40 (basic).
+2013|Apache: attack helicopter (IAF and Army); Chinook: heavy-lift (IAF).
+2014|Mi-17: medium-lift; Mi-26: heavy-lift.
+2015|Dhruv: HAL utility helicopter; Rudra: armed Dhruv; LUH: HAL light utility helicopter.
+2016|Old light helicopters – ageing, single-engine.
+2017|Dhruv, Rudra, Cheetah, Chetak, LCH Prachand, Apache.
+2018|Heron: Israeli MALE UAV; Searcher: tactical UAV; Harop: loitering munition.
+2019|MiG-29K (fighter), P-8I (maritime patrol), Ka-31 (AEW helicopter), MH-60R (ASW).
+2020|Arunachal–Itanagar, Assam–Dispur, Manipur–Imphal, Meghalaya–Shillong, Mizoram–Aizawl, Nagaland–Kohima, Tripura–Agartala, Sikkim–Gangtok.
+2021|Delhi; J&K (Srinagar/Jammu); Ladakh (Leh); Chandigarh; DNH&DD (Daman); Lakshadweep (Kavaratti); Puducherry; A&N (Sri Vijaya Puram).
+2022|Pakistan: PM Shehbaz Sharif, Pres. Asif Ali Zardari; China: Pres. Xi Jinping; Sri Lanka: Pres. Anura Kumara Dissanayake; Bhutan: PM Tshering Tobgay; Maldives: Pres. Mohamed Muizzu; Nepal, Bangladesh, Myanmar: (verify – recent elections).
+2023|US: Donald Trump; Russia: Vladimir Putin; China: Xi Jinping; UK: Keir Starmer; France: Emmanuel Macron; Germany: Friedrich Merz; Japan: (verify).
+2024|(Fill from news.) e.g. BRICS summit Delhi, EPF ceiling, RBI hike; Trump–Xi truce, Hormuz, Ukraine talks.
+2025|(Fill from latest sports news.)
+2026|UN, WTO, IMF, World Bank, WHO, BRICS, SCO, G20, Quad, ASEAN – (prepare a line each).

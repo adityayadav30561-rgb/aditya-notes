@@ -1,0 +1,280 @@
+1081|Radio for military communication; manpack is carried by a soldier, vehicle-mounted is fitted on vehicles with more power and range.
+1082|Coding messages so only the receiver can read – protects plans.
+1083|Plans are compromised; enemy can locate and target units.
+1084|Radio whose functions are controlled by software – flexible and upgradable.
+1085|Protective vest; soft armour (fabric) and hard plates (ceramic/steel).
+1086|Helmet protecting the head from bullets/fragments.
+1087|Jacket stops fragments/pistol rounds; plates stop rifle rounds.
+1088|Lightweight ceramic plates that break up bullets.
+1089|Heavy loads reduce agility and endurance.
+1090|Load-bearing vest carries equipment; tactical vest may include armour.
+1091|Basic first-aid items carried by each soldier – bandage, tourniquet.
+1092|Weapon, ammo, water, rations, radio, protective gear – mission decides the load.
+1093|Logistics trucks, recovery vehicles, troop carriers, engineer vehicles, ATVs.
+1094|Vehicle with V-shaped hull to survive mine blasts.
+1095|To move forces quickly to where needed.
+1096|Tactical: in battle; operational: within a theatre; strategic: across the country/abroad.
+1097|Preventive avoids faults; corrective repairs them.
+1098|First-line by the unit; field maintenance by EME workshops.
+1099|They depend on complex machines.
+1100|Quick field repairs to return damaged equipment to battle.
+1101|Supplying ammunition to fighting troops.
+1102|Supplies close to the fighting troops.
+1103|To sustain operations if supply is cut.
+1104|Self-reliance, security of supply, jobs, saving foreign exchange; Atmanirbhar Bharat means making our own weapons. Defence production ≈ ₹1.5 lakh crore (FY25), exports ≈ ₹23,622 crore (FY25).
+1105|Designs and develops weapons – Pinaka, Akash, Arjun, Nag, ATAGS.
+1106|Manufacture equipment – L&T, Tata, Bharat Forge, Adani.
+1107|Produce equipment – HAL, BEL, BDL, BEML, AWEIL etc.
+1108|Reduces dependence on imports during war.
+1109|Technology gaps, slow processes, funding, high-tech components (engines, chips).
+1110|To maintain and later build our own.
+1111|Infantry: small arms; Armour: tanks; Artillery: guns and rockets; Air Defence: SAMs and guns.
+1112|Communications linking sensors and shooters.
+1113|Weapon system includes the weapon and support; platform is the carrier (tank, aircraft).
+1114|Linking forces through networks to share information.
+1115|Faster and more accurate targeting.
+1116|Rifles, LMG, grenades, mortars, anti-tank weapons.
+1117|Proper records and checks.
+1118|Step-by-step, safety first, practice.
+1119|Check cleanliness, functioning, records.
+1120|Stop, correct and retrain; take action if needed.
+1121|Stop, follow safety, report to EME.
+1122|Request through the chain, arrange alternatives.
+1123|Report faults quickly through proper channels.
+1124|Inform medical staff quickly; coordinate supporting arms through plans and communication.
+1125|For combined-arms effectiveness.
+1126|Officers Training Academy, St Thomas Mount, Chennai (est. 1963 as Officers Training School).
+1127|Trains officers for Short Service Commission – men and women, SSC (Tech/Non-tech), NCC, JAG entries.
+1128|OTA trains SSC officers (49 weeks); IMA (Dehradun) trains PC officers (NDA, CDS, TES).
+1129|49 weeks.
+1130|To prepare cadets to become officers.
+1131|Physical, tactical, academic, leadership, drill, weapons.
+1132|Formal marching – instils discipline and bearing.
+1133|Learning to plan and fight.
+1134|Building fitness and courage.
+1135|Learning to lead.
+1136|Building integrity and values.
+1137|They make a unit effective.
+1138|Outdoor: practical; classroom: theory.
+1139|Train and mentor cadets.
+1140|Cadets learn from each other.
+1141|Ensures fitness.
+1142|Ceremonial parade at commissioning.
+1143|Fitness and team spirit.
+1144|Marching long distances with load.
+1145|Training in field conditions.
+1146|Solemn promise of loyalty to the Constitution and duty.
+1147|Officially makes the cadet an officer.
+1148|Posting to a unit/arm.
+1149|By learning, humility and adaptation.
+1150|By competence and conduct.
+1151|By respect and cooperation.
+1152|Newly commissioned officer.
+1153|Course at Infantry School, Mhow for new officers – builds professional skills.
+1154|Weapons, tactics, leadership.
+1155|Platoon tactics, weapon handling, fieldcraft, map reading, leading men.
+1156|It gives practical experience.
+1157|Courses for career progression and specialisation.
+1158|Army War College, Mhow – trains officers in higher tactics.
+1159|DSSC, Wellington – trains mid-level officers of all three services in staff work.
+1160|NDC, New Delhi – strategic studies for senior officers and civil servants.
+1161|CDM, Secunderabad – defence management training.
+1162|Prepares Majors/equivalents for staff appointments.
+1163|Staff: planning; command: leading.
+1164|Training for senior commanders.
+1165|Training within the unit.
+1166|Planned sequence of training.
+1167|What training must achieve – based on role and mission.
+1168|By performance tests and exercises.
+1169|Evaluation of training.
+1170|Test of skills.
+1171|Exercise for HQ planning without troops.
+1172|Learning from experience.
+1173|Help the injured, report, inquire, prevent recurrence.
+1174|Realistic but safe planning.
+1175|By supervision and checks.
+1176|Scenario: situation; objective: what to achieve.
+1177|Checking the ground before an exercise.
+1178|For successful planning.
+1179|Supervise and execute.
+1180|Endurance, strength, speed, agility.
+1181|Different components of physical fitness.
+1182|For long tasks.
+1183|For leading and fighting.
+1184|To prevent injuries.
+1185|Team spirit and fitness.
+1186|Tactics, weapons, history, current affairs.
+1187|To be competent.
+1188|For combined-arms operations.
+1189|To stay relevant.
+1190|To understand threats.
+1191|Education for military professionals.
+1192|Time-scale: by service length (up to Lt Col); selection: by merit (Col and above).
+1193|Performance, courses, reports (ACRs).
+1194|Being fully responsible for it.
+1195|Command is leading men; management is handling resources.
+1196|Leadership, planning, wider knowledge.
+1197|Planning military operations.
+1198|Tactical: battle; strategic: war-level.
+1199|Broader impact and complexity.
+1200|Assessing possible dangers.
+1201|Training with other services – for effective joint ops.
+1202|Exercise of two or more services – to build jointness.
+1203|Planning across services.
+1204|For joint operations.
+1205|Shared logistics, communications and intelligence among services.
+1206|Leads jointness through the Department of Military Affairs.
+1207|Single commander for all services in a theatre – being planned.
+1208|Meet the CO and others, learn about men and unit.
+1209|Respect and learn from it.
+1210|Find the cause, change methods.
+1211|Make it varied and meaningful.
+1212|Teach professional skills.
+1213|Counsel and enforce discipline.
+1214|Train in tactics.
+1215|Improve fitness.
+1216|Reschedule and prioritise.
+1217|Use resources wisely, improvise.
+1218|Prepare well and stay in touch.
+1219|Analyse, prepare and retake.
+1220|Study and prepare.
+1221|With learning attitude.
+1222|Their role and needs.
+1223|An organised military action – offensive, defensive, stability, support operations.
+1224|Warfare by irregular means (guerrilla, sabotage).
+1225|Limited: restricted aims; total: whole nation's resources.
+1226|Mix of conventional, irregular, cyber and information warfare.
+1227|Conflict between unequal forces, weaker side using unconventional methods.
+1228|Manoeuvre: outsmarting enemy; attrition: wearing him down.
+1229|Preventing attack by threat of retaliation.
+1230|Strategic: nuclear; conventional: conventional forces.
+1231|Increase in intensity; controlling it prevents a wider war.
+1232|Readiness for war.
+1233|Preparing forces for war; returning them to peace.
+1234|Link between strategy and tactics.
+1235|Fundamental principles guiding military action.
+1236|Strategy: war aims; operations: campaigns; tactics: battles.
+1237|Theatre: large area of war; AO: specific area.
+1238|Routes connecting forces to their bases.
+1239|Ceasefire: temporary halt; armistice: formal agreement ending fighting.
+1240|Confrontation without war (e.g. Doklam 2017, Galwan/eastern Ladakh 2020).
+1241|Situation threatening security; managing it.
+1242|Leadership, morale, training, technology, logistics.
+1243|Forward movement.
+1244|Moving back from the enemy.
+1245|Counter-attack is local; counteroffensive is large-scale.
+1246|Reserve for operations – kept for emergencies.
+1247|Firepower: ability to fire; protection: safety.
+1248|Concentration: strength at the decisive point; economy: minimum elsewhere.
+1249|Striking unexpectedly – causes shock.
+1250|Misleading the enemy.
+1251|Ability to see the whole battlefield (satellites, drones) – harder to hide.
+1252|Managing the battlefield.
+1253|They affect movement and operations.
+1254|Inspires and guides.
+1255|War between regular forces – Army, Navy, Air Force.
+1256|Air superiority, close air support, interdiction.
+1257|Insurgency: armed rebellion; counter-insurgency: defeating it.
+1258|Insurgency uses irregular methods.
+1259|Political, social and economic grievances, external support.
+1260|Insurgents hide among people.
+1261|Population is the key; population-centric COIN wins hearts and minds.
+1262|Governance, development and intelligence.
+1263|Restore order and support civil authority.
+1264|Joint operations and intelligence sharing.
+1265|To counter propaganda.
+1266|To avoid alienating people.
+1267|COIN is broader; CT targets terrorists.
+1268|Development work (Op Sadbhavana) – builds trust.
+1269|Uncertainty, stress, restraint.
+1270|Patience, restraint, judgment.
+1271|Terrorism: violence for political goals; CT: actions against it.
+1272|Operations against terrorists.
+1273|Police and NSG handle CT.
+1274|To share information.
+1275|To avoid harm to civilians.
+1276|Surveillance and intelligence.
+1277|To stop infiltration.
+1278|Preventing radicalisation.
+1279|Funding terrorism.
+1280|Terrorism is global.
+1281|Protect civilians while completing the mission.
+1282|To avoid mistakes.
+1283|Coordination, intelligence and restraint.
+1284|Infiltration: crossing into territory; counter-infiltration: stopping it.
+1285|To detect intrusions; technology helps.
+1286|Management: overall; security: protection.
+1287|BSF, ITBP, SSB, Assam Rifles, Army.
+1288|Guards LoC/LAC.
+1289|Guards borders with Pakistan and Bangladesh.
+1290|Through joint planning.
+1291|Difficult surveillance and movement.
+1292|For mobility and logistics.
+1293|Violation of the ceasefire.
+1294|De facto border with Pakistan in J&K (≈740 km) from the 1972 Simla Agreement.
+1295|LoC is a military line; IB is a legally recognised border.
+1296|LAC: de facto line with China (≈3,488 km), not demarcated; LoC is with Pakistan.
+1297|Fighting in mountains – difficult terrain.
+1298|Fighting above ≈9,000 ft.
+1299|Low oxygen, cold.
+1300|It allows adjustment.
+1301|Terrain and weather.
+1302|For planning.
+1303|They dominate the area.
+1304|World's highest battlefield (≈20,000+ ft) in the Karakoram – controls access between Pakistan and China.
+1305|Indian operation launched 13 April 1984 to secure Siachen – longest-running military operation.
+1306|Extreme cold, low oxygen, avalanches.
+1307|To survive.
+1308|Keeping men safe and motivated.
+1309|Warfare in desert – open, sandy terrain.
+1310|Heat, water shortage, navigation.
+1311|For speed and manoeuvre.
+1312|Infantry holds ground; artillery supports.
+1313|Water is scarce.
+1314|Affects health and equipment.
+1315|Sand and heat damage vehicles.
+1316|Desert training.
+1317|Desert: mobility; mountain: endurance.
+1318|Fighting in jungles – limited visibility.
+1319|Dense vegetation.
+1320|To prepare troops; CIJWS.
+1321|Counter Insurgency and Jungle Warfare School, Vairengte (Mizoram) – trains for jungle and CI operations.
+1322|Small units operate independently.
+1323|It helps navigate and gather intelligence.
+1324|Jungle: dense; altitude: cold.
+1325|Fighting in cities – complex due to buildings and civilians.
+1326|Collateral damage.
+1327|To avoid harm.
+1328|They handle precise operations.
+1329|Civilians, close combat.
+1330|Urban: close; open: manoeuvre.
+1331|They guide use of force.
+1332|Precision and coordination.
+1333|Information warfare: using information to gain advantage; psychological warfare: influencing morale.
+1334|Actions to influence information.
+1335|Misinformation: false but unintentional; disinformation: deliberate.
+1336|Biased information to influence.
+1337|It shapes perceptions.
+1338|To maintain public trust.
+1339|Attacks on computer systems.
+1340|To protect networks.
+1341|Use of electromagnetic spectrum.
+1342|Monitoring, support and attack.
+1343|Military use of space – important for satellites.
+1344|They support communication, GPS and surveillance.
+1345|War across land, sea, air, cyber and space.
+1346|By following security rules.
+1347|Assistance during disasters.
+1348|Rescue and relief – it has resources.
+1349|Floods, earthquakes, landslides.
+1350|Rescue, relief.
+1351|Medical care and aerial rescue.
+1352|Through joint planning.
+1353|NDMA – apex disaster management body, chaired by the PM.
+1354|Specialised disaster response force.
+1355|Army help to civil authorities on request.
+1356|To save lives.
+1357|Compassion, organisation.
+1358|UN missions to maintain peace in conflict zones.
+1359|Peacekeeping: with consent; enforcement: by force.
+1360|UN Security Council.

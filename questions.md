@@ -1679,3 +1679,168 @@
 - What is the relationship between physical fitness and leadership?
 - What did you learn about winning and losing?
 - How would you motivate a teammate who is losing confidence?
+
+## PIQ 20 – Permanent Residence: Bhadin, Mau
+- Where exactly is Bhadin?
+- Which tehsil and block is it in?
+- Which district is it in?
+- What is Mau known for, and why is it important?
+- What is the population of Bhadin?
+- Which towns and cities are nearby?
+- What is the geography of the area like?
+- What are the major occupations of people there?
+- Which crops are grown there?
+- What are the main local problems?
+- What are the road and railway connections?
+- Which schools and hospitals are nearby?
+- What do you like about Bhadin?
+- What do you dislike about it?
+- What would you improve there?
+- What is the difference between present, permanent and maximum residence?
+- If your permanent residence is Bhadin, why did you spend most of your life in Palhani?
+
+## PIQ 21 – Category: OBC
+- What does OBC mean?
+- Why is reservation provided, and what is its purpose?
+- What is the difference between OBC and SC/ST?
+- What is the creamy layer?
+- What is your opinion about reservation?
+- What is a caste census?
+- Should reservation be based on economic or social criteria?
+
+## PIQ 22 – Mother Tongue: Hindi
+- What is your mother tongue?
+- Which Hindi dialect is spoken in your area?
+- What is the difference between a language and a dialect?
+- Do you speak any other languages?
+- Why is Hindi important?
+- What is the status of Hindi in India?
+- What is the difference between Hindi and Hindustani?
+- What is the difference between an official language and a national language?
+
+## PIQ 23 – Marital Status
+- Why are you unmarried?
+- Do you have any plans for marriage?
+- Does marriage affect a military career?
+- What does your family expect from you regarding marriage?
+
+## PIQ 24 – NCC
+- Why didn't you join the NCC?
+- Was NCC available in your school or college?
+- What do you know about the NCC?
+- What is the NCC motto?
+- What are the benefits of the NCC?
+- Do you regret not joining the NCC?
+- How did you develop discipline without the NCC?
+- Why should the Army select you despite having no NCC background?
+
+## PIQ 25 – Hobby: Gaming
+- Which games do you play?
+- What is your favourite FPS game?
+- What is your favourite strategy game?
+- Why do you play games?
+- How often do you play?
+- Do you prefer playing solo or multiplayer?
+- What has gaming taught you about teamwork?
+- What has gaming taught you about strategy and decision-making?
+- What has gaming taught you about leadership?
+- Do you play competitively?
+- What have you learned from gaming overall?
+- Isn't gaming a waste of time?
+- How do you control the time you spend gaming?
+- What is gaming addiction, and how do you avoid it?
+- Is gaming a career option?
+- What is esports?
+- What are the positive and negative effects of gaming?
+
+## PIQ 26 – Hobby: Photography & Cinematography
+- When did you start photography?
+- Why photography?
+- What is the difference between photography and cinematography?
+- Do you use a camera or a mobile phone?
+- Which type of photography do you like most: portrait, landscape, street or another?
+- What is composition?
+- Why is lighting important?
+- What is exposure?
+- What is shutter speed?
+- What is aperture?
+- What is ISO?
+- How does the lens affect a photograph?
+- What is framing?
+- How do you edit your photos and videos?
+- Who is your favourite photographer or cinematographer?
+- Tell me about a photograph you are proud of.
+- What makes a good photograph?
+- What have you learned from this hobby?
+
+## PIQ 27 – Elite E Gaming (Leader, 2023–24)
+- What is Elite E Gaming?
+- Why did you join?
+- What was your position?
+- Why were you made the leader?
+- What were the three inter-department events?
+- How many participants were there?
+- What exactly were your responsibilities?
+- How did you plan the events?
+- How did you allocate teams?
+- What problems did you face?
+- Was there any conflict, and how did you handle it?
+- Did anything fail?
+- What went well?
+- What would you change if you did it again?
+- What did you learn about leadership?
+
+## PIQ 28 – Runtime Hackers (2022)
+- What is Runtime Hackers?
+- Why did you join?
+- How many juniors did you guide?
+- What kind of queries did they bring?
+- How did you help them?
+- Was there a time you didn't know the answer? How did you handle it?
+- Did the juniors respect your guidance?
+- What did mentoring teach you?
+- What is the difference between teaching and mentoring?
+
+## PIQ 29 – Responsibility: Project Lead
+- Which project did you lead?
+- What was the team size?
+- How long did the project last?
+- How were you selected as Project Lead?
+- What were your responsibilities?
+- What was the biggest problem?
+- Was there any conflict in the team?
+- Was there a deadline, and did you meet it?
+- How did you delegate work?
+- What was your biggest mistake?
+- What was the result?
+
+## PIQ 29 – Responsibility: Club President
+- Which club were you President of?
+- How many members did it have?
+- How were you selected?
+- What activities did the club run?
+- What important decisions did you take?
+- Was there any conflict, and how did you resolve it?
+- What was the club's biggest achievement under you?
+- What was a failure during your term?
+- What changed because of you?
+
+## PIQ 29 – Responsibility: Discipline Incharge
+- Where were you Discipline Incharge?
+- What did the role involve?
+- What authority did you have?
+- Give an example of when you enforced discipline.
+- What did you do when a friend broke the rules?
+- What did you do when a senior broke the rules?
+- How did you balance discipline and relationships?
+
+## PIQ 30 – Why Army (SSC)
+- Why not the Navy?
+- Why not the Air Force?
+- Why SSC?
+- Why not Permanent Commission?
+- What do you know about Army life?
+- What are the disadvantages of Army life?
+- Why should the Army select you?
+- Which of your qualities suit an Army officer?
+- Which qualities do you need to improve?

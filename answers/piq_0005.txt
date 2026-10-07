@@ -1,0 +1,240 @@
+801|A statement that repeats a block of code while a condition holds (for, while, do-while).
+802|A program that translates source code into machine code before execution.
+803|(Fill.)
+804|(Fill.)
+805|(Fill with honest reason.)
+806|(Fill honestly.) e.g. one or two subjects pulled the aggregate down; I learned to prepare more evenly.
+807|(Fill.) e.g. self-study, past papers, revision timetable, teachers' guidance.
+808|(Fill.)
+809|(Fill.)
+810|(Fill.) e.g. fixed study hours, athletics practice in the evening.
+811|(Fill.) e.g. move to Lucknow, new board (CBSE), Science stream with JEE pressure.
+812|(Fill exactly – rank, out of how many, basis.)
+813|(Fill.)
+814|(Fill.)
+815|(Fill.)
+816|(Fill.)
+817|(Fill.)
+818|(Fill.)
+819|(Fill: source – school notice board / result list / certificate.)
+820|(Fill.)
+821|(Fill.)
+822|(Fill.)
+823|(Fill.)
+824|(Fill.)
+825|(Fill.)
+826|(Fill.)
+827|(Fill.) e.g. sports day, annual function, quizzes, debates.
+828|Athletics (400m and 800m – 1st in school; represented school at district level, 2017–18); (add others).
+829|(Fill.)
+830|(Fill.)
+831|(Fill.)
+832|(Fill.)
+833|(Fill.)
+834|(Fill.)
+835|(Fill.) e.g. more sports facilities / career guidance / practical labs.
+836|(Fill.)
+837|(Fill.) e.g. athletics practice, homework, play.
+838|(Fill.)
+839|(Fill.)
+840|(Fill.)
+841|Parents chose it for better opportunities and communication skills.
+842|(Fill.) Mostly Hindi/Bhojpuri with family.
+843|Hindi; comfortable in English too.
+844|Yes – language of higher education, science, business and global communication; but mother tongue matters equally.
+845|Pros: global opportunities, access to knowledge. Cons: rote learning if not understood, may weaken mother tongue.
+846|(Fill honestly.) I am consistent rather than naturally brilliant.
+847|Break topics into small parts, practise regularly, ask doubts early, use multiple sources.
+848|Try first myself, then ask teachers/peers or search; never leave doubts.
+849|(Fill honestly.) Sometimes; I use to-do lists and deadlines to control it.
+850|Plan, prioritise, exercise and keep perspective.
+851|(Fill honestly.)
+852|(Fill.) Mostly alone for concepts, group for revision/doubts.
+853|Book chapter on NLP; 84.83% in Class 10 (top 10 in school).
+854|Drop to 68.8% in Class 12.
+855|Consistent effort pays; plan revision early.
+856|Class 10: ICSE, Children College, Azamgarh (2018, 84.83%). Class 12: CBSE, Rani Laxmi Bai Memorial School, Lucknow (2020, 68.8%). B.Tech CSE: IMSEC, AKTU (2024, 73.3%). Now frontend developer + freelancer.
+857|Science (PCM) – to pursue engineering and computers.
+858|(Fill.) e.g. moved to Lucknow / school offered CBSE, better for JEE.
+859|(Fill: real reason.)
+860|(Fill.) Physics, Chemistry, Maths, English, + (Computer Science/other).
+861|Yes – good result gave confidence to take Science.
+862|Engineering / computers.
+863|Interest in Computer since Class 10 → PCM → B.Tech CSE.
+864|Rani Laxmi Bai Memorial School, Lucknow.
+865|CBSE.
+866|2020.
+867|68.8% (First Division).
+868|60% or more aggregate marks.
+869|(Fill.)
+870|(Fill.)
+871|(Fill.)
+872|(Fill real reason.) e.g. better schools and coaching for engineering.
+873|(Fill.)
+874|(Fill.)
+875|(Fill.)
+876|(Honest answer.) e.g. tough transition (new city, new board, new school), JEE focus over boards, COVID disruption in 2020. I accept I should have balanced better; I improved in B.Tech.
+877|(Fill honestly.) Class 11–12 PCM is a big jump; I underestimated it initially.
+878|(Fill honestly.)
+879|(Fill honestly.)
+880|(Fill.)
+881|(Fill honestly.) The adjustment took time.
+882|(Fill.)
+883|No – I knew I could do better; it motivated me.
+884|Plan from Class 11, balance boards and entrance exams, ask for help early.
+885|(Fill.)
+886|(Fill.)
+887|(Fill.)
+888|(Fill.)
+889|(Fill.)
+890|(Fill.)
+891|(Fill.)
+892|(Fill.)
+893|(Fill.)
+894|(Fill.)
+895|Central Board of Secondary Education.
+896|CBSE itself, under the Ministry of Education (HQ New Delhi).
+897|(Fill.) e.g. ICSE more detailed and English-heavy; CBSE NCERT-based, more aligned with JEE/NEET.
+898|(Fill honestly.)
+899|(Fill: locality, Lucknow.)
+900|(Fill.)
+901|(Fill.)
+902|(Fill.)
+903|(Fill.)
+904|(Fill.)
+905|(Fill.)
+906|(Fill.)
+907|(Fill.)
+908|(Fill.)
+909|To honour the queen of Jhansi, a symbol of courage in 1857, and to inspire students.
+910|Rani of Jhansi (born Manikarnika, 1828, Varanasi); led the fight against the British in 1857.
+911|Refused the Doctrine of Lapse annexation ("Main apni Jhansi nahi doongi"); led her forces at Jhansi and Gwalior.
+912|British under Sir Hugh Rose besieged Jhansi (March–April 1858); she escaped to Kalpi and Gwalior.
+913|Bahadur Shah Zafar, Mangal Pandey, Nana Saheb, Tantia Tope, Rani Lakshmibai, Begum Hazrat Mahal, Kunwar Singh, Maulvi Ahmadullah Shah.
+914|Courage, leadership and sacrifice – she died fighting at Gwalior in June 1858.
+915|COVID-19 pandemic; national lockdown; India–China Galwan clash (June 2020).
+916|First case on 30 January 2020 (Kerala); national lockdown from 25 March 2020.
+917|Classes moved online, final board exams were disrupted.
+918|Yes – CBSE cancelled the remaining board exams in 2020; results were given on an assessment scheme.
+919|(Fill.) e.g. online classes, self-study, YouTube.
+920|(Fill.) e.g. self-study, coding, helping family, fitness.
+921|(Fill.) e.g. made me value health and adaptability.
+922|Joined B.Tech CSE at IMS Engineering College (AKTU).
+923|To build a career in computers and technology.
+924|(Fill.) e.g. AKTU-affiliated, NCR location, placements.
+925|(Fill.)
+926|(Fill.) e.g. via JEE Main / AKTU counselling.
+927|Strong technical foundation, projects, and a good career.
+928|Focused on subjects I liked, practical projects, consistent study.
+929|Programming, problem solving, teamwork, project work, publishing research.
+930|Results come from consistent effort; adjusting to change needs planning.
+931|(Fill honestly.)
+932|(Fill.)
+933|(Fill.)
+934|(Fill.) e.g. gaming, photography, athletics.
+935|(Fill.) e.g. independence and managing myself in a new city.
+936|Data structures, algorithms, DBMS, operating systems, computer networks, software engineering, AI/ML, web technologies (fill).
+937|2024.
+938|73.3% (First Division).
+939|(Fill.)
+940|(Fill.)
+941|(Fill.)
+942|Interest in my subjects, better time management, more mature approach.
+943|Yes.
+944|Yes – practical subjects like web development and AI.
+945|(Fill.)
+946|Consistent and practical; I learn best by building things.
+947|(Fill.) e.g. JavaScript, Python, C/C++, SQL.
+948|(Fill.) e.g. JavaScript.
+949|Encapsulation, abstraction, inheritance, polymorphism.
+950|A class acquiring properties and methods of another class (reuse).
+951|One interface, many forms – method overloading/overriding.
+952|Bundling data and methods together and hiding internal details.
+953|Showing only essential features and hiding implementation details.
+954|Array: fixed size, contiguous memory, fast index access. Linked list: dynamic size, nodes with pointers, easy insert/delete.
+955|Stack: LIFO (last in, first out); queue: FIFO (first in, first out).
+956|A hierarchical data structure with a root and child nodes (e.g. binary tree).
+957|Nodes (vertices) connected by edges; used for networks and maps.
+958|Arranging data in order – bubble, merge, quick sort.
+959|Finding an element – linear search O(n), binary search O(log n).
+960|How running time grows with input size.
+961|Notation for the upper bound of an algorithm's growth rate – O(1), O(log n), O(n), O(n²).
+962|SQL: relational tables, fixed schema (MySQL). NoSQL: flexible schema – documents, key-value (MongoDB).
+963|Organising tables to reduce redundancy and anomalies (1NF, 2NF, 3NF).
+964|A unique identifier for each row in a table.
+965|A field referring to the primary key of another table, linking them.
+966|Combining rows from two or more tables based on a related column.
+967|A NoSQL document database storing JSON-like documents.
+968|Building the part of a website/app users see and interact with (HTML, CSS, JavaScript, React).
+969|Server-side logic, databases and APIs.
+970|Application Programming Interface – rules for software to communicate.
+971|Representational State Transfer – API style using HTTP methods (GET, POST, PUT, DELETE) on resources.
+972|HyperText Transfer Protocol – protocol for web communication (HTTPS is the secure version).
+973|Programming language of the web, for interactive pages; also used on servers (Node.js).
+974|A JavaScript library (by Meta) for building user interfaces using components.
+975|Reusable components, virtual DOM, large ecosystem and community.
+976|JavaScript runtime to run JS on servers.
+977|Lightweight Node.js framework to build APIs and web servers.
+978|MongoDB, Express, React, Node.js – full-stack JavaScript.
+979|Solving problems, building useful things and continuous learning.
+980|Natural Language Processing – AI that helps computers understand and generate human language.
+981|Lets machines work with language – search, translation, chatbots, voice assistants.
+982|Translation, summarisation, spam detection, sentiment analysis, speech-to-text, chatbots.
+983|AI is the broad field; ML is a subset that learns from data; NLP is the area of AI dealing with language (often using ML).
+984|Models learn patterns from large text data for classification, translation and generation.
+985|Splitting text into words/sub-words (tokens).
+986|Cutting words to their root by removing suffixes (running → run).
+987|Converting words to their dictionary form (better → good).
+988|Common words removed in processing (the, is, and).
+989|Part-of-Speech tagging – labelling words as noun, verb, adjective, etc.
+990|Identifying names of people, places, organisations and dates in text.
+991|Finding whether text expresses positive, negative or neutral opinion.
+992|Assigning text to categories (spam/not spam, topics).
+993|Converting spoken words into text.
+994|AI producing new text (chatbots, summaries).
+995|Sequence of steps: text cleaning → tokenisation → normalisation → features/embeddings → model → output.
+996|Voice assistants, Google Translate, spam filters, chatbots, auto-complete.
+997|e.g. Spam filter: email text → tokenise and clean → convert to features → trained classifier → spam/not spam.
+998|(Fill: title, topic, your contribution.)
+999|(Fill.)
+1000|(Fill.)
+1001|(Fill.)
+1002|(Fill.)
+1003|(Fill.)
+1004|(Fill honestly – your exact part.)
+1005|(Fill.)
+1006|(Fill.)
+1007|(Fill.)
+1008|(Fill.)
+1009|(Fill.)
+1010|(Fill.)
+1011|(Fill.)
+1012|(Fill.)
+1013|Research process, structured writing, teamwork, academic honesty.
+1014|(Fill.)
+1015|It is published, contributes knowledge, and shows research and writing ability; (state your exact role).
+1016|A system converting spoken audio into sign language output to help the hearing-impaired.
+1017|To improve accessibility and communication for deaf and hard-of-hearing people.
+1018|Browser's Web Speech API captured speech and converted it to text (fill if different).
+1019|Processing text – tokenising, simplifying grammar and mapping words to signs.
+1020|Browser API for speech recognition (speech-to-text) and speech synthesis (text-to-speech).
+1021|Technology that converts spoken language into written text.
+1022|(Fill.) e.g. mapping words to sign images/animations; spelling unknown words letter by letter.
+1023|(Fill.) e.g. limited vocabulary, accents/noise, ISL grammar differs from English.
+1024|Larger sign dataset, Indian Sign Language grammar, better models, offline/mobile support.
+1025|(Fill.) Prototype.
+1026|(Fill honestly.)
+1027|A chapter in an edited book; a research paper is a standalone article in a journal or conference.
+1028|The systematic plan for research – design, data collection and analysis.
+1029|A company or body that publishes scholarly work (e.g. Springer, Elsevier, IEEE, CRC Press).
+1030|Peer review, credible sources, clear methods, reproducible results, citations.
+1031|Solves a real problem, original, reliable and applicable.
+1032|Honesty in academic work – no plagiarism, no fake data, proper credit.
+1033|Dr. A.P.J. Abdul Kalam Technical University.
+1034|Lucknow.
+1035|Affiliates technical colleges, sets syllabus, conducts exams and awards degrees.
+1036|Hundreds of engineering, management and pharmacy colleges across UP, including IMS Engineering College, Ghaziabad.
+1037|Semester exams set and conducted by the university; internal marks by colleges.
+1038|Autonomous colleges set their own syllabus and exams; affiliated colleges follow the university's.
+1039|Founded in 2000 as UPTU; renamed in 2015 after Dr Kalam's death to honour him.
+1040|India's 11th President (2002–07), aerospace scientist, "Missile Man of India", Bharat Ratna (1997); born 15 Oct 1931, Rameswaram; died 27 July 2015.

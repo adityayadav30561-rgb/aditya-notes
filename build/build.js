@@ -1,7 +1,8 @@
 // Builds the question sheets listed in SHEETS from their Markdown sources.
-// Each source has "## Section" lines and "- question" lines. Each output is one
-// compact table (# | Question | Answer): questions numbered continuously, each
-// section as a shaded title row, and an empty Answer column to fill in.
+// Each source has "## Section" lines and "- question" lines; a line may carry an
+// answer after " :: ". Each output is one compact, print-friendly table
+// (# | Question | Answer): questions numbered continuously and each section as a
+// shaded title row. Questions without an answer get an empty Answer cell.
 // Usage: node build/build.js
 const fs = require("fs");
 const path = require("path");
@@ -18,18 +19,18 @@ const SHEETS = [
 
 const FONT = "Calibri";
 const NAVY = "1F3864";
-const SIZE = 18; // 9 pt
+const SIZE = 14; // 7 pt
 
-const PAGE_W = 11906, MARGIN = 600;
+const PAGE_W = 11906, MARGIN = 420;
 const CONTENT_W = PAGE_W - 2 * MARGIN;
-const COLS = [520, 5800, CONTENT_W - 520 - 5800]; // # | Question | Answer
+const COLS = [420, 4300, CONTENT_W - 420 - 4300]; // # | Question | Answer
 
 const line = { style: BorderStyle.SINGLE, size: 4, color: "BFBFBF" };
 const borders = { top: line, bottom: line, left: line, right: line };
 const cell = (w, text, opts = {}) => new TableCell({
   width: { size: w, type: WidthType.DXA },
   borders,
-  margins: { top: 15, bottom: 15, left: 60, right: 60 },
+  margins: { top: 0, bottom: 0, left: 45, right: 45 },
   shading: opts.fill ? { type: ShadingType.CLEAR, color: "auto", fill: opts.fill } : undefined,
   children: [new Paragraph({
     alignment: opts.align,
@@ -44,7 +45,8 @@ function parse(file) {
     if (line.startsWith("## ")) sections.push({ title: line.slice(3).trim(), questions: [] });
     else if (line.startsWith("- ")) {
       if (!sections.length) sections.push({ title: "Questions", questions: [] });
-      sections[sections.length - 1].questions.push(line.slice(2).trim());
+      const [q, ...a] = line.slice(2).split(" :: ");
+      sections[sections.length - 1].questions.push({ q: q.trim(), a: a.join(" :: ").trim() });
     }
   }
   return sections;
@@ -66,15 +68,15 @@ async function build({ src, out, title }) {
       columnSpan: 3,
       width: { size: CONTENT_W, type: WidthType.DXA },
       borders,
-      margins: { top: 25, bottom: 25, left: 60, right: 60 },
+      margins: { top: 10, bottom: 10, left: 45, right: 45 },
       shading: { type: ShadingType.CLEAR, color: "auto", fill: NAVY },
       children: [new Paragraph({ heading: HeadingLevel.HEADING_1, children: [new TextRun(s.title)] })],
     })] }));
-    for (const q of s.questions) {
+    for (const { q, a } of s.questions) {
       rows.push(new TableRow({ cantSplit: true, children: [
         cell(COLS[0], String(++n), { align: AlignmentType.CENTER, color: "7F7F7F" }),
-        cell(COLS[1], q),
-        cell(COLS[2], ""),
+        cell(COLS[1], q, { bold: true }),
+        cell(COLS[2], a),
       ] }));
     }
   }
@@ -85,20 +87,20 @@ async function build({ src, out, title }) {
       default: { document: { run: { font: FONT, size: SIZE } } },
       paragraphStyles: [
         { id: "Heading1", name: "Heading 1", basedOn: "Normal", next: "Normal", quickFormat: true,
-          run: { size: 19, bold: true, color: "FFFFFF" },
+          run: { size: 15, bold: true, color: "FFFFFF" },
           paragraph: { spacing: { before: 0, after: 0 }, outlineLevel: 0, keepNext: true } },
       ],
     },
     sections: [{
       properties: { page: { size: { width: PAGE_W, height: 16838 },
-        margin: { top: 600, bottom: 600, left: MARGIN, right: MARGIN, footer: 300 } } },
+        margin: { top: 400, bottom: 400, left: MARGIN, right: MARGIN, footer: 200 } } },
       footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER,
         children: [new TextRun({ children: [PageNumber.CURRENT], size: 14, color: "A6A6A6" })] })] }) },
       children: [
         new Paragraph({
-          spacing: { after: 60 },
+          spacing: { after: 30 },
           border: { bottom: { style: BorderStyle.SINGLE, size: 8, color: NAVY, space: 2 } },
-          children: [new TextRun({ text: title, bold: true, size: 28, color: NAVY })],
+          children: [new TextRun({ text: title, bold: true, size: 22, color: NAVY })],
         }),
         new Table({ width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: COLS, rows }),
       ],

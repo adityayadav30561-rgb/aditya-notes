@@ -1,0 +1,240 @@
+561|Study of population size, distribution, density, growth and migration.
+562|Study of cities and towns – their growth, structure and problems.
+563|An area of land where all water drains to a common stream or river; also the ridge dividing two drainage areas.
+564|The total land area drained by a river and its tributaries (e.g. Ganga basin).
+565|Differential heating of land and sea, low pressure over north-west India and Tibet, shift of the ITCZ, and winds bending due to Earth's rotation.
+566|About 70% of India's annual rain comes in the monsoon; about half of farmland is rain-fed; it also fills reservoirs and groundwater.
+567|Latitude, altitude, distance from the sea, winds, ocean currents, relief (mountains) and vegetation.
+568|Weather = short-term daily conditions; climate = average weather of a place over ~30 years.
+569|Growth of population in towns and cities due to migration and the spread of urban areas.
+570|Push factors (lack of jobs, poverty, disasters) and pull factors (jobs, education, healthcare, better life).
+571|Maruti Suzuki's premium car retail channel, launched in 2015.
+572|Run by Maruti Suzuki India Ltd through dealers; it is Maruti's premium showroom brand.
+573|To sell premium cars with a better showroom experience and attract upmarket buyers.
+574|NEXA = premium models and experience; Arena = Maruti's mass-market channel (Alto, Swift, Dzire, Brezza, etc.).
+575|Young, urban, aspirational and upper-middle-class buyers.
+576|Baleno, Fronx, Grand Vitara, XL6, Ignis, Jimny, Invicto, e Vitara (EV).
+577|Sells cars, test drives, finance and insurance, registration, service, spares and after-sales support.
+578|Manufacturer designs and builds cars; dealer is the retailer who sells and services them.
+579|Hyundai, Tata, Mahindra, Kia, Toyota, Honda, MG, Skoda-Volkswagen, Renault.
+580|Price, mileage, safety rating, features, brand, resale value, service network, financing.
+581|Depends on use: EV for city driving and low running cost; hybrid for mileage plus range; petrol for low upfront cost.
+582|Pros: low running cost, zero tailpipe emissions, quiet. Cons: high price, charging infrastructure, range anxiety, battery cost.
+583|Sport Utility Vehicle – high ground clearance, rugged body.
+584|Multi-Purpose Vehicle – 6–8 seater family vehicle (e.g. Ertiga, XL6, Innova).
+585|Gearbox that changes gears automatically (AMT, CVT, torque converter, DCT).
+586|Advanced Driver Assistance Systems – automatic emergency braking, lane-keep assist, adaptive cruise control.
+587|Engine and features, taxes (GST), raw materials, safety norms, brand, demand.
+588|(Fill.) e.g. walk-ins, leads, test drives, follow-ups, finance offers, referrals.
+589|(Fill.) e.g. targets, daily review, training, incentives.
+590|A sales number to achieve in a period; set by the company/dealer based on past sales and demand.
+591|A potential customer who has shown interest.
+592|Turning a lead into an actual sale; conversion rate = sales ÷ leads.
+593|The stages a customer moves through: awareness → interest → consideration → purchase.
+594|Understand the objection, address it honestly, give options, keep in touch without pressure.
+595|Listen calmly, apologise, solve quickly, follow up.
+596|Clear targets, incentives, recognition, training and leading by example.
+597|Managing relationships with customers – data, follow-ups, feedback (often through CRM software).
+598|Marketing creates interest and demand; sales converts that interest into actual purchases.
+599|Units sold vs target, revenue, conversion rate, customer satisfaction.
+600|Analyse lead pipeline, find bottlenecks, improve follow-ups, run offers/test-drive events, set short-term targets, support weak members.
+601|Planning, organising, clear communication, fairness and achieving results.
+602|Vision, integrity, courage, care for people and leading by example.
+603|No – managers manage tasks and systems; leaders inspire people. The best do both.
+604|Find the cause, coach and support, set clear goals, then take firm action if no improvement.
+605|Hear both sides separately, focus on facts and goals, find a fair solution, follow up.
+606|No – people and methods matter for long-term results.
+607|Set realistic targets, support the team, recognise effort, and look after their wellbeing.
+608|(Fill.) e.g. handling pressure, communication, target focus.
+609|(Fill.)
+610|(Fill.)
+611|(Fill.)
+612|(Fill.)
+613|(Fill.) e.g. confidence with people, hard work, communication.
+614|(Fill honestly – minor.)
+615|(Fill.)
+616|(Fill.)
+617|(Fill.)
+618|(Fill.)
+619|(Fill.)
+620|My interest was in technology, not sales.
+621|Not as a career, but I respect the communication and people skills it needs.
+622|How to handle people, pressure and targets; communication skills.
+623|(Fill honestly.)
+624|Both have targets/deadlines, dealing with clients/customers, problem solving.
+625|Understanding user needs, communication, handling pressure, meeting deadlines.
+626|(Fill.)
+627|(Fill.) Usually fixed pay plus incentives.
+628|Paid on achieving targets – per car sold, finance/insurance add-ons, team targets.
+629|Salary is fixed regular pay; incentive is variable pay linked to performance.
+630|My sister (PhD in Computer Science).
+631|My mother (fill if different).
+632|(Fill with reason.)
+633|(Fill.)
+634|(Fill.)
+635|PhD in Computer Science (fill earlier degrees).
+636|(Fill.)
+637|(Fill.)
+638|(Fill.)
+639|(Fill.)
+640|(Fill.)
+641|(Fill.)
+642|(Fill: college/university.)
+643|Teaches, guides students, does research and publishes, academic administration.
+644|(Fill.)
+645|(Fill.)
+646|About ₹90,000 per month (fill: gross/net).
+647|(Fill.)
+648|Study of computers and computation – algorithms, programming, data, systems and applications.
+649|Hardware is physical parts (CPU, memory); software is programs and instructions.
+650|Software that manages hardware and runs programs – Windows, Linux, macOS, Android.
+651|Organised collection of data that can be stored and retrieved easily.
+652|Structured Query Language – used to manage and query relational databases.
+653|A formal language to write instructions for computers (JavaScript, Python, Java, C++).
+654|A step-by-step procedure to solve a problem.
+655|A way of organising data for efficient use – array, linked list, stack, queue, tree, graph.
+656|Object-Oriented Programming – organises code into objects; pillars: encapsulation, abstraction, inheritance, polymorphism.
+657|Artificial Intelligence – machines performing tasks that need human intelligence (reasoning, language, vision).
+658|Subset of AI where systems learn patterns from data instead of being explicitly programmed.
+659|AI that creates new content – text, images, code, audio (e.g. ChatGPT, Claude, Gemini).
+660|Protecting systems, networks and data from attacks, theft and damage.
+661|Delivering computing resources (servers, storage, software) over the internet on demand – AWS, Azure, Google Cloud.
+662|Connected computers sharing data and resources (LAN, WAN).
+663|A global network of networks using TCP/IP protocols.
+664|Doctor of Philosophy – highest research degree; requires original research and a thesis.
+665|Master's builds advanced knowledge (mostly coursework); PhD requires original research contribution.
+666|Systematic investigation to discover new knowledge or solve problems.
+667|A specific gap or question the research aims to answer.
+668|A testable prediction or proposed explanation.
+669|Survey of existing research on a topic to find gaps.
+670|A document presenting original research – method, results, conclusions – usually peer-reviewed.
+671|Evaluation of research by independent experts before publication.
+672|Using someone else's work or ideas without credit.
+673|A reference to a source used in your work.
+674|Fundamental research expands knowledge; applied research solves practical problems.
+675|Drives innovation, self-reliance (e.g. defence, space), economic growth and solutions to national problems.
+676|The field changes fast; research creates new algorithms, AI, security and tools.
+677|(Fill.)
+678|No – also research, mentoring, administration and outreach.
+679|Generates new knowledge, keeps teaching current, needed for promotion.
+680|Managing exams, admissions, timetables, committees and department work.
+681|Assignments, internal tests, practicals, projects, end-semester exams.
+682|Planning what is taught – topics, sequence, outcomes and assessment.
+683|Guiding someone's growth through advice and experience.
+684|A professor teaches at university level and does research; a school teacher focuses on teaching.
+685|Large classes, admin workload, research pressure, outdated curricula, student engagement.
+686|Industry-linked curriculum, research funding, better faculty, NEP reforms, skill focus.
+687|I wanted practical industry experience first, and my goal now is the Army; I value learning in any form.
+688|Possibly later – the Army sponsors officers for M.Tech; I would take such opportunities.
+689|I have practical experience building real products and a published book chapter; capability is shown by work, not only degrees.
+690|(Fill.)
+691|(Fill.)
+692|(Fill.)
+693|(Fill.)
+694|(Fill.) e.g. web development, NLP/AI.
+695|Frontend developer and freelancer.
+696|I enjoy building what users see and interact with – creative and visible results.
+697|(Fill your stack.) e.g. HTML, CSS, JavaScript, React, Node.js/Express, MongoDB, Git.
+698|(Fill.) e.g. Audio-to-Sign-Language Translator, current company project, freelance websites.
+699|(Fill.)
+700|Generative AI models and AI agents; AI regulation; ransomware and AI-driven cyber attacks; post-quantum cryptography.
+701|Cybersecurity awareness, secure communication, data analysis, digital systems, automating admin, training troops on technology.
+702|Surveillance analysis, target recognition, logistics prediction, predictive maintenance, decision support, drones.
+703|Military command, communication and weapon systems depend on networks; attacks can blind or disable them.
+704|Using cyber attacks to disrupt or damage an adversary's systems, networks or infrastructure.
+705|Disrupt communication, leak plans, spoof data, disable weapons or logistics.
+706|Autonomous navigation, target detection, swarm coordination, obstacle avoidance.
+707|Sorts huge volumes of images, signals and text to find patterns and threats quickly.
+708|Communication, navigation (NavIC/GPS), surveillance and reconnaissance, early warning.
+709|Surveillance, mine clearance, logistics delivery, reconnaissance, bomb disposal.
+710|Errors, lack of accountability, hacking, escalation, ethical issues of lethal decisions.
+711|Computing using qubits (superposition, entanglement) to solve certain problems much faster.
+712|Could break today's encryption (RSA); needs post-quantum cryptography; India has a National Quantum Mission (2023).
+713|(Fill.)
+714|(Fill.)
+715|UGC pay scales (7th CPC) for government colleges; institution policy in private colleges.
+716|Assistant Professor → Associate Professor → Professor (also HoD, Dean).
+717|PhD, teaching experience, publications and research, as per UGC rules.
+718|Yes – publications and research are key for promotion.
+719|(Fill.)
+720|(Fill.)
+721|(Fill.)
+722|(Fill.)
+723|(Fill.)
+724|(Fill.) e.g. dedication and perseverance in completing a PhD.
+725|(Fill honestly – minor.)
+726|(Fill.)
+727|Perseverance, focus and the value of learning.
+728|(Fill.) e.g. academic patience and research depth.
+729|(Fill.) e.g. practical problem-solving, sports, fitness.
+730|Father: Shri Vinod Yadav, farmer (10+2). Mother: Smt Vimla Yadav, government teacher (B.A., B.Ed). Brother: Sales Manager at NEXA (B.A. Geography). Sister: Assistant Professor (PhD, CS). I'm the youngest – frontend developer.
+731|My parents believed education gives opportunities they didn't have.
+732|Yes – my mother is a teacher and my sister an academic.
+733|10,000 m².
+734|2.471 acres.
+735|43,560 sq ft.
+736|4,840 sq yd.
+737|0.405 hectare.
+738|100 hectares.
+739|247.1 acres.
+740|Local land units: 1 bigha = 20 biswa; 1 biswa = 20 biswansi.
+741|No – it varies by state and even by district.
+742|(Verify locally.) In UP a pucca bigha is often ~3,025 sq yd ≈ 0.625 acre ≈ 0.25 ha.
+743|Usually 20 biswa = 1 bigha (verify locally).
+744|(Fill.)
+745|100 kg.
+746|1,000 kg.
+747|10 quintals.
+748|500 kg.
+749|2 tonnes.
+750|15 quintals.
+751|1,000 litres.
+752|Water 1 m deep over 1 hectare = 10,000 m³ = 1 crore litres.
+753|10 m³ = 10,000 litres.
+754|°F = °C × 9/5 + 32; 25°C = 77°F.
+755|100 quintals = 10 tonnes.
+756|100 quintals.
+757|500 kg.
+758|500 kg.
+759|3,000 kg per hectare.
+760|250 kg.
+761|₹2,40,000.
+762|About ₹658 per day.
+763|(Fill.)
+764|(Fill.)
+765|(Fill.)
+766|(Fill.) Typical UP wheat yield ~14–16 quintals per acre.
+767|(Fill.)
+768|(Fill.) Check current wheat and paddy MSP.
+769|(Fill.)
+770|(Fill.)
+771|(Fill.)
+772|(Fill.) Paddy needs much more water than wheat.
+773|(Fill.)
+774|Children College, Azamgarh.
+775|(Fill: locality in Azamgarh.)
+776|ICSE (CISCE).
+777|(Fill.) e.g. strong English and detailed syllabus.
+778|2018.
+779|84.83% (Distinction).
+780|Strong and consistent performance; distinction; among top 10 in school.
+781|(Fill honestly.)
+782|English, Hindi, History-Civics-Geography, Maths, Science (Physics, Chemistry, Biology), Computer Applications (fill exact).
+783|Interest in science and computers; wanted an engineering path.
+784|(Fill.)
+785|(Fill.)
+786|Indian Certificate of Secondary Education (Class 10).
+787|CISCE – Council for the Indian School Certificate Examinations, a private, non-government national board (1958); also conducts ISC (Class 12).
+788|ICSE: detailed syllabus, strong English, more internal assessment. CBSE: government board, NCERT-based, aligned to competitive exams.
+789|A board sets syllabus and exams and certifies; a school teaches and is affiliated to a board.
+790|Comprehensive syllabus, emphasis on English, practical/project work, internal assessment.
+791|(Fill.)
+792|(Fill.)
+793|(Fill.)
+794|e.g. Newton's laws, refraction of light, Ohm's law (V = IR).
+795|e.g. periodic table, acids–bases–salts, chemical bonding, mole concept.
+796|Physics studies matter and energy and their interactions; chemistry studies composition and reactions of substances.
+797|Programming (Java/BlueJ in ICSE), basics of OOP, logic and problem solving.
+798|Java (ICSE Computer Applications uses Java/BlueJ) – verify.
+799|A diagram showing the steps of an algorithm using symbols.
+800|A named storage location for data in a program.

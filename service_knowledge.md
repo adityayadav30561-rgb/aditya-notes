@@ -2195,3 +2195,87 @@
 - What if you are allotted Engineers?
 - Will you be disappointed if you don't get your choice?
 - Are you joining the Army for the regiment or for the profession of soldiering?
+
+## Phase 13 – Current Affairs (to 7 Oct 2026): India
+- In September 2026 the Cabinet raised the EPF mandatory wage ceiling from ₹15,000 to ₹25,000 a month. What does this change, and why does it matter?
+- What is the Green Energy Corridor Phase-III scheme approved in September 2026?
+- What is the Integrated Transport and Logistics Authority approved by the Cabinet in October 2026?
+- What is the ₹10,000 crore SME Growth Fund approved in October 2026, and how will it help manufacturing?
+- The Cabinet raised the Rabi MSPs for the 2027-28 marketing season. Why does MSP matter to farmers like your father?
+
+## Phase 13 – Current Affairs: International Affairs
+- India hosted the 18th BRICS Summit in New Delhi in September 2026. Why was it important for India?
+- Why was Xi Jinping's visit to India for the BRICS Summit significant for India–China relations?
+- What did PM Modi and President Trump discuss in their call on 30 September 2026, and where do India–US trade talks stand?
+- What came out of the Trump–Xi meeting in September 2026, and why does the US–China trade truce matter to India?
+- What is COP17 of the UN Convention on Biological Diversity, being held in Yerevan in October 2026?
+
+## Phase 13 – Current Affairs: Geopolitics
+- What is the current situation in the Strait of Hormuz, and how does it affect India?
+- Where do US–Iran talks on reopening the Strait of Hormuz stand?
+- Where do Russia–Ukraine peace efforts stand, including the Türkiye–UN Black Sea talks?
+- What happened when an Indian and a Pakistani warship collided in the Arabian Sea in September 2026?
+- An international arbitration panel ruled against India's suspension of the Indus Waters Treaty. What is India's position?
+
+## Phase 13 – Current Affairs: Economy
+- On 7 October 2026 the RBI raised the repo rate by 25 basis points to 5.50%. Why did it raise rates?
+- What does "calibrated tightening" mean in monetary policy?
+- India's GDP grew 7.8% in Q1 FY27. What drove this growth?
+- What is the new GDP series with 2022-23 as base year, and why was the base year changed?
+- How do high crude oil prices, with Brent around $100 a barrel, affect India's economy and inflation?
+
+## Phase 13 – Current Affairs: Science & Technology
+- What is India Semiconductor Mission 2.0, announced at SEMICON India 2026, and what is its outlay?
+- Why is semiconductor manufacturing strategically important for India?
+- What is the status of ISRO's Gaganyaan programme, and when is the first uncrewed flight (G1) expected?
+- Who won the 2026 Nobel Prize in Physiology or Medicine, and what is optogenetics?
+- Who won the 2026 Nobel Prize in Physics, and what is the IceCube Neutrino Observatory?
+
+## Phase 13 – Defence Current Affairs: Exercises
+- What is Exercise Mountain Guardian 2026, where is it being held, and with which country?
+- What is Exercise Nomadic Elephant, and with which country does India hold it?
+- What is Exercise Yudh Abhyas 2026, and which new technologies were used in it?
+- What is Exercise KAZIND, and with which country is it held?
+- What is Exercise Varuna, and where was the 2026 edition held?
+
+## Phase 13 – Defence Current Affairs: Acquisitions
+- What did the Defence Acquisition Council approve on 7 September 2026, and what was the total value?
+- What is an Acceptance of Necessity (AoN), and how is it different from a signed contract?
+- Why is it significant that about 98% of the September 2026 DAC approvals will come from Indian industry?
+- What is the status of India's plan to acquire 114 Rafale jets?
+- What are the Satellite Smart Anti-Airfield Weapons ordered from BDL in September 2026?
+
+## Phase 13 – Defence Current Affairs: Missiles
+- What is the Agni-IV, test-fired from Chandipur in August 2026?
+- What is MIRV technology, tested on an Advanced Agni missile in May 2026?
+- What is multi-layered ballistic missile defence, demonstrated by DRDO in June 2026?
+- What is a scramjet, and why is DRDO's 1,200-second scramjet test important for hypersonic missiles?
+- Why is DRDO setting up a new missile test range at Junput in West Bengal?
+
+## Phase 13 – Defence Current Affairs: Aircraft
+- What is the status of the Tejas Mk1A, and why has its induction been delayed?
+- Why are GE F404 engine deliveries important for the Tejas programme?
+- How many fighter squadrons does the IAF have against its authorised 42.5, and why does the gap matter?
+- What is the C295, and why is the first Made-in-India C295 significant?
+- What is the HTT-40, and why is it important for pilot training?
+
+## Phase 13 – Defence Current Affairs: Ships
+- How many warships does the Indian Navy plan to induct in 2026, and why is this significant?
+- What are INS Samarthak and INS Mangrol, due for commissioning in October 2026?
+- What is INS Nipun, and what does a diving support vessel do?
+- What type of vessel is INS Malvan, commissioned in July 2026, and what is its role?
+- Why is high indigenous content in new warships important?
+
+## Phase 13 – Defence Current Affairs: Appointments
+- Who is the current Chief of the Army Staff, and when did he take over?
+- Who is the current Chief of Defence Staff?
+- Who is the current Chief of the Naval Staff?
+- Who is the current Chief of the Air Staff?
+- Who is the current Defence Secretary?
+
+## Phase 13 – Defence Current Affairs: Operations
+- What happened in the counter-terror operation near Udhampur in September 2026?
+- Which counter-terror operations did security forces carry out in Jammu and Kashmir in September 2026?
+- What are the White Knight Corps and the Chinar Corps, and where are they based?
+- What is the status of the India–Pakistan ceasefire along the LoC since May 2025?
+- What was Operation Sindoor, and what has changed in India–Pakistan relations since?

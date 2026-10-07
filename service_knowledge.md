@@ -2283,7 +2283,6 @@
 ## Phase 14 – Indian Army: Basic Facts
 - When was the Indian Army established?
 - What is the motto of the Indian Army?
-- Where is Army Headquarters located?
 - What is the approximate strength of the Indian Army, and how does it rank globally?
 - When is Army Day celebrated, and why on that date?
 - When are Navy Day and Air Force Day celebrated, and why?
@@ -2313,7 +2312,7 @@
 - What were the causes and outcome of the 1971 war?
 - What were Operation Trident and Operation Python in 1971?
 - What was Operation Cactus-Lilly?
-- What was the Kargil conflict, and who were its notable heroes?
+- Who were the notable heroes of the Kargil conflict?
 
 ## Phase 14 – Major Military Operations
 - What was Operation Blue Star?
@@ -2383,7 +2382,7 @@
 - What are the PAD and AAD layers of India's ballistic missile defence?
 - What is India's nuclear triad?
 - What is the Artillery Rationalisation Plan?
-- Which tank was the T-72 and which the T-90 developed from, and what is the Arjun's engine power?
+- What are the Arjun tank's engine power and top speed?
 
 ## Phase 14 – Training Establishments
 - Where is the Indian Military Academy?

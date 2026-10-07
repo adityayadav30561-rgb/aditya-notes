@@ -2279,3 +2279,160 @@
 - What are the White Knight Corps and the Chinar Corps, and where are they based?
 - What is the status of the India–Pakistan ceasefire along the LoC since May 2025?
 - What was Operation Sindoor, and what has changed in India–Pakistan relations since?
+
+## Phase 14 – Indian Army: Basic Facts
+- When was the Indian Army established?
+- What is the motto of the Indian Army?
+- Where is Army Headquarters located?
+- What is the approximate strength of the Indian Army, and how does it rank globally?
+- When is Army Day celebrated, and why on that date?
+- When are Navy Day and Air Force Day celebrated, and why?
+- How many Corps and Divisions does the Indian Army have?
+- What are Strike, Pivot and Mountain Strike Corps?
+- What is XVII Corps (Brahmastra Corps), and why was it raised?
+- What is a RAPID division?
+- What are Integrated Battle Groups (IBGs)?
+- What is the Cold Start doctrine?
+- What is a Ghatak platoon?
+- Which brigade comes directly under the COAS, and where is it located?
+- Where are the headquarters of XIV, XV and XVI Corps?
+
+## Phase 14 – Indian Army History
+- How did the Presidency Armies of Bengal, Bombay and Madras develop?
+- What was the role of Indian soldiers in the Revolt of 1857?
+- What role did Indian soldiers play in World War I and World War II?
+- What was the Indian National Army, and what was the Rani of Jhansi Regiment?
+- How was the Army divided at Partition in 1947?
+
+## Phase 14 – Wars & Major Battles
+- What happened in the 1947–48 war in Jammu and Kashmir?
+- What was the 1962 war with China, and what were its main lessons?
+- What were the causes and outcome of the 1965 war?
+- What were Operation Gibraltar and Operation Grand Slam?
+- What happened at Nathu La and Cho La in 1967?
+- What were the causes and outcome of the 1971 war?
+- What were Operation Trident and Operation Python in 1971?
+- What was Operation Cactus-Lilly?
+- What was the Kargil conflict, and who were its notable heroes?
+
+## Phase 14 – Major Military Operations
+- What was Operation Blue Star?
+- What was Operation Brasstacks?
+- What was Operation Talwar?
+- What was Operation Black Thunder?
+- What was Operation Black Tornado?
+- What was Operation Vajra Shakti?
+- What was Operation Green Hunt?
+- What was Operation Dhangu Suraksha?
+- What are Operation Rakshak, Operation Hifazat, Operation Rhino and Operation All Out?
+- What were the 2016 surgical strikes?
+- What was the 2019 Balakot airstrike (Operation Bandar)?
+
+## Phase 14 – Gallantry & Service Awards
+- What are India's wartime gallantry awards, in order?
+- What are India's peacetime gallantry awards, in order?
+- What is the Param Vir Chakra, and name some recipients?
+- What is the Maha Vir Chakra, and name a recipient?
+- What is the Vir Chakra?
+- What is the Ashoka Chakra, and name some recipients?
+- What are the Kirti Chakra and the Shaurya Chakra?
+- What is the Sena Medal?
+- What are the Sarvottam, Uttam and Yudh Seva Medals?
+- What are the Param Vishisht, Ati Vishisht and Vishisht Seva Medals?
+- What is the difference between a gallantry award and a distinguished service award?
+
+## Phase 14 – Women in the Army
+- When were women first given commissions in the Indian Army, and in which corps?
+- When did women start joining non-medical branches through SSC?
+- What was the Supreme Court's 2020 ruling on Permanent Commission for women?
+- What roles do women officers hold in the Army today?
+- What challenges remain for women in the Army?
+
+## Phase 14 – Agnipath Scheme
+- What is the Agnipath scheme, and when was it launched?
+- Who are Agniveers, and how long do they serve?
+- What percentage of Agniveers are retained, and what happens to the rest?
+- What is the Seva Nidhi package?
+- What are the benefits and criticisms of the Agnipath scheme?
+
+## Phase 14 – Arms, Services & Mottos
+- What is the motto of the Regiment of Artillery?
+- What is the motto of the Corps of Engineers?
+- What is the motto of the Corps of Signals?
+- What is the motto of the Army Air Defence?
+- What is the motto of the Army Aviation Corps?
+- What is the motto of the Army Medical Corps?
+- What are the mottos of the Army Ordnance Corps and the Corps of EME?
+- What is the Rashtriya Rifles, when was it raised, and what is its motto?
+- What is the Territorial Army, and what is its motto?
+- What is the Pioneer Corps, and what does it do?
+- What is the Army's Human Rights Cell?
+- What is STEAG?
+- When and why was the Mechanised Infantry Regiment raised?
+
+## Phase 14 – Weapons, Missiles & Systems (Additional)
+- What is the 30 mm Automatic Grenade Launcher, and what is its range?
+- What are the Hand Held Thermal Imager and the Battlefield Surveillance Radar?
+- What is the Kartik bridge-laying tank?
+- What is the Multi-Calibre Individual Weapon System (MCIWS)?
+- What are the Prithvi, Agni-V and Agni-VI missiles?
+- What is BrahMos, and why is it significant?
+- What is Nirbhay?
+- What is Pranash?
+- What is the S-400, and why did India buy it?
+- What are the PAD and AAD layers of India's ballistic missile defence?
+- What is India's nuclear triad?
+- What is the Artillery Rationalisation Plan?
+- Which tank was the T-72 and which the T-90 developed from, and what is the Arjun's engine power?
+
+## Phase 14 – Training Establishments
+- Where is the Indian Military Academy?
+- Where are the Officers' Training Academies?
+- Where is the National Defence Academy, and what is it?
+- Where is the Infantry School?
+- Where is the School of Artillery?
+- Where is the College of Military Engineering?
+- Where is the Military College of Telecommunication Engineering?
+- Where is the High Altitude Warfare School?
+- Where is the Counter Insurgency and Jungle Warfare School?
+- Where is the Defence Services Staff College?
+- Where are the National Defence College and the College of Defence Management?
+- What are IDSA, DIPR and DIHAR?
+
+## Phase 14 – Joint Exercises by Country
+- Which exercises does India hold with Russia?
+- Which exercises does India hold with the United States?
+- Which exercises does India hold with France?
+- Which exercises does India hold with the United Kingdom?
+- Which exercises does India hold with Japan?
+- Which exercises does India hold with Sri Lanka, Nepal, Bangladesh and Maldives?
+- Which exercises does India hold with Indonesia, Malaysia, Thailand, Singapore and Vietnam?
+- Which exercises does India hold with Central Asian countries (Kazakhstan, Kyrgyzstan, Uzbekistan, Mongolia)?
+- Which exercises does India hold with Oman, the UAE and Seychelles?
+- What are the Malabar and Milan exercises?
+
+## Phase 14 – Military Aircraft
+- Which fighter aircraft does the IAF operate?
+- What is the Su-30MKI?
+- What are the Rafale and the Rafale M?
+- What happened to the MiG-21 fleet?
+- What are the Netra AEW&C and the A-50 Phalcon?
+- What are the IAF's transport aircraft (C-17, C-130J, Il-76, An-32)?
+- What is the Il-78 used for?
+- What are the IAF's trainer aircraft (PC-7, Kiran, Hawk, HTT-40)?
+- What are the Apache and the Chinook, and who operates them?
+- What are the Mi-17 and the Mi-26?
+- What are the Dhruv ALH, Rudra and the LUH?
+- What are the Chetak and the Cheetah, and why are they being replaced?
+- Which helicopters does the Army Aviation Corps operate?
+- What are the Heron, the Searcher and the Harop?
+- What aircraft does the Navy operate (MiG-29K, P-8I, Ka-31)?
+
+## Phase 14 – General Knowledge
+- Name the northeastern states and their capitals.
+- Name the Union Territories and their capitals.
+- Who are the Prime Ministers and Presidents of India's neighbouring countries?
+- Who are the heads of government of the major world powers?
+- Name five national and five international political news items from the last month.
+- Name five recent national and international sports news items.
+- What are the major international organisations, and how do they work?

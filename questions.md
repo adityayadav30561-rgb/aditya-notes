@@ -1844,3 +1844,253 @@
 - Why should the Army select you?
 - Which of your qualities suit an Army officer?
 - Which qualities do you need to improve?
+
+## General – Tell Me About Yourself
+- Tell me about yourself.
+- Tell me about yourself apart from what is in your PIQ.
+- How much time do you need to talk about yourself?
+- Describe yourself in one word, and then in one sentence.
+- Take me through your life journey so far.
+- Tell me about your present, permanent and maximum residence together.
+
+## General – Name (More)
+- Are you happy with your name?
+- Name some famous personalities called Aditya.
+- Do you live up to your name? How?
+- What do the names of your family members mean?
+- Name some famous personalities from the Yadav community.
+
+## General – Hometown & State Awareness
+- Who is your village pradhan or local head?
+- Who is your MLA?
+- Who is your MP?
+- How many seats does the UP Legislative Assembly have?
+- What are the coordinates of your village, district and state?
+- How far is your village from the district headquarters and from Lucknow?
+- Why was your district recently in the news?
+- Why was your state recently in the news?
+- What is the educational, social and economic significance of your district?
+- What are the famous tourist places in your district?
+- Which nearby places have you personally visited?
+- Which places would you suggest I visit if I came to your town?
+- How does your district compare with developed cities in India and abroad?
+- If you were made Chief Minister of UP, what would you do?
+- How is your district different from the city where this SSB centre is?
+- Tell me five things you like most about your native place.
+
+## General – Family (More)
+- How many members are there in your family?
+- Since when has your family lived at the same place?
+- Whom do you admire most in your family, and why?
+- Whom do you share your secrets with?
+- Is there anyone in your family you don't get along with? Why?
+- Tell me three things you don't like in your father, mother, brother and sister.
+- How would your parents describe you?
+- How would your siblings describe you?
+- When did your parents last scold you, and why?
+- Whom do your parents love more among the siblings?
+- What are the benefits and drawbacks of being the youngest child?
+- How have your elder brother and sister helped you?
+- How do your parents use their income, and are you satisfied with that?
+- If your family became fully dependent on you, how would you manage?
+- Has your family ever faced a financial crisis?
+- Is there anything you have told your friends but not your parents?
+- Is there a wish your parents couldn't fulfil for you?
+
+## General – Friends
+- How many friends do you have, and how do you make new friends?
+- How many of them are close to you?
+- Who is your best friend, and why?
+- Describe your best friend.
+- How are you and your best friend similar and different?
+- Tell me three qualities of your best friend.
+- What do you like and dislike about your friends?
+- What does your best friend like about you?
+- How would your friends describe you?
+- What do you talk about with your friends?
+- How do you spend time with your friends?
+- What kind of friends do you like, and what kind of people do you avoid?
+- What do your friends want to achieve in life?
+- Where have you travelled with your friends?
+- Tell me about a time you helped a friend.
+- Tell me about a time a friend helped you.
+- Have you ever gone out of your way to help a friend?
+- How many friends do you have on Instagram and WhatsApp?
+- How many friends have you made here at the SSB centre?
+- How are your friends back home different from the people you met here?
+
+## General – Education (More)
+- How was your school life?
+- Share a memory from school that you still remember.
+- What were your marks from Class 8 to Class 12?
+- What responsibilities did you hold in school?
+- Were your parents happy with your marks?
+- What effort did you put in while preparing for your exams?
+- Which three teachers did you not like, and why?
+- Why didn't you do post-graduation?
+- Which exams did you take after Class 12, and what were the results?
+- Do you have any gap year? If so, why?
+
+## General – Hobbies & Reading
+- What are your sources of knowledge for your hobbies?
+- How have your hobbies affected your lifestyle?
+- What do your parents think about your hobbies?
+- Did your hobbies change from childhood? Why?
+- Which newspaper do you read?
+- Which books, novels and magazines do you read?
+- What did you learn from the last book you read, and how have you applied it?
+- Which news channels and TV shows do you watch, and why?
+
+## General – Activities & Sports (More)
+- In which activities have you failed, and why?
+- Have you ever compromised your studies for activities? How did you manage both?
+- What was your best and worst experience in any activity?
+- Why did you choose individual sports rather than team sports?
+- Which sportsperson do you admire most, and why?
+- What are the current world records in the 400m and 800m?
+- What are the dimensions of a standard athletics track?
+- What hurdles have you faced in your sport?
+
+## General – Emotions & Life Experiences
+- What makes you happy, and what makes you sad?
+- What was the happiest day of your life?
+- What was the saddest or worst day of your life, and how long did it take you to get over it?
+- What is the most embarrassing moment of your life?
+- What is the most memorable moment of your life?
+- What was the scariest or most shocking moment of your life?
+- What is the most daring thing you have done?
+- What is the toughest task you have done?
+- Tell me about a task that left you physically and mentally exhausted.
+- What do you regret most in your life?
+- Tell me about a decision you regret.
+- What was your childhood dream?
+- What mischief did you do in school and college?
+- What is the most mischievous thing you have ever done?
+
+## General – Strengths, Weaknesses & Self-Awareness
+- Tell me five strengths and five weaknesses of yours.
+- What are you doing to improve your weaknesses?
+- Who are your critics, and what do they say about you?
+- What shortcomings do your parents, siblings, friends and boss point out in you?
+- What two things are stopping your growth?
+- What are you most afraid of?
+- What is your greatest fear?
+- What do you do when you are angry?
+- Who is your role model, and why?
+- Do you think you have officer-like qualities?
+- Give me five reasons why I should not select you.
+- You seem like a fragile candidate. Why should I select you?
+
+## General – Character & Personal Habits
+- Do you smoke or drink?
+- Have you ever tried any such substance?
+- Do you eat non-vegetarian food?
+- Do you have a girlfriend? If not, why not?
+- How comfortable are you around women?
+- Do you believe in love marriage or arranged marriage?
+- Have you ever had a fight with anyone?
+- Have you ever cheated?
+- Do you use abusive language?
+- Tell me about a time you lied to your parents.
+- When did you break someone's trust?
+- When did you disappoint your parents or teachers?
+- What bad habits do you have?
+- Do you have any secret you have never told anyone?
+
+## General – Motivation for the Armed Forces
+- Who motivated or inspired you to join the Armed Forces?
+- How did you decide that you wanted to join the forces?
+- How do the Armed Forces compare with other government and private jobs?
+- Other jobs are safer and easier. Why choose a dangerous one?
+- If you had to choose between being an IAS officer and an Army officer, which would you choose, and why?
+- What if your parents didn't allow you to join the Armed Forces?
+- Is anyone in your family in the defence forces?
+- Where do you see yourself after 10 years in the Army?
+- If you are so keen, why not join as a jawan?
+- What challenges do you expect after joining the Army?
+- What will the Army gain by selecting you?
+- What improvements do you think the Armed Forces need?
+- What is the nearest military station to your home?
+- How long is the training course at the academy?
+
+## General – Previous Attempts & Preparation
+- Is this your first SSB?
+- Which defence exams have you taken (NDA, CDS, AFCAT, others), and how many attempts?
+- Why didn't you try for NDA, or why didn't you succeed?
+- Tell me all the competitive exams you have taken, in order.
+- How did you prepare for the written exam and the SSB?
+- Which books did you read for SSB, and what did you learn from them?
+- Which YouTube videos did you watch, and what did you learn?
+- Have you taken any coaching? Why or why not?
+- What special preparation did you do this time?
+
+## General – Your Job & Leave for SSB
+- How did you get leave from your company for the SSB?
+- Have you informed your manager and company about the SSB?
+- What if your leave had been denied?
+- Tell me about your company: its history, business and growth.
+- Why did you choose this company?
+- What is the work environment in your company like?
+- Tell me three good and three bad things about your company.
+- If I made you the head of your company, what would you improve?
+- Describe your salary slip.
+- How do you handle a tough and stubborn boss?
+
+## General – Organising Ability & Situations
+- How would you organise a football match?
+- How would you organise a trek or hike?
+- How would you organise a local festival?
+- How would you organise a tournament of the sports in your PIQ?
+- How would you organise a trip to a city mentioned in your PIQ?
+- On an industrial visit, your coordinator meets with an accident. How would you complete the visit successfully?
+
+## General – Estimation & Conversions
+- Estimate the dimensions of this room's wall in feet, metres and centimetres.
+- How much paint would be needed to paint this wall?
+- Which is heavier, 1 kg or 1 litre?
+- How high is the first floor from the ground?
+- What is the distance between you and me?
+- What is your 100m time, and what is your speed in km/h and m/s?
+- How many metres are there in a yard?
+- How many centimetres are there in a foot?
+- How many inches are there in a metre?
+- How many feet are there in a metre?
+
+## General – Basic Technical
+- What is the difference between 4G and 5G?
+- Explain the Pythagoras theorem to an eight-year-old.
+- Where are integration and differentiation used in daily life?
+- How does a fan regulator work?
+- What are the laws of thermodynamics, and where do you see them in everyday life?
+- What does the CC of an engine mean?
+
+## General – Your SSB Experience
+- How did you reach the SSB centre, and how did you plan your journey?
+- How far did you travel, and by which modes of transport?
+- Who came with you?
+- Why did you choose this date for your SSB?
+- What did you see during your journey?
+- Which places did you visit around the SSB centre?
+- How are the food and stay here?
+- Which psychology and GTO task did you find most interesting?
+- How did you perform in the group tasks?
+- What could you have done better in the GTO tasks?
+- Rate your performance in psychology, GTO and interview.
+- Rank yourself within your group.
+- What were you thinking while waiting outside?
+- What three things have you learned at SSB?
+- If you were an assessor, whom would you fail, and why?
+- What advice would you give a friend preparing for SSB?
+- How will you feel if you are recommended, and if you are not?
+- Is there a question you expected that I didn't ask?
+- Do you have any suggestions for the SSB?
+- Do you have any questions for me?
+
+## General – Spontaneous & Miscellaneous
+- Tell me a joke.
+- Tell me five to seven uses of this pen (or any object in the room).
+- If God granted you one wish, what would you ask for?
+- If you had a time machine, what would you change?
+- What would you do with lottery money?
+- What is your stand on the Kashmir issue?
+- Isn't dividing candidates into freshers, repeaters and recommended ones unfair?

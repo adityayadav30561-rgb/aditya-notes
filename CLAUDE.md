@@ -43,3 +43,6 @@ Two-page, two-column summaries of the user's own method for each psych test:
 
 Build them with `node build/guides.js` (add any new guide to its `GUIDES` list). Keep each one at 2 pages when editing: shorten wording rather than dropping points.
 Source format: `# Title`, `> tagline`, `## Section`, `- bullet` (`**bold**` allowed), `| Group |` for a shaded table group row, and `| Situation | Response` for a table row.
+
+## Excel export
+`python3 build/xlsx.py` builds `SSB_Notes.xlsx` with all four notes (PIQ, Service Knowledge, SRT, TAT) as separate tabs. Re-run it whenever a source file changes.

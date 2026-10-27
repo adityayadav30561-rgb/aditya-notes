@@ -46,3 +46,15 @@ Source format: `# Title`, `> tagline`, `## Section`, `- bullet` (`**bold**` allo
 
 ## Excel export
 `python3 build/xlsx.py` builds `SSB_Notes.xlsx` with all four notes (PIQ, Service Knowledge, SRT, TAT) as separate tabs. Re-run it whenever a source file changes.
+
+## Book edition (in progress)
+The service knowledge sheet is being rewritten as a two-column "book" (topic headings, paragraphs, diagrams), one phase at a time. This is separate from the compact sheets above, which stay as they are.
+
+| Phase | Source | Output |
+|---|---|---|
+| Phase 1 (Army organisation) | `book/phase1/*.md` (one file per chapter, read in filename order) | `SSB_Service_Knowledge_Phase1.docx` |
+
+- Build: `node build/book.js` (needs `npm install` first). Markup is listed at the top of `build/book.js`: `#` chapter, `##` topic, `###` sub-heading, `>` call-out, `|` table, `[[diagram:name|col]]`, `[[wide]]`, `[[full]]`.
+- Diagrams are hand-written SVG in `book/diagrams/*.svg`. After editing one, run `node build/render_diagrams.js [name]` to refresh its PNG, which is what the book embeds. Commit both.
+- Headings are plain topic names (no "What is..."); related questions are merged into one topic.
+- Check the layout before sending: `soffice --headless --convert-to pdf` and look at the pages.

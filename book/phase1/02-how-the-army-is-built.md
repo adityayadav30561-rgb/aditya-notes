@@ -31,6 +31,20 @@ Because of this, the same battalion may fight one day with no support and the ne
 - **Direct support (DS):** an artillery unit has the job of answering the call of one particular formation first, for example "a field regiment in direct support of 5 Brigade".
 - **General support (GS):** artillery fires for the whole formation, and its commander decides where its fire is most useful.
 
+## Are Corps and Divisions Mostly Infantry?
+
+For most of the Indian Army, yes. A typical **infantry or mountain division** has about nine infantry battalions (three brigades of three battalions each). That is the core, and it is why people say a division is "infantry-based". But the infantry is only part of the picture. The division also *owns*, permanently, an artillery brigade, an engineer regiment, a signal regiment, an air defence regiment, an armoured reconnaissance element, supply, repair and medical units. These are called **divisional troops**. They are not "attached" in the temporary sense; they belong to the division.
+
+A **corps** is a larger version of the same idea. It is made of divisions, plus **corps troops**: an artillery brigade, an air defence brigade, an engineer brigade, a signal regiment, army aviation and independent brigades. Whether a corps is "infantry-heavy" or "armour-heavy" depends on the divisions placed in it. A **holding corps** is mostly infantry and mountain divisions. A **strike corps** is built around armoured and mechanised divisions.
+
+> **Not everything is infantry-based.** There are divisions whose core is *not* infantry. An **Armoured Division** is built around armoured brigades. A **Mechanised (RAPID) Division** is built around mechanised infantry and armour. An **Artillery Division** is a formation of artillery brigades, held at a higher level to give concentrated fire to a corps (verify). So the answer to "is it infantry with other things attached?" is: *usually, but it depends on the division type.*
+
+## Armoured Division: Only Tanks?
+
+No. An armoured division does *not* consist of armoured vehicles alone, and it could not fight if it did. Tanks are powerful but they are blind in close country, they are vulnerable to infantry carrying anti-tank missiles, and they cannot hold ground, clear minefields or drive off aircraft by themselves.
+
+So an armoured division is a complete **combined-arms team**. Its core is two or three **armoured brigades** (each with three armoured regiments and a mechanised infantry battalion, indicatively) and a **mechanised infantry** element that rides in infantry combat vehicles so that it can keep up with the tanks. On top of this the division owns its own **artillery brigade** (usually self-propelled guns that can move with the tanks), **air defence**, **engineers** (to breach minefields and build bridges), **signals**, **reconnaissance**, and **supply and repair units** (a tank needs fuel, shells and constant mechanical attention). An armoured division therefore holds a lot of support troops alongside its tanks, but it has fewer *infantry battalions* than an infantry division.
+
 ## What a Corps, Division and Brigade Own
 
 The two diagrams that follow are the heart of this chapter. The first zooms in level by level: from a corps down to a single section, showing at each level what is *owned* (solid lines) and what is *lent down* (dashed lines). The second shows each arm in turn and the level at which it joins.
@@ -46,20 +60,6 @@ The two diagrams that follow are the heart of this chapter. The first zooms in l
 
 [[diagram:army-attach|full]]
 [[/full]]
-
-## Are Corps and Divisions Mostly Infantry?
-
-For most of the Indian Army, yes. A typical **infantry or mountain division** has about nine infantry battalions (three brigades of three battalions each). That is the core, and it is why people say a division is "infantry-based". But the infantry is only part of the picture. The division also *owns*, permanently, an artillery brigade, an engineer regiment, a signal regiment, an air defence regiment, an armoured reconnaissance element, supply, repair and medical units. These are called **divisional troops**. They are not "attached" in the temporary sense; they belong to the division.
-
-A **corps** is a larger version of the same idea. It is made of divisions, plus **corps troops**: an artillery brigade, an air defence brigade, an engineer brigade, a signal regiment, army aviation and independent brigades. Whether a corps is "infantry-heavy" or "armour-heavy" depends on the divisions placed in it. A **holding corps** is mostly infantry and mountain divisions. A **strike corps** is built around armoured and mechanised divisions.
-
-> **Not everything is infantry-based.** There are divisions whose core is *not* infantry. An **Armoured Division** is built around armoured brigades. A **Mechanised (RAPID) Division** is built around mechanised infantry and armour. An **Artillery Division** is a formation of artillery brigades, held at a higher level to give concentrated fire to a corps (verify). So the answer to "is it infantry with other things attached?" is: *usually, but it depends on the division type.*
-
-## Armoured Division: Only Tanks?
-
-No. An armoured division does *not* consist of armoured vehicles alone, and it could not fight if it did. Tanks are powerful but they are blind in close country, they are vulnerable to infantry carrying anti-tank missiles, and they cannot hold ground, clear minefields or drive off aircraft by themselves.
-
-So an armoured division is a complete **combined-arms team**. Its core is two or three **armoured brigades** (each with three armoured regiments and a mechanised infantry battalion, indicatively) and a **mechanised infantry** element that rides in infantry combat vehicles so that it can keep up with the tanks. On top of this the division owns its own **artillery brigade** (usually self-propelled guns that can move with the tanks), **air defence**, **engineers** (to breach minefields and build bridges), **signals**, **reconnaissance**, and **supply and repair units** (a tank needs fuel, shells and constant mechanical attention). An armoured division therefore holds a lot of support troops alongside its tanks, but it has fewer *infantry battalions* than an infantry division.
 
 ## Artillery in the Division and Corps
 

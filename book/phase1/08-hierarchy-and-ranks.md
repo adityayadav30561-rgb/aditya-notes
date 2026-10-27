@@ -1,12 +1,12 @@
 # Hierarchy, Rank and Appointment
 ~ Who commands what, and why rank is not the same as command
 
+[[wide]]
 ## The Complete Hierarchy
 
 Putting everything together, the Army hierarchy runs as follows, from the top to the soldier. Each level is made of the level below it.
 
-[[wide]]
-## Who Commands What
+### Who Commands What
 
 | Level | Type | Commander | Rank | Strength |
 | Army HQ | Headquarters | Chief of the Army Staff | General | The whole Army |

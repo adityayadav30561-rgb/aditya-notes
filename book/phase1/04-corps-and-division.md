@@ -49,12 +49,12 @@ In a battle a division is given an *area* to hold or a *position* to capture. Th
 
 A division, like a corps, owns units directly: a **divisional artillery brigade**, an **engineer regiment**, a **signal regiment**, an **air defence regiment**, an **armoured reconnaissance** element, an **army aviation** flight and its own **supply, repair and medical** units. These are the **divisional troops**, and the GOC allots them to his brigades as the battle needs.
 
+[[wide]]
 ## Types of Division and Their Strength
 
 No, not every division is the same. The Army has several kinds, built for different jobs, and their strength and shape differ.
 
-[[wide]]
-## Divisions Compared
+### Divisions Compared
 
 | Type | Core of the division | Typical job | Notes |
 | Infantry division | About 3 infantry brigades (9 infantry battalions) | Hold or attack in plains and semi-hilly ground | The most common type; around 15,000 troops |

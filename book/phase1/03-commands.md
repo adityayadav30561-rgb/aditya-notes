@@ -1,12 +1,12 @@
 # The Army Commands
 ~ Seven regional headquarters, and what each one looks after
 
+[[wide]]
 ## The Seven Commands
 
 India's land borders are very long and very different, so the Army is divided into **seven Commands**, six of which are operational and look after a region, and one of which trains. Each Command is headed by an **Army Commander**.
 
-[[wide]]
-## The Seven Commands at a Glance
+### The Seven Commands at a Glance
 
 | Command | Headquarters | Area it looks after | Remark |
 | Northern | Udhampur | Jammu and Kashmir, Ladakh | Faces both Pakistan (LoC) and China (LAC); includes Siachen |

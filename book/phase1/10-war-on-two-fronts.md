@@ -9,12 +9,6 @@ This chapter ties everything together. It follows an *imaginary* war in which In
 
 After weeks of rising tension, firing starts along the LoC in J&K and, at the same time, Chinese troops move forward in Ladakh and on the eastern border. The Government orders the Armed Forces to war footing. India now has two fronts, and the Army must hold both while keeping the means to hit back hard on one of them.
 
-[[full]]
-## The Two Fronts at a Glance
-
-[[diagram:war-two-fronts|full]]
-[[/full]]
-
 ## Army Headquarters Gives the Order
 
 At Army HQ in New Delhi, the COAS, advised by the DGMO and the staff branches, receives the Government's direction. He issues a directive to each Command: what the aim is, what forces are available and when to be ready. The Army Commanders in turn give orders to their Corps Commanders. Three branches of Army HQ work at once: **operations** plans the fight, the **Quartermaster General** moves fuel and rations to the front, and the **Master General of Ordnance** speeds up ammunition, spares and weapons.
@@ -34,6 +28,12 @@ Suppose the enemy attacks across the LoC in the Kashmir valley. The part of the 
 ### Calling for more brigades
 
 The enemy breaks into one sector and the brigade's three battalions are all committed. The Brigade Commander tells the GOC he needs more troops. The GOC has a **reserve brigade** or battalion, which he moves forward. If that is not enough, he asks the Corps Commander, who sends an **independent brigade** from the corps reserve. The independent brigade comes **under command** of the division for the battle, together with its own artillery and engineers, and its **signal detachment** links up with the division's signal net on arrival. The fight is held. When it ends, the independent brigade goes back to the corps.
+
+[[full]]
+## The Two Fronts at a Glance
+
+[[diagram:war-two-fronts|full]]
+[[/full]]
 
 ## On the LAC in Ladakh: the Mountain Divisions
 
@@ -65,11 +65,11 @@ A strike corps does not simply drive forward as a crowd of tanks. It goes as a c
 
 The corps commander and his divisions plan the advance, and he holds back an **independent armoured brigade** as his reserve. When the attack has reached its objective, the strike corps hands over the captured ground to a holding formation, pulls back, repairs its tanks, restocks its ammunition and gets ready for the next move.
 
-[[full]]
+[[wide]]
 ## How the Plan Unfolds
 
 [[diagram:war-flow|full]]
-[[/full]]
+[[/wide]]
 
 ## Where Everything Plugs In
 
@@ -82,8 +82,6 @@ The table at the end of this chapter gives a one-page summary. In words, the mai
 - **Air defence** is owned as a regiment at the division and as a brigade at the corps; batteries are lent down to protect brigades and key points.
 - **Signals** are owned as a regiment at the corps and at the division; the brigade signal company is detached to the brigade HQ. A battalion has its own signal platoon of infantrymen.
 - **Engineers** are owned as a brigade at the corps and a regiment at the division; an engineer field company is affiliated to a brigade, and sections are lent to battalions for special tasks.
-
-### Who does what in the war
 
 [[wide]]
 ## The War Level by Level

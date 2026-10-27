@@ -122,8 +122,9 @@ const quote = (text) => new Paragraph({
 
 function table(rows, width) {
   const n = Math.max(...rows.map((r) => r.length));
+  const longestWord = (c) => Math.max(...rows.map((r) => Math.max(0, ...(r[c] || "").split(/\s+/).map((w) => w.length))));
   const weight = Array.from({ length: n }, (_, c) =>
-    Math.max(8, Math.pow(Math.max(...rows.map((r) => (r[c] || "").length)), 0.72)));
+    Math.max(8, longestWord(c) * 1.7, Math.pow(Math.max(...rows.map((r) => (r[c] || "").length)), 0.72)));
   const sum = weight.reduce((a, b) => a + b, 0);
   const widths = weight.map((w) => Math.floor((w / sum) * width));
   widths[n - 1] += width - widths.reduce((a, b) => a + b, 0);
@@ -180,7 +181,7 @@ function render(blocks, width) {
     else if (b.t === "p") out.push(body(b.text));
     else if (b.t === "ul") b.items.forEach((i) => out.push(bullet(i)));
     else if (b.t === "quote") out.push(quote(b.text));
-    else if (b.t === "table") { out.push(table(b.rows, width)); out.push(new Paragraph({ spacing: { after: 90 }, children: [] })); }
+    else if (b.t === "table") { out.push(table(b.rows, width)); out.push(new Paragraph({ spacing: { before: 0, after: 120 }, children: [new TextRun({ text: "", size: 8 })] })); }
     else if (b.t === "img") out.push(image(b.name, b.size));
     else if (b.t === "colbreak") out.push(new Paragraph({ children: [new PageBreak()] }));
   }

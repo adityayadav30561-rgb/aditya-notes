@@ -59,14 +59,14 @@
 <text x="62" y="822.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Battalion / Regiment</tspan></text>
 <text x="352" y="807.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">CO</tspan><tspan x="352" dy="26.4">Colonel</tspan></text>
 <text x="612" y="821.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">about 800-900</tspan></text>
-<text x="862" y="807.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">4 rifle coys</tspan><tspan x="862" dy="26.4">+ HQ / Sp coy</tspan></text>
+<text x="862" y="807.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">Inf: 4 rifle coys</tspan><tspan x="862" dy="26.4">+ HQ / Sp coy</tspan></text>
 </g>
 <g>
 <rect x="40" y="880" width="1060" height="78" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
 <text x="62" y="913.8" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Company /</tspan><tspan x="62" dy="28.6">Squadron / Battery</tspan></text>
 <text x="352" y="927.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">Major</tspan></text>
 <text x="612" y="927.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">about 100-120</tspan></text>
-<text x="862" y="927.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">3 platoons</tspan></text>
+<text x="862" y="927.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">3 platoons / troops</tspan></text>
 </g>
 <g>
 <rect x="40" y="986" width="1060" height="78" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>

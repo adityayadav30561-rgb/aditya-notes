@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="1134" viewBox="0 0 700 1134" font-family="Arial, Helvetica, sans-serif">
+<title>Chain of command</title>
+<desc>Indian Army chain of command from the President down to a section commander.</desc>
+<defs>
+  <marker id="ah-navy" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1F3864"/></marker>
+  <marker id="ah-orange" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="22" markerHeight="22" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#C55A11"/></marker>
+  <marker id="ah-grey" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#595959"/></marker>
+  <marker id="ah-red" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="22" markerHeight="22" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#B03A2E"/></marker>
+  <marker id="ah-blue" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="20" markerHeight="20" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2E5597"/></marker>
+  <marker id="ah-green" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="20" markerHeight="20" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#3B7D3A"/></marker>
+</defs>
+<rect x="0" y="0" width="700" height="1134" fill="#FFFFFF"/>
+
+<text x="350.0" y="46" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">Chain of command</text>
+<path d="M30,96 L30,1034" fill="none" stroke="#2E5597" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-blue)"/>
+<text x="48" y="565.0" font-size="22" fill="#2E5597" text-anchor="middle" font-weight="bold" transform="rotate(90 48 565.0)">Orders go DOWN</text>
+<path d="M672,1034 L672,96" fill="none" stroke="#3B7D3A" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-green)"/>
+<text x="654" y="565.0" font-size="22" fill="#3B7D3A" text-anchor="middle" font-weight="bold" transform="rotate(-90 654 565.0)">Reports go UP</text>
+<g>
+  <rect x="100" y="92" width="500" height="66" rx="10" fill="#FFFFFF" stroke="#1F3864" stroke-width="3"/>
+  <text x="350.0" y="122" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">President of India</text>
+  <text x="350.0" y="149" font-size="20" fill="#1A1A1A" text-anchor="middle">Supreme Commander of the Armed Forces</text>
+</g>
+<path d="M350.0,159 L350.0,178" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="180" width="500" height="66" rx="10" fill="#FFFFFF" stroke="#1F3864" stroke-width="3"/>
+  <text x="350.0" y="210" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Raksha Mantri and Government</text>
+  <text x="350.0" y="237" font-size="20" fill="#1A1A1A" text-anchor="middle">Ministry of Defence</text>
+</g>
+<path d="M350.0,247 L350.0,266" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="268" width="500" height="66" rx="10" fill="#FFFFFF" stroke="#1F3864" stroke-width="3"/>
+  <text x="350.0" y="298" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Chief of the Army Staff</text>
+  <text x="350.0" y="325" font-size="20" fill="#1A1A1A" text-anchor="middle">General · Army HQ, New Delhi</text>
+</g>
+<path d="M350.0,335 L350.0,354" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="356" width="500" height="66" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+  <text x="350.0" y="386" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Army Commander</text>
+  <text x="350.0" y="413" font-size="20" fill="#1A1A1A" text-anchor="middle">Lt Gen · GOC-in-C of a Command</text>
+</g>
+<path d="M350.0,423 L350.0,442" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="444" width="500" height="66" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+  <text x="350.0" y="474" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Corps Commander</text>
+  <text x="350.0" y="501" font-size="20" fill="#1A1A1A" text-anchor="middle">Lt Gen · GOC of a Corps</text>
+</g>
+<path d="M350.0,511 L350.0,530" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="532" width="500" height="66" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+  <text x="350.0" y="562" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Division Commander</text>
+  <text x="350.0" y="589" font-size="20" fill="#1A1A1A" text-anchor="middle">Maj Gen · GOC of a Division</text>
+</g>
+<path d="M350.0,599 L350.0,618" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="620" width="500" height="66" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+  <text x="350.0" y="650" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Brigade Commander</text>
+  <text x="350.0" y="677" font-size="20" fill="#1A1A1A" text-anchor="middle">Brigadier · commands a Brigade</text>
+</g>
+<path d="M350.0,687 L350.0,706" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="708" width="500" height="66" rx="10" fill="#E2F0D9" stroke="#3B7D3A" stroke-width="2.5"/>
+  <text x="350.0" y="738" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Commanding Officer (CO)</text>
+  <text x="350.0" y="765" font-size="20" fill="#1A1A1A" text-anchor="middle">Colonel · commands a Battalion</text>
+</g>
+<path d="M350.0,775 L350.0,794" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="796" width="500" height="66" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="350.0" y="826" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Company Commander</text>
+  <text x="350.0" y="853" font-size="20" fill="#1A1A1A" text-anchor="middle">Major · commands a Company</text>
+</g>
+<path d="M350.0,863 L350.0,882" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="884" width="500" height="66" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="350.0" y="914" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Platoon Commander</text>
+  <text x="350.0" y="941" font-size="20" fill="#1A1A1A" text-anchor="middle">Lt/Capt or JCO · leads a Platoon</text>
+</g>
+<path d="M350.0,951 L350.0,970" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="100" y="972" width="500" height="66" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="350.0" y="1002" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Section Commander</text>
+  <text x="350.0" y="1029" font-size="20" fill="#1A1A1A" text-anchor="middle">Havildar/Naik · leads a Section</text>
+</g>
+<rect x="30" y="1064" width="26" height="22" rx="5" fill="#FFFFFF" stroke="#1F3864" stroke-width="2.5"/>
+<text x="64" y="1082" font-size="20" fill="#1A1A1A" text-anchor="start">Government / Army HQ</text>
+<rect x="290" y="1064" width="26" height="22" rx="5" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+<text x="324" y="1082" font-size="20" fill="#1A1A1A" text-anchor="start">Formation</text>
+<rect x="440" y="1064" width="26" height="22" rx="5" fill="#E2F0D9" stroke="#3B7D3A" stroke-width="2.5"/>
+<text x="474" y="1082" font-size="20" fill="#1A1A1A" text-anchor="start">Unit</text>
+<rect x="545" y="1064" width="26" height="22" rx="5" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+<text x="579" y="1082" font-size="20" fill="#1A1A1A" text-anchor="start">Sub-unit</text>
+<text x="350.0" y="1116" font-size="20" fill="#595959" text-anchor="middle">Solid arrow = under command (orders flow down)</text>
+</svg>

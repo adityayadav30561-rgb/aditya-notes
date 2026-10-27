@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="1146" viewBox="0 0 700 1146" font-family="Arial, Helvetica, sans-serif">
+<title>Inside an infantry battalion</title>
+<desc>Tree of an Indian Army infantry battalion: HQ, support company, four rifle companies, platoons and sections.</desc>
+<defs>
+  <marker id="ah-navy" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1F3864"/></marker>
+  <marker id="ah-orange" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="22" markerHeight="22" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#C55A11"/></marker>
+  <marker id="ah-grey" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#595959"/></marker>
+  <marker id="ah-red" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="22" markerHeight="22" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#B03A2E"/></marker>
+  <marker id="ah-blue" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="20" markerHeight="20" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2E5597"/></marker>
+  <marker id="ah-green" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="20" markerHeight="20" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#3B7D3A"/></marker>
+</defs>
+<rect x="0" y="0" width="700" height="1146" fill="#FFFFFF"/>
+
+<text x="350.0" y="44" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">Inside an infantry battalion</text>
+<path d="M274,954.0 L310,954.0" fill="none" stroke="#C98A00" stroke-width="3" stroke-linejoin="round"/>
+<path d="M274,896 L274,1016.0 L310,1016.0" fill="none" stroke="#C98A00" stroke-width="3" stroke-linejoin="round"/>
+<path d="M204,782 L204,861.0 L240,861.0" fill="none" stroke="#C98A00" stroke-width="3" stroke-linejoin="round"/>
+<path d="M134,652 L134,747.0 L170,747.0" fill="none" stroke="#C98A00" stroke-width="3" stroke-linejoin="round"/>
+<path d="M64,415.0 L100,415.0" fill="none" stroke="#3B7D3A" stroke-width="3" stroke-linejoin="round"/>
+<path d="M64,245.0 L100,245.0" fill="none" stroke="#3B7D3A" stroke-width="3" stroke-linejoin="round"/>
+<path d="M64,170 L64,606.0 L100,606.0" fill="none" stroke="#3B7D3A" stroke-width="3" stroke-linejoin="round"/>
+<text x="350.0" y="74" font-size="20" fill="#595959" text-anchor="middle">Only one rifle company is shown expanded</text>
+<g>
+  <rect x="30" y="96" width="640" height="74" rx="10" fill="#E2F0D9" stroke="#3B7D3A" stroke-width="3"/>
+  <text x="350.0" y="128" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Infantry Battalion</text>
+  <text x="350.0" y="156" font-size="20" fill="#1A1A1A" text-anchor="middle">CO: Colonel · about 800-900 all ranks</text>
+</g>
+<g>
+  <rect x="100" y="198" width="570" height="94" rx="10" fill="#E2F0D9" stroke="#3B7D3A" stroke-width="2.5"/>
+  <text x="118" y="228" font-size="24" fill="#1F3864" text-anchor="start" font-weight="bold">Battalion HQ</text>
+  <text x="118" y="256" font-size="20" fill="#1A1A1A" text-anchor="start">2IC · Adjutant · Quartermaster</text>
+  <text x="118" y="282" font-size="20" fill="#1A1A1A" text-anchor="start">Subedar Major (senior JCO)</text>
+</g>
+<g>
+  <rect x="100" y="318" width="570" height="194" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="118" y="350" font-size="24" fill="#1F3864" text-anchor="start" font-weight="bold">HQ / Support Company: platoons</text>
+
+  <g><rect x="118" y="366" width="260" height="38" rx="10" fill="#FFFFFF" stroke="#C98A00" stroke-width="2"/><text x="248" y="392" font-size="20" fill="#1A1A1A" text-anchor="middle">Mortar</text></g>
+  <g><rect x="394" y="366" width="260" height="38" rx="10" fill="#FFFFFF" stroke="#C98A00" stroke-width="2"/><text x="524" y="392" font-size="20" fill="#1A1A1A" text-anchor="middle">Anti-tank missile</text></g>
+  <g><rect x="118" y="412" width="260" height="38" rx="10" fill="#FFFFFF" stroke="#C98A00" stroke-width="2"/><text x="248" y="438" font-size="20" fill="#1A1A1A" text-anchor="middle">Signal</text></g>
+  <g><rect x="394" y="412" width="260" height="38" rx="10" fill="#FFFFFF" stroke="#C98A00" stroke-width="2"/><text x="524" y="438" font-size="20" fill="#1A1A1A" text-anchor="middle">Pioneer</text></g>
+  <g><rect x="118" y="458" width="260" height="38" rx="10" fill="#FFFFFF" stroke="#C98A00" stroke-width="2"/><text x="248" y="484" font-size="20" fill="#1A1A1A" text-anchor="middle">Ghatak (commando)</text></g>
+  <g><rect x="394" y="458" width="260" height="38" rx="10" fill="#FFFFFF" stroke="#C98A00" stroke-width="2"/><text x="524" y="484" font-size="20" fill="#1A1A1A" text-anchor="middle">Recce</text></g></g>
+<rect x="121" y="539" width="520" height="92" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2"/><rect x="114" y="546" width="520" height="92" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2"/><rect x="107" y="553" width="520" height="92" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2"/>
+<g>
+  <rect x="100" y="560" width="520" height="92" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="118" y="590" font-size="24" fill="#1F3864" text-anchor="start" font-weight="bold">Rifle Company</text>
+  <text x="118" y="618" font-size="20" fill="#1A1A1A" text-anchor="start">OC: Major · about 100-120</text>
+  <text x="118" y="642" font-size="20" fill="#595959" text-anchor="start">(one of four, expanded below)</text>
+</g>
+<g><circle cx="566" cy="606.0" r="27" fill="#C98A00" stroke="#FFFFFF" stroke-width="2"/><text x="566" y="614.0" font-size="22" fill="#FFFFFF" text-anchor="middle" font-weight="bold">x4</text></g>
+<rect x="184" y="698" width="450" height="70" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2"/><rect x="177" y="705" width="450" height="70" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2"/>
+<g>
+  <rect x="170" y="712" width="450" height="70" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="188" y="741" font-size="24" fill="#1F3864" text-anchor="start" font-weight="bold">Platoon</text>
+  <text x="188" y="768" font-size="20" fill="#1A1A1A" text-anchor="start">Lt/Capt or JCO · about 30-35</text>
+</g>
+<g><circle cx="566" cy="747.0" r="27" fill="#C98A00" stroke="#FFFFFF" stroke-width="2"/><text x="566" y="755.0" font-size="22" fill="#FFFFFF" text-anchor="middle" font-weight="bold">x3</text></g>
+<rect x="254" y="812" width="380" height="70" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2"/><rect x="247" y="819" width="380" height="70" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2"/>
+<g>
+  <rect x="240" y="826" width="380" height="70" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="258" y="855" font-size="24" fill="#1F3864" text-anchor="start" font-weight="bold">Section</text>
+  <text x="258" y="882" font-size="20" fill="#1A1A1A" text-anchor="start">Havildar/Naik · about 10</text>
+</g>
+<g><circle cx="566" cy="861.0" r="27" fill="#C98A00" stroke="#FFFFFF" stroke-width="2"/><text x="566" y="869.0" font-size="22" fill="#FFFFFF" text-anchor="middle" font-weight="bold">x3</text></g>
+<g>
+  <rect x="310" y="930" width="310" height="48" rx="10" fill="#FFFFFF" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="328" y="962" font-size="20" fill="#1A1A1A" text-anchor="start">Rifle group (riflemen)</text>
+</g>
+<g>
+  <rect x="310" y="992" width="310" height="48" rx="10" fill="#FFFFFF" stroke="#C98A00" stroke-width="2.5"/>
+  <text x="328" y="1024" font-size="20" fill="#1A1A1A" text-anchor="start">LMG group (light MG)</text>
+</g>
+<rect x="40" y="1072" width="26" height="22" rx="5" fill="#E2F0D9" stroke="#3B7D3A" stroke-width="2.5"/>
+<text x="74" y="1090" font-size="20" fill="#1A1A1A" text-anchor="start">Unit / unit HQ</text>
+<rect x="250" y="1072" width="26" height="22" rx="5" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+<text x="284" y="1090" font-size="20" fill="#1A1A1A" text-anchor="start">Sub-unit</text>
+<g><circle cx="430" cy="1083" r="27" fill="#C98A00" stroke="#FFFFFF" stroke-width="2"/><text x="430" y="1091" font-size="22" fill="#FFFFFF" text-anchor="middle" font-weight="bold">x3</text></g>
+<text x="466" y="1090" font-size="20" fill="#1A1A1A" text-anchor="start">= how many</text>
+<text x="350.0" y="1126" font-size="20" fill="#595959" text-anchor="middle">Solid line = under command</text>
+</svg>

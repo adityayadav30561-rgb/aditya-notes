@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="896" viewBox="0 0 1400 896" font-family="Arial, Helvetica, sans-serif">
+<title>How the plan unfolds</title>
+<desc>Six-step flow of how the Indian Army's war plan unfolds, from alert to consolidation.</desc>
+<defs>
+  <marker id="ah-navy" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1F3864"/></marker>
+  <marker id="ah-orange" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="22" markerHeight="22" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#C55A11"/></marker>
+  <marker id="ah-grey" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#595959"/></marker>
+  <marker id="ah-red" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="22" markerHeight="22" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#B03A2E"/></marker>
+  <marker id="ah-blue" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="20" markerHeight="20" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2E5597"/></marker>
+  <marker id="ah-green" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="20" markerHeight="20" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#3B7D3A"/></marker>
+</defs>
+<rect x="0" y="0" width="1400" height="1000" fill="#FFFFFF"/>
+
+<text x="700.0" y="60" font-size="40" fill="#1F3864" text-anchor="middle" font-weight="bold">How the plan unfolds</text>
+<text x="700.0" y="100" font-size="24" fill="#595959" text-anchor="middle">A simplified sequence - in a real war the steps overlap</text>
+<g>
+  <rect x="40" y="138" width="400" height="250" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="3"/>
+  <path d="M41.5,204 L41.5,149.5 Q41.5,139.5 51.5,139.5 L428.5,139.5 Q438.5,139.5 438.5,149.5 L438.5,204 Z" fill="#1F3864"/>
+  <circle cx="82" cy="172" r="24" fill="#FFFFFF"/>
+  <text x="82" y="182" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">1</text>
+  <text x="120" y="182" font-size="26" fill="#FFFFFF" text-anchor="start" font-weight="bold">Alert and mobilise</text>
+  <text x="62" y="242" font-size="22" fill="#1A1A1A" text-anchor="start">Army HQ orders the Commands</text>
+  <text x="62" y="272" font-size="22" fill="#1A1A1A" text-anchor="start">onto a war footing; reserves,</text>
+  <text x="62" y="302" font-size="22" fill="#1A1A1A" text-anchor="start">supplies and signal nets</text>
+  <text x="62" y="332" font-size="22" fill="#1A1A1A" text-anchor="start">are activated.</text>
+</g>
+<path d="M444,263.0 L496,263.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="500" y="138" width="400" height="250" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="3"/>
+  <path d="M501.5,204 L501.5,149.5 Q501.5,139.5 511.5,139.5 L888.5,139.5 Q898.5,139.5 898.5,149.5 L898.5,204 Z" fill="#1F3864"/>
+  <circle cx="542" cy="172" r="24" fill="#FFFFFF"/>
+  <text x="542" y="182" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">2</text>
+  <text x="580" y="182" font-size="26" fill="#FFFFFF" text-anchor="start" font-weight="bold">Absorb the first blow</text>
+  <text x="522" y="242" font-size="22" fill="#1A1A1A" text-anchor="start">Holding corps take the hit:</text>
+  <text x="522" y="272" font-size="22" fill="#1A1A1A" text-anchor="start">border battalions and</text>
+  <text x="522" y="302" font-size="22" fill="#1A1A1A" text-anchor="start">brigades hold; artillery and</text>
+  <text x="522" y="332" font-size="22" fill="#1A1A1A" text-anchor="start">air defence engage; platoons</text>
+  <text x="522" y="362" font-size="22" fill="#1A1A1A" text-anchor="start">and sections man the posts.</text>
+</g>
+<path d="M904,263.0 L956,263.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="960" y="138" width="400" height="250" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="3"/>
+  <path d="M961.5,204 L961.5,149.5 Q961.5,139.5 971.5,139.5 L1348.5,139.5 Q1358.5,139.5 1358.5,149.5 L1358.5,204 Z" fill="#1F3864"/>
+  <circle cx="1002" cy="172" r="24" fill="#FFFFFF"/>
+  <text x="1002" y="182" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">3</text>
+  <text x="1040" y="182" font-size="26" fill="#FFFFFF" text-anchor="start" font-weight="bold">Call forward reserves</text>
+  <text x="982" y="242" font-size="22" fill="#1A1A1A" text-anchor="start">A GOC calls up his reserve</text>
+  <text x="982" y="272" font-size="22" fill="#1A1A1A" text-anchor="start">brigade; the corps sends</text>
+  <text x="982" y="302" font-size="22" fill="#1A1A1A" text-anchor="start">independent brigades, tank</text>
+  <text x="982" y="332" font-size="22" fill="#1A1A1A" text-anchor="start">squadrons, engineers and more</text>
+  <text x="982" y="362" font-size="22" fill="#1A1A1A" text-anchor="start">artillery 'in direct support'.</text>
+</g>
+<g>
+  <rect x="40" y="496" width="400" height="250" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="3"/>
+  <path d="M41.5,562 L41.5,507.5 Q41.5,497.5 51.5,497.5 L428.5,497.5 Q438.5,497.5 438.5,507.5 L438.5,562 Z" fill="#1F3864"/>
+  <circle cx="82" cy="530" r="24" fill="#FFFFFF"/>
+  <text x="82" y="540" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">4</text>
+  <text x="120" y="540" font-size="26" fill="#FFFFFF" text-anchor="start" font-weight="bold">Reassess and decide</text>
+  <text x="62" y="600" font-size="22" fill="#1A1A1A" text-anchor="start">Corps and Command take</text>
+  <text x="62" y="630" font-size="22" fill="#1A1A1A" text-anchor="start">stock. The DGMO and the</text>
+  <text x="62" y="660" font-size="22" fill="#1A1A1A" text-anchor="start">Army Commander brief the</text>
+  <text x="62" y="690" font-size="22" fill="#1A1A1A" text-anchor="start">COAS; Army HQ decides where</text>
+  <text x="62" y="720" font-size="22" fill="#1A1A1A" text-anchor="start">to commit the strike corps.</text>
+</g>
+<path d="M444,621.0 L496,621.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="500" y="496" width="400" height="250" rx="10" fill="#DCE3F0" stroke="#B03A2E" stroke-width="3"/>
+  <path d="M501.5,562 L501.5,507.5 Q501.5,497.5 511.5,497.5 L888.5,497.5 Q898.5,497.5 898.5,507.5 L898.5,562 Z" fill="#1F3864"/>
+  <circle cx="542" cy="530" r="24" fill="#FFFFFF"/>
+  <text x="542" y="540" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">5</text>
+  <text x="580" y="540" font-size="26" fill="#FFFFFF" text-anchor="start" font-weight="bold">Counter-offensive</text>
+  <text x="522" y="600" font-size="22" fill="#1A1A1A" text-anchor="start">Armoured and mechanised</text>
+  <text x="522" y="630" font-size="22" fill="#1A1A1A" text-anchor="start">divisions of the strike corps</text>
+  <text x="522" y="660" font-size="22" fill="#1A1A1A" text-anchor="start">move under air-defence cover;</text>
+  <text x="522" y="690" font-size="22" fill="#1A1A1A" text-anchor="start">signals and engineers</text>
+  <text x="522" y="720" font-size="22" fill="#1A1A1A" text-anchor="start">move with them.</text>
+</g>
+<path d="M904,621.0 L956,621.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<g>
+  <rect x="960" y="496" width="400" height="250" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="3"/>
+  <path d="M961.5,562 L961.5,507.5 Q961.5,497.5 971.5,497.5 L1348.5,497.5 Q1358.5,497.5 1358.5,507.5 L1358.5,562 Z" fill="#1F3864"/>
+  <circle cx="1002" cy="530" r="24" fill="#FFFFFF"/>
+  <text x="1002" y="540" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">6</text>
+  <text x="1040" y="540" font-size="26" fill="#FFFFFF" text-anchor="start" font-weight="bold">Consolidate</text>
+  <text x="982" y="600" font-size="22" fill="#1A1A1A" text-anchor="start">Captured ground is handed</text>
+  <text x="982" y="630" font-size="22" fill="#1A1A1A" text-anchor="start">to holding formations;</text>
+  <text x="982" y="660" font-size="22" fill="#1A1A1A" text-anchor="start">strike corps pull out,</text>
+  <text x="982" y="690" font-size="22" fill="#1A1A1A" text-anchor="start">replenish (supply, EME)</text>
+  <text x="982" y="720" font-size="22" fill="#1A1A1A" text-anchor="start">and reorganise.</text>
+</g>
+<path d="M1160.0,392 L1160.0,442.0 L240.0,442.0 L240.0,492" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<path d="M60,820 L1336,820" fill="none" stroke="#595959" stroke-width="3" stroke-linejoin="round" marker-end="url(#ah-grey)"/>
+<circle cx="210" cy="820" r="6" fill="#595959"/>
+<text x="210" y="804" font-size="24" fill="#595959" text-anchor="middle" font-weight="bold">Hours</text>
+<circle cx="700" cy="820" r="6" fill="#595959"/>
+<text x="700" y="804" font-size="24" fill="#595959" text-anchor="middle" font-weight="bold">Days</text>
+<circle cx="1190" cy="820" r="6" fill="#595959"/>
+<text x="1190" y="804" font-size="24" fill="#595959" text-anchor="middle" font-weight="bold">Weeks</text>
+<text x="700.0" y="872" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Orders flow DOWN the chain of command; reports and requests flow UP.</text>
+</svg>

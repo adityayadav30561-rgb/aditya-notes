@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1476" viewBox="0 0 1400 1476" font-family="Arial, Helvetica, sans-serif">
+<title>Two fronts at once: who does what</title>
+<desc>Schematic, not to scale: Indian Army Commands, holding corps and strike corps on the western (Pakistan) and northern/eastern (China) fronts.</desc>
+<defs>
+  <marker id="ah-navy" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1F3864"/></marker>
+  <marker id="ah-orange" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="22" markerHeight="22" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#C55A11"/></marker>
+  <marker id="ah-grey" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#595959"/></marker>
+  <marker id="ah-red" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="22" markerHeight="22" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#B03A2E"/></marker>
+  <marker id="ah-blue" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="20" markerHeight="20" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2E5597"/></marker>
+  <marker id="ah-green" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="20" markerHeight="20" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#3B7D3A"/></marker>
+</defs>
+<rect x="0" y="0" width="1400" height="1476" fill="#FFFFFF"/>
+
+<path d="M700,222 L700,1300" stroke="#595959" stroke-width="2" stroke-dasharray="4 8" fill="none"/>
+<path d="M700,208 L700,262" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M169.0,236 L1225.0,236" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M169.0,236 L169.0,262" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M385.0,236 L385.0,262" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1015.0,236 L1015.0,262" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1225.0,236 L1225.0,262" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M169.0,374 L169.0,444" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M385.0,374 L385.0,444" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M508,374 L508,632.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M508,500.0 L522,500.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M508,632.0 L522,632.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M805.0,374 L805.0,444" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1015.0,374 L1015.0,444" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1138,374 L1138,764.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1138,500.0 L1152,500.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1138,632.0 L1152,632.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1138,764.0 L1152,764.0" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<rect x="64" y="1000" width="1260" height="300" rx="10" fill="#FFFFFF" stroke="#595959" stroke-width="2"/>
+<path d="M700,1096 L700,1286" stroke="#595959" stroke-width="2" stroke-dasharray="4 8"/>
+<path d="M169.0,1106 L169.0,564" fill="none" stroke="#C55A11" stroke-width="3" stroke-linejoin="round" stroke-dasharray="10 6" marker-end="url(#ah-orange)"/>
+<path d="M385.0,1106 L385.0,564" fill="none" stroke="#C55A11" stroke-width="3" stroke-linejoin="round" stroke-dasharray="10 6" marker-end="url(#ah-orange)"/>
+<path d="M1074,1166.0 L1238.0,1166.0 L1238.0,828" fill="none" stroke="#C55A11" stroke-width="3" stroke-linejoin="round" stroke-dasharray="10 6" marker-end="url(#ah-orange)"/>
+<text x="700.0" y="56" font-size="40" fill="#1F3864" text-anchor="middle" font-weight="bold">Two fronts at once: who does what</text>
+<text x="700.0" y="96" font-size="24" fill="#595959" text-anchor="middle" font-style="italic">Schematic - not to scale.  War on the LoC and the LAC at the same time.</text>
+<g><rect x="6" y="124" width="48" height="1176" rx="10" fill="#B03A2E"/><text x="39" y="712.0" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold" transform="rotate(-90 39 712.0)">PAKISTAN: LoC &amp; International Border</text></g>
+<g><rect x="1346" y="124" width="48" height="1176" rx="10" fill="#B03A2E"/><text x="1361" y="712.0" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold" transform="rotate(90 1361 712.0)">CHINA: LAC (Line of Actual Control)</text></g>
+<g>
+  <rect x="520" y="116" width="360" height="92" rx="10" fill="#1F3864" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="700.0" y="154" font-size="28" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Army HQ, New Delhi</text>
+  <text x="700.0" y="190" font-size="22" fill="#FFFFFF" text-anchor="middle">COAS - Chief of the Army Staff</text>
+</g>
+<text x="290" y="152" font-size="28" fill="#1F3864" text-anchor="middle" font-weight="bold">WESTERN FRONT</text>
+<text x="290" y="186" font-size="24" fill="#595959" text-anchor="middle">facing Pakistan</text>
+<text x="1110" y="152" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">NORTHERN &amp; EASTERN FRONT</text>
+<text x="1110" y="186" font-size="24" fill="#595959" text-anchor="middle">facing China</text>
+<g>
+  <rect x="64" y="262" width="210" height="112" rx="10" fill="#DCE3F0" stroke="#1F3864" stroke-width="3"/>
+  <text x="169.0" y="296" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">South Western</text>
+  <text x="169.0" y="326" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">Command</text>
+  <text x="169.0" y="358" font-size="22" fill="#1A1A1A" text-anchor="middle">Jaipur</text>
+</g>
+<g>
+  <rect x="286" y="262" width="198" height="112" rx="10" fill="#DCE3F0" stroke="#1F3864" stroke-width="3"/>
+  <text x="385.0" y="296" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">Western</text>
+  <text x="385.0" y="326" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">Command</text>
+  <text x="385.0" y="358" font-size="22" fill="#1A1A1A" text-anchor="middle">Chandimandir</text>
+</g>
+<g>
+  <rect x="496" y="262" width="408" height="112" rx="10" fill="#DCE3F0" stroke="#1F3864" stroke-width="3"/>
+  <text x="700.0" y="296" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">Northern Command</text>
+  <text x="700.0" y="326" font-size="22" fill="#1A1A1A" text-anchor="middle">Udhampur</text>
+  <text x="700.0" y="356" font-size="22" fill="#1A1A1A" text-anchor="middle">covers LoC (J&amp;K) and LAC (Ladakh)</text>
+</g>
+<g>
+  <rect x="916" y="262" width="198" height="112" rx="10" fill="#DCE3F0" stroke="#1F3864" stroke-width="3"/>
+  <text x="1015.0" y="296" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">Central</text>
+  <text x="1015.0" y="326" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">Command</text>
+  <text x="1015.0" y="358" font-size="22" fill="#1A1A1A" text-anchor="middle">Lucknow</text>
+</g>
+<g>
+  <rect x="1126" y="262" width="198" height="112" rx="10" fill="#DCE3F0" stroke="#1F3864" stroke-width="3"/>
+  <text x="1225.0" y="296" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">Eastern</text>
+  <text x="1225.0" y="326" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">Command</text>
+  <text x="1225.0" y="358" font-size="22" fill="#1A1A1A" text-anchor="middle">Kolkata</text>
+</g>
+<g>
+  <rect x="64" y="444" width="210" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="169.0" y="478" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">10 Corps</text>
+  <text x="169.0" y="508" font-size="22" fill="#FFFFFF" text-anchor="middle">Bathinda</text>
+  <text x="169.0" y="538" font-size="22" fill="#DCE3F0" text-anchor="middle">2-3 divisions</text>
+</g>
+<g>
+  <rect x="286" y="444" width="198" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="385.0" y="478" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">11 Corps</text>
+  <text x="385.0" y="508" font-size="22" fill="#FFFFFF" text-anchor="middle">Jalandhar</text>
+  <text x="385.0" y="538" font-size="22" fill="#DCE3F0" text-anchor="middle">2-3 divisions</text>
+</g>
+<g>
+  <rect x="522" y="444" width="172" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="608.0" y="478" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">15 Corps</text>
+  <text x="608.0" y="508" font-size="22" fill="#FFFFFF" text-anchor="middle">Srinagar</text>
+  <text x="608.0" y="538" font-size="22" fill="#DCE3F0" text-anchor="middle">2-3 divisions</text>
+</g>
+<g>
+  <rect x="522" y="576" width="172" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="608.0" y="610" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">16 Corps</text>
+  <text x="608.0" y="640" font-size="22" fill="#FFFFFF" text-anchor="middle">Nagrota</text>
+  <text x="608.0" y="670" font-size="22" fill="#DCE3F0" text-anchor="middle">2-3 divisions</text>
+</g>
+<g>
+  <rect x="706" y="444" width="198" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="805.0" y="478" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">14 Corps</text>
+  <text x="805.0" y="508" font-size="22" fill="#FFFFFF" text-anchor="middle">Leh, Ladakh</text>
+  <text x="805.0" y="538" font-size="22" fill="#DCE3F0" text-anchor="middle">2-3 divisions</text>
+</g>
+<g>
+  <rect x="916" y="444" width="198" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="1015.0" y="478" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">Central sector</text>
+  <text x="1015.0" y="508" font-size="22" fill="#FFFFFF" text-anchor="middle">Uttar Bharat Area</text>
+  <text x="1015.0" y="538" font-size="22" fill="#DCE3F0" text-anchor="middle">indep. brigades</text>
+</g>
+<g>
+  <rect x="1152" y="444" width="172" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="1238.0" y="478" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">33 Corps</text>
+  <text x="1238.0" y="508" font-size="22" fill="#FFFFFF" text-anchor="middle">Sikkim/N Bengal</text>
+  <text x="1238.0" y="538" font-size="22" fill="#DCE3F0" text-anchor="middle">2-3 divisions</text>
+</g>
+<g>
+  <rect x="1152" y="576" width="172" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="1238.0" y="610" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">4 Corps</text>
+  <text x="1238.0" y="640" font-size="22" fill="#FFFFFF" text-anchor="middle">Tezpur</text>
+  <text x="1238.0" y="670" font-size="22" fill="#DCE3F0" text-anchor="middle">2-3 divisions</text>
+</g>
+<g>
+  <rect x="1152" y="708" width="172" height="112" rx="10" fill="#2E5597" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="1238.0" y="742" font-size="26" fill="#FFFFFF" text-anchor="middle" font-weight="bold">3 Corps</text>
+  <text x="1238.0" y="772" font-size="22" fill="#FFFFFF" text-anchor="middle">Dimapur</text>
+  <text x="1238.0" y="802" font-size="22" fill="#DCE3F0" text-anchor="middle">2-3 divisions</text>
+</g>
+<path d="M783.0,642 L805.0,562 L827.0,642" fill="#FFFFFF" stroke="#2E5597" stroke-width="3" stroke-linejoin="round"/>
+<g><rect x="716" y="640" width="398" height="324" rx="10" fill="#FFFFFF" stroke="#2E5597" stroke-width="3"/><text x="915.0" y="678" font-size="24" fill="#1F3864" text-anchor="middle" font-weight="bold">Zoom: 14 Corps on the LAC</text><text x="736" y="712" font-size="22" fill="#1A1A1A" text-anchor="start">Mountain/Infantry divisions on</text><text x="736" y="740" font-size="22" fill="#1A1A1A" text-anchor="start">the LAC call up independent</text><text x="736" y="768" font-size="22" fill="#1A1A1A" text-anchor="start">brigades and reserve battalions</text><text x="736" y="796" font-size="22" fill="#1A1A1A" text-anchor="start">from the Corps.</text></g>
+<g>
+  <rect x="732" y="822" width="186" height="70" rx="10" fill="#FCE4D6" stroke="#C55A11" stroke-width="2.5" stroke-dasharray="10 6"/>
+  <text x="825.0" y="852" font-size="22" fill="#1F3864" text-anchor="middle" font-weight="bold">Indep. brigade</text>
+  <text x="825.0" y="880" font-size="22" fill="#1A1A1A" text-anchor="middle">corps reserve</text>
+</g>
+<g>
+  <rect x="978" y="822" width="120" height="70" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+  <text x="1038.0" y="852" font-size="22" fill="#1F3864" text-anchor="middle" font-weight="bold">Division</text>
+  <text x="1038.0" y="880" font-size="22" fill="#1A1A1A" text-anchor="middle">on the LAC</text>
+</g>
+<path d="M922,857 L974,857" fill="none" stroke="#C55A11" stroke-width="3" stroke-linejoin="round" stroke-dasharray="10 6" marker-end="url(#ah-orange)"/>
+<text x="915.0" y="926" font-size="22" fill="#C55A11" text-anchor="middle" font-weight="bold">Independent brigade moved forward</text>
+<text x="915.0" y="954" font-size="22" fill="#C55A11" text-anchor="middle" font-weight="bold">from corps reserve (dashed)</text>
+<g>
+  <rect x="398" y="740" width="284" height="208" rx="10" fill="#FFFFFF" stroke="#595959" stroke-width="2"/>
+  <text x="412" y="774" font-size="22" fill="#1A1A1A" text-anchor="start">Holding corps hold the</text>
+  <text x="412" y="802" font-size="22" fill="#1A1A1A" text-anchor="start">border and absorb the</text>
+  <text x="412" y="830" font-size="22" fill="#1A1A1A" text-anchor="start">first blow. Strike corps</text>
+  <text x="412" y="858" font-size="22" fill="#1A1A1A" text-anchor="start">wait in reserve until</text>
+  <text x="412" y="886" font-size="22" fill="#1A1A1A" text-anchor="start">Army HQ decides where</text>
+  <text x="412" y="914" font-size="22" fill="#1A1A1A" text-anchor="start">to launch them.</text>
+</g>
+<text x="760" y="1040" font-size="28" fill="#B03A2E" text-anchor="middle" font-weight="bold">STRIKE CORPS (held back)</text>
+<text x="760" y="1074" font-size="22" fill="#1A1A1A" text-anchor="middle" font-weight="bold">Reserve - launched only on orders of Army HQ / Command</text>
+<g><polygon points="96,1166.0 140,1110 280,1110 280,1222 140,1222" fill="#FFFFFF" stroke="#B03A2E" stroke-width="3" stroke-linejoin="round"/><text x="210.0" y="1156" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">1 Corps</text><text x="210.0" y="1190" font-size="22" fill="#1A1A1A" text-anchor="middle">Mathura</text></g>
+<g><polygon points="296,1166.0 340,1110 480,1110 480,1222 340,1222" fill="#FFFFFF" stroke="#B03A2E" stroke-width="3" stroke-linejoin="round"/><text x="410.0" y="1156" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">2 Corps</text><text x="410.0" y="1190" font-size="22" fill="#1A1A1A" text-anchor="middle">Ambala</text></g>
+<g><polygon points="496,1166.0 540,1110 680,1110 680,1222 540,1222" fill="#FFFFFF" stroke="#B03A2E" stroke-width="3" stroke-linejoin="round"/><text x="610.0" y="1156" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">21 Corps</text><text x="610.0" y="1190" font-size="22" fill="#1A1A1A" text-anchor="middle">Bhopal</text></g>
+<text x="388" y="1262" font-size="22" fill="#595959" text-anchor="middle" font-style="italic">Plains strike corps - aimed west at Pakistan</text>
+<g><polygon points="780,1110 1026,1110 1070,1166.0 1026,1222 780,1222" fill="#FFFFFF" stroke="#B03A2E" stroke-width="3" stroke-linejoin="round"/><text x="903.0" y="1146" font-size="26" fill="#1F3864" text-anchor="middle" font-weight="bold">17 Corps</text><text x="903.0" y="1176" font-size="22" fill="#1A1A1A" text-anchor="middle">Panagarh</text><text x="903.0" y="1204" font-size="22" fill="#1A1A1A" text-anchor="middle">mountain strike corps</text></g>
+<text x="1010" y="1262" font-size="22" fill="#595959" text-anchor="middle" font-style="italic">Aimed north-east at the LAC</text>
+<text x="277.0" y="760" font-size="22" fill="#C55A11" text-anchor="middle" font-weight="bold">sent forward</text>
+<text x="277.0" y="788" font-size="22" fill="#C55A11" text-anchor="middle" font-weight="bold">from reserve</text>
+<text x="1226.0" y="900" font-size="22" fill="#C55A11" text-anchor="end" font-weight="bold">sent</text>
+<text x="1226.0" y="928" font-size="22" fill="#C55A11" text-anchor="end" font-weight="bold">forward</text>
+<rect x="80" y="1328" width="40" height="28" rx="6" fill="#DCE3F0" stroke="#1F3864" stroke-width="3"/>
+<text x="132" y="1350" font-size="22" fill="#1A1A1A" text-anchor="start">Command</text>
+<rect x="300" y="1328" width="40" height="28" rx="6" fill="#2E5597" stroke="#1F3864" stroke-width="2"/>
+<text x="352" y="1350" font-size="22" fill="#1A1A1A" text-anchor="start">Holding corps (on the border)</text>
+<polygon points="720,1342 734,1328 760,1328 760,1356 734,1356" fill="#FFFFFF" stroke="#B03A2E" stroke-width="3"/>
+<text x="772" y="1350" font-size="22" fill="#1A1A1A" text-anchor="start">Strike corps (reserve)</text>
+<rect x="1060" y="1328" width="40" height="28" rx="6" fill="#B03A2E"/>
+<text x="1112" y="1350" font-size="22" fill="#1A1A1A" text-anchor="start">Enemy front</text>
+<path d="M80,1386 L150,1386" fill="none" stroke="#1F3864" stroke-width="3" stroke-linejoin="round"/>
+<text x="164" y="1394" font-size="22" fill="#1A1A1A" text-anchor="start">Solid line = under command</text>
+<path d="M560,1386 L640,1386" fill="none" stroke="#C55A11" stroke-width="3" stroke-linejoin="round" stroke-dasharray="10 6" marker-end="url(#ah-orange)"/>
+<text x="654" y="1394" font-size="22" fill="#1A1A1A" text-anchor="start">Dashed orange = sent forward from reserve / in support</text>
+<text x="700.0" y="1446" font-size="22" fill="#595959" text-anchor="middle" font-style="italic">(verify) Corps names and locations are as publicly reported and are revised from time to time.</text>
+</svg>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1250" viewBox="0 0 1400 1250" font-family="Arial, Helvetica, sans-serif">
+<title>The ladder of the Indian Army</title>
+<desc>Nine levels of the Indian Army from Army HQ down to the Section, with commander, rank, strength and composition.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 18 14" refX="10" refY="7" markerWidth="18" markerHeight="14" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L18,7 L0,14 z" fill="#1F3864"/></marker><marker id="ah-orange" viewBox="0 0 18 14" refX="10" refY="7" markerWidth="18" markerHeight="14" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L18,7 L0,14 z" fill="#C55A11"/></marker><marker id="ah-grey" viewBox="0 0 18 14" refX="10" refY="7" markerWidth="18" markerHeight="14" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L18,7 L0,14 z" fill="#595959"/></marker><marker id="ah-green" viewBox="0 0 18 14" refX="10" refY="7" markerWidth="18" markerHeight="14" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L18,7 L0,14 z" fill="#3B7D3A"/></marker><marker id="ah-blue" viewBox="0 0 18 14" refX="10" refY="7" markerWidth="18" markerHeight="14" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L18,7 L0,14 z" fill="#2E5597"/></marker></defs>
+<rect x="0" y="0" width="1400" height="1250" fill="#FFFFFF"/>
+<text x="700" y="66.0" font-size="40" font-weight="bold" fill="#1F3864" text-anchor="middle"><tspan x="700" dy="0.0">The ladder of the Indian Army</tspan></text>
+<rect x="466" y="104" width="44" height="28" rx="6" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+<text x="522" y="125.7" font-size="22" fill="#595959" text-anchor="start"><tspan x="522" dy="0.0">Formation</tspan></text>
+<rect x="661" y="104" width="44" height="28" rx="6" fill="#E2F0D9" stroke="#3B7D3A" stroke-width="2.5"/>
+<text x="717" y="125.7" font-size="22" fill="#595959" text-anchor="start"><tspan x="717" dy="0.0">Unit</tspan></text>
+<rect x="796" y="104" width="44" height="28" rx="6" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+<text x="852" y="125.7" font-size="22" fill="#595959" text-anchor="start"><tspan x="852" dy="0.0">Sub-unit</tspan></text>
+<line x1="339" y1="158" x2="401.4" y2="158.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<text x="421" y="165.7" font-size="22" fill="#595959" text-anchor="start"><tspan x="421" dy="0.0">owns / under command</tspan></text>
+<line x1="690" y1="158" x2="752.0" y2="158.0" stroke="#C55A11" stroke-width="3" stroke-dasharray="10 6" marker-end="url(#ah-orange)"/>
+<text x="772" y="165.7" font-size="22" fill="#595959" text-anchor="start"><tspan x="772" dy="0.0">attached / allotted / in support</tspan></text>
+<text x="62" y="222.0" font-size="22" font-weight="bold" fill="#595959" text-anchor="start"><tspan x="62" dy="0.0">Level</tspan></text>
+<text x="352" y="222.0" font-size="22" font-weight="bold" fill="#595959" text-anchor="start"><tspan x="352" dy="0.0">Commanded by</tspan></text>
+<text x="612" y="222.0" font-size="22" font-weight="bold" fill="#595959" text-anchor="start"><tspan x="612" dy="0.0">Strength (approx.)</tspan></text>
+<text x="862" y="222.0" font-size="22" font-weight="bold" fill="#595959" text-anchor="start"><tspan x="862" dy="0.0">Made of</tspan></text>
+<g>
+<rect x="40" y="244" width="1060" height="78" rx="10" fill="#FFFFFF" stroke="#1F3864" stroke-width="3"/>
+<text x="62" y="292.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Army HQ</tspan></text>
+<text x="352" y="277.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">COAS</tspan><tspan x="352" dy="26.4">General</tspan></text>
+<text x="612" y="277.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">Whole Army,</tspan><tspan x="612" dy="26.4">New Delhi</tspan></text>
+<text x="862" y="291.1" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">7 commands</tspan></text>
+</g>
+<g>
+<rect x="40" y="350" width="1060" height="78" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+<text x="62" y="398.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Command</tspan></text>
+<text x="352" y="383.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">GOC-in-C</tspan><tspan x="352" dy="26.4">Lt Gen</tspan></text>
+<text x="612" y="397.1" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">7 commands</tspan></text>
+<text x="862" y="383.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">Corps</tspan><tspan x="862" dy="26.4">(14 in all)</tspan></text>
+</g>
+<g>
+<rect x="40" y="456" width="1060" height="78" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+<text x="62" y="504.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Corps</tspan></text>
+<text x="352" y="489.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">GOC</tspan><tspan x="352" dy="26.4">Lt Gen</tspan></text>
+<text x="612" y="503.1" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">14 corps</tspan></text>
+<text x="862" y="489.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">2-3 divisions</tspan><tspan x="862" dy="26.4">+ corps troops</tspan></text>
+</g>
+<g>
+<rect x="40" y="562" width="1060" height="78" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+<text x="62" y="610.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Division</tspan></text>
+<text x="352" y="595.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">GOC</tspan><tspan x="352" dy="26.4">Maj Gen</tspan></text>
+<text x="612" y="609.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">about 15,000</tspan></text>
+<text x="862" y="595.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">3-4 brigades</tspan><tspan x="862" dy="26.4">+ div troops</tspan></text>
+</g>
+<g>
+<rect x="40" y="668" width="1060" height="78" rx="10" fill="#DCE3F0" stroke="#2E5597" stroke-width="2.5"/>
+<text x="62" y="716.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Brigade</tspan></text>
+<text x="352" y="715.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">Brigadier</tspan></text>
+<text x="612" y="701.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">about</tspan><tspan x="612" dy="26.4">3,000-3,500</tspan></text>
+<text x="862" y="715.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">3 battalions</tspan></text>
+</g>
+<g>
+<rect x="40" y="774" width="1060" height="78" rx="10" fill="#E2F0D9" stroke="#3B7D3A" stroke-width="2.5"/>
+<text x="62" y="822.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Battalion / Regiment</tspan></text>
+<text x="352" y="807.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">CO</tspan><tspan x="352" dy="26.4">Colonel</tspan></text>
+<text x="612" y="821.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">about 800-900</tspan></text>
+<text x="862" y="807.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">4 rifle coys</tspan><tspan x="862" dy="26.4">+ HQ / Sp coy</tspan></text>
+</g>
+<g>
+<rect x="40" y="880" width="1060" height="78" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+<text x="62" y="913.8" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Company /</tspan><tspan x="62" dy="28.6">Squadron / Battery</tspan></text>
+<text x="352" y="927.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">Major</tspan></text>
+<text x="612" y="927.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">about 100-120</tspan></text>
+<text x="862" y="927.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">3 platoons</tspan></text>
+</g>
+<g>
+<rect x="40" y="986" width="1060" height="78" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+<text x="62" y="1034.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Platoon / Troop</tspan></text>
+<text x="352" y="1019.8" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">Lt / Capt</tspan><tspan x="352" dy="26.4">(or JCO)</tspan></text>
+<text x="612" y="1033.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">about 30-35</tspan></text>
+<text x="862" y="1033.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">3 sections</tspan></text>
+</g>
+<g>
+<rect x="40" y="1092" width="1060" height="78" rx="10" fill="#FFF2CC" stroke="#C98A00" stroke-width="2.5"/>
+<text x="62" y="1140.1" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="62" dy="0.0">Section</tspan></text>
+<text x="352" y="1139.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="352" dy="0.0">Havildar / Naik</tspan></text>
+<text x="612" y="1139.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="612" dy="0.0">about 10</tspan></text>
+<text x="862" y="1139.0" font-size="23" fill="#262626" text-anchor="start"><tspan x="862" dy="0.0">smallest team</tspan></text>
+</g>
+<line x1="190" y1="324" x2="190.0" y2="341.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<line x1="190" y1="430" x2="190.0" y2="447.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<line x1="190" y1="536" x2="190.0" y2="553.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<line x1="190" y1="642" x2="190.0" y2="659.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<line x1="190" y1="748" x2="190.0" y2="765.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<line x1="190" y1="854" x2="190.0" y2="871.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<line x1="190" y1="960" x2="190.0" y2="977.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<line x1="190" y1="1066" x2="190.0" y2="1083.0" stroke="#1F3864" stroke-width="3" marker-end="url(#ah-navy)"/>
+<path d="M1130,248 H1148 V318 H1130" fill="none" stroke="#1F3864" stroke-width="3"/>
+<text x="1164" y="277.2" font-size="26" font-weight="bold" fill="#1F3864" text-anchor="start"><tspan x="1164" dy="0.0">TOP</tspan><tspan x="1164" dy="29.9">HQ</tspan></text>
+<path d="M1130,354 H1148 V742 H1130" fill="none" stroke="#2E5597" stroke-width="3"/>
+<text x="1164" y="557.1" font-size="26" font-weight="bold" fill="#2E5597" text-anchor="start"><tspan x="1164" dy="0.0">FORMATIONS</tspan></text>
+<path d="M1130,778 H1148 V848 H1130" fill="none" stroke="#3B7D3A" stroke-width="3"/>
+<text x="1164" y="822.1" font-size="26" font-weight="bold" fill="#3B7D3A" text-anchor="start"><tspan x="1164" dy="0.0">UNIT</tspan></text>
+<path d="M1130,884 H1148 V1166 H1130" fill="none" stroke="#C98A00" stroke-width="3"/>
+<text x="1164" y="1034.1" font-size="26" font-weight="bold" fill="#C98A00" text-anchor="start"><tspan x="1164" dy="0.0">SUB-UNITS</tspan></text>
+<text x="1164" y="588.0" font-size="22" fill="#595959" text-anchor="start"><tspan x="1164" dy="0.0">all arms</tspan><tspan x="1164" dy="26.8">together</tspan></text>
+<text x="1164" y="1065.0" font-size="22" fill="#595959" text-anchor="start"><tspan x="1164" dy="0.0">parts of</tspan><tspan x="1164" dy="26.8">a unit</tspan></text>
+<text x="700" y="1220.0" font-size="22" font-style="italic" fill="#595959" text-anchor="middle"><tspan x="700" dy="0.0">Strengths are approximate and indicative; they vary by arm, role and terrain.</tspan></text>
+</svg>
